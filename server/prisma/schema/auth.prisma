@@ -1,0 +1,116 @@
+// --- USER & AUTHENTICATION ---
+
+model User {
+    id                String             @id @default(cuid())
+    email             String             @unique
+    name              String?
+    googleId          String?            @unique
+    consents          UserConsent[]
+    sessions          Session[]
+    topics            Topic[]
+    roles             UserRole[]
+    quotas            UserQuota[]
+    texts             Text[]
+
+    existent  DateTime? @default(now())
+    createdAt DateTime  @default(now())
+    updatedAt DateTime  @updatedAt
+}
+
+model Role {
+    id          String     @id @default(cuid())
+    name        String     @unique // "ADMIN", "MODERATOR", "USER"
+    description String?    @db.Text
+    users       UserRole[]
+
+    existent  DateTime? @default(now())
+    createdAt DateTime  @default(now())
+    updatedAt DateTime  @updatedAt
+}
+
+model UserRole {
+    userId String
+    user   User   @relation(fields: [userId], references: [id], onDelete: Cascade)
+    roleId String
+    role   Role   @relation(fields: [roleId], references: [id], onDelete: Cascade)
+
+    existent DateTime? @default(now())
+
+    @@id([userId, roleId])
+}
+
+model UserQuota {
+    id      String   @id @default(cuid())
+    userId  String
+    user    User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+    type    String // e.g., "ANALYSIS_PER_DAY", "TOKEN_LIMIT"
+    limit   Int
+    usage   Int      @default(0)
+    resetAt DateTime
+
+    existent  DateTime? @default(now())
+    createdAt DateTime  @default(now())
+    updatedAt DateTime  @updatedAt
+
+    @@unique([userId, type])
+}
+
+model Session {
+    id        String        @id @default(cuid())
+    userId    String
+    user      User          @relation(fields: [userId], references: [id], onDelete: Cascade)
+    token     String        @unique
+    expiresAt DateTime
+
+    existent  DateTime? @default(now())
+    createdAt DateTime  @default(now())
+
+    consents UserConsent[]
+}
+
+model UserConsent {
+    id      String             @id @default(cuid())
+    userId  String
+    user    User               @relation(fields: [userId], references: [id], onDelete: Cascade)
+    termsId String
+    terms   TermsAndConditions @relation(fields: [termsId], references: [id])
+
+    // Flexible Entity Link (similar to AuditLog)
+    entityType String?
+    entityId   String?
+
+    sessionId String?
+    session   Session? @relation(fields: [sessionId], references: [id])
+
+    // Granular consent types
+    consentType String @default("GENERAL") // "GENERAL", "AI_PROCESSING", "THIRD_PARTY_DISCLOSURE", "PUBLISHING", "TOPIC_CREATION", "TEXT_CREATION", "COPYRIGHT_ACK"
+    consentDate      DateTime @default(now())
+
+    existent DateTime? @default(now())
+
+    @@index([userId])
+    @@index([termsId])
+    @@index([entityId, entityType])
+}
+
+model TermsAndConditions {
+    id       String        @id @default(cuid())
+    version  String        @unique
+    content  String        @db.Text
+    isActive Boolean       @default(true)
+    consents UserConsent[]
+
+    existent  DateTime? @default(now())
+    createdAt DateTime  @default(now())
+    updatedAt DateTime  @updatedAt
+}
+
+model AuditLog {
+    id         String   @id @default(cuid())
+    entityType String
+    entityId   String
+    action     String
+    userId     String?
+    metadata   Json?
+    timestamp  DateTime @default(now())
+}

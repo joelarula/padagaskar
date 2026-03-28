@@ -1,0 +1,149 @@
+// --- CORE TOPIC & TEXT ---
+
+model Topic {
+    id     String @id @default(cuid())
+    title  String @db.VarChar(255)
+    userId String
+    user   User   @relation(fields: [userId], references: [id])
+
+    language String? @default("et") // "et", "en", etc.
+
+    description String? @db.Text
+    summary     String? @db.Text
+
+    texts           Text[]           @relation("TopicTexts")
+    analyzeRequests AnalyzeRequest[]
+    attachments     Attachment[]
+    tags            Tag[]
+
+    isPublished Boolean @default(false)
+    permalink   String? @unique
+
+    existent  DateTime? @default(now())
+    createdAt DateTime  @default(now())
+    updatedAt DateTime  @updatedAt
+}
+
+model Text {
+    id       String  @id @default(cuid())
+    content  String  @db.Text
+    language String? @default("et")
+
+    topics Topic[] @relation("TopicTexts")
+
+    userId String
+    user   User   @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+    sources Source[]
+
+    // RAG Chunks
+    chunks Chunk[]
+
+    tags Tag[]
+
+    // Relationship to Report (if this text is a response)
+    report Report? @relation("ReportContent")
+
+    // Relationship to TextFeature (if this text is a feature description)
+    featureDesc TextFeature? @relation("FeatureDescription")
+
+    // Relationship to Specimen (if this text is an explanation/refutation)
+    specimenExplanation Specimen? @relation("SpecimenExplanation")
+
+    // Textual Specimens
+    specimens Specimen[]
+
+    existent  DateTime? @default(now())
+    createdAt DateTime  @default(now())
+    updatedAt DateTime  @updatedAt
+}
+
+model Chunk {
+    id     String @id @default(cuid())
+    textId String
+    text   Text   @relation(fields: [textId], references: [id], onDelete: Cascade)
+
+    content        String @db.Text
+    selectionStart Int?
+    selectionEnd   Int?
+
+    // The embedding model used
+    aiModelId String
+    aiModel   AIModel @relation(fields: [aiModelId], references: [id])
+
+    // Model-specific vector columns for flexibility and evaluation
+    bge_base_en_v1_5   Unsupported("vector(768)")?
+    all_minilm_l6_v2   Unsupported("vector(384)")?
+    text_embedding_3_small Unsupported("vector(1536)")?
+
+    existent  DateTime? @default(now())
+    createdAt DateTime  @default(now())
+
+    @@index([textId])
+    @@index([aiModelId])
+}
+
+model AIModel {
+    id       String  @id @default(cuid())
+    name     String  @unique // e.g., "gpt-4o", "text-embedding-3-small"
+    provider String // e.g., "OpenAI", "Google"
+    version  String?
+    type     String  @default("GENERATIVE") // "GENERATIVE", "EMBEDDING"
+
+    reports        Report[]
+    chunks         Chunk[]
+    promptVersions PromptVersion[]
+
+    existent  DateTime? @default(now())
+    createdAt DateTime  @default(now())
+}
+
+model Source {
+    id          String  @id @default(cuid())
+    url         String? @db.VarChar(2560)
+    title       String? @db.VarChar(255)
+    description String? @db.Text
+
+    type             String @default("WEB") // WEB, BOOK, DOCUMENT, SOCIAL_MEDIA, LINK, ATTACHMENT
+    reliabilityScore Float? @default(1.0) // 0.0 to 1.0 (internal meta-data)
+
+    textId String?
+    text   Text?   @relation(fields: [textId], references: [id], onDelete: Cascade)
+
+    attachments Attachment[]
+
+    existent  DateTime? @default(now())
+    createdAt DateTime  @default(now())
+}
+
+model Attachment {
+    id       String @id @default(cuid())
+    filename String
+    mimetype String
+    url      String // Storage URL (S3/local)
+    size     Int
+
+    topicId  String?
+    topic    Topic?  @relation(fields: [topicId], references: [id])
+    sourceId String?
+    source   Source? @relation(fields: [sourceId], references: [id])
+
+    existent  DateTime? @default(now())
+    createdAt DateTime  @default(now())
+}
+
+model Tag {
+    id      String   @id @default(cuid())
+    name    String
+    value   String?
+    topics  Topic[]
+    reports Report[]
+    texts   Text[]
+
+    isPublished Boolean @default(false)
+    permalink   String? @unique
+
+    existent DateTime? @default(now())
+
+    @@unique([name, value])
+}

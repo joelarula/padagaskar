@@ -1,5 +1,7 @@
 import express from 'express';
 import { ApolloServer } from '@apollo/server';
+import { expressMiddleware } from '@apollo/server/express4';
+import { ApolloServerPluginLandingPageLocalDefault } from '@apollo/server/plugin/landingPage/default';
 import cors from 'cors';
 import bodyParser from 'body-parser';
 import cookieParser from 'cookie-parser';
@@ -26,42 +28,38 @@ async function startServer() {
     const server = new ApolloServer({
         typeDefs,
         resolvers,
+        plugins: [
+            ApolloServerPluginLandingPageLocalDefault({ footer: false }),
+        ],
     });
 
     await server.start();
 
-    // Middlewares
+    // Global Middlewares
     app.use(cors());
-    app.use(express.json({ limit: '50mb' }));
-    app.use(express.urlencoded({ limit: '50mb', extended: true }));
     app.use(cookieParser());
 
     // Setup Auth
     setupAuth(app as any, prisma);
 
-    // GraphQL middleware with manual execution (Curator pattern)
-    app.post('/graphql', bodyParser.json(), async (req, res) => {
-        const token = req.headers.authorization?.replace('Bearer ', '');
-        const user = await getUserFromToken(token || '', prisma);
-        const contextValue = { user, prisma };
-
-        try {
-            const response = await server.executeOperation({
-                query: req.body.query,
-                variables: req.body.variables,
-                operationName: req.body.operationName
-            }, { contextValue });
-
-            if (response.body.kind === 'single') {
-                res.json(response.body.singleResult);
-            } else {
-                res.json(response.body);
+    // GraphQL middleware
+    app.use('/graphql',
+        express.json({ limit: '50mb' }),
+        (req, res, next) => {
+            // Apollo Server 4 expressMiddleware requires req.body to be set
+            if (req.body === undefined) req.body = {};
+            next();
+        },
+        expressMiddleware(server, {
+            context: async ({ req }) => {
+                const token = req.headers.authorization?.replace('Bearer ', '') 
+                    || (req.query?.token as string)
+                    || '';
+                const user = await getUserFromToken(token, prisma);
+                return { user, prisma };
             }
-        } catch (error) {
-            console.error('GraphQL execution error:', error);
-            res.status(500).json({ error: 'Internal server error' });
-        }
-    });
+        })
+    );
 
     app.listen(PORT, () => {
         console.log(`🚀 Server ready at http://localhost:${PORT}`);

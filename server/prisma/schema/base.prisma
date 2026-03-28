@@ -1,0 +1,14 @@
+generator client {
+    provider        = "prisma-client-js"
+    previewFeatures = ["postgresqlExtensions"]
+}
+
+generator erd {
+    provider = "prisma-erd-generator"
+    output   = "../ERD.svg"
+}
+
+datasource db {
+    provider   = "postgresql"
+    extensions = [vector]
+}

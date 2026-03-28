@@ -1,0 +1,140 @@
+// --- ANALYSIS & REPORTS ---
+
+model PromptTemplate {
+    id          String          @id @default(cuid())
+    name        String          @unique // e.g., "RHETORIC_ANALYSIS_V1"
+    description String?
+    versions    PromptVersion[]
+
+    existent  DateTime? @default(now())
+    createdAt DateTime  @default(now())
+}
+
+model PromptVersion {
+    id         String         @id @default(cuid())
+    templateId String
+    template   PromptTemplate @relation(fields: [templateId], references: [id])
+    version    Int
+    content    String         @db.Text // The actual system instructions
+
+    // Optimized for a specific model
+    optimizedForModelId String?
+    optimizedForModel   AIModel? @relation(fields: [optimizedForModelId], references: [id])
+
+    requests AnalyzeRequest[]
+
+    existent  DateTime? @default(now())
+    createdAt DateTime  @default(now())
+}
+
+model AnalyzeRequest {
+    id      String @id @default(cuid())
+    topicId String
+    topic   Topic  @relation(fields: [topicId], references: [id], onDelete: Cascade)
+
+    // Tracking the prompt used
+    promptVersionId String?
+    promptVersion   PromptVersion? @relation(fields: [promptVersionId], references: [id])
+
+    status String  @default("PENDING") // PENDING, FETCHING, CHUNKING, EMBEDDING, PROCESSING, COMPLETED, FAILED
+    report Report?
+
+    existent  DateTime? @default(now())
+    createdAt DateTime  @default(now())
+}
+
+model Report {
+    id        String         @id @default(cuid())
+    requestId String         @unique
+    request   AnalyzeRequest @relation(fields: [requestId], references: [id], onDelete: Cascade)
+
+    textId String @unique
+    text   Text   @relation("ReportContent", fields: [textId], references: [id], onDelete: Cascade)
+
+    aiModelId         String
+    aiModel           AIModel @relation(fields: [aiModelId], references: [id])
+    isAiGenerated     Boolean @default(true)
+    transparencyLabel String?
+
+    metrics AnalysisMetric[]
+
+    resultJson  Json // Raw structured data from agent
+    isPublished Boolean @default(false)
+    permalink   String? @unique
+    tags        Tag[]
+
+    existent  DateTime? @default(now())
+    createdAt DateTime  @default(now())
+    updatedAt DateTime  @updatedAt
+}
+
+model AnalysisMetric {
+    id       String  @id @default(cuid())
+    reportId String?
+    report   Report? @relation(fields: [reportId], references: [id], onDelete: Cascade)
+
+    specimenId String?
+    specimen   Specimen? @relation(fields: [specimenId], references: [id], onDelete: Cascade)
+
+    name  String // e.g., "Ethics Index", "Bias Score", "Sentiment"
+    value Float // e.g., 0.85
+
+    justification String
+
+    existent  DateTime? @default(now())
+    createdAt DateTime  @default(now())
+}
+
+// --- TEXTUAL FEATURES & CATEGORIES ---
+
+model Category {
+    id          String  @id @default(cuid())
+    name        String  @unique
+    description String? @db.Text
+
+    parentId String?
+    parent   Category?  @relation("CategoryHierarchy", fields: [parentId], references: [id])
+    children Category[] @relation("CategoryHierarchy")
+
+    features TextFeature[]
+
+    existent  DateTime? @default(now())
+    createdAt DateTime  @default(now())
+    updatedAt DateTime  @updatedAt
+}
+
+model TextFeature {
+    id   String @id @default(cuid())
+    name String @unique
+
+    textId String @unique
+    text   Text   @relation("FeatureDescription", fields: [textId], references: [id], onDelete: Cascade)
+
+    categoryId String
+    category   Category @relation(fields: [categoryId], references: [id])
+
+    specimens Specimen[]
+
+    existent  DateTime? @default(now())
+    createdAt DateTime  @default(now())
+    updatedAt DateTime  @updatedAt
+}
+
+model Specimen {
+    id        String      @id @default(cuid())
+    featureId String
+    feature   TextFeature @relation(fields: [featureId], references: [id])
+    textId    String
+    text      Text        @relation(fields: [textId], references: [id], onDelete: Cascade)
+
+    startOffset Int?
+    endOffset   Int?
+
+    explanationTextId String? @unique
+    explanationText   Text?   @relation("SpecimenExplanation", fields: [explanationTextId], references: [id])
+
+    metrics AnalysisMetric[]
+
+    existent  DateTime? @default(now())
+    createdAt DateTime  @default(now())
+}
