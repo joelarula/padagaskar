@@ -112,14 +112,14 @@ export const coreResolvers = {
             await context.prisma.text.delete({ where: { id, userId: context.user.id } });
             return true;
         },
-        publishText: async (_parent: any, { id, publish }: any, context: any) => {
-            if (!context.user) throw new Error('Unauthorized');
-            return await context.prisma.text.update({
-                where: { id, userId: context.user.id },
-                data: { report: { update: { isPublished: publish, permalink: publish ? `report-${id}` : null } } },
-                include: { report: true }
-            });
-        },
+        // publishText: async (_parent: any, { id, publish }: any, context: any) => {
+        //     if (!context.user) throw new Error('Unauthorized');
+        //     return await context.prisma.text.update({
+        //         where: { id, userId: context.user.id },
+        //         data: { report: { update: { isPublished: publish, permalink: publish ? `report-${id}` : null } } },
+        //         include: { report: true }
+        //     });
+        // },
 
         // --- SOURCE CRUD ---
         addSource: async (_parent: any, { targetId, targetType, input }: any, context: any) => {
