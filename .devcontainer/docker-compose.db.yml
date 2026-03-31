@@ -1,0 +1,26 @@
+services:
+  db:
+    image: ankane/pgvector:latest
+    container_name: padagaskar-db
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_DB: padagaskar
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U user -d padagaskar"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - padagaskar
+
+networks:
+  padagaskar:
+    name: padagaskar_network
+
+volumes:
+  pgdata:
