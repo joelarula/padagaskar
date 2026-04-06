@@ -19,7 +19,7 @@ model Topic {
     isPublished Boolean @default(false)
     permalink   String? @unique
 
-    existent  DateTime? @default(now())
+    existent  Boolean? @default(true)
     createdAt DateTime  @default(now())
     updatedAt DateTime  @updatedAt
 }
@@ -28,6 +28,9 @@ model Text {
     id       String  @id @default(cuid())
     content  String  @db.Text
     language String? @default("et")
+
+    summary  String? @db.Text
+    isPublished Boolean @default(false)
 
     topics Topic[] @relation("TopicTexts")
 
@@ -44,6 +47,12 @@ model Text {
     // Relationship to Report (if this text is a response)
     report Report? @relation("ReportContent")
 
+    // AI Metadata (for summary)
+    aiModelId String?
+    aiModel   AIModel? @relation(fields: [aiModelId], references: [id])
+    promptVersionId String?
+    promptVersion   PromptVersion? @relation(fields: [promptVersionId], references: [id])
+
     // Relationship to TextFeature (if this text is a feature description)
     featureDesc TextFeature? @relation("FeatureDescription")
 
@@ -53,7 +62,7 @@ model Text {
     // Textual Specimens
     specimens Specimen[]
 
-    existent  DateTime? @default(now())
+    existent  Boolean? @default(true)
     createdAt DateTime  @default(now())
     updatedAt DateTime  @updatedAt
 }
@@ -76,7 +85,7 @@ model Chunk {
     all_minilm_l6_v2   Unsupported("vector(384)")?
     text_embedding_3_small Unsupported("vector(1536)")?
 
-    existent  DateTime? @default(now())
+    existent  Boolean? @default(true)
     createdAt DateTime  @default(now())
 
     @@index([textId])
@@ -93,8 +102,9 @@ model AIModel {
     reports        Report[]
     chunks         Chunk[]
     promptVersions PromptVersion[]
+    texts          Text[]
 
-    existent  DateTime? @default(now())
+    existent  Boolean? @default(true)
     createdAt DateTime  @default(now())
 }
 
@@ -107,12 +117,17 @@ model Source {
     type             String @default("WEB") // WEB, BOOK, DOCUMENT, SOCIAL_MEDIA, LINK, ATTACHMENT
     reliabilityScore Float? @default(1.0) // 0.0 to 1.0 (internal meta-data)
 
+    isPublished Boolean @default(false)
+
     textId String?
     text   Text?   @relation(fields: [textId], references: [id], onDelete: Cascade)
 
+    featureId String?
+    feature   TextFeature? @relation(fields: [featureId], references: [id])
+
     attachments Attachment[]
 
-    existent  DateTime? @default(now())
+    existent  Boolean? @default(true)
     createdAt DateTime  @default(now())
 }
 
@@ -128,7 +143,7 @@ model Attachment {
     sourceId String?
     source   Source? @relation(fields: [sourceId], references: [id])
 
-    existent  DateTime? @default(now())
+    existent  Boolean? @default(true)
     createdAt DateTime  @default(now())
 }
 
@@ -143,7 +158,10 @@ model Tag {
     isPublished Boolean @default(false)
     permalink   String? @unique
 
-    existent DateTime? @default(now())
+    existent Boolean? @default(true)
 
     @@unique([name, value])
+    @@index([name])
+    @@index([value])
+    textFeatures TextFeature[]
 }

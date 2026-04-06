@@ -12,7 +12,7 @@ model User {
     quotas            UserQuota[]
     texts             Text[]
 
-    existent  DateTime? @default(now())
+    existent  Boolean? @default(true)
     createdAt DateTime  @default(now())
     updatedAt DateTime  @updatedAt
 }
@@ -23,7 +23,7 @@ model Role {
     description String?    @db.Text
     users       UserRole[]
 
-    existent  DateTime? @default(now())
+    existent  Boolean? @default(true)
     createdAt DateTime  @default(now())
     updatedAt DateTime  @updatedAt
 }
@@ -34,7 +34,7 @@ model UserRole {
     roleId String
     role   Role   @relation(fields: [roleId], references: [id], onDelete: Cascade)
 
-    existent DateTime? @default(now())
+    existent Boolean? @default(true)
 
     @@id([userId, roleId])
 }
@@ -48,7 +48,7 @@ model UserQuota {
     usage   Int      @default(0)
     resetAt DateTime
 
-    existent  DateTime? @default(now())
+    existent  Boolean? @default(true)
     createdAt DateTime  @default(now())
     updatedAt DateTime  @updatedAt
 
@@ -62,7 +62,7 @@ model Session {
     token     String        @unique
     expiresAt DateTime
 
-    existent  DateTime? @default(now())
+    existent  Boolean? @default(true)
     createdAt DateTime  @default(now())
 
     consents UserConsent[]
@@ -86,7 +86,7 @@ model UserConsent {
     consentType String @default("GENERAL") // "GENERAL", "AI_PROCESSING", "THIRD_PARTY_DISCLOSURE", "PUBLISHING", "TOPIC_CREATION", "TEXT_CREATION", "COPYRIGHT_ACK"
     consentDate      DateTime @default(now())
 
-    existent DateTime? @default(now())
+    existent Boolean? @default(true)
 
     @@index([userId])
     @@index([termsId])
@@ -100,7 +100,7 @@ model TermsAndConditions {
     isActive Boolean       @default(true)
     consents UserConsent[]
 
-    existent  DateTime? @default(now())
+    existent  Boolean? @default(true)
     createdAt DateTime  @default(now())
     updatedAt DateTime  @updatedAt
 }

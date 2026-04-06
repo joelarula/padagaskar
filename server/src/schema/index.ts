@@ -24,16 +24,29 @@ export const typeDefs = gql`
     updatedAt: String!
   }
 
+  type TopicConnection {
+    items: [Topic!]!
+    totalCount: Int!
+  }
+
   type Text {
     id: ID!
     content: String!
+    summary: String
     language: String
     sources: [Source!]!
     specimens: [Specimen!]!
     tags: [Tag!]!
     report: Report
+    aiModel: AIModel
+    promptVersion: PromptVersion
     createdAt: String!
     updatedAt: String!
+  }
+
+  type TextConnection {
+    items: [Text!]!
+    totalCount: Int!
   }
 
   type Source {
@@ -52,6 +65,26 @@ export const typeDefs = gql`
     createdAt: String!
   }
 
+  type AIModel {
+    id: ID!
+    name: String!
+    provider: String!
+    type: String!
+  }
+
+  type PromptVersion {
+    id: ID!
+    version: Int!
+    content: String!
+    template: PromptTemplate!
+  }
+
+  type PromptTemplate {
+    id: ID!
+    name: String!
+    description: String
+  }
+
   type Report {
     id: ID!
     request: AnalyzeRequest!
@@ -68,17 +101,23 @@ export const typeDefs = gql`
     justification: String!
   }
 
-  type Category {
+  type TextFeature {
     id: ID!
     name: String!
-    description: String
-    parent: Category
-    children: [Category!]!
+    text: Text!
+    tags: [Tag!]!
+    createdAt: String!
+    updatedAt: String!
+  }
+
+  type TextFeatureConnection {
+    items: [TextFeature!]!
+    totalCount: Int!
   }
 
   type Specimen {
     id: ID!
-    category: Category!
+    feature: TextFeature!
     text: Text!
     startOffset: Int
     endOffset: Int
@@ -113,24 +152,55 @@ export const typeDefs = gql`
     value: String
   }
 
+  input TextFilterInput {
+    search: String
+    tags: [TagInput!]
+    startDate: String
+    endDate: String
+  }
+
+  input TopicFilterInput {
+    search: String
+    tags: [TagInput!]
+    startDate: String
+    endDate: String
+  }
+
+  input TextFeatureFilterInput {
+    search: String
+    tags: [TagInput!]
+  }
+
   type Query {
     me: User
-    topics: [Topic!]!
+    topics(filter: TopicFilterInput, skip: Int, take: Int): TopicConnection!
     topic(id: ID!): Topic
+    textFeatures(filter: TextFeatureFilterInput, skip: Int, take: Int): TextFeatureConnection!
+    textFeature(id: ID!): TextFeature
     reports: [Report!]!
     report(id: ID!): Report
+    texts(filter: TextFilterInput, skip: Int, take: Int): TextConnection!
+    text(id: ID!): Text
+    textsByTags(tags: [TagInput!]!): [Text!]!
+    tags: [Tag!]!
   }
 
   type Mutation {
     # Topic CRUD
-    createTopic(title: String!, description: String, language: String): Topic!
-    updateTopic(id: ID!, title: String, description: String, summary: String, language: String): Topic!
+    createTopic(title: String!, description: String, language: String, tags: [TagInput!]): Topic!
+    updateTopic(id: ID!, title: String, description: String, summary: String, language: String, tags: [TagInput!]): Topic!
     deleteTopic(id: ID!): Boolean!
     publishTopic(id: ID!, publish: Boolean!): Topic!
 
+    # TextFeature CRUD
+    createTextFeature(name: String!, textId: ID, tags: [TagInput!]): TextFeature!
+    updateTextFeature(id: ID!, name: String, tags: [TagInput!]): TextFeature!
+    deleteTextFeature(id: ID!): Boolean!
+
     # Text CRUD
-    createText(content: String!, language: String, sources: [SourceInput!]): Text!
-    updateText(id: ID!, content: String, language: String): Text!
+    createText(content: String!, language: String, topicId: ID, sources: [SourceInput!], tags: [TagInput!]): Text!
+    createTextFromUrl(url: String!, topicId: ID, tags: [TagInput!]): Text!
+    updateText(id: ID!, content: String, summary: String, language: String, tags: [TagInput!]): Text!
     deleteText(id: ID!): Boolean!
 
     # Text-Topic linking
