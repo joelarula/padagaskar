@@ -7,10 +7,11 @@ model User {
     googleId          String?            @unique
     consents          UserConsent[]
     sessions          Session[]
-    topics            Topic[]
     roles             UserRole[]
     quotas            UserQuota[]
     texts             Text[]
+    feeds             Feed[]
+    sources           Source[]
 
     existent  Boolean? @default(true)
     createdAt DateTime  @default(now())

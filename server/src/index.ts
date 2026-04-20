@@ -12,6 +12,7 @@ import { PrismaPg } from '@prisma/adapter-pg';
 import pkg from 'pg';
 const { Pool } = pkg;
 import { setupAuth, getUserFromToken } from './auth/index.js';
+import { WikiService } from './services/WikiService.js';
 import dotenv from 'dotenv';
 
 dotenv.config();
@@ -51,14 +52,18 @@ async function startServer() {
             next();
         },
         expressMiddleware(server, {
-            context: async ({ req }) => {
+            context: async ({ req }: { req: any }) => {
                 const token = req.headers.authorization?.replace('Bearer ', '') 
                     || (req.query?.token as string)
                     || '';
                 const user = await getUserFromToken(token, prisma);
-                return { user, prisma };
+                return { 
+                    user, 
+                    prisma,
+                    wiki: new WikiService(prisma) 
+                };
             }
-        })
+        }) as any
     );
 
     app.listen(PORT, () => {

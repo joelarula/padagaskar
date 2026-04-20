@@ -1,70 +1,108 @@
-// --- CORE TOPIC & TEXT ---
+// --- CORE WIKI IDENTITY: SOURCE ---
 
-model Topic {
-    id     String @id @default(cuid())
-    title  String @db.VarChar(255)
+model Source {
+    id          String  @id @default(cuid())
+    url         String? @db.VarChar(2560) // External URL
+    path        String? // Local Identity Slug (e.g., "physics")
+    materializedPath String? @unique // Full Routing Path (e.g., "science/physics")
+    depth       Int     @default(0)
+    title       String? @db.VarChar(255)
+    description String? @db.Text
+
+    type             String    @default("WEB") // WEB, BOOK, WIKI_PAGE, etc.
+    reliabilityScore Float?    @default(1.0)
+    isPublished      Boolean   @default(false)
+    publishedAt      DateTime?
+    status           String?   @default("NEW")
+
+    // Ownership
     userId String
     user   User   @relation(fields: [userId], references: [id])
 
-    language String? @default("et") // "et", "en", etc.
+    // Hierarchy: Stable tree structure based on Identity/Source
+    parentId String?
+    parent   Source?  @relation("SourceHierarchy", fields: [parentId], references: [id])
+    children Source[] @relation("SourceHierarchy")
 
-    description String? @db.Text
-    summary     String? @db.Text
+    // Content: Multiple possible versions of text for this identity
+    texts Text[] @relation("SourceTexts")
 
-    texts           Text[]           @relation("TopicTexts")
-    analyzeRequests AnalyzeRequest[]
-    attachments     Attachment[]
-    tags            Tag[]
+    // Semantic Graph: Connections between identities
+    outboundRelations Relation[] @relation("SourceOutbound")
+    inboundRelations  Relation[] @relation("SourceInbound")
 
-    isPublished Boolean @default(false)
-    permalink   String? @unique
+    // Metadata (Favicon, OG data, site info)
+    metadata Json?
+
+    tags        Tag[]
+    attachments Attachment[]
+    feeds       Feed[]       @relation("FeedSources")
+    reports     Report[]
 
     existent  Boolean? @default(true)
-    createdAt DateTime  @default(now())
-    updatedAt DateTime  @updatedAt
+    createdAt DateTime @default(now())
+    updatedAt DateTime @updatedAt
+
+    @@unique([url])
+    @@unique([parentId, path])
+    @@index([parentId])
+    @@index([materializedPath])
 }
+
+// --- CORE WIKI CONTENT: TEXT ---
 
 model Text {
     id       String  @id @default(cuid())
     content  String  @db.Text
     language String? @default("et")
 
-    summary  String? @db.Text
-    isPublished Boolean @default(false)
+    isPublished Boolean  @default(false)
+    existent    Boolean? @default(true)
 
-    topics Topic[] @relation("TopicTexts")
+    // Identity: Each text block belongs to exactly one Source identity
+    originSourceId String
+    originSource   Source @relation("SourceTexts", fields: [originSourceId], references: [id], onDelete: Cascade)
 
+    // Ownership
     userId String
     user   User   @relation(fields: [userId], references: [id], onDelete: Cascade)
 
-    sources Source[]
+    // Enrichment & AI
+    chunks      Chunk[]
+    attachments Attachment[]
+    tags        Tag[]
+    metrics     AnalysisMetric[]
 
-    // RAG Chunks
-    chunks Chunk[]
+    // Relationship to Reports (if this text is part of an analysis)
+    reports Report[] @relation("ReportContent")
 
-    tags Tag[]
+    createdAt DateTime @default(now())
+    updatedAt DateTime @updatedAt
 
-    // Relationship to Report (if this text is a response)
-    report Report? @relation("ReportContent")
+    @@index([originSourceId])
+}
 
-    // AI Metadata (for summary)
-    aiModelId String?
-    aiModel   AIModel? @relation(fields: [aiModelId], references: [id])
-    promptVersionId String?
-    promptVersion   PromptVersion? @relation(fields: [promptVersionId], references: [id])
 
-    // Relationship to TextFeature (if this text is a feature description)
-    featureDesc TextFeature? @relation("FeatureDescription")
+// --- SEMANTIC LINKING: RELATION ---
 
-    // Relationship to Specimen (if this text is an explanation/refutation)
-    specimenExplanation Specimen? @relation("SpecimenExplanation")
+model Relation {
+    id   String @id @default(cuid())
+    role String @default("REFERENCE") // ORIGIN, CITATION, FEATURE, SPECIMEN, LINK, SUMMARY
 
-    // Textual Specimens
-    specimens Specimen[]
+    // Graph Edge: Connects two identities
+    fromSourceId String
+    fromSource   Source @relation("SourceOutbound", fields: [fromSourceId], references: [id], onDelete: Cascade)
 
-    existent  Boolean? @default(true)
-    createdAt DateTime  @default(now())
-    updatedAt DateTime  @updatedAt
+    toSourceId String
+    toSource   Source @relation("SourceInbound", fields: [toSourceId], references: [id], onDelete: Cascade)
+
+    // Context: Offset [start, end], specific markup context, etc.
+    metadata Json?
+
+    createdAt DateTime @default(now())
+
+    @@index([fromSourceId])
+    @@index([toSourceId])
 }
 
 model Chunk {
@@ -76,84 +114,75 @@ model Chunk {
     selectionStart Int?
     selectionEnd   Int?
 
-    // The embedding model used
     aiModelId String
     aiModel   AIModel @relation(fields: [aiModelId], references: [id])
 
-    // Model-specific vector columns for flexibility and evaluation
-    bge_base_en_v1_5   Unsupported("vector(768)")?
-    all_minilm_l6_v2   Unsupported("vector(384)")?
+    bge_base_en_v1_5       Unsupported("vector(768)")?
+    all_minilm_l6_v2       Unsupported("vector(384)")?
     text_embedding_3_small Unsupported("vector(1536)")?
+    text_embedding_004     Unsupported("vector(768)")?
 
     existent  Boolean? @default(true)
-    createdAt DateTime  @default(now())
+    createdAt DateTime @default(now())
 
     @@index([textId])
-    @@index([aiModelId])
 }
 
 model AIModel {
     id       String  @id @default(cuid())
-    name     String  @unique // e.g., "gpt-4o", "text-embedding-3-small"
-    provider String // e.g., "OpenAI", "Google"
+    name     String  @unique
+    provider String
     version  String?
-    type     String  @default("GENERATIVE") // "GENERATIVE", "EMBEDDING"
+    type     String  @default("GENERATIVE")
 
     reports        Report[]
     chunks         Chunk[]
     promptVersions PromptVersion[]
-    texts          Text[]
 
     existent  Boolean? @default(true)
-    createdAt DateTime  @default(now())
+    createdAt DateTime @default(now())
 }
 
-model Source {
-    id          String  @id @default(cuid())
-    url         String? @db.VarChar(2560)
-    title       String? @db.VarChar(255)
-    description String? @db.Text
+model Feed {
+    id            String    @id @default(cuid())
+    url           String    @unique
+    name          String
+    pollingPeriod Int       @default(60)
+    lastPolledAt  DateTime?
 
-    type             String @default("WEB") // WEB, BOOK, DOCUMENT, SOCIAL_MEDIA, LINK, ATTACHMENT
-    reliabilityScore Float? @default(1.0) // 0.0 to 1.0 (internal meta-data)
+    userId String
+    user   User   @relation(fields: [userId], references: [id])
 
-    isPublished Boolean @default(false)
-
-    textId String?
-    text   Text?   @relation(fields: [textId], references: [id], onDelete: Cascade)
-
-    featureId String?
-    feature   TextFeature? @relation(fields: [featureId], references: [id])
-
-    attachments Attachment[]
+    sources Source[] @relation("FeedSources")
 
     existent  Boolean? @default(true)
-    createdAt DateTime  @default(now())
+    createdAt DateTime @default(now())
+    updatedAt DateTime @updatedAt
 }
 
 model Attachment {
     id       String @id @default(cuid())
     filename String
     mimetype String
-    url      String // Storage URL (S3/local)
+    url      String
     size     Int
 
-    topicId  String?
-    topic    Topic?  @relation(fields: [topicId], references: [id])
     sourceId String?
     source   Source? @relation(fields: [sourceId], references: [id])
+    textId   String?
+    text     Text?   @relation(fields: [textId], references: [id])
 
     existent  Boolean? @default(true)
-    createdAt DateTime  @default(now())
+    createdAt DateTime @default(now())
 }
 
 model Tag {
     id      String   @id @default(cuid())
     name    String
     value   String?
-    topics  Topic[]
     reports Report[]
     texts   Text[]
+    sources Source[]
 
     isPublished Boolean @default(false)
     permalink   String? @unique
@@ -163,5 +192,4 @@ model Tag {
     @@unique([name, value])
     @@index([name])
     @@index([value])
-    textFeatures TextFeature[]
 }

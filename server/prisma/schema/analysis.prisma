@@ -21,45 +21,36 @@ model PromptVersion {
     optimizedForModelId String?
     optimizedForModel   AIModel? @relation(fields: [optimizedForModelId], references: [id])
 
-    requests AnalyzeRequest[]
-    texts    Text[]
-
-    existent  Boolean? @default(true)
-    createdAt DateTime  @default(now())
-}
-
-model AnalyzeRequest {
-    id      String @id @default(cuid())
-    topicId String
-    topic   Topic  @relation(fields: [topicId], references: [id], onDelete: Cascade)
-
-    // Tracking the prompt used
-    promptVersionId String?
-    promptVersion   PromptVersion? @relation(fields: [promptVersionId], references: [id])
-
-    status String  @default("PENDING") // PENDING, FETCHING, CHUNKING, EMBEDDING, PROCESSING, COMPLETED, FAILED
-    report Report?
+    reports   Report[]
 
     existent  Boolean? @default(true)
     createdAt DateTime  @default(now())
 }
 
 model Report {
-    id        String         @id @default(cuid())
-    requestId String         @unique
-    request   AnalyzeRequest @relation(fields: [requestId], references: [id], onDelete: Cascade)
+    id     String @id @default(cuid())
+    status String @default("PENDING") // PENDING, PROCESSING, COMPLETED, FAILED
 
-    textId String @unique
-    text   Text   @relation("ReportContent", fields: [textId], references: [id], onDelete: Cascade)
+    // Targets
+    sourceId String
+    source   Source @relation(fields: [sourceId], references: [id], onDelete: Cascade)
 
-    aiModelId         String
-    aiModel           AIModel @relation(fields: [aiModelId], references: [id])
+    // A report can analyze multiple texts (e.g. current version and previous ones)
+    texts Text[] @relation("ReportContent")
+
+    // Configuration
+    aiModelId       String
+    aiModel         AIModel @relation(fields: [aiModelId], references: [id])
+    promptVersionId String?
+    promptVersion   PromptVersion? @relation(fields: [promptVersionId], references: [id])
+
+    // Results (populated when status is COMPLETED)
+    resultJson        Json? 
+    metrics           AnalysisMetric[]
     isAiGenerated     Boolean @default(true)
     transparencyLabel String?
-
-    metrics AnalysisMetric[]
-
-    resultJson  Json // Raw structured data from agent
+    
+    // Metadata
     isPublished Boolean @default(false)
     permalink   String? @unique
     tags        Tag[]
@@ -74,48 +65,14 @@ model AnalysisMetric {
     reportId String?
     report   Report? @relation(fields: [reportId], references: [id], onDelete: Cascade)
 
-    specimenId String?
-    specimen   Specimen? @relation(fields: [specimenId], references: [id], onDelete: Cascade)
+    // Metric can point to the specific Text entity (Specimen, Feature, or Page)
+    textId String?
+    text   Text?   @relation(fields: [textId], references: [id], onDelete: Cascade)
 
     name  String // e.g., "Ethics Index", "Bias Score", "Sentiment"
     value Float // e.g., 0.85
 
     justification String
-
-    existent  Boolean? @default(true)
-    createdAt DateTime  @default(now())
-}
-
-
-model TextFeature {
-    id   String @id @default(cuid())
-    name String @unique
-
-    textId String @unique
-    text   Text   @relation("FeatureDescription", fields: [textId], references: [id], onDelete: Cascade)
-    tags   Tag[]
-    sources Source[]
-    specimens Specimen[]
-
-    existent  Boolean? @default(true)
-    createdAt DateTime  @default(now())
-    updatedAt DateTime  @updatedAt
-}
-
-model Specimen {
-    id        String      @id @default(cuid())
-    featureId String
-    feature   TextFeature @relation(fields: [featureId], references: [id])
-    textId    String
-    text      Text        @relation(fields: [textId], references: [id], onDelete: Cascade)
-
-    startOffset Int?
-    endOffset   Int?
-
-    explanationTextId String? @unique
-    explanationText   Text?   @relation("SpecimenExplanation", fields: [explanationTextId], references: [id])
-
-    metrics AnalysisMetric[]
 
     existent  Boolean? @default(true)
     createdAt DateTime  @default(now())

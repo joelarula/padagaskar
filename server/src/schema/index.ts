@@ -10,36 +10,74 @@ export const typeDefs = gql`
     updatedAt: String!
   }
 
-  type Topic {
+  """
+  CORE IDENTITY: Represents a stable node in the knowledge graph.
+  """
+  type Source {
     id: ID!
-    title: String!
+    url: String
+    path: String
+    materializedPath: String
+    depth: Int
+    title: String
     description: String
-    summary: String
-    language: String
-    isPublished: Boolean!
-    permalink: String
-    texts: [Text!]!
+    type: String! # WEB, BOOK, WIKI_PAGE, etc.
+    status: String
+    isPublished: Boolean
+    publishedAt: String
+    
+    # Hierarchy
+    parentId: ID
+    parent: Source
+    children: [Source!]!
+    
+    # Content & Semantic Links
+    texts(skip: Int, take: Int): [Text!]!
+    outboundRelations: [Relation!]!
+    inboundRelations: [Relation!]!
+    
+    # Metadata
     tags: [Tag!]!
+    attachments: [Attachment!]!
+    metadata: String
+    
+    # Hierarchy
+    ancestors: [Source!]!
+    descendants: [Source!]!
+    _count: SourceCount
+    
     createdAt: String!
     updatedAt: String!
   }
 
-  type TopicConnection {
-    items: [Topic!]!
+  type SourceCount {
+    children: Int
+    texts: Int
+  }
+
+  type SourceConnection {
+    items: [Source!]!
     totalCount: Int!
   }
 
+  """
+  CONTENT LAYER: Represents a specific content version for a Source.
+  """
   type Text {
     id: ID!
     content: String!
-    summary: String
     language: String
-    sources: [Source!]!
-    specimens: [Specimen!]!
+    isPublished: Boolean
+    
+    # Identity
+    originSource: Source!
+    user: User!
+    
+    # Analysis & Graph
+    reports: [Report!]!
     tags: [Tag!]!
-    report: Report
-    aiModel: AIModel
-    promptVersion: PromptVersion
+    metrics: [AnalysisMetric!]!
+    
     createdAt: String!
     updatedAt: String!
   }
@@ -49,20 +87,48 @@ export const typeDefs = gql`
     totalCount: Int!
   }
 
-  type Source {
+  """
+  SEMANTIC EDGE: Represents a role-based link between two sources.
+  """
+  type Relation {
     id: ID!
-    url: String
-    title: String
-    description: String
-    type: String!
+    role: String! # SUMMARY, CITATION, LINK, ORIGIN
+    fromSource: Source!
+    toSource: Source!
+    metadata: String
+    createdAt: String!
   }
 
-  type AnalyzeRequest {
+  """
+  ANALYSIS: Merged model for analytical attempts and results.
+  """
+  type Report {
     id: ID!
-    topic: Topic!
-    status: String!
-    report: Report
+    status: String! # PENDING, PROCESSING, COMPLETED, FAILED
+    
+    source: Source!
+    texts: [Text!]!
+    
+    aiModel: AIModel!
+    promptVersion: PromptVersion
+    
+    resultJson: String
+    metrics: [AnalysisMetric!]!
+    
+    isAiGenerated: Boolean!
+    transparencyLabel: String
+    isPublished: Boolean!
+    
     createdAt: String!
+    updatedAt: String!
+  }
+
+  type AnalysisMetric {
+    id: ID!
+    name: String!
+    value: Float!
+    justification: String!
+    text: Text
   }
 
   type AIModel {
@@ -85,59 +151,42 @@ export const typeDefs = gql`
     description: String
   }
 
-  type Report {
-    id: ID!
-    request: AnalyzeRequest!
-    text: Text!
-    isAiGenerated: Boolean!
-    metrics: [AnalysisMetric!]!
-    createdAt: String!
-  }
-
-  type AnalysisMetric {
-    id: ID!
-    name: String!
-    value: Float!
-    justification: String!
-  }
-
-  type TextFeature {
-    id: ID!
-    name: String!
-    text: Text!
-    tags: [Tag!]!
-    createdAt: String!
-    updatedAt: String!
-  }
-
-  type TextFeatureConnection {
-    items: [TextFeature!]!
-    totalCount: Int!
-  }
-
-  type Specimen {
-    id: ID!
-    feature: TextFeature!
-    text: Text!
-    startOffset: Int
-    endOffset: Int
-    explanationText: Text
-    metrics: [AnalysisMetric!]!
-    metadata: String
-  }
-
-  type Chunk {
-    id: ID!
-    content: String!
-    selectionStart: Int
-    selectionEnd: Int
-    createdAt: String!
-  }
-
   type Tag {
     id: ID!
     name: String!
     value: String
+  }
+
+  type Attachment {
+    id: ID!
+    filename: String!
+    mimetype: String!
+    url: String!
+    size: Int!
+  }
+
+  type Feed {
+    id: ID!
+    url: String!
+    name: String!
+    pollingPeriod: Int!
+    lastPolledAt: String
+    sources: [Source!]!
+    createdAt: String!
+    updatedAt: String!
+  }
+
+  input WikiPageInput {
+    id: ID
+    path: String
+    title: String
+    content: String!
+    language: String
+    url: String
+    publishedAt: String
+    isPublished: Boolean
+    tags: [TagInput!]
+    textParentId: ID
   }
 
   input SourceInput {
@@ -152,72 +201,78 @@ export const typeDefs = gql`
     value: String
   }
 
+  input WikiFilterInput {
+    search: String
+    tags: [TagInput!]
+    startDate: String
+    endDate: String
+  }
+
   input TextFilterInput {
     search: String
     tags: [TagInput!]
     startDate: String
     endDate: String
-  }
-
-  input TopicFilterInput {
-    search: String
-    tags: [TagInput!]
-    startDate: String
-    endDate: String
-  }
-
-  input TextFeatureFilterInput {
-    search: String
-    tags: [TagInput!]
+    isPublished: Boolean
   }
 
   type Query {
     me: User
-    topics(filter: TopicFilterInput, skip: Int, take: Int): TopicConnection!
-    topic(id: ID!): Topic
-    textFeatures(filter: TextFeatureFilterInput, skip: Int, take: Int): TextFeatureConnection!
-    textFeature(id: ID!): TextFeature
-    reports: [Report!]!
+    
+    # Wiki Core
+    wikiPage(path: String!): Source
+    wikiTree(parentId: ID): [Source!]!
+    sources(filter: WikiFilterInput, skip: Int, take: Int): SourceConnection!
+    source(id: ID!): Source
+    
+    # Analysis & Reports
+    reports(status: String): [Report!]!
     report(id: ID!): Report
+    
+    # Content & Tags
     texts(filter: TextFilterInput, skip: Int, take: Int): TextConnection!
     text(id: ID!): Text
-    textsByTags(tags: [TagInput!]!): [Text!]!
     tags: [Tag!]!
+    
+    # Feed Review
+    feeds: [Feed!]!
+    sourcesReview(status: String, skip: Int, take: Int): SourceConnection!
+  }
+
+  type FeedPollResult {
+    feedId: ID!
+    name: String!
+    newItems: Int
+    error: String
   }
 
   type Mutation {
-    # Topic CRUD
-    createTopic(title: String!, description: String, language: String, tags: [TagInput!]): Topic!
-    updateTopic(id: ID!, title: String, description: String, summary: String, language: String, tags: [TagInput!]): Topic!
-    deleteTopic(id: ID!): Boolean!
-    publishTopic(id: ID!, publish: Boolean!): Topic!
+    # Wiki Operations
+    saveWikiPage(input: WikiPageInput!): Source!
+    deleteWikiPage(id: ID!): Boolean!
+    
+    # Semantic Relations
+    addRelation(fromSourceId: ID!, toSourceId: ID!, role: String!, metadata: String): Relation!
+    removeRelation(id: ID!): Boolean!
 
-    # TextFeature CRUD
-    createTextFeature(name: String!, textId: ID, tags: [TagInput!]): TextFeature!
-    updateTextFeature(id: ID!, name: String, tags: [TagInput!]): TextFeature!
-    deleteTextFeature(id: ID!): Boolean!
+    # Feed & Source Management
+    createFeed(url: String!, name: String!, pollingPeriod: Int): Feed!
+    updateFeed(id: ID!, url: String, name: String, pollingPeriod: Int): Feed!
+    deleteFeed(id: ID!): Boolean!
+    pollFeed(id: ID!): Int!
+    pollAllFeeds: [FeedPollResult!]!
 
-    # Text CRUD
-    createText(content: String!, language: String, topicId: ID, sources: [SourceInput!], tags: [TagInput!]): Text!
-    createTextFromUrl(url: String!, topicId: ID, tags: [TagInput!]): Text!
-    updateText(id: ID!, content: String, summary: String, language: String, tags: [TagInput!]): Text!
-    deleteText(id: ID!): Boolean!
-
-    # Text-Topic linking
-    addTextToTopic(textId: ID!, topicId: ID!): Topic!
-    removeTextFromTopic(textId: ID!, topicId: ID!): Topic!
-
-    # Source CRUD
-    addSource(targetId: ID!, targetType: String!, input: SourceInput!): Source!
-    updateSource(id: ID!, input: SourceInput!): Source!
-    deleteSource(id: ID!): Boolean!
-
-    # Tag CRUD
+    batchDeleteSources(ids: [ID!]!): Int!
+    batchDiscardSources(ids: [ID!]!): Int!
+    
+    # Analysis
+    analyzePage(sourceId: ID!, textId: ID): Report!
+    
+    # Support
     addTag(targetId: ID!, targetType: String!, input: TagInput!): Tag!
     removeTag(tagId: ID!, targetId: ID!, targetType: String!): Boolean!
-
-    # Analysis & Chunking
-    analyzeTopic(topicId: ID!): AnalyzeRequest!
-    chunkText(textId: ID!, chunkSize: Int, overlap: Int): [Chunk!]!
+    
+    # Text Operations
+    initializeTextFromSource(id: ID!, topicId: ID): Text!
   }
 `;
