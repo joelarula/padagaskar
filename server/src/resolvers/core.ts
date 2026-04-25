@@ -1,17 +1,50 @@
+/**
+ * resolvers/core.ts
+ *
+ * Core GraphQL resolvers for the identity-centric wiki data model.
+ * Covers: Source, Text, Relation, Tag, and the Wiki tree.
+ *
+ * Queries:
+ *   me              — Returns the authenticated user from context.
+ *   wikiPage        — Fetches a single Source by its materializedPath slug.
+ *   wikiTree        — Returns direct children of a given parentId (lazy tree loading).
+ *   source / sources— Single-source lookup and paginated/filterable source list.
+ *   texts / text    — Paginated text list and single text with full relations.
+ *   tags            — System-wide tag list.
+ *   sourcesReview   — Paginated list of NEW sources for the inbox review flow.
+ *
+ * Mutations:
+ *   saveWikiPage    — Create or update a Source + Text via WikiService.
+ *   deleteWikiPage  — Hard-deletes a Source.
+ *   addRelation / removeRelation — Manages directional semantic links between Sources.
+ *   addTag / removeTag           — Attaches/detaches tags from Source or Text.
+ *   removeSource    — Soft-deletes a Source (sets existent: null).
+ *   toggleFeed      — Enables or disables a feed's automated polling.
+ *   updateFeed      — Updates feed metadata including the AI prompt.
+ *
+ * Field Resolvers:
+ *   Source: parent, children, texts, outboundRelations, inboundRelations,
+ *           tags, ancestors (derived from materializedPath), descendants, _count.
+ *   Text:   originSource, reports, tags.
+ *   Relation: fromSource, toSource.
+ */
 // Resolvers for Identity-Centric Wiki models: Source, Text, Relation, Tag
 import { WikiService } from '../services/WikiService.js';
 
 export const coreResolvers = {
     Query: {
         me: (_parent: any, _args: any, context: any) => context.user,
-        
+
         // --- WIKI CORE ---
         wikiPage: async (_parent: any, { path }: { path: string }, context: any) => {
             if (!context.user) throw new Error('Unauthorized');
             // Path logic is lowercase/slugified in the DB
             const slugifiedPath = path.split('/').map((s: string) => s.toLowerCase().trim().replace(/\s+/g, '-')).join('/');
             return await context.prisma.source.findUnique({
-                where: { materializedPath: slugifiedPath },
+                where: { 
+                    materializedPath: slugifiedPath,
+                    existent: true 
+                },
                 include: {
                     texts: { orderBy: { createdAt: 'desc' }, take: 1 }, // Latest text by default
                     tags: true
@@ -39,7 +72,7 @@ export const coreResolvers = {
 
         sources: async (_parent: any, { filter, skip, take }: any, context: any) => {
             if (!context.user) throw new Error('Unauthorized');
-            
+
             const where: any = { userId: context.user.id };
 
             if (filter?.search) {
@@ -89,13 +122,13 @@ export const coreResolvers = {
         // --- CONTENT & TAGS ---
         texts: async (_parent: any, { filter, skip, take }: any, context: any) => {
             if (!context.user) throw new Error('Unauthorized');
-            
+
             const where: any = { userId: context.user.id };
-            
+
             if (filter?.search) {
                 where.content = { contains: filter.search, mode: 'insensitive' };
             }
-            
+
             if (filter?.startDate || filter?.endDate) {
                 where.createdAt = {};
                 if (filter.startDate) where.createdAt.gte = new Date(filter.startDate);
@@ -134,10 +167,10 @@ export const coreResolvers = {
             if (!context.user) throw new Error('Unauthorized');
             return await context.prisma.text.findUnique({
                 where: { id, userId: context.user.id },
-                include: { 
-                    originSource: true, 
-                    tags: true, 
-                    children: true, 
+                include: {
+                    originSource: true,
+                    tags: true,
+                    children: true,
                     reports: true,
                     asAncestor: true,
                     asDescendant: true
@@ -152,7 +185,9 @@ export const coreResolvers = {
 
         sourcesReview: async (_parent: any, { status, skip, take }: any, context: any) => {
             if (!context.user) throw new Error('Unauthorized');
-            const where = status ? { status } : { status: 'NEW' };
+            const where: any = status ? { status } : { status: 'NEW' };
+            where.existent = true; // Only show active items for review
+            
             const [items, totalCount] = await Promise.all([
                 context.prisma.source.findMany({
                     where,
@@ -173,7 +208,10 @@ export const coreResolvers = {
             const { sourceId } = await context.wiki.savePage(context.user.id, input);
             return await context.prisma.source.findUnique({
                 where: { id: sourceId },
-                include: { texts: { take: 1, orderBy: { createdAt: 'desc' } } }
+                include: { 
+                    parent: true,
+                    texts: { take: 1, orderBy: { createdAt: 'desc' } } 
+                }
             });
         },
 
@@ -206,7 +244,7 @@ export const coreResolvers = {
         // --- SUPPORT ---
         addTag: async (_parent: any, { targetId, targetType, input }: any, context: any) => {
             if (!context.user) throw new Error('Unauthorized');
-            
+
             const tag = await context.prisma.tag.upsert({
                 where: { name_value: { name: input.name, value: input.value || null } },
                 create: { name: input.name, value: input.value || null },
@@ -224,13 +262,13 @@ export const coreResolvers = {
                     data: { tags: { connect: { id: tag.id } } }
                 });
             }
-            
+
             return tag;
         },
 
         removeTag: async (_parent: any, { tagId, targetId, targetType }: any, context: any) => {
             if (!context.user) throw new Error('Unauthorized');
-            
+
             if (targetType === 'TEXT') {
                 await context.prisma.text.update({
                     where: { id: targetId },
@@ -242,9 +280,40 @@ export const coreResolvers = {
                     data: { tags: { disconnect: { id: tagId } } }
                 });
             }
-            
+
             return true;
-        }
+        },
+
+        removeSource: async (_parent: any, { id }: { id: string }, context: any) => {
+            if (!context.user) throw new Error('Unauthorized');
+            return await context.prisma.source.update({
+                where: { id },
+                data: { existent: null }
+            });
+        },
+
+        toggleFeed: async (_parent: any, { id, enabled }: { id: string, enabled: boolean }, context: any) => {
+            if (!context.user) throw new Error('Unauthorized');
+            return await context.prisma.feed.update({
+                where: { id },
+                data: { enabled }
+            });
+        },
+
+        updateFeed: async (_parent: any, { id, url, name, pollingPeriod, defaultTagName, defaultTagValue, aiPrompt }: any, context: any) => {
+            if (!context.user) throw new Error('Unauthorized');
+            return await context.prisma.feed.update({
+                where: { id },
+                data: { 
+                    ...(url && { url }),
+                    ...(name && { name }),
+                    ...(pollingPeriod && { pollingPeriod }),
+                    ...(defaultTagName !== undefined && { defaultTagName }),
+                    ...(defaultTagValue !== undefined && { defaultTagValue }),
+                    ...(aiPrompt !== undefined && { aiPrompt })
+                }
+            });
+        },
     },
 
     // --- FIELD RESOLVERS ---
@@ -257,7 +326,7 @@ export const coreResolvers = {
             return await context.prisma.source.findMany({ where: { parentId: source.id } });
         },
         texts: async (source: any, { skip, take }: any, context: any) => {
-            return await context.prisma.text.findMany({ 
+            return await context.prisma.text.findMany({
                 where: { originSourceId: source.id },
                 skip: skip || 0,
                 take: take || undefined,

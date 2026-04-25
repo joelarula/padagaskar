@@ -12,12 +12,37 @@
       <v-icon size="small">mdi-link-plus</v-icon>
       <v-tooltip activator="parent" location="bottom">Wiki Link [[...]]</v-tooltip>
     </v-btn>
+    <v-btn icon="mdi-source-branch" variant="text" size="small" @click="$emit('apply', 'insert-children')">
+      <v-icon size="small">mdi-source-branch</v-icon>
+      <v-tooltip activator="parent" location="bottom">Insert Child Links</v-tooltip>
+    </v-btn>
     <v-spacer></v-spacer>
     <slot name="append"></slot>
   </v-sheet>
 </template>
 
 <script setup lang="ts">
+/**
+ * MarkdownToolbar.vue
+ *
+ * Stateless formatting toolbar for markdown textareas.
+ *
+ * Renders a row of icon buttons (bold, italic, H1, H2, list, wiki-link,
+ * insert-children) and emits an 'apply' event with a format-type string
+ * when any button is clicked. The parent component is responsible for
+ * consuming the event and delegating to `useMarkdownEditor.applyFormat()`.
+ *
+ * Design: intentionally dumb — no direct textarea access, no state.
+ * This keeps the toolbar reusable across any editor surface.
+ *
+ * Slots:
+ *   #append — additional controls placed after the built-in buttons (e.g.
+ *              save/cancel actions in the wiki editor toolbar).
+ *
+ * Emits:
+ *   apply(type: string) — format type, one of:
+ *     'bold' | 'italic' | 'h1' | 'h2' | 'list' | 'wiki-link' | 'insert-children'
+ */
 const tools = [
   { icon: 'mdi-format-bold', label: 'Bold', type: 'bold' },
   { icon: 'mdi-format-italic', label: 'Italic', type: 'italic' },

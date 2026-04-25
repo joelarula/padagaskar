@@ -1,3 +1,23 @@
+/**
+ * resolvers/analysis.ts
+ *
+ * GraphQL resolvers for the analysis sub-system: Report, AIModel, PromptVersion.
+ *
+ * Queries:
+ *   reports — Lists all Report records with full includes (source, texts,
+ *              AI model, prompt version, metrics). Optionally filtered by status.
+ *   report  — Fetches a single Report by ID with the same includes.
+ *
+ * Mutations:
+ *   analyzePage — Creates a PENDING Report record linked to a Source and Text.
+ *     If no textId is supplied, it uses the most recent Text on the source.
+ *     Note: In the current implementation this only creates the record;
+ *     the actual AI processing is not yet wired to a background job.
+ *
+ * Field Resolvers:
+ *   Report.resultJson — Serialises the stored JSON blob to a string so
+ *     GraphQL can return it as a scalar without schema changes.
+ */
 // Resolvers for analysis.prisma models: Report, AIModel, PromptVersion
 import { ChunkingService } from '../services/ChunkingService.js';
 

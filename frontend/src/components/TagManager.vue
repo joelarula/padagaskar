@@ -18,6 +18,26 @@
 </template>
 
 <script setup lang="ts">
+/**
+ * TagManager.vue
+ *
+ * List controller for a dynamic collection of `<TagInput>` rows.
+ *
+ * Renders an optional label and a "+" button to add new empty tag rows.
+ * Each row is a `<TagInput>` component that can independently update or
+ * remove itself. All changes are propagated upward via `update:modelValue`.
+ *
+ * This component owns the add/remove list logic; TagInput owns the
+ * per-row field rendering and autocomplete logic.
+ *
+ * Props:
+ *   modelValue — Array of { name, value } tag objects.
+ *   allTags    — Full tag list passed through to each TagInput for autocomplete.
+ *   label      — Optional section label shown above the tag rows.
+ *
+ * Emits:
+ *   update:modelValue(tags[]) — on any structural or value change.
+ */
 import TagInput from './TagInput.vue'
 
 const props = defineProps<{

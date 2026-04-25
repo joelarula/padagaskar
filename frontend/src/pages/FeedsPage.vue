@@ -1,4 +1,22 @@
 <script setup lang="ts">
+/**
+ * FeedsPage.vue  (/feeds)
+ *
+ * Feed management dashboard — the control panel for automated RSS/Atom ingestion.
+ *
+ * Displays all registered feeds as cards. Each card shows the feed name, URL,
+ * polling interval, and last-polled timestamp.
+ *
+ * Actions:
+ *   - Add Feed      — opens an inline dialog to register a new RSS/Atom URL with
+ *                     a name and polling period (slider, 15min – 24h).
+ *   - Poll Now      — manually triggers `pollFeed` for a single feed.
+ *   - Poll All      — calls `pollAllFeeds` to check every active enabled feed.
+ *   - Delete Feed   — soft-deletes the feed (sets existent: false).
+ *
+ * Note: This page does NOT show per-feed settings (AI prompt, default tags, enabled
+ * toggle). Those are managed on the SourceReviewPage or via direct feed editing.
+ */
 import { ref, onMounted } from 'vue'
 import { graphql } from '../composables/useGraphql'
 

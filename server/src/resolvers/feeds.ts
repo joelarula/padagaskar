@@ -1,7 +1,31 @@
+/**
+ * resolvers/feeds.ts
+ *
+ * GraphQL resolvers for RSS Feed management, source review, and the
+ * scrape → AI analysis → text creation pipeline.
+ *
+ * Queries:
+ *   feeds            — Returns all active feeds for the current user.
+ *   sourcesReview    — Paginated list of Sources with a given status (default: NEW)
+ *                      from feeds owned by the user. Used by SourceReviewPage.
+ *
+ * Mutations:
+ *   createFeed / updateFeed / deleteFeed (soft-delete via existent: false)
+ *   pollFeed / pollAllFeeds  — Delegates to FeedService.
+ *   batchDeleteSources       — Hard-deletes a set of sources by ID.
+ *   batchDiscardSources      — Sets sources to DISCARDED status (soft-discard).
+ *   initializeTextFromSource — Full pipeline:
+ *       1. Scrape URL → 2. AI summary + author extraction →
+ *       3. Create Text + Summary record → 4. Update Source status to PROCESSED →
+ *       5. Trigger ChunkingService (embeddings) in the background.
+ *   processUrlWithPrompt     — Developer/testing tool: give any URL + prompt and
+ *                              run the full FeedAgentService pipeline against it.
+ */
 import { FeedService } from '../services/FeedService.js';
 import { ScraperService } from '../services/ScraperService.js';
 import { AIService } from '../services/AIService.js';
 import { ChunkingService } from '../services/ChunkingService.js';
+import { FeedAgentService } from '../services/FeedAgentService.js';
 
 export const feedsResolver = {
     Query: {
@@ -143,6 +167,50 @@ export const feedsResolver = {
             }
 
             return text;
+        },
+
+        /**
+         * Manual agentic pipeline: provide a URL + prompt and test the AI agent.
+         * Creates a Source, then runs FeedAgentService with your prompt.
+         * The agent can scrape, approve, discard, tag, and save analysis.
+         */
+        processUrlWithPrompt: async (_parent: any, { url, prompt }: { url: string, prompt: string }, context: any) => {
+            if (!context.user) throw new Error('Unauthorized');
+
+            // 1. Find or create the Source
+            let source = await context.prisma.source.findFirst({
+                where: { url, existent: true }
+            });
+
+            if (!source) {
+                source = await context.prisma.source.create({
+                    data: {
+                        url,
+                        title: url,  // Will be updated by scrape_article tool
+                        type: 'WEB',
+                        status: 'NEW',
+                        userId: context.user.id,
+                        isPublished: false
+                    }
+                });
+            }
+
+            // 2. Run the agentic pipeline
+            const result = await FeedAgentService.processItem(
+                context.prisma,
+                prompt,
+                { id: source.id, title: source.title || url, url, description: source.description },
+                context.user.id
+            );
+
+            // 3. Return the source with all its texts and tags (reflecting what the agent did)
+            return await context.prisma.source.findUnique({
+                where: { id: source.id },
+                include: {
+                    texts: { orderBy: { createdAt: 'desc' } },
+                    tags: true
+                }
+            });
         }
     }
 };

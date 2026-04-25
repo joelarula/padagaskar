@@ -20,24 +20,51 @@
       ></v-checkbox>
     </div>
 
+    <!-- Parent Source Selection (The main hierarchy) -->
     <v-autocomplete
-      v-model="internalValue.textParentId"
-      :items="allTexts"
-      :loading="loadingTexts"
-      v-model:search="textSearch"
-      label="Parent Text (Fragment of...)"
+      v-model="internalValue.parentId"
+      :items="allSources"
+      :loading="loadingSources"
+      v-model:search="sourceSearch"
+      label="Parent Identity / Source"
       variant="solo-filled"
       item-title="searchTitle"
       item-value="id"
-      placeholder="Search for a parent text..."
+      placeholder="Search for a parent node..."
       class="mb-4"
       clearable
       hide-details
     >
       <template v-slot:item="{ props, item }">
-        <v-list-item v-bind="props" :subtitle="item.raw.content.slice(0, 100) + '...'"></v-list-item>
+        <v-list-item v-bind="props" :subtitle="item.raw.materializedPath || item.raw.path"></v-list-item>
       </template>
     </v-autocomplete>
+
+    <!-- Legacy Fragment Hierarchy (Keep for compatibility) -->
+    <v-expansion-panels variant="accordion" class="mb-4">
+      <v-expansion-panel elevation="0" class="transparent-panel">
+        <v-expansion-panel-title class="text-caption font-weight-bold opacity-40 px-0">ADVANCED FRAGMENT HIERARCHY</v-expansion-panel-title>
+        <v-expansion-panel-text class="px-0">
+          <v-autocomplete
+            v-model="internalValue.textParentId"
+            :items="allTexts"
+            :loading="loadingTexts"
+            v-model:search="textSearch"
+            label="Parent Text (Fragment of...)"
+            variant="solo-filled"
+            item-title="searchTitle"
+            item-value="id"
+            placeholder="Search for a specific text fragment..."
+            clearable
+            hide-details
+          >
+            <template v-slot:item="{ props, item }">
+              <v-list-item v-bind="props" :subtitle="item.raw.content.slice(0, 100) + '...'"></v-list-item>
+            </template>
+          </v-autocomplete>
+        </v-expansion-panel-text>
+      </v-expansion-panel>
+    </v-expansion-panels>
 
     <v-text-field
       v-model="internalValue.path"
@@ -106,6 +133,33 @@
 </template>
 
 <script setup lang="ts">
+/**
+ * TextMetadataEditor.vue
+ *
+ * Shared metadata panel used when creating or editing a Text/Source.
+ * Rendered inside EstablishSourceDialog and the WikiPage editor.
+ *
+ * Fields managed:
+ *   - Language selector (Estonian / English)
+ *   - Published checkbox
+ *   - Parent Identity / Source autocomplete — links this text to a parent
+ *     Source node in the wiki hierarchy (sets `parentId` on the Source).
+ *   - [Advanced] Parent Text autocomplete — legacy "fragment-of" relationship
+ *     linking a Text to another Text (sets `textParentId`).
+ *   - Local slug / sub-path field
+ *   - Origin URL field (for texts extracted from external web sources)
+ *   - Inline tag manager — key+value chip UI for attaching Tags
+ *
+ * Data loading:
+ *   On mount, fetches the top-100 Sources and top-50 Texts from the server
+ *   to populate the autocomplete lists. These are loaded once per component
+ *   mount, not reactively re-fetched on search input.
+ *
+ * v-model contract:
+ *   The entire form state is exposed as a single deep reactive object matching
+ *   the WikiPageInput GraphQL type. Internal changes are immediately emitted
+ *   to the parent via a deep watcher on `internalValue`.
+ */
 import { ref, watch, reactive, onMounted } from 'vue'
 import { graphql } from '../composables/useGraphql'
 
@@ -114,6 +168,7 @@ const props = defineProps<{
     language: string
     isPublished: boolean
     textParentId?: string | null
+    parentId?: string | null
     path?: string | null
     source: { url: string; [key: string]: any }
     tags: { name: string; value?: string | null }[]
@@ -124,10 +179,13 @@ const emit = defineEmits(['update:modelValue'])
 
 const internalValue = reactive({ ...props.modelValue })
 
-// Parent Text Searching logic
+// Parent Searching logic
 const allTexts = ref<any[]>([])
+const allSources = ref<any[]>([])
 const loadingTexts = ref(false)
+const loadingSources = ref(false)
 const textSearch = ref('')
+const sourceSearch = ref('')
 
 async function fetchAllTexts() {
   loadingTexts.value = true
@@ -141,7 +199,7 @@ async function fetchAllTexts() {
         }
       }
     }
-  `, { take: 100 })
+  `, { take: 50 })
   if (data?.texts?.items) {
     allTexts.value = data.texts.items.map((t: any) => ({
       ...t,
@@ -151,8 +209,32 @@ async function fetchAllTexts() {
   loadingTexts.value = false
 }
 
+async function fetchAllSources() {
+  loadingSources.value = true
+  const data = await graphql(`
+    query($take: Int) {
+      sources(take: $take) {
+        items {
+          id
+          title
+          path
+          materializedPath
+        }
+      }
+    }
+  `, { take: 100 })
+  if (data?.sources?.items) {
+    allSources.value = data.sources.items.map((s: any) => ({
+      ...s,
+      searchTitle: s.title || s.path || s.materializedPath
+    }))
+  }
+  loadingSources.value = false
+}
+
 onMounted(() => {
   fetchAllTexts()
+  fetchAllSources()
 })
 
 // Sync internal value with props
@@ -189,5 +271,8 @@ function removeTag(idx: number) {
 <style scoped>
 .min-height-32 {
   min-height: 32px;
+}
+.transparent-panel {
+  background: transparent !important;
 }
 </style>

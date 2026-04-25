@@ -1,3 +1,27 @@
+/**
+ * ChunkingService.ts
+ *
+ * Text embedding pipeline — the ingestion layer of the RAG (Retrieval-
+ * Augmented Generation) system.
+ *
+ * Responsibilities:
+ *   - Splits a Text record's content into overlapping chunks using
+ *     LangChain's RecursiveCharacterTextSplitter (1000 chars / 200 overlap).
+ *   - Generates a vector embedding for each chunk using Google's
+ *     `text-embedding-004` model (multilingual, optimised for Estonian).
+ *   - Persists each chunk + its embedding vector into the `Chunk` table.
+ *     Uses raw `$executeRaw` SQL because Prisma's type system doesn't natively
+ *     support pgvector's `::vector` cast; standard `create` calls fail.
+ *
+ * Prerequisites:
+ *   - PostgreSQL must have the `pgvector` extension installed.
+ *   - The `Chunk` table must have a `text_embedding_004` column of type `vector`.
+ *
+ * Future use:
+ *   These stored vectors enable semantic similarity search:
+ *   a user query is embedded and the nearest-neighbour chunks are retrieved
+ *   to ground Gemini answers in the actual corpus (NotebookLM-style Q&A).
+ */
 import { RecursiveCharacterTextSplitter } from "@langchain/textsplitters";
 import { GoogleGenerativeAIEmbeddings } from "@langchain/google-genai";
 import { TaskType } from "@google/generative-ai";

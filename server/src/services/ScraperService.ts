@@ -1,3 +1,24 @@
+/**
+ * ScraperService.ts
+ *
+ * HTML scraper that fetches a URL and extracts readable text content.
+ *
+ * Strategy:
+ *   1. Fetches the URL with a desktop User-Agent string (avoids bot blocks).
+ *   2. Strips noise tags (script, style, nav, footer, header, iframe, aside).
+ *   3. Prefers semantic article containers (`article`, `main`, `.content`,
+ *      `.post-content`) over raw `body` for cleaner extraction.
+ *   4. Normalises whitespace and filters blank lines.
+ *
+ * Used by:
+ *   - `FeedAgentService` — via the `scrape_article` tool call so the AI
+ *     agent can fetch full content when RSS metadata alone is insufficient.
+ *
+ * Limitations:
+ *   - No JavaScript execution (fetch only). Sites that render content via
+ *     client-side JS will return incomplete text.
+ *   - Hard timeout of 10 seconds per request.
+ */
 import * as cheerio from 'cheerio';
 
 export class ScraperService {

@@ -29,6 +29,30 @@
 </template>
 
 <script setup lang="ts">
+/**
+ * TagInput.vue
+ *
+ * Single key-value tag input row with autocomplete driven by existing tags.
+ *
+ * Renders two `<v-combobox>` fields side-by-side:
+ *   - "Tag Key"  — autocompletes from all unique tag names in `allTags`.
+ *   - "Value"    — autocompletes from values already used for the selected key.
+ *
+ * Supports free-text entry (combobox, not select) so users can create new
+ * tag keys/values on the fly.
+ *
+ * Props:
+ *   modelValue  — The current { name, value } tag object (v-model target).
+ *   allTags     — Full tag list from the server for autocomplete suggestions.
+ *   density     — Vuetify density ('compact' | 'comfortable' | 'default').
+ *   hideDetails — Whether to suppress validation hint rows.
+ *   removable   — If true, shows an ✕ button that emits 'remove'.
+ *   nameCols / valueCols — Grid column widths (default 5/5 when removable, 6/6 otherwise).
+ *
+ * Emits:
+ *   update:modelValue({ name, value }) — on any field change.
+ *   remove()                           — when the remove button is clicked.
+ */
 import { computed, ref, watch } from 'vue'
 
 const props = defineProps<{

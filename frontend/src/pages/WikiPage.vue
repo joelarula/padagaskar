@@ -3,11 +3,14 @@
     <!-- Main Content Area -->
     <v-row no-gutters class="fill-height overflow-hidden">
       <!-- Content Viewer/Editor -->
-      <v-col :cols="showSidebar ? 8 : 12" class="content-col d-flex flex-column h-100">
+      <v-col :cols="showSidebar ? 9 : 12" class="content-col d-flex flex-column h-100">
         
         <!-- Premium Toolbar -->
         <v-toolbar flat color="transparent" class="px-8 border-b border-white border-opacity-5">
           <div class="d-flex align-center flex-grow-1">
+            <v-btn v-if="source?.parent" icon="mdi-arrow-left" variant="text" size="small" :to="'/wiki/' + (source.parent.materializedPath || source.parent.path)" class="me-4" color="primary">
+               <v-tooltip activator="parent" location="bottom">Back to {{ source.parent.title || 'Parent' }}</v-tooltip>
+            </v-btn>
             <v-btn icon="mdi-home" variant="text" size="small" :to="'/'" class="me-2 opacity-50"></v-btn>
             <v-breadcrumbs :items="breadcrumbItems" class="px-0 py-0 text-caption font-weight-bold uppercase tracking-widest opacity-40">
               <template v-slot:divider>
@@ -121,77 +124,55 @@
         </div>
       </v-col>
 
-      <!-- Hierarchy Sidebar (Provenance & Discovery) -->
-      <v-col v-if="showSidebar" cols="4" class="sidebar-col border-s border-white border-opacity-5 d-flex flex-column h-100">
+      <!-- Semantic Context Sidebar -->
+      <v-col v-if="showSidebar" cols="3" class="sidebar-col border-s border-white border-opacity-5 d-flex flex-column h-100">
         <div class="pa-8 flex-grow-1 overflow-y-auto">
-          <h3 class="text-overline font-weight-black opacity-40 mb-8 d-flex align-center">
-            <v-icon class="me-3" size="small">mdi-dna</v-icon>
-            Provenance
-          </h3>
-
           <div v-if="source">
-            <!-- Ancestors (Origin Chain) -->
-            <div class="mb-12">
-              <div class="text-caption font-weight-black opacity-30 mb-6 flex align-center ga-2 uppercase">
-                Identity Provenance <v-icon size="14">mdi-dna</v-icon>
-              </div>
-              <div v-if="!source.ancestors?.length" class="text-caption opacity-30 italic ps-1">
-                Primary Root Identity.
-              </div>
-              <div v-else v-for="(anc, index) in source.ancestors" :key="anc.id" class="provenance-node mb-4">
-                <div class="node-line"></div>
-                <v-card variant="tonal" class="rounded-xl pa-4 border-white border-opacity-5 glass-card" hover @click="router.push('/wiki/' + anc.materializedPath)">
-                   <div class="text-caption font-weight-black opacity-30 mb-1 d-flex justify-space-between align-baseline">
-                     Layer {{ Number(index) + 1 }}
-                     <span class="text-mono text-tiny opacity-50">{{ anc.path }}</span>
-                   </div>
-                   <div class="text-body-2 font-weight-bold line-clamp-1">{{ anc.title || anc.path }}</div>
-                </v-card>
+            <!-- Summary Info -->
+            <div class="mb-10 text-center">
+              <v-avatar :color="source.type === 'WIKI_PAGE' ? 'primary' : 'secondary'" variant="tonal" rounded="xl" size="80" class="mb-4">
+                <v-icon size="40">{{ source.type === 'WIKI_PAGE' ? 'mdi-book-open-page-variant' : 'mdi-web' }}</v-icon>
+              </v-avatar>
+              <div class="text-caption font-weight-black opacity-30 uppercase tracking-widest">{{ source.type }}</div>
+            </div>
+
+            <!-- Tags Section -->
+            <div class="mb-10">
+              <h3 class="text-overline font-weight-black opacity-40 mb-4 d-flex align-center ga-2">
+                Classification <v-icon size="14">mdi-tag-outline</v-icon>
+              </h3>
+              <div class="d-flex flex-wrap ga-2">
+                <v-chip v-for="tag in source.tags" :key="tag.id" size="x-small" variant="tonal" color="primary">
+                  {{ tag.name }}: {{ tag.value }}
+                </v-chip>
+                <div v-if="!source.tags?.length" class="text-caption opacity-20 italic">No semantic tags.</div>
               </div>
             </div>
 
-            <!-- Children (Direct Branches) -->
-            <div>
-              <div class="text-caption font-weight-black opacity-30 mb-6 flex align-center ga-2 uppercase">
-                Direct Branches <v-icon size="14">mdi-source-branch</v-icon>
-              </div>
-              <v-list v-if="source.children?.length" bg-color="transparent" class="pa-0">
+            <!-- Semantic Relations (The true graph) -->
+            <div class="mb-10">
+              <h3 class="text-overline font-weight-black opacity-40 mb-4 d-flex align-center ga-2">
+                Relations <v-icon size="14">mdi-graph-outline</v-icon>
+              </h3>
+              <v-list v-if="source.outboundRelations?.length" bg-color="transparent" class="pa-0">
                 <v-list-item
-                  v-for="child in source.children"
-                  :key="child.id"
-                  rounded="xl"
-                  class="mb-3 glass-card border-opacity-5 pa-4"
+                  v-for="rel in source.outboundRelations"
+                  :key="rel.id"
+                  rounded="lg"
+                  class="mb-2 glass-card pa-3 border-opacity-5"
                   hover
-                  @click="router.push('/wiki/' + child.materializedPath)"
+                  @click="router.push('/wiki/' + (rel.toSource.materializedPath || rel.toSource.path))"
                 >
-                  <v-list-item-title class="text-body-2 font-weight-medium">
-                    {{ child.title || child.path }}
+                  <template v-slot:append>
+                    <v-chip size="x-small" variant="text" class="opacity-30">{{ rel.role }}</v-chip>
+                  </template>
+                  <v-list-item-title class="text-caption font-weight-bold">
+                    {{ rel.toSource.title || rel.toSource.path }}
                   </v-list-item-title>
                 </v-list-item>
               </v-list>
-              <div v-else class="text-center py-10 rounded-xl border border-dashed border-white border-opacity-5">
-                <v-icon color="grey-darken-3" size="32">mdi-molecule</v-icon>
-                <div class="text-caption opacity-20 mt-2 font-weight-light">Terminal leaf node.</div>
-              </div>
+              <div v-else class="text-caption opacity-20 italic">No established relations.</div>
             </div>
-          </div>
-          
-          <!-- Semantic Relations Section -->
-          <div v-if="source" class="mt-12">
-            <h3 class="text-overline font-weight-black opacity-40 mb-6">Relations</h3>
-            <v-chip-group column>
-              <v-chip
-                v-for="rel in source.outboundRelations"
-                :key="rel.id"
-                variant="outlined"
-                color="primary"
-                size="small"
-                @click="router.push('/wiki/' + rel.toSource.path)"
-                rounded="lg"
-              >
-                {{ rel.toSource.title || rel.toSource.path }}
-              </v-chip>
-            </v-chip-group>
           </div>
         </div>
 
@@ -207,6 +188,42 @@
 </template>
 
 <script setup lang="ts">
+/**
+ * WikiPage.vue  (/wiki/:path*)
+ *
+ * The core wiki reading and editing surface — the most complex page in the app.
+ *
+ * Route: accepts any depth path (e.g. `/wiki/science/ai/agents`).
+ * Special path prefix: `/wiki/fragments/<textId>` loads a specific Text by ID
+ * rather than by source path.
+ *
+ * Layout:
+ *   - Left (9/12 cols): reading or editing area.
+ *   - Right (3/12 cols): semantic context sidebar with tags and outbound relations.
+ *
+ * Modes (toggled by the Reading / Writing btn-toggle in the toolbar):
+ *   READ — Renders the latest Text's content as sanitised HTML via `marked` +
+ *           `DOMPurify` (loaded from CDN). Post-processes `[[wiki-links]]` into
+ *           `<a class="wiki-link">` elements intercepted by a document click
+ *           listener to use Vue Router instead of a full page reload.
+ *   EDIT — Full editor: title field, markdown textarea (with MarkdownToolbar),
+ *           and TextMetadataEditor for language/parent/tags/URL/publish.
+ *           The `insert-children` toolbar action generates `[[links]]` for all
+ *           direct children of the current source.
+ *
+ * State:
+ *   `source`  — the Source record fetched from `wikiPage` query (null = 404).
+ *   `editForm` — reactive form mirroring WikiPageInput, pre-filled from source.
+ *   On 404: drops straight into EDIT mode so the user can "claim" the path.
+ *
+ * Save:
+ *   Calls `saveWikiPage` mutation via WikiService. If the materializedPath
+ *   changed (e.g. a rename), the router navigates to the new URL.
+ *   After save, triggers `refreshWikiTree` (injected from WikiSidebar) to
+ *   update the sidebar tree without a full reload.
+ *
+ * Breadcrumbs: derived from the current route path segments.
+ */
 import { ref, computed, watch, onMounted } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { graphql, showSuccess } from '../composables/useGraphql'
@@ -249,14 +266,26 @@ const editForm = ref({
   language: 'et',
   isPublished: false,
   textParentId: null as string | null,
+  parentId: null as string | null,
   source: { url: '' },
   tags: [] as any[]
 })
 
-const { applyFormat } = useMarkdownEditor(computed({
+const { applyFormat: originalApplyFormat, insertText } = useMarkdownEditor(computed({
   get: () => editForm.value.content,
   set: (val) => editForm.value.content = val
 }) as any, editorTextArea)
+
+function applyFormat(type: string) {
+  if (type === 'insert-children') {
+    if (source.value?.children?.length) {
+      const links = source.value.children.map((c: any) => `- [[${c.materializedPath || c.path}|${c.title || c.path}]]`).join('\n')
+      insertText('\n\n### Sub-identities\n' + links + '\n')
+    }
+  } else {
+    originalApplyFormat(type)
+  }
+}
 
 const renderedContent = computed(() => {
   const content = source.value?.texts?.[0]?.content || ''
@@ -327,7 +356,9 @@ async function fetchPage() {
     query($path: String!) {
       wikiPage(path: $path) {
         id path title description url isPublished tags { id name value }
+        parent { id path title materializedPath }
         ancestors { id path title materializedPath }
+        children { id path title materializedPath }
         outboundRelations { id role toSource { id path title } }
         texts {
           id content language isPublished
@@ -345,6 +376,7 @@ async function fetchPage() {
     editForm.value.language = source.value.texts?.[0]?.language || 'et'
     editForm.value.isPublished = source.value.isPublished || false
     editForm.value.textParentId = null 
+    editForm.value.parentId = source.value.parent?.id || null
     editForm.value.source.url = source.value.url || ''
     editForm.value.tags = source.value.texts?.[0]?.tags?.map((t: any) => ({ name: t.name, value: t.value })) || []
     viewMode.value = 'read'
@@ -357,6 +389,7 @@ async function fetchPage() {
       language: 'et',
       isPublished: false,
       textParentId: null,
+      parentId: null,
       source: { url: '' },
       tags: []
     }
@@ -369,7 +402,7 @@ async function savePage() {
   saving.value = true
   const data = await graphql(`
     mutation($input: WikiPageInput!) {
-      saveWikiPage(input: $input) { id path title }
+      saveWikiPage(input: $input) { id path materializedPath title parent { id path title } }
     }
   `, {
     input: {
@@ -381,15 +414,16 @@ async function savePage() {
       url: editForm.value.source.url || undefined,
       isPublished: editForm.value.isPublished,
       textParentId: editForm.value.textParentId || undefined,
+      parentId: editForm.value.parentId || undefined,
       tags: editForm.value.tags.map((t: any) => ({ name: t.name, value: t.value }))
     }
   })
   
   if (data?.saveWikiPage) {
     showSuccess('Knowledge graph updated')
-    const newPath = data.saveWikiPage.path
-    if (newPath && newPath !== currentPath.value) {
-      router.push('/wiki/' + newPath)
+    const newFullPath = data.saveWikiPage.materializedPath || data.saveWikiPage.path
+    if (newFullPath && newFullPath !== currentPath.value) {
+      router.push('/wiki/' + newFullPath)
     } else {
       await fetchPage()
     }

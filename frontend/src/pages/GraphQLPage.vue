@@ -6,6 +6,19 @@
 </template>
 
 <script setup lang="ts">
+/**
+ * GraphQLPage.vue  (/graphql)
+ *
+ * Developer tool: embeds the GraphiQL IDE in a full-height iframe.
+ *
+ * The iframe URL points to the server's /graphql playground endpoint and
+ * automatically injects the current user's JWT as a `?token=` query param.
+ * This allows the embedded GraphiQL to make authenticated queries without
+ * requiring any extra login step.
+ *
+ * Only accessible via the router — not linked in the main nav by default.
+ * Intended for development and schema exploration.
+ */
 import { computed } from 'vue'
 
 const graphqlUrl = computed(() => {

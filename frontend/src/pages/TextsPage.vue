@@ -6,7 +6,7 @@
         <div class="text-caption text-grey font-weight-medium">MANAGING {{ totalCount }} KNOWLEDGE SOURCES</div>
       </div>
       <v-spacer></v-spacer>
-      <v-btn color="primary" variant="flat" rounded="pill" prepend-icon="mdi-plus" size="large" class="px-6" @click="showCreateDialog = true">
+      <v-btn color="primary" variant="flat" rounded="pill" prepend-icon="mdi-plus" size="large" class="px-6" @click="openEstablishSource">
         New Source
       </v-btn>
     </div>
@@ -137,86 +137,21 @@
       <v-icon size="100" color="primary" class="mb-6 opacity-20">mdi-database-plus-outline</v-icon>
       <div class="text-h4 font-weight-black text-white mb-2 uppercase tracking-tighter">Your Graph is Empty</div>
       <div class="text-body-1 text-grey mb-8">Establish a new knowledge source to begin your structural research.</div>
-      <v-btn color="primary" variant="flat" rounded="pill" size="large" class="px-10" prepend-icon="mdi-plus" @click="showCreateDialog = true">
+      <v-btn color="primary" variant="flat" rounded="pill" size="large" class="px-10" prepend-icon="mdi-plus" @click="openEstablishSource">
         Establish Source
       </v-btn>
     </div>
 
-    <!-- Create Text Dialog -->
-    <v-dialog v-model="showCreateDialog" max-width="700">
-      <v-card rounded="xl" class="pa-4">
-        <v-tabs v-model="createTab" color="primary" grow class="mb-4">
-          <v-tab value="manual">Manual Entry</v-tab>
-          <v-tab value="url">From URL</v-tab>
-        </v-tabs>
-
-        <v-window v-model="createTab" style="max-height: 70vh; overflow-y: auto;" class="pr-2">
-          <v-window-item value="manual">
-            <v-card-text class="pa-0 pt-4">
-              <MarkdownToolbar @apply="applyManualFormat" class="mb-2" />
-              <v-textarea
-                ref="manualTextArea"
-                v-model="newText.content"
-                label="Text Content"
-                variant="solo-filled"
-                rows="12"
-                placeholder="Paste the text or markdown to add..."
-                auto-grow
-              ></v-textarea>
-              <v-text-field
-                v-model="newText.source.title"
-                label="Source Title"
-                variant="solo-filled"
-                class="mb-4"
-                hide-details
-              ></v-text-field>
-
-              <TextMetadataEditor v-model="newText" />
-            </v-card-text>
-          </v-window-item>
-
-          <v-window-item value="url">
-            <v-card-text class="pa-0 pt-4">
-              <div class="text-body-2 mb-4 text-grey">
-                Paste a URL to extract text from web sources.
-              </div>
-              <v-text-field
-                v-model="newText.source.url"
-                label="URL"
-                variant="solo-filled"
-                prepend-inner-icon="mdi-link-variant"
-              ></v-text-field>
-            </v-card-text>
-          </v-window-item>
-        </v-window>
-
-        <v-card-actions class="mt-4">
-          <v-spacer></v-spacer>
-          <v-btn variant="text" @click="showCreateDialog = false">Cancel</v-btn>
-          <v-btn
-            color="primary"
-            variant="flat"
-            rounded="pill"
-            class="px-8"
-            :loading="loading"
-            :disabled="!newText.content.trim() && !newText.source.url.trim()"
-            @click="createText"
-          >
-            Add Text
-          </v-btn>
-        </v-card-actions>
-      </v-card>
-    </v-dialog>
-
     <!-- Add Delete Confirmation Dialog -->
     <v-dialog v-model="showDeleteDialog" max-width="400">
-      <v-card rounded="xl" class="pa-4">
-        <v-card-title>Confirm Deletion</v-card-title>
-        <v-card-text>Remove this content from the repository?</v-card-text>
+      <v-card rounded="xl" class="pa-4 text-center">
+        <v-icon size="64" color="error" class="mb-4">mdi-alert-circle-outline</v-icon>
+        <div class="text-h5 font-weight-black mb-2 uppercase tracking-tighter">Confirm Deletion</div>
+        <div class="text-body-2 text-grey mb-6">Remove this source and all its content? This action cannot be undone.</div>
         <v-card-actions>
           <v-spacer></v-spacer>
-          <v-btn variant="text" @click="showDeleteDialog = false">Cancel</v-btn>
-          <v-btn color="error" variant="flat" rounded="pill" @click="deleteText">Delete</v-btn>
+          <v-btn variant="text" rounded="pill" class="px-6" @click="showDeleteDialog = false">Cancel</v-btn>
+          <v-btn color="error" variant="flat" rounded="pill" class="px-8" @click="deleteText">Delete</v-btn>
         </v-card-actions>
       </v-card>
     </v-dialog>
@@ -224,75 +159,55 @@
 </template>
 
 <script setup lang="ts">
-import { ref, computed, onMounted, watch } from 'vue'
-import { useRoute, useRouter } from 'vue-router'
+/**
+ * TextsPage.vue  (/sources  or  /texts)
+ *
+ * Sources Hub — the main knowledge graph browser.
+ *
+ * Displays all Source nodes (WIKI_PAGE, WEB, etc.) owned by the current user
+ * as a scrollable list. Each card shows:
+ *   - Type avatar (wiki-page icon vs. web icon)
+ *   - Identity path (path / materializedPath)
+ *   - Title and first 300 chars of the latest Text
+ *   - Tags, published state, type chip, and last-updated date
+ *
+ * Clicking a card navigates to `/wiki/<materializedPath>` (WikiPage).
+ *
+ * Filtering:
+ *   - Full-text search on title, path, and materializedPath.
+ *   - Date range (createdAt)
+ *   - Tag filter (key+value pairs via TagManager)
+ *   - Published-only toggle
+ *   All filters are reactive — changing any filter resets to page 1.
+ *
+ * Pagination: infinite scroll via "Load More" button (20 items / page).
+ *
+ * Deletion: `deleteWikiPage` mutation (hard-delete). Confirmed via dialog.
+ */
+import { ref, onMounted, watch } from 'vue'
+import { useRouter } from 'vue-router'
 import { graphql, showSuccess } from '../composables/useGraphql'
+import { openEstablishSource } from '../composables/useGlobalActions'
 import TagManager from '../components/TagManager.vue'
-import TextMetadataEditor from '../components/TextMetadataEditor.vue'
-import MarkdownToolbar from '../components/MarkdownToolbar.vue'
-import { useMarkdownEditor } from '../composables/useMarkdownEditor'
 
-const route = useRoute()
 const router = useRouter()
 
 const sources = ref<any[]>([])
-const manualTextArea = ref<any>(null)
-const { applyFormat: applyManualFormat } = useMarkdownEditor(computed({
-  get: () => newText.value.content,
-  set: (val) => newText.value.content = val
-}) as any, manualTextArea)
-
-const search = ref('')
 const loading = ref(false)
-const showCreateDialog = ref(false)
 const showDeleteDialog = ref(false)
-const showDetailDialog = ref(false)
-const showEditDialog = ref(false)
 const textToDelete = ref<any>(null)
-const selectedText = ref<any>(null)
-const createTab = ref('manual')
-const urlToExtract = ref('')
 const allTags = ref<any[]>([])
 const totalCount = ref(0)
 const itemsPerPage = 20
 const currentPage = ref(1)
+const search = ref('')
+const showFilters = ref(false)
 
 const filters = ref({
-  search: '',
   startDate: '',
   endDate: '',
   tags: [] as any[],
   isPublished: false
-})
-
-const showFilters = ref(false)
-
-const newText = ref({
-  content: '',
-  language: 'et',
-  isPublished: false,
-  textParentId: null as string | null,
-  path: null as string | null,
-  source: { title: '', url: '', type: 'ARTICLE', description: '' },
-  tags: [] as any[]
-})
-const editText = ref({
-  id: '',
-  content: '',
-  language: 'et',
-  path: null as string | null,
-  tags: [] as any[]
-})
-
-const languages = [
-  { label: 'Eesti (ET)', value: 'et' },
-  { label: 'English (EN)', value: 'en' },
-]
-
-const sourceTypes = ['ARTICLE', 'BOOK', 'VIDEO', 'PODCAST', 'SOCIAL_MEDIA', 'OTHER']
-
-const filteredSources = computed(() => {
-  return sources.value
 })
 
 function formatDate(dateVal: string | number) {
@@ -380,8 +295,8 @@ async function fetchTags() {
   if (data?.tags) allTags.value = data.tags
 }
 
-function confirmDelete(text: any) {
-  textToDelete.value = text
+function confirmDelete(source: any) {
+  textToDelete.value = source
   showDeleteDialog.value = true
 }
 
@@ -404,46 +319,6 @@ function navigateToWiki(source: any) {
     router.push('/wiki/' + path)
   }
 }
-
-async function createText() {
-  if (!newText.value.content.trim()) return
-  loading.value = true
-  let path = newText.value.path?.trim()
-  const sourceUrl = newText.value.source.url?.trim()
-  
-  if (!path && sourceUrl && sourceUrl.startsWith('http')) {
-      // If URL provided but no path, we can still use URL as a fallback for path generation
-      // but user said "don't use imports/ prefix" and "use ID if no path"
-      // so we keep it empty to let server decide or use a temp slug.
-      path = '' 
-  } else if (!path) {
-      path = ''
-  }
-
-  const data = await graphql(`
-    mutation($input: WikiPageInput!) {
-      saveWikiPage(input: $input) { id path title }
-    }
-  `, {
-    input: {
-      path: path || `id-${Date.now()}`, // temp path if empty, server will fix
-      title: newText.value.source.title || 'Manual Entry',
-      content: newText.value.content,
-      language: newText.value.language,
-      url: newText.value.source.url || undefined,
-      isPublished: newText.value.isPublished,
-      textParentId: newText.value.textParentId || undefined,
-      tags: newText.value.tags.map(t => ({ name: t.name, value: t.value }))
-    }
-  })
-
-  if (data?.saveWikiPage) {
-    showSuccess('Wiki Entry Created')
-    showCreateDialog.value = false
-    fetchSources(true)
-  }
-  loading.value = false
-}
 </script>
 
 <style scoped>
@@ -459,8 +334,8 @@ async function createText() {
 .line-clamp-2 {
   display: -webkit-box;
   -webkit-line-clamp: 2;
+  line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
 </style>
- Riverside:

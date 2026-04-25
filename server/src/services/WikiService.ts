@@ -24,14 +24,14 @@ export class WikiService {
      * Resolves a path like "science/ai/agents" to a Source ID.
      * Automatically creates intermediate Source parents if they don't exist.
      */
-    async resolvePath(path: string | null | undefined, _userId: string): Promise<string> {
+    async resolvePath(path: string | null | undefined, userId: string): Promise<string> {
         if (!path) {
             // No path provided - create a standalone source using its ID as local path and materialized path
             const source = await this.prisma.source.create({
                 data: {
                     type: 'WIKI_PAGE',
                     status: 'ACTIVE',
-                    userId: _userId
+                    userId: userId
                 }
             });
             const updated = await this.prisma.source.update({
@@ -45,10 +45,13 @@ export class WikiService {
             return updated.id;
         }
 
-        // Find by materialized path
+        // Find by materialized path (Global Namespace, only active)
         const slugifiedPath = path.split('/').filter(s => s.length > 0).map(s => this.slugify(s)).join('/');
-        let source = await this.prisma.source.findUnique({
-            where: { materializedPath: slugifiedPath }
+        let source = await this.prisma.source.findFirst({
+            where: { 
+                materializedPath: slugifiedPath,
+                existent: true
+            }
         });
 
         if (!source) {
@@ -61,21 +64,24 @@ export class WikiService {
             for (const segment of segments) {
                 currentFullPath = currentFullPath ? `${currentFullPath}/${segment}` : segment;
                 
-                let segmentSource = await this.prisma.source.findUnique({
-                    where: { materializedPath: currentFullPath }
+                let segmentSource = await this.prisma.source.findFirst({
+                    where: { 
+                        materializedPath: currentFullPath,
+                        existent: true
+                    }
                 });
 
                 if (!segmentSource) {
                     segmentSource = await this.prisma.source.create({
                         data: {
+                            userId,
                             path: segment,
                             materializedPath: currentFullPath,
                             depth: currentDepth,
                             title: segment,
                             type: 'WIKI_PAGE',
                             parentId: currentParentId,
-                            status: 'ACTIVE',
-                            userId: _userId
+                            status: 'ACTIVE'
                         }
                     });
                 }
@@ -102,6 +108,7 @@ export class WikiService {
         publishedAt?: string,
         isPublished?: boolean,
         textParentId?: string,
+        parentId?: string,
         tags?: { name: string, value?: string | null }[]
     }) {
         let sourceId: string;
@@ -118,8 +125,8 @@ export class WikiService {
         let localSlug = input.path ? this.slugify(input.path) : null;
         
         // 3. Determine Parent Source
-        let parentSourceId: string | null = null;
-        if (input.textParentId) {
+        let parentSourceId: string | null = input.parentId || null;
+        if (!parentSourceId && input.textParentId) {
             const parentText = await this.prisma.text.findUnique({
                 where: { id: input.textParentId },
                 select: { originSourceId: true }
@@ -278,11 +285,14 @@ export class WikiService {
     }
 
     /**
-     * Fetches lazy-loaded tree
+     * Fetches lazy-loaded tree (Global Namespace, filtering hidden)
      */
     async getChildren(parentId: string | null) {
         return await this.prisma.source.findMany({
-            where: { parentId },
+            where: { 
+                parentId,
+                existent: true 
+            },
             include: {
                 _count: {
                     select: { children: true }

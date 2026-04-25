@@ -1,13 +1,13 @@
 // --- CORE WIKI IDENTITY: SOURCE ---
 
 model Source {
-    id          String  @id @default(cuid())
-    url         String? @db.VarChar(2560) // External URL
-    path        String? // Local Identity Slug (e.g., "physics")
+    id               String  @id @default(cuid())
+    url              String? @db.VarChar(2560) // External URL
+    path             String? // Local Identity Slug (e.g., "physics")
     materializedPath String? @unique // Full Routing Path (e.g., "science/physics")
-    depth       Int     @default(0)
-    title       String? @db.VarChar(255)
-    description String? @db.Text
+    depth            Int     @default(0)
+    title            String? @db.VarChar(255)
+    description      String? @db.Text
 
     type             String    @default("WEB") // WEB, BOOK, WIKI_PAGE, etc.
     reliabilityScore Float?    @default(1.0)
@@ -45,6 +45,7 @@ model Source {
 
     @@unique([url])
     @@unique([parentId, path])
+    @@index([existent])
     @@index([parentId])
     @@index([materializedPath])
 }
@@ -81,7 +82,6 @@ model Text {
 
     @@index([originSourceId])
 }
-
 
 // --- SEMANTIC LINKING: RELATION ---
 
@@ -155,6 +155,11 @@ model Feed {
 
     sources Source[] @relation("FeedSources")
 
+    defaultTagName  String?
+    defaultTagValue String?
+    aiPrompt        String?  @db.Text  // AI task to run on every new item
+
+    enabled   Boolean  @default(true)
     existent  Boolean? @default(true)
     createdAt DateTime @default(now())
     updatedAt DateTime @updatedAt

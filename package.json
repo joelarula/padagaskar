@@ -10,6 +10,7 @@
   },
   "devDependencies": {
     "concurrently": "^9.2.1",
-    "prisma-erd-generator": "^2.4.2"
+    "prisma-erd-generator": "^2.4.2",
+    "typescript": "^6.0.3"
   }
 }

@@ -1,4 +1,27 @@
 <script setup lang="ts">
+/**
+ * SourceReviewPage.vue  (/review)
+ *
+ * Source Inbox — a triage queue for newly discovered feed articles.
+ *
+ * Shows all Sources with status "NEW" (from feeds belonging to the current user)
+ * in a sortable data-table. Each row shows the title, origin feed name, and
+ * discovery date.
+ *
+ * Per-row actions:
+ *   - Discard — marks the source as DISCARDED via `batchDiscardSources`.
+ *   - Process  — calls `initializeTextFromSource`, which:
+ *       1. Scrapes the full article content
+ *       2. Runs AI summary + author extraction (AIService)
+ *       3. Creates a Text record with an AI Summary
+ *       4. Triggers embedding chunking (ChunkingService)
+ *       5. Sets source status to PROCESSED
+ *
+ * Batch actions:
+ *   - Select multiple rows and click "Discard Selected" to bulk-discard.
+ *
+ * Pagination: 20 items per page, server-side via skip/take.
+ */
 import { ref, onMounted, computed } from 'vue'
 import { graphql } from '../composables/useGraphql'
 import { useRouter } from 'vue-router'
@@ -202,6 +225,7 @@ onMounted(fetchSources)
 .truncate-title {
   display: -webkit-box;
   -webkit-line-clamp: 1;
+  line-clamp: 1;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }

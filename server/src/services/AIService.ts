@@ -6,15 +6,25 @@ dotenv.config();
 
 export class AIService {
     private static genAI = new GoogleGenerativeAI(process.env.GOOGLE_API_KEY || '');
-    private static AI_MODEL_NAME = 'gemini-3.1-flash-lite-preview';
+    private static AI_MODEL_NAME = 'gemini-2.0-flash-lite';
+    private static FEED_PROMPT_MODEL_NAME = 'gemini-2.0-flash';
     private static PROMPT_TEMPLATE_NAME = 'TEXT_SUMMARY_ENGINE_V1';
-    
+
     private static model = AIService.genAI.getGenerativeModel({
         model: AIService.AI_MODEL_NAME,
         generationConfig: {
             temperature: 0.1,
             maxOutputTokens: 2048,
             responseMimeType: 'application/json',
+        }
+    });
+
+    // Freeform model for user-defined feed prompts (no JSON enforcement)
+    private static feedPromptModel = AIService.genAI.getGenerativeModel({
+        model: AIService.FEED_PROMPT_MODEL_NAME,
+        generationConfig: {
+            temperature: 0.3,
+            maxOutputTokens: 4096,
         }
     });
 
@@ -105,5 +115,33 @@ export class AIService {
     static async summarize(text: string): Promise<string> {
         const { summary } = await this.analyzeContent(text);
         return summary;
+    }
+
+    /**
+     * Runs a user-defined AI prompt against scraped article content.
+     * Used by the Feed pipeline to process each new item automatically.
+     * Returns freeform text (markdown) — the user controls the output format via their prompt.
+     */
+    static async runFeedPrompt(
+        userPrompt: string, 
+        article: { title: string; content: string; url: string }
+    ): Promise<string> {
+        try {
+            const fullPrompt = `${userPrompt}
+
+---
+ARTICLE TITLE: ${article.title}
+ARTICLE URL: ${article.url}
+
+ARTICLE CONTENT:
+${article.content}`;
+
+            const result = await this.feedPromptModel.generateContent(fullPrompt);
+            const response = await result.response;
+            return response.text().trim();
+        } catch (error: any) {
+            console.error(`AI Feed prompt error for "${article.title}":`, error.message);
+            return `[AI processing failed: ${error.message}]`;
+        }
     }
 }

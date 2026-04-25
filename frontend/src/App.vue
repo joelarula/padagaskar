@@ -5,11 +5,17 @@
       v-model="drawer" 
       :rail="rail" 
       permanent 
-      width="280" 
+      :width="rail ? 64 : sidebarWidth" 
       color="grey-darken-4" 
       class="border-e-0 sidebar-blur"
       @click="rail = false"
     >
+      <!-- Resize Handle -->
+      <div 
+        v-if="!rail"
+        class="resize-handle" 
+        @mousedown.stop="startResize"
+      ></div>
       <div class="pa-4 d-flex align-center" :class="{ 'justify-center': rail }">
         <v-icon color="primary" :size="rail ? 32 : 24" class="transition-all">mdi-brain-freeze-outline</v-icon>
         <span v-if="!rail" class="ms-3 text-h6 font-weight-black tracking-tight">PADA<span class="text-primary text-h6">GASKAR</span></span>
@@ -39,6 +45,8 @@
       <v-app-bar-title class="text-subtitle-1 font-weight-bold">
         {{ currentRouteName }}
       </v-app-bar-title>
+
+      <v-btn icon="mdi-plus-circle-outline" variant="text" color="primary" class="me-2" @click="openEstablishSource"></v-btn>
 
       <v-spacer></v-spacer>
 
@@ -84,6 +92,9 @@
 
       <!-- Logged in - show routed page -->
       <router-view v-else class="fade-in" />
+
+      <!-- Global Actions -->
+      <EstablishSourceDialog />
     </v-main>
 
     <v-snackbar v-model="snackbar" :timeout="3000">
@@ -97,13 +108,41 @@ import { ref, computed, onMounted } from 'vue'
 import { useRoute } from 'vue-router'
 import { useAuth, user } from './composables/useAuth'
 import { snackbar, snackbarText } from './composables/useGraphql'
+import { openEstablishSource } from './composables/useGlobalActions'
 import WikiSidebar from './components/WikiSidebar.vue'
+import EstablishSourceDialog from './components/EstablishSourceDialog.vue'
 
 const { fetchUser, loginWithGoogle, logout, initAuth, token } = useAuth()
 const route = useRoute()
 
 const rail = ref(false)
 const drawer = ref(true)
+const sidebarWidth = ref(parseInt(localStorage.getItem('sidebarWidth') || '280'))
+const isResizing = ref(false)
+
+function startResize() {
+  isResizing.value = true
+  document.addEventListener('mousemove', handleResize)
+  document.addEventListener('mouseup', stopResize)
+  document.body.style.cursor = 'col-resize'
+  document.body.style.userSelect = 'none'
+}
+
+function handleResize(e: MouseEvent) {
+  if (!isResizing.value) return
+  // Minimum 200px, Maximum 600px
+  const newWidth = Math.min(Math.max(200, e.clientX), 600)
+  sidebarWidth.value = newWidth
+}
+
+function stopResize() {
+  isResizing.value = false
+  document.removeEventListener('mousemove', handleResize)
+  document.removeEventListener('mouseup', stopResize)
+  document.body.style.cursor = ''
+  document.body.style.userSelect = ''
+  localStorage.setItem('sidebarWidth', sidebarWidth.value.toString())
+}
 
 const currentRouteName = computed(() => {
   return (route.name as string)?.toUpperCase() || 'PADAGASKAR'
@@ -141,6 +180,25 @@ onMounted(async () => {
 
 .transition-all {
   transition: all 0.3s ease;
+}
+
+.resize-handle {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 4px;
+  height: 100%;
+  cursor: col-resize;
+  z-index: 100;
+  transition: background-color 0.2s;
+}
+
+.resize-handle:hover {
+  background-color: rgba(var(--v-theme-primary), 0.3);
+}
+
+.resize-handle:active {
+  background-color: rgba(var(--v-theme-primary), 0.8);
 }
 
 .fade-in {
