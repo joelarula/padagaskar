@@ -34,9 +34,17 @@ export function setupAuth(app: Express, prisma: PrismaClient) {
     app.use(passport.initialize());
 
     // Auth routes
-    app.get('/auth/google',
-        passport.authenticate('google', { scope: ['profile', 'email'], session: false })
-    );
+    app.get('/auth/google', (req, res, next) => {
+        // If a callback param is present, encode it in the state param
+        const { callback } = req.query;
+        const state = callback ? Buffer.from(JSON.stringify({ callback })).toString('base64') : undefined;
+        const authenticator = passport.authenticate('google', {
+            scope: ['profile', 'email'],
+            session: false,
+            state
+        });
+        authenticator(req, res, next);
+    });
 
     app.get('/auth/google/callback',
         passport.authenticate('google', { session: false, failureRedirect: '/login' }),
@@ -44,9 +52,24 @@ export function setupAuth(app: Express, prisma: PrismaClient) {
             const user = req.user as any;
             const token = jwt.sign({ sub: user.id, email: user.email }, JWT_SECRET, { expiresIn: '7d' });
 
-            // Redirect to frontend with token
-            const frontendUrl = process.env.FRONTEND_URL || 'http://localhost:5173';
-            res.redirect(`${frontendUrl}/?token=${token}`);
+            // Try to extract callback from state param
+            let callback: string | undefined = undefined;
+            if (req.query.state) {
+                try {
+                    const stateObj = JSON.parse(Buffer.from(req.query.state as string, 'base64').toString('utf8'));
+                    if (typeof stateObj.callback === 'string') {
+                        callback = stateObj.callback;
+                    }
+                } catch (e) {
+                    // ignore
+                }
+            }
+            if (callback && /^https?:\/\//.test(callback)) {
+                res.redirect(`${callback}${callback.includes('?') ? '&' : '?'}token=${token}`);
+            } else {
+                const frontendUrl = process.env.FRONTEND_URL || 'http://localhost:5173';
+                res.redirect(`${frontendUrl}/?token=${token}`);
+            }
         }
     );
 

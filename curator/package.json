@@ -20,6 +20,10 @@
       {
         "command": "curator.helloWorld",
         "title": "Curator: Hello World"
+      },
+      {
+        "command": "curator.signIn",
+        "title": "Curator: Sign In to Wiki"
       }
     ],
     "viewsContainers": {
