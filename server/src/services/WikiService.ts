@@ -289,9 +289,10 @@ export class WikiService {
      */
     async getChildren(parentId: string | null) {
         return await this.prisma.source.findMany({
-            where: { 
+            where: {
                 parentId,
-                existent: true 
+                existent: true,
+                type: 'WIKI_PAGE'
             },
             include: {
                 _count: {

@@ -45,11 +45,12 @@ export class WikiApiClient {
     curatorLog.appendLine('[Curator] GraphQL getWikiPageByPath response: ' + JSON.stringify(json));
     return json.data?.wikiPage || null;
   }
-  async getWikiChildren(parentMaterializedPath: string): Promise<WikiSource[]> {
+
+  async getWikiChildren(parentMaterializedPath: string | null): Promise<WikiSource[]> {
     const token = await getStoredToken(this.context);
     const query = `
-      query($parentPath: String) {
-        wikiTree(parentId: $parentPath) {
+      query($parentId: ID) {
+        wikiTree(parentId: $parentId) {
           id
           materializedPath
           path
@@ -60,7 +61,9 @@ export class WikiApiClient {
     `;
     const variables: any = {};
     if (parentMaterializedPath) {
-      variables.parentPath = parentMaterializedPath;
+      variables.parentId = parentMaterializedPath;
+    } else {
+      variables.parentId = null;
     }
     curatorLog.appendLine('[Curator] GraphQL getWikiChildren query: ' + query);
     curatorLog.appendLine('[Curator] GraphQL getWikiChildren variables: ' + JSON.stringify(variables));

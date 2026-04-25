@@ -10,6 +10,7 @@
   "categories": [
     "Other"
   ],
+  "icon": "media/curator.svg",
   "activationEvents": [
     "onView:curator-explorer",
     "onCommand:curator.helloWorld"

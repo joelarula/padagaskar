@@ -25,7 +25,7 @@ export class WikiFileSystemProvider implements vscode.FileSystemProvider {
   }
 
 
-  stat(uri: vscode.Uri): vscode.FileStat | Thenable<vscode.FileStat> {
+  async stat(uri: vscode.Uri): Promise<vscode.FileStat> {
     // Treat 'index' and any leaf name as files, others as directories
     const parts = uri.path.split('/').filter(Boolean);
     if (parts.length === 0) {
@@ -34,12 +34,23 @@ export class WikiFileSystemProvider implements vscode.FileSystemProvider {
     }
     const last = parts[parts.length - 1];
     if (last === 'index') {
+      // 'index' is always a file (folder text)
       return { type: vscode.FileType.File, ctime: 0, mtime: 0, size: 0 };
     }
     // For non-index, check if it's a leaf (file) or a directory
-    // Synchronously return File, but ideally should check API for children
-    // For now, treat as file if not 'index', but readDirectory will show correct types
-    return { type: vscode.FileType.File, ctime: 0, mtime: 0, size: 0 };
+    let materializedPath = uri.path.replace(/^\//, '');
+    if (materializedPath.endsWith('/')) materializedPath = materializedPath.slice(0, -1);
+    const api = new WikiApiClient(this.context);
+    const page = await api.getWikiPageByPath(materializedPath);
+    if (!page) throw vscode.FileSystemError.FileNotFound(uri);
+    // If the node has children, it's a directory; otherwise, it's a file
+    const isDir = page._count && page._count.children > 0;
+    return {
+      type: isDir ? vscode.FileType.Directory : vscode.FileType.File,
+      ctime: 0,
+      mtime: 0,
+      size: 0
+    };
   }
 
 
@@ -50,26 +61,25 @@ export class WikiFileSystemProvider implements vscode.FileSystemProvider {
     const api = new WikiApiClient(this.context);
 
     // If root, list all top-level wiki pages (parentId = null)
-    let parentPage = null;
+    let parentId: string | null = null;
     if (materializedPath) {
-      parentPage = await api.getWikiPageByPath(materializedPath);
+      const parentPage = await api.getWikiPageByPath(materializedPath);
       if (!parentPage) throw vscode.FileSystemError.FileNotFound(uri);
+      parentId = parentPage.id;
     }
 
     // Always include 'index' for the current node (folder text)
     const entries: [string, vscode.FileType][] = [['index', vscode.FileType.File]];
 
     // Fetch children using API
-    if (api.getWikiChildren) {
-      const children = await api.getWikiChildren(materializedPath);
-      for (const child of children) {
-        // If the child has children, it's a directory; otherwise, it's a file (leaf)
-        const isDir = child._count && child._count.children > 0;
-        entries.push([
-          child.path || child.materializedPath,
-          isDir ? vscode.FileType.Directory : vscode.FileType.File
-        ]);
-      }
+    const children = await api.getWikiChildren(parentId);
+    for (const child of children) {
+      // If the child has children, it's a directory; otherwise, it's a file (leaf)
+      const isDir = child._count && child._count.children > 0;
+      entries.push([
+        child.path || child.materializedPath,
+        isDir ? vscode.FileType.Directory : vscode.FileType.File
+      ]);
     }
     return entries;
   }
@@ -95,12 +105,10 @@ export class WikiFileSystemProvider implements vscode.FileSystemProvider {
       const fileName = parts.pop()!;
       const parentPath = parts.join('/');
       // Fetch children and find the matching child
-      if (api.getWikiChildren) {
-        const children = await api.getWikiChildren(parentPath);
-        const child = children.find((c: any) => c.path === fileName || c.materializedPath === fileName);
-        if (child) {
-          pagePath = child.materializedPath;
-        }
+      const children = await api.getWikiChildren(parentPath);
+      const child = children.find((c: any) => c.path === fileName || c.materializedPath === fileName);
+      if (child) {
+        pagePath = child.materializedPath;
       }
     }
     const page = await api.getWikiPageByPath(pagePath);
