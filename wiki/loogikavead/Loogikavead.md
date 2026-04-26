@@ -1,3 +1,7 @@
+# ---
+allikas: "https://www.logicallyfallacious.com/fallacies"
+keel: "eesti"
+# ---
 
 # Loogikavead (Loogilised eksitused)
 
@@ -8,8 +12,8 @@ See on kureeritud loetelu loogikavigadest, kohandatud allikast [logicallyfallaci
 ## A
 
 
-**[Accent Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Accent-Fallacy)**  
-When the meaning of a word, sentence, or idea is interpreted differently by changing where the accent falls.
+**[Aksendi viga](https://www.logicallyfallacious.com/logicalfallacies/Accent-Fallacy)**  
+Kui sõna, lause või idee tähendus muutub sõltuvalt sellest, millisele osale või sõnale pannakse rõhk.
 
 
 **[Accident Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Accident-Fallacy)**  
