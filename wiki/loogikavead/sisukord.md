@@ -128,7 +128,7 @@ Loogikaviga, kus väite tõesust või väärust hinnatakse selle põhjal, kas se
 
 
 **[Definitsioonile viitamise eksitus](definitsioonile-viitamise-eksitus.md)**  
-Loogikaviga, kus mõiste tähendust piiratakse ainult sõnastiku või ametliku definitsiooniga, eirates konteksti.
+Loogikaviga, kus sõnaraamatu piiratud definitsiooni kasutatakse tõendina, et mõistel ei saa olla teisi, laiendatud või isegi vastuolulisi tähendusi. Sõnaraamat ei otsusta tähenduste üle, vaid kajastab aktsepteeritud kasutust kirjutamise hetkel. Argument muutub eksitavaks, kui ignoreeritakse konteksti ja mõiste tegelikku kasutust.
 
 
 **[Meeleheite eksitus](meeleheite-eksitus.md)**  
@@ -315,7 +315,7 @@ Loogikaviga, kus argumendile vastatakse ilma selle sisulisi punkte käsitlemata.
 ## B
 
 **[Baassageduse eksitus](baassageduse-eksitus.md)**  
-Loogikaviga, kus eiratakse statistilist infot ja eelistatakse otsustamisel ebaolulist infot, mida peetakse ekslikult oluliseks.
+Loogikaviga, kus statistilist infot eiratakse ning otsustamisel kasutatakse hoopis ebaolulist infot, mida peetakse ekslikult oluliseks. Näiteks arvatakse, et erandlikud omadused (nt geniaalsus või usk) muudavad tõenäosusi oluliselt, kuigi tegelikult kehtivad üldised statistilised baassagedused. Sageli ignoreeritakse tõenäosusteooriat ja keskendutakse kõrvalistele tunnustele või isiklikele uskumustele.
 
 **[Küsimuse eeldamine](kusimuse-eeldamine.md)**  
 Loogikaviga, kus järeldus eeldatakse juba ühe eelduse sees – tegemist on ringtõestusega.
@@ -330,7 +330,9 @@ Asserting that a proposition is true solely on the authority making the claim, i
 Loogikaviga, kus arvatakse, et häving ja selle taastamiseks kulutatud raha on ühiskonnale kasulik, eirates varjatud kulusid.
 
 **[Bulverism](bulverism.md)**  
-Loogikaviga, kus väidet peetakse valeks või vigaseks üksnes selle esitaja motiivide, tausta või isikuomaduste tõttu, mitte sisu põhjal.
+Loogikaviga, kus eeldatakse ja väidetakse, et argument on vigane või vale üksnes selle esitaja oletatavate motiivide, sotsiaalse identiteedi või muu isikuga seotud omaduse tõttu. Argumenti ei hinnata selle sisu, vaid esitaja isiku või motiivide põhjal, mis muudab arutelu sisutuks ja väldib tegelikku vastuväidet.
+
+
 ## C
 
 **[Causal Reductionism](https://www.logicallyfallacious.com/logicalfallacies/Causal-Reductionism)**  

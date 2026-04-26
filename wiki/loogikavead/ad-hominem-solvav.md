@@ -1,6 +1,6 @@
 ---
 allikad:
-	- "https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Abusive"
+ - "https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Abusive"
 loogikavea_nimi: "Ad hominem (solvav)"
 ingliskeelne_nimi: "Ad Hominem (Abusive)"
 ladinakeelne_nimi: "argumentum ad hominem"
@@ -11,7 +11,7 @@ keel: "eesti"
 
 (tuntud ka kui: isiklik solvang, isiklik rünnak, solvav eksitus, isikule suunatud rünnak, allika mahategemine, nimepidi sõimamine, karikatuurne ümberlükkamine, vastu isikut, vastu meest)
 
-en:(also known as:  personal abuse, personal attacks, abusive fallacy, appeal to the person, damning the source, name calling, refutation by caricature, against the person, against the man)
+inglise (also known as:  personal abuse, personal attacks, abusive fallacy, appeal to the person, damning the source, name calling, refutation by caricature, against the person, against the man)
 
 **Kirjeldus:**
 See loogikaviga seisneb selles, et rünnatakse argumendi esitaja isikut, mitte tema argumenti, kusjuures isiklik rünnak on argumendi seisukohalt täiesti ebaoluline.

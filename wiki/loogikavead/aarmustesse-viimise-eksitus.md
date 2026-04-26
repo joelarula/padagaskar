@@ -1,5 +1,6 @@
+---
 allikad:
-	- "https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Extremes"
+ - "https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Extremes"
 loogikavea_nimi: "Äärmustesse viimise eksitus"
 ingliskeelne_nimi: "Appeal to Extremes"
 keel: "eesti"

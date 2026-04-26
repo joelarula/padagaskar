@@ -1,5 +1,6 @@
+---
 allikad:
-	- "https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque"
+ - "https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque"
 loogikavea_nimi: "Ad hominem (sina ise ka)"
 ingliskeelne_nimi: "Ad Hominem (Tu quoque)"
 ladinakeelne_nimi: "argumentum ad hominem tu quoque"
