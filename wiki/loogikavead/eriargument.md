@@ -10,6 +10,7 @@ ladinakeelne_nimi: "ad hoc"
 keel: "eesti"
 ---
 
+
 # Eriargument (Ad hoc argument, Ad Hoc Rescue)
 
 **Kirjeldus:**
