@@ -1,79 +1,70 @@
-// --- ANALYSIS & REPORTS ---
-
 model PromptTemplate {
-    id          String          @id @default(cuid())
-    name        String          @unique // e.g., "RHETORIC_ANALYSIS_V1"
-    description String?
-    versions    PromptVersion[]
+  id          String          @id @default(cuid())
+  name        String          @unique
+  description String?
+  versions    PromptVersion[]
 
-    existent  Boolean? @default(true)
-    createdAt DateTime  @default(now())
+  existent  Boolean? @default(true)
+  createdAt DateTime @default(now())
 }
 
 model PromptVersion {
-    id         String         @id @default(cuid())
-    templateId String
-    template   PromptTemplate @relation(fields: [templateId], references: [id])
-    version    Int
-    content    String         @db.Text // The actual system instructions
+  id         String         @id @default(cuid())
+  templateId String
+  template   PromptTemplate @relation(fields: [templateId], references: [id])
+  version    Int
+  content    String         @db.Text
 
-    // Optimized for a specific model
-    optimizedForModelId String?
-    optimizedForModel   AIModel? @relation(fields: [optimizedForModelId], references: [id])
+  optimizedForModelId String?
+  optimizedForModel   AIModel? @relation(fields: [optimizedForModelId], references: [id])
 
-    reports   Report[]
+  reports Report[]
 
-    existent  Boolean? @default(true)
-    createdAt DateTime  @default(now())
+  existent  Boolean? @default(true)
+  createdAt DateTime @default(now())
 }
 
 model Report {
-    id     String @id @default(cuid())
-    status String @default("PENDING") // PENDING, PROCESSING, COMPLETED, FAILED
+  id     String @id @default(cuid())
+  status String @default("PENDING")
 
-    // Targets
-    sourceId String
-    source   Source @relation(fields: [sourceId], references: [id], onDelete: Cascade)
+  sourceId String
+  source   Source @relation(fields: [sourceId], references: [id], onDelete: Cascade)
 
-    // A report can analyze multiple texts (e.g. current version and previous ones)
-    texts Text[] @relation("ReportContent")
+  texts Text[] @relation("ReportContent")
 
-    // Configuration
-    aiModelId       String
-    aiModel         AIModel @relation(fields: [aiModelId], references: [id])
-    promptVersionId String?
-    promptVersion   PromptVersion? @relation(fields: [promptVersionId], references: [id])
+  aiModelId       String
+  aiModel         AIModel        @relation(fields: [aiModelId], references: [id])
+  promptVersionId String?
+  promptVersion   PromptVersion? @relation(fields: [promptVersionId], references: [id])
 
-    // Results (populated when status is COMPLETED)
-    resultJson        Json? 
-    metrics           AnalysisMetric[]
-    isAiGenerated     Boolean @default(true)
-    transparencyLabel String?
-    
-    // Metadata
-    isPublished Boolean @default(false)
-    permalink   String? @unique
-    tags        Tag[]
+  resultJson        Json?
+  metrics           AnalysisMetric[]
+  isAiGenerated     Boolean          @default(true)
+  transparencyLabel String?
 
-    existent  Boolean? @default(true)
-    createdAt DateTime  @default(now())
-    updatedAt DateTime  @updatedAt
+  isPublished Boolean @default(false)
+  permalink   String? @unique
+  tags        Tag[]
+
+  existent  Boolean? @default(true)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
 }
 
 model AnalysisMetric {
-    id       String  @id @default(cuid())
-    reportId String?
-    report   Report? @relation(fields: [reportId], references: [id], onDelete: Cascade)
+  id       String  @id @default(cuid())
+  reportId String?
+  report   Report? @relation(fields: [reportId], references: [id], onDelete: Cascade)
 
-    // Metric can point to the specific Text entity (Specimen, Feature, or Page)
-    textId String?
-    text   Text?   @relation(fields: [textId], references: [id], onDelete: Cascade)
+  textId String?
+  text   Text?   @relation(fields: [textId], references: [id], onDelete: Cascade)
 
-    name  String // e.g., "Ethics Index", "Bias Score", "Sentiment"
-    value Float // e.g., 0.85
+  name  String
+  value Float
 
-    justification String
+  justification String
 
-    existent  Boolean? @default(true)
-    createdAt DateTime  @default(now())
+  existent  Boolean? @default(true)
+  createdAt DateTime @default(now())
 }

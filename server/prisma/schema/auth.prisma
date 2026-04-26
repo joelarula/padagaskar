@@ -1,117 +1,113 @@
-// --- USER & AUTHENTICATION ---
-
 model User {
-    id                String             @id @default(cuid())
-    email             String             @unique
-    name              String?
-    googleId          String?            @unique
-    consents          UserConsent[]
-    sessions          Session[]
-    roles             UserRole[]
-    quotas            UserQuota[]
-    texts             Text[]
-    feeds             Feed[]
-    sources           Source[]
+  id       String        @id @default(cuid())
+  email    String        @unique
+  name     String?
+  googleId String?       @unique
+  consents UserConsent[]
+  sessions Session[]
+  roles    UserRole[]
+  quotas   UserQuota[]
+  texts    Text[]
+  feeds    Feed[]
+  sources  Source[]
 
-    existent  Boolean? @default(true)
-    createdAt DateTime  @default(now())
-    updatedAt DateTime  @updatedAt
+  existent  Boolean? @default(true)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
 }
 
 model Role {
-    id          String     @id @default(cuid())
-    name        String     @unique // "ADMIN", "MODERATOR", "USER"
-    description String?    @db.Text
-    users       UserRole[]
+  id          String     @id @default(cuid())
+  name        String     @unique
+  description String?    @db.Text
+  users       UserRole[]
 
-    existent  Boolean? @default(true)
-    createdAt DateTime  @default(now())
-    updatedAt DateTime  @updatedAt
+  existent  Boolean? @default(true)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
 }
 
 model UserRole {
-    userId String
-    user   User   @relation(fields: [userId], references: [id], onDelete: Cascade)
-    roleId String
-    role   Role   @relation(fields: [roleId], references: [id], onDelete: Cascade)
+  userId String
+  user   User   @relation(fields: [userId], references: [id], onDelete: Cascade)
+  roleId String
+  role   Role   @relation(fields: [roleId], references: [id], onDelete: Cascade)
 
-    existent Boolean? @default(true)
+  existent Boolean? @default(true)
 
-    @@id([userId, roleId])
+  @@id([userId, roleId])
 }
 
 model UserQuota {
-    id      String   @id @default(cuid())
-    userId  String
-    user    User     @relation(fields: [userId], references: [id], onDelete: Cascade)
-    type    String // e.g., "ANALYSIS_PER_DAY", "TOKEN_LIMIT"
-    limit   Int
-    usage   Int      @default(0)
-    resetAt DateTime
+  id      String   @id @default(cuid())
+  userId  String
+  user    User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  type    String
+  limit   Int
+  usage   Int      @default(0)
+  resetAt DateTime
 
-    existent  Boolean? @default(true)
-    createdAt DateTime  @default(now())
-    updatedAt DateTime  @updatedAt
+  existent  Boolean? @default(true)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
 
-    @@unique([userId, type])
+  @@unique([userId, type])
 }
 
 model Session {
-    id        String        @id @default(cuid())
-    userId    String
-    user      User          @relation(fields: [userId], references: [id], onDelete: Cascade)
-    token     String        @unique
-    expiresAt DateTime
+  id        String   @id @default(cuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  token     String   @unique
+  expiresAt DateTime
 
-    existent  Boolean? @default(true)
-    createdAt DateTime  @default(now())
+  existent  Boolean? @default(true)
+  createdAt DateTime @default(now())
 
-    consents UserConsent[]
+  consents UserConsent[]
 }
 
 model UserConsent {
-    id      String             @id @default(cuid())
-    userId  String
-    user    User               @relation(fields: [userId], references: [id], onDelete: Cascade)
-    termsId String
-    terms   TermsAndConditions @relation(fields: [termsId], references: [id])
+  id      String             @id @default(cuid())
+  userId  String
+  user    User               @relation(fields: [userId], references: [id], onDelete: Cascade)
+  termsId String
+  terms   TermsAndConditions @relation(fields: [termsId], references: [id])
 
-    // Flexible Entity Link (similar to AuditLog)
-    entityType String?
-    entityId   String?
+  entityType String?
+  entityId   String?
 
-    sessionId String?
-    session   Session? @relation(fields: [sessionId], references: [id])
+  sessionId String?
+  session   Session? @relation(fields: [sessionId], references: [id])
 
-    // Granular consent types
-    consentType String @default("GENERAL") // "GENERAL", "AI_PROCESSING", "THIRD_PARTY_DISCLOSURE", "PUBLISHING", "TOPIC_CREATION", "TEXT_CREATION", "COPYRIGHT_ACK"
-    consentDate      DateTime @default(now())
+  consentType String   @default("GENERAL")
+  consentDate DateTime @default(now())
 
-    existent Boolean? @default(true)
+  existent Boolean? @default(true)
 
-    @@index([userId])
-    @@index([termsId])
-    @@index([entityId, entityType])
+  @@index([userId])
+  @@index([termsId])
+  @@index([entityId, entityType])
 }
 
 model TermsAndConditions {
-    id       String        @id @default(cuid())
-    version  String        @unique
-    content  String        @db.Text
-    isActive Boolean       @default(true)
-    consents UserConsent[]
+  id       String        @id @default(cuid())
+  version  String        @unique
+  content  String        @db.Text
+  isActive Boolean       @default(true)
+  consents UserConsent[]
 
-    existent  Boolean? @default(true)
-    createdAt DateTime  @default(now())
-    updatedAt DateTime  @updatedAt
+  existent  Boolean? @default(true)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
 }
 
 model AuditLog {
-    id         String   @id @default(cuid())
-    entityType String
-    entityId   String
-    action     String
-    userId     String?
-    metadata   Json?
-    timestamp  DateTime @default(now())
+  id         String   @id @default(cuid())
+  entityType String
+  entityId   String
+  action     String
+  userId     String?
+  metadata   Json?
+  timestamp  DateTime @default(now())
 }
