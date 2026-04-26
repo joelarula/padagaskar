@@ -1,9 +1,13 @@
+
 ---
 allikas: "https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Silence"
 loogikavea_nimi: "Vaikuse eksitus"
 ingliskeelne_nimi: "Argument from Silence"
 keel: "eesti"
+alternatiivsed_nimed:
+  - "Vaikimine-on-nõusolek"
 ---
+
 
 # Vaikuse eksitus
 
