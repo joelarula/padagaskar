@@ -52,8 +52,8 @@ See loogikaviga tekib, kui vähemalt ühest eitavast eelväitest (nt "mitte", "e
 See viga tekib siis, kui arvatakse, et kui üks valik osutus tõeseks, siis teine peab kindlasti olema vale. See eirab võimalust, et mõlemad variandid võivad korraga kehtida.
 
 
-**[Affirming the Consequent](https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent)**  
-If the consequent is true, assuming the antecedent must be true as well.
+**[Põhjus-tagajärje eksitus](jarelduse-kinnitamine.md)**
+See loogikaviga tekib, kui eeldatakse, et kui tagajärg (järeldus) on tõene, siis peab ka eeltingimus (eeldus) olema tõene. Tegelikkuses võib tagajärg olla tõene ka muudel põhjustel, mitte ainult selle konkreetse eelduse tõttu.
 
 
 **[Alleged Certainty](https://www.logicallyfallacious.com/logicalfallacies/Alleged-Certainty)**  
