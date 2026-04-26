@@ -76,28 +76,28 @@ See loogikaviga seisneb selles, et keegi väidab end teadvat või kogenud olevat
 See loogikaviga seisneb selles, et argumendis kasutatakse sõnu või väljendeid, millel on mitu võimalikku tähendust. See võib tekitada segadust, võimaldada väiteid tõlgendada erinevalt või suunata arutelu soovitud suunas, ilma et sisu oleks tegelikult selge.
 
 
-**[Anonymous Authority](https://www.logicallyfallacious.com/logicalfallacies/Anonymous-Authority)**  
-Using an unspecified source as evidence (e.g., “They say…”).
+**[Anonüümse autoriteedi eksitus](anonyymse-autoriteedi-eksitus.md)**  
+See loogikaviga seisneb selles, et väite kinnitamiseks viidatakse ebamäärasele või nimetamata allikale (nt "öeldakse", "arvatakse", "eksperdid väidavad"). Selline viitamine jätab mulje, et väitel on autoriteetne tugi, kuid tegelikult puudub konkreetne tõendus või allikas.
 
 
-**[Anthropomorphism](https://www.logicallyfallacious.com/logicalfallacies/Anthropomorphism)**  
-Attributing human traits to non-human entities in an argument.
+**[Antrpomorfism](antrpomorfism.md)**  
+See loogikaviga seisneb selles, et mitte-inimlikule objektile, loomale või nähtusele omistatakse inimlikke omadusi, tundeid või kavatsusi. Selline võte võib muuta argumendi emotsionaalsemaks või veenvamaks, kuid see ei põhine tegelikkusel.
 
 
-**[Appeal to Accomplishment](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Accomplishment)**  
-Sheltering an argument from criticism based on the arguer’s accomplishments.
+**[Saavutustele viitamise eksitus](saavutustele-viitamise-eksitus.md)**  
+See loogikaviga seisneb selles, et argumendi sisu asemel kaitstakse väidet või seisukohta viitega väitja varasematele saavutustele või tunnustustele. Selle asemel, et arutleda esitatud väite üle, püütakse kriitikat tõrjuda, rõhutades väitja edu või saavutusi, justkui need muudaksid argumendi automaatselt kehtivaks.
 
 
-**[Appeal to Anger](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Anger)**  
-Substituting anger or rage for evidence in an argument.
+**[Viha peale mängimine](viha-peale-mangimine.md)**  
+See loogikaviga seisneb selles, et argumendis asendatakse loogilised põhjendused või tõendid vihaga, raevuga või pahameelega. Selle asemel, et esitada ratsionaalseid argumente, püütakse kuulajat mõjutada tugeva emotsionaalse reaktsiooni kaudu.
 
 
-**[Appeal to Authority](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Authority)**  
-Insisting a claim is true because an authority said so, without other evidence.
+**[Autoriteedile viitamise eksitus](autoriteedile-viitamise-eksitus.md)**  
+See loogikaviga seisneb selles, et väite tõesust põhjendatakse ainult sellega, et mõni autoriteet on seda öelnud, ilma et toodaks muid tõendeid või loogilisi põhjendusi. Argument muutub nõrgaks, kui autoriteedi arvamust kasutatakse ainsa alusena.
 
 
-**[Appeal to Celebrity](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Celebrity)**  
-Accepting a claim based on a celebrity’s status, not the argument’s strength.
+**[Kuulsusele viitamise eksitus](kuulsusele-viitamise-eksitus.md)**  
+See loogikaviga seisneb selles, et väite või seisukoha tõesust põhjendatakse ainult sellega, et seda toetab mõni tuntud inimene või kuulsus, mitte argumendi enda tugevusega. Kuulsuse arvamus ei muuda väidet automaatselt tõeseks.
 
 
 **[Appeal to Closure](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Closure)**  
