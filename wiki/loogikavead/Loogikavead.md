@@ -12,20 +12,20 @@ See on kureeritud loetelu loogikavigadest, kohandatud allikast [logicallyfallaci
 ## A
 
 
-**[Aksendi viga](https://www.logicallyfallacious.com/logicalfallacies/Accent-Fallacy)**  
+**[Aksendi viga](aksendi viga)**  
 Kui sõna, lause või idee tähendus muutub sõltuvalt sellest, millisele osale või sõnale pannakse rõhk.
 
 
-**[Accident Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Accident-Fallacy)**  
-Applying a general rule to all situations, ignoring legitimate exceptions.
+**[Õigustatud erandite eiramine (Accident Fallacy)](Oigustatud-erandite-eiramine.md)**  
+Kui püütakse rakendada üldreeglit kõikidele olukordadele, kuigi on selgeid erandeid. Lihtsustatud reeglid või seadused ei arvesta sageli õigustatud erandeid ning nende eiramine tähendab ratsionaalsuse ohverdamist näilise täiusliku seaduse nimel.
 
 
-**[Ad Fidentia](https://www.logicallyfallacious.com/logicalfallacies/Ad-Fidentia)**  
-Attacking a person’s self-confidence instead of the argument or evidence.
+**[Enesekindluse ründamine (Ad Fidentia)](Enesekindluse-rundamine.md)**  
+Rünnatakse inimese enesekindlust, mitte tema argumenti või esitatud tõendeid.
 
 
-**[Ad Hoc Rescue](https://www.logicallyfallacious.com/logicalfallacies/Ad-Hoc-Rescue)**  
-Making up excuses to defend a belief despite contrary evidence.
+**[Ad hoc argument (Ad Hoc Rescue)](Ad-hoc-argument.md)**  
+Sageli hakatakse uskumuse kaitseks, vaatamata vastupidistele tõenditele, välja mõtlema uusi vabandusi või põhjendusi.
 
 
 **[Ad Hominem (Abusive)](https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Abusive)**  
