@@ -99,8 +99,8 @@ See loogikaviga seisneb selles, et väite tõesust põhjendatakse ainult sellega
 See loogikaviga seisneb selles, et väite või seisukoha tõesust põhjendatakse ainult sellega, et seda toetab mõni tuntud inimene või kuulsus, mitte argumendi enda tugevusega. Kuulsuse arvamus ei muuda väidet automaatselt tõeseks.
 
 
-**[Lõpetatuse eksitus](lopetatuse-eksitus.md)**  
-Loogikaviga, kus aktsepteeritakse tõendeid või järeldusi ainult selleks, et arutelu lõpetada, mitte seetõttu, et need oleksid tegelikult kehtivad või tõesed.
+**[Otsad kokku argument](otsad-kokku-argument.md)**  
+Loogikaviga, kus aktsepteeritakse tõendeid või järeldusi ainult selleks, et arutelu lõpetada või "otsad kokku tõmmata", mitte seetõttu, et need oleksid tegelikult kehtivad või tõesed.
 
 
 **[Kokkusattumusele viitamise eksitus](kokkusattumusele-viitamise-eksitus.md)**  
@@ -312,26 +312,25 @@ Loogikaviga, kus argumendile vastatakse ilma selle sisulisi punkte käsitlemata.
 
 
 
-
 ## B
 
-**[Base Rate Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Base-Rate-Fallacy)**  
-Ignoring statistical information in favor of using irrelevant information, that one incorrectly believes to be relevant, to make a judgment.
+**[Baassageduse eksitus](baassageduse-eksitus.md)**  
+Loogikaviga, kus eiratakse statistilist infot ja eelistatakse otsustamisel ebaolulist infot, mida peetakse ekslikult oluliseks.
 
-**[Begging the Question](https://www.logicallyfallacious.com/logicalfallacies/Begging-the-Question)**  
-Any form of argument where the conclusion is assumed in one of the premises. This is a form of circular reasoning.
+**[Küsimuse eeldamine](kusimuse-eeldamine.md)**  
+Loogikaviga, kus järeldus eeldatakse juba ühe eelduse sees – tegemist on ringtõestusega.
 
-**[Biased Sample Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Biased-Sample-Fallacy)**  
-Drawing a conclusion about a population based on a sample that is biased, or chosen in order to make it appear the population on average is different than it actually is.
+**[Viltune valim](viltune-valim.md)**  
+Loogikaviga, kus tehakse järeldus kogu populatsiooni kohta kallutatud või ebaesindusliku valimi põhjal.
 
 **[Blind Authority Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Blind-Authority-Fallacy)**  
 Asserting that a proposition is true solely on the authority making the claim, ignoring any counter-evidence.
 
-**[Broken Window Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Broken-Window-Fallacy)**  
-The illusion that destruction and money spent in recovery from destruction is a net-benefit to society, overlooking opportunity costs.
+**[Katkise akna eksitus](katkise-akna-eksitus.md)**  
+Loogikaviga, kus arvatakse, et häving ja selle taastamiseks kulutatud raha on ühiskonnale kasulik, eirates varjatud kulusid.
 
-**[Bulverism](https://www.logicallyfallacious.com/logicalfallacies/Bulverism)**  
-Assuming and asserting that an argument is flawed or false because of the arguer's motives, social identity, or other characteristic associated with their identity.
+**[Bulverism](bulverism.md)**  
+Loogikaviga, kus väidet peetakse valeks või vigaseks üksnes selle esitaja motiivide, tausta või isikuomaduste tõttu, mitte sisu põhjal.
 ## C
 
 **[Causal Reductionism](https://www.logicallyfallacious.com/logicalfallacies/Causal-Reductionism)**  

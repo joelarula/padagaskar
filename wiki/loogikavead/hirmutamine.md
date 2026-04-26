@@ -2,6 +2,7 @@
 allikas: "https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Fear"
 loogikavea_nimi: "Hirmutamine"
 ingliskeelne_nimi: "Appeal to Fear"
+ladinakeelne_nimi: "Ad Metum"
 keel: "eesti"
 ---
 

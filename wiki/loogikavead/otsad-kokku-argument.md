@@ -1,11 +1,11 @@
 ---
 allikas: "https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Closure"
-loogikavea_nimi: "Lõpetatuse eksitus"
+loogikavea_nimi: "Otsad kokku argument"
 ingliskeelne_nimi: "Appeal to Closure"
 keel: "eesti"
 ---
 
-**Lõpetatuse eksitus**
+**Otsad kokku argument**
 
 See loogikaviga seisneb selles, et aktsepteeritakse tõendeid või järeldusi ainult selleks, et saada vaidlusele või arutelule lõpp, mitte seetõttu, et need oleksid tegelikult kehtivad või tõesed.
 
