@@ -226,88 +226,88 @@ Loogikaviga, kus arvatakse, et seaduse järgimine on alati moraalselt õige või
 Loogikaviga, kus mõne suure saavutuse (nt inimese Kuule saatmine) näidet kasutatakse tõestusena, et ka muud, sageli täiesti erinevad eesmärgid peaksid olema lihtsalt saavutatavad.
 
 
-**[Appeal to Tradition](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Tradition)**  
-Using tradition as evidence that something is correct.
+**[Traditsioonile viitamise eksitus](traditsioonile-viitamise-eksitus.md)**  
+Loogikaviga, kus midagi peetakse õigeks või paremaks ainult seetõttu, et see on olnud traditsioon või seda on alati tehtud.
 
 
-**[Appeal to Trust](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Trust)**  
-Assuming information from a trusted source is always true (or false if untrusted).
+**[Usaldusele viitamise eksitus](usaldusele-viitamise-eksitus.md)**  
+Loogikaviga, kus usaldusväärsest allikast pärit infot peetakse alati tõeseks (või ebausaldusväärsest allikast pärit infot alati valeks), sõltumata sisust või tõenditest.
 
 
-**[Argument by Emotive Language](https://www.logicallyfallacious.com/logicalfallacies/Argument-by-Emotive-Language)**  
-Using emotionally charged words instead of facts and evidence.
+**[Emotsionaalse keele kasutamise eksitus](emotsionaalse-keele-kasutamise-eksitus.md)**  
+Loogikaviga, kus argumenteerimisel kasutatakse emotsionaalselt laetud sõnu faktide või tõendite asemel, et mõjutada kuulaja tundeid.
 
 
-**[Argument by Fast Talking](https://www.logicallyfallacious.com/logicalfallacies/Argument-by-Fast-Talking)**  
-Using fast talking to appear intelligent or confident, or to prevent rebuttal.
+**[Kiire kõne eksitus](kiire-kone-eksitus.md)**  
+Loogikaviga, kus argumenteerimisel räägitakse kiiresti, et jätta endast targema või enesekindlama mulje või takistada vastuväiteid.
 
 
-**[Argument by Gibberish](https://www.logicallyfallacious.com/logicalfallacies/Argument-by-Gibberish)**  
-Using jargon or incoherent language to give the appearance of a strong argument.
+**[Segase jutu eksitus](segase-jutu-eksitus.md)**  
+Loogikaviga, kus keerulise žargooni või arusaamatu keele abil püütakse jätta mulje tugevast argumendist, kuigi tegelikult sisu puudub või on segane.
 
 
-**[Argument by Personal Charm](https://www.logicallyfallacious.com/logicalfallacies/Argument-by-Personal-Charm)**  
-Making an argument stronger by the arguer’s personal characteristics.
+**[Isikliku sarmi eksitus](isikliku-sarmi-eksitus.md)**  
+Loogikaviga, kus argumendi tugevust püütakse suurendada väitleja isiklike omaduste, sarmi või meeldivuse abil, mitte argumentide sisuga.
 
 
-**[Argument by Pigheadedness](https://www.logicallyfallacious.com/logicalfallacies/Argument-by-Pigheadedness)**  
-Refusing to accept a well-proven argument out of stubbornness.
+**[Jonnakuse eksitus](jonnakuse-eksitus.md)**  
+Loogikaviga, kus inimene keeldub vastu võtmast hästi põhjendatud või tõestatud argumenti lihtsalt jonnakuse või kangekaelsuse tõttu.
 
 
-**[Argument by Repetition](https://www.logicallyfallacious.com/logicalfallacies/Argument-by-Repetition)**  
-Repeating an argument or premise instead of providing evidence.
+**[Kordamise eksitus](kordamise-eksitus.md)**  
+Loogikaviga, kus väidet või argumenti korratakse korduvalt, selle asemel et esitada uusi tõendeid või põhjendusi.
 
 
-**[Argument by Selective Reading](https://www.logicallyfallacious.com/logicalfallacies/Argument-by-Selective-Reading)**  
-Focusing on the weakest argument as if it were the best.
+**[Valikuline lugemine](valikuline-lugemine.md)**  
+Loogikaviga, kus keskendutakse vastaspoole argumendi kõige nõrgemale osale, esitades seda kui kogu argumendi tugevaimat või olulisemat osa.
 
 
-**[Argument from Age](https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Age)**  
-Assuming older generations had superior wisdom, so their conclusions are more true.
+**[Vanusele viitamise eksitus](vanusele-viitamise-eksitus.md)**  
+Loogikaviga, kus eeldatakse, et vanematel põlvkondadel on suurem tarkus ning nende järeldused on seetõttu tõesemad või väärtuslikumad.
 
 
-**[Argument from Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Fallacy)**  
-Assuming an argument is false because it contains a fallacy.
+**[Loogikaveale viitamise eksitus](loogikaveale-viitamise-eksitus.md)**  
+Loogikaviga, kus arvatakse, et kui argumendis leidub loogikaviga, siis kogu järeldus peab olema vale.
 
 
-**[Argument from False Authority](https://www.logicallyfallacious.com/logicalfallacies/Argument-from-False-Authority)**  
-Presenting someone as an expert when they are not.
+**[Vale autoriteedi eksitus](vale-autoriteedi-eksitus.md)**  
+Loogikaviga, kus kedagi esitletakse eksperdina või autoriteedina valdkonnas, milles tal tegelikult puudub pädevus.
 
 
-**[Argument from Hearsay](https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Hearsay)**  
-Using testimony from a non-eyewitness as evidence.
+**[Kuuldustele viitamise eksitus](kuuldustele-viitamise-eksitus.md)**  
+Loogikaviga, kus tõendina kasutatakse kellegi ütlust või kuulujuttu, mitte otsest kogemust või usaldusväärset allikat.
 
 
-**[Argument from Ignorance](https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance)**  
-Assuming something is true because there is no evidence to the contrary.
+**[Pealiskaudne argument](pealiskaudne-argument.md)**  
+Loogikaviga, kus eeldatakse, et midagi on tõsi lihtsalt seetõttu, et pole tõendeid selle vastu (või vastupidi).
 
 
-**[Argument from Incredulity](https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Incredulity)**  
-Assuming something is false because you can’t believe it.
+**[Uskumatuse eksitus](uskumatuse-eksitus.md)**  
+Loogikaviga, kus arvatakse, et midagi ei saa olla tõsi lihtsalt seetõttu, et see tundub uskumatuna või raske uskuda.
 
 
-**[Argument from Silence](https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Silence)**  
-Drawing a conclusion from an opponent’s silence.
+**[Vaikuse eksitus](vaikuse-eksitus.md)**  
+Loogikaviga, kus järeldatakse midagi vastase või teise osapoole vaikimise põhjal.
 
 
-**[Argument of the Beard](https://www.logicallyfallacious.com/logicalfallacies/Argument-of-the-Beard)**  
-Arguing that no distinction can be made between two extremes because there is no clear dividing point.
+**[Habeme argument](habeme-argument.md)**  
+Loogikaviga, kus väidetakse, et kahe äärmuse vahel ei saa teha vahet, kuna puudub selge piir.
 
 
-**[Argument to Moderation](https://www.logicallyfallacious.com/logicalfallacies/Argument-to-Moderation)**  
-Assuming the compromise between two positions must be correct.
+**[Mõõdukuse eksitus](moodukuse-eksitus.md)**  
+Loogikaviga, kus eeldatakse, et kahe vastandliku seisukoha vahepealne kompromiss on alati õige või parim lahendus.
 
 
-**[Argument to the Purse](https://www.logicallyfallacious.com/logicalfallacies/Argument-to-the-Purse)**  
-Judging the truth of an argument based on the financial status of the author.
+**[Rahakoti argument](rahakoti-argument.md)**  
+Loogikaviga, kus argumendi tõesust hinnatakse selle esitaja rahalise seisu põhjal.
 
 
-**[Arguments](https://www.logicallyfallacious.com/logicalfallacies/Arguments)**  
-Assuming all arguments are adversarial confrontations.
+**[Vaidluse eksitus](vaidluse-eksitus.md)**  
+Loogikaviga, kus eeldatakse, et kõik argumendid või arutelud on vastandlikud või vaenulikud vastasseisud.
 
 
-**[Avoiding the Issue](https://www.logicallyfallacious.com/logicalfallacies/Avoiding-the-Issue)**  
-Responding to an argument by not addressing its points.
+**[Teemast möödarääkimise eksitus](teemast-moodaraakimise-eksitus.md)**  
+Loogikaviga, kus argumendile vastatakse ilma selle sisulisi punkte käsitlemata.
 
 
 
