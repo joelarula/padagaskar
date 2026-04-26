@@ -118,56 +118,56 @@ Loogikaviga, kus väite toetuseks püütakse samastuda tavalise inimese või rah
 Loogikaviga, kus väidet põhjendatakse üksnes "terve mõistuse" argumendiga, ilma sisuliste tõenditeta.
 
 
-**[Appeal to Complexity](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Complexity)**  
-Claiming an argument is false or improbable because it’s not understood.
+**[Liigselt keerukaks pidamise eksitus](liigselt-keerukaks-pidamise-eksitus.md)**  
+Loogikaviga, kus argumenti peetakse valeks või ebatõenäoliseks lihtsalt seetõttu, et see tundub keeruline või arusaamatu.
 
 
-**[Appeal to Consequences](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Consequences)**  
-Claiming an idea is true or false based on whether its consequences are desirable.
+**[Tagajärgedele viitamise eksitus](tagajargedele-viitamise-eksitus.md)**  
+Loogikaviga, kus väite tõesust või väärust hinnatakse selle põhjal, kas selle tagajärjed on soovitavad või mitte.
 
 
-**[Appeal to Definition](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Definition)**  
-Using a dictionary definition as the only possible meaning of a term.
+**[Definitsioonile viitamise eksitus](definitsioonile-viitamise-eksitus.md)**  
+Loogikaviga, kus mõiste tähendust piiratakse ainult sõnastiku või ametliku definitsiooniga, eirates konteksti.
 
 
-**[Appeal to Desperation](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Desperation)**  
-Arguing a solution is right because something must be done, and this is “something.”
+**[Meeleheite eksitus](meeleheite-eksitus.md)**  
+Loogikaviga, kus lahendust peetakse õigeks ainult seetõttu, et midagi tuleb teha, ning pakutav lahendus on "midagi".
 
 
-**[Appeal to Emotion](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Emotion)**  
-Using emotion instead of reason to win an argument.
+**[Emotsioonidele rõhumise eksitus](emotsioonidele-rohumise-eksitus.md)**  
+Loogikaviga, kus argumenteerimisel kasutatakse emotsioone loogika või tõendite asemel, et veenda kuulajat.
 
 
-**[Appeal to Equality](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Equality)**  
-Asserting something is true or false based on an assumed equality.
+**[Võrdsusele viitamise eksitus](vordsusele-viitamise-eksitus.md)**  
+Loogikaviga, kus väite tõesust või väärust põhjendatakse oletatava võrdsusega, mitte sisuliste argumentidega.
 
 
-**[Appeal to Extremes](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Extremes)**  
-Turning a reasonable argument into an absurd one by taking it to extremes.
+**[Äärmustesse viimise eksitus](aarmustesse-viimise-eksitus.md)**  
+Loogikaviga, kus mõistlik argument muudetakse absurdseks, viies selle äärmuseni või liialdades.
 
 
-**[Appeal to Faith](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Faith)**  
-Abandoning reason and calling for faith when reason disproves a claim.
+**[Usule viitamise eksitus](usule-viitamise-eksitus.md)**  
+Loogikaviga, kus loogika või tõendite asemel kutsutakse üles uskuma, eriti kui mõistus väidet ei toeta.
 
 
-**[Appeal to False Authority](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-False-Authority)**  
-Using an alleged authority as evidence when they are not an expert on the topic.
+**[Vale autoriteedile viitamise eksitus](vale-autoriteedile-viitamise-eksitus.md)**  
+Loogikaviga, kus väite või argumendi toetuseks viidatakse isikule, kes ei ole antud valdkonna ekspert. Selline viitamine jätab mulje autoriteetsest toest, kuid tegelikult puudub asjakohane pädevus või teadmised.
 
 
-**[Appeal to Fear](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Fear)**  
-Using fear, not evidence, to motivate acceptance of an idea.
+**[Hirmutamine](hirmutamine.md)**  
+Loogikaviga, kus kuulajat püütakse veenda või mõjutada hirmu tekitamise kaudu, mitte loogiliste argumentide või tõendite abil.
 
 
-**[Appeal to Flattery](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Flattery)**  
-Using flattery to win support for an argument.
+**[Meelitamise eksitus](meelitamise-eksitus.md)**  
+Loogikaviga, kus toetust või nõusolekut püütakse võita meelituste või ülistavate sõnade abil, mitte loogiliste argumentide või tõendite kaudu.
 
 
-**[Appeal to Force](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Force)**  
-Using threats or coercion instead of reasons to justify a conclusion.
+**[Jõuga ähvardamise eksitus](jouga-ahvardamise-eksitus.md)**  
+Loogikaviga, kus seisukohta püütakse õigustada ähvarduste, surve või jõu kasutamisega, mitte loogiliste argumentide või tõenditega.
 
 
-**[Appeal to Heaven](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Heaven)**  
-Asserting a claim must be accepted because it is “the will of God.”
+**[Taevaga õigustamise eksitus](taevaga-oigustamise-eksitus.md)**  
+Loogikaviga, kus seisukohta püütakse õigustada väitega, et see on "jumala tahe" või kõrgemast allikast tulenev.
 
 
 **[Appeal to Intuition](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Intuition)**  
