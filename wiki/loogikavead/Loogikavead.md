@@ -52,12 +52,12 @@ See loogikaviga tekib, kui vähemalt ühest eitavast eelväitest (nt "mitte", "e
 See viga tekib siis, kui arvatakse, et kui üks valik osutus tõeseks, siis teine peab kindlasti olema vale. See eirab võimalust, et mõlemad variandid võivad korraga kehtida.
 
 
-**[Põhjus-tagajärje eksitus](jarelduse-kinnitamine.md)**
+**[Põhjus-tagajärje eksitus](pohjus-tagajärje-eksitus.md)**
 See loogikaviga tekib, kui eeldatakse, et kui tagajärg (järeldus) on tõene, siis peab ka eeltingimus (eeldus) olema tõene. Tegelikkuses võib tagajärg olla tõene ka muudel põhjustel, mitte ainult selle konkreetse eelduse tõttu.
 
 
-**[Alleged Certainty](https://www.logicallyfallacious.com/logicalfallacies/Alleged-Certainty)**  
-Asserting a conclusion as certain without evidence.
+**[Kindluse teesklus](kindluse-teesklus.md)**  
+See loogikaviga seisneb selles, et järeldust või väidet esitatakse täiesti kindlana, ilma et selleks oleks piisavalt tõendeid või põhjendusi. Sageli kasutatakse seda võtet, et vältida arutelu või küsimusi, jättes mulje, nagu oleks asi vaieldamatu.
 
 
 **[Alphabet Soup](https://www.logicallyfallacious.com/logicalfallacies/Alphabet-Soup)**  
