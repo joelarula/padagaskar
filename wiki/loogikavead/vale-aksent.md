@@ -1,12 +1,11 @@
-# ---
-# ---
+---
 allikas: "https://www.logicallyfallacious.com/logicalfallacies/Accent-Fallacy"
 keel: "eesti"
 loogikavea_nimi: "Vale aksent"
 alternatiivsed_nimed: ["Aksendi viga", "Accent Fallacy"]
 ingliskeelne_nimi: "Accent Fallacy"
 ladina_nimi: "accentus"
-# ---
+---
 
 # Vale aksent (Accent Fallacy)
 
