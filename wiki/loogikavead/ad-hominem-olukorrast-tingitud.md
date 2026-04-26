@@ -1,6 +1,6 @@
 ---
 allikad:
-	- "https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Circumstantial"
+    - "https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Circumstantial"
 loogikavea_nimi: "Ad hominem olukorrast tingitud"
 ingliskeelne_nimi: "Ad Hominem (Circumstantial)"
 ladinakeelne_nimi: "argumentum ad hominem"
