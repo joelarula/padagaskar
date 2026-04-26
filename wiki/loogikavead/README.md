@@ -3,9 +3,9 @@
 See repositoorium on loodud eesmärgiga koostada väike eestikeelne viki loogikavigadest. Siin kirjeldatakse erinevaid loogikavigu koos näidetega päriselust, et aidata paremini mõista ja ära tunda eksitusi argivestlustes, meedias ja mujal.
 
 ## Eesmärgid
-- Koguda ja kirjeldada olulisemaid loogilis eksitusi eesti keeles
+- Koguda ja kirjeldada olulisemaid loogilisi eksitusi
 - Tuua iga vea juurde näiteid päriselust või avalikust diskussioonist
-- Aidata kaasa kriitilise mõtlemise arengule Eestis
+- Aidata kaasa kriitilise mõtlemise arengule
 
 ## Kuidas panustada?
 - Lisa uusi loogikavigu koos eestikeelsete kirjelduste ja näidetega
