@@ -1,31 +1,42 @@
 ---
-allikas: "https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Abusive"
+allikad:
+	- "https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Abusive"
 loogikavea_nimi: "Ad hominem (solvav)"
 ingliskeelne_nimi: "Ad Hominem (Abusive)"
-ladinakeelne_nimi: "ad hominem"
+ladinakeelne_nimi: "argumentum ad hominem"
 keel: "eesti"
 ---
 
 # Ad hominem (solvav)
 
+(tuntud ka kui: isiklik solvang, isiklik rünnak, solvav eksitus, isikule suunatud rünnak, allika mahategemine, nimepidi sõimamine, karikatuurne ümberlükkamine, vastu isikut, vastu meest)
+
+en:(also known as:  personal abuse, personal attacks, abusive fallacy, appeal to the person, damning the source, name calling, refutation by caricature, against the person, against the man)
+
 **Kirjeldus:**
-Selle loogikavea puhul rünnatakse väitjat isiklikult, mitte tema esitatud argumenti. Selle asemel, et vaielda väite sisu üle, püütakse väitjat solvata, alandada või diskrediteerida, et tema seisukoht tunduks nõrgem või väär.
+See loogikaviga seisneb selles, et rünnatakse argumendi esitaja isikut, mitte tema argumenti, kusjuures isiklik rünnak on argumendi seisukohalt täiesti ebaoluline.
 
 **Loogiline vorm:**
 
-Isik 1 esitab väite X.
-Isik 2 ründab isik 1 iseloomu, välimust, tausta vms.
-Seega X on vale või ebausaldusväärne.
+* Isik 1 väidab Y.
+* Isik 1 on idioot.
+* Järelikult Y ei ole tõene.
 
 **Näide 1:**
 
-"Sa oled lihtsalt rumal, seega su arvamus ei loe."
+> "Minu vastane arvab, et maksude langetamine on hea mõte – ja see on naine, kes sööb igal õhtul liitri jäätist!"
+
+**Selgitus:** Tõsiasi, et naine armastab jäätist, ei puutu maksude langetamisse ja on argumendi seisukohalt ebaoluline. Ad hominem rünnakud on sageli märk sellest, et vastasel pole sisulist vastuväidet.
 
 **Näide 2:**
 
-"Miks ma peaksin sind kuulama? Sa pole isegi ülikooli lõpetanud."
+> "Tony tahab, et me usuksime, et elu tekkis juhuslikult. Tony on jumalatu pätt, kes on rohkem aega veetnud vanglas kui kirikus, nii et ainus, mida temalt kuulda tasub, on parim viis numbrimärke valmistada."
 
-**Nipp:**
-Kui arutelu muutub isiklikuks, mitte sisuliseks, on tegemist ad hominem (solvava) loogikaveaga.
+**Selgitus:** Võib-olla Tony ongi jumalatu pätt, aga see ei puutu kuidagi tema väitesse elu päritolu kohta.
 
-[← Tagasi loogikavigade loendisse](../Loogikavead.md)
+**Erand:** Kui isiklik rünnak on argumendi seisukohalt asjakohane, pole see loogikaviga. Näiteks kui vaieldakse ainult Ben & Jerry’s jäätise maksude üle, oleks jäätisesõltuvus asjakohane.
+
+**Nipp:** Kui sind rünnatakse isiklikult, võta seda komplimendina oma argumendi kvaliteedile – see on sageli märk vastase meeleheitest.
+
+**Viited:**
+- Walton, D. (1998). Ad hominem arguments. University of Alabama Press.
