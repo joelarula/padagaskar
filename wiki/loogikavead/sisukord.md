@@ -136,7 +136,7 @@ Loogikaviga, kus lahendust peetakse õigeks ainult seetõttu, et midagi tuleb te
 
 
 **[Emotsioonidele rõhumise eksitus](emotsioonidele-rohumise-eksitus.md)**  
-Loogikaviga, kus argumenteerimisel kasutatakse emotsioone loogika või tõendite asemel, et veenda kuulajat.
+Loogikaviga, kus emotsiooni kasutatakse loogika asemel, et püüda vaidlus võita. Argument muutub eksitavaks, kui tõendite asemel püütakse kuulajat veenda emotsionaalse apellatsiooni või tunnetega mängimise kaudu, mitte ratsionaalse põhjendusega.
 
 
 **[Võrdsusele viitamise eksitus](vordsusele-viitamise-eksitus.md)**  
@@ -236,7 +236,7 @@ Loogikaviga, kus usaldusväärsest allikast pärit infot peetakse alati tõeseks
 
 
 **[Emotsionaalse keele kasutamise eksitus](emotsionaalse-keele-kasutamise-eksitus.md)**  
-Loogikaviga, kus argumenteerimisel kasutatakse emotsionaalselt laetud sõnu faktide või tõendite asemel, et mõjutada kuulaja tundeid.
+Loogikaviga, kus emotsiooni kasutatakse loogika asemel, et püüda vaidlus võita. Argument muutub eksitavaks, kui tõendite asemel püütakse kuulajat veenda emotsionaalse apellatsiooni või tunnetega mängimise kaudu, mitte ratsionaalse põhjendusega.
 
 
 **[Kiire kõne eksitus](kiire-kone-eksitus.md)**  
