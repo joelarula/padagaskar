@@ -19,13 +19,16 @@ Aksendi viga (tuntud ka kui rõhuasetuse viga, prosoodiaviga) tekib siis, kui s�
 Väide esitatakse rõhuga sõnal X, andes väitele tähenduse Y.
 Väidet tõlgendatakse rõhuga sõnal A, andes väitele tähenduse B.
 
-## Näide 1
-Filmis "My Cousin Vinny" küsib politseinik Billilt: "At what point did you shoot the clerk?" ("Mis hetkel sa tulistasid müüjat?") Bill vastab šokeeritult: "I shot the clerk? I shot the clerk?" Hiljem kohtus loeb politseinik Bill'i ütlust kui ülestunnistust: "...ja ta ütles: 'I shot the clerk. I shot the clerk.'"
+## Näide 
+Valerõhu eksitus: "Armu anda mitte hukkata"
+See on klassikaline näide sellest, kuidas kirjavahemärgi puudumine või vale rõhuasetus muudab lause tähenduse vastupidiseks.
 
-Selgitus: Politseinik mõistis Bill'i küsimust kui ülestunnistust, kuna ta oli veendunud Bill'i süüs ega märganud küsimuse intonatsiooni. See polnud otseselt eksitav taktika, vaid pigem kriitilise mõtlemise puudumine.
+Variant A (Armuandmine): "Armu anda, mitte hukkata."
+(Rõhk on sõnal "armu", paus on pärast seda. Tulemus: inimene jääb ellu.)
 
-## Näide 2
-Broadway muusikalis "The Book of Mormon" õpetab üks tegelane, kuidas "halbu mõtteid" saab lihtsalt "välja lülitada" (nagu lülitiga). Peategelane ütleb: "I'm not having gay thoughts" ("Mul ei ole geimõtteid"), rõhutades sõna "I'm" (mina). Teised tegelased reageerivad: "Hurraa! See töötas!" Rõhu asetus muudab lause tähendust.
+Variant B (Hukkamine): "Armu anda mitte, hukkata."
+(Rõhk on sõnal "mitte", paus on pärast seda. Tulemus: inimene surmatakse.)
+
 
 ## Nipp
 Meie eelarvamused võivad panna meid häälelist nüanssi ignoreerima. Kuula aktiivselt ja kriitiliselt ning ära kiirusta järeldustega.
