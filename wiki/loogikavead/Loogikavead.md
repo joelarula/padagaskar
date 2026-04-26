@@ -60,20 +60,20 @@ See loogikaviga tekib, kui eeldatakse, et kui tagajärg (järeldus) on tõene, s
 See loogikaviga seisneb selles, et järeldust või väidet esitatakse täiesti kindlana, ilma et selleks oleks piisavalt tõendeid või põhjendusi. Sageli kasutatakse seda võtet, et vältida arutelu või küsimusi, jättes mulje, nagu oleks asi vaieldamatu.
 
 
-**[Alphabet Soup](https://www.logicallyfallacious.com/logicalfallacies/Alphabet-Soup)**  
-Using excessive acronyms to appear knowledgeable or to confuse.
+**[Terminipada](terminipada-eksitus.md)**  
+See loogikaviga seisneb selles, et kasutatakse liigset hulka lühendeid, akronüüme või tehnilisi termineid, et jätta endast targema või asjatundlikuma mulje või hoopis kuulajat segadusse ajada. Sageli kasutatakse seda võtet, et vältida sisulist arutelu või varjata argumentide nõrkust.
 
 
-**[Alternative Advance](https://www.logicallyfallacious.com/logicalfallacies/Alternative-Advance)**  
-Presenting two choices that are essentially the same, worded differently.
+**[Valiku eksitus](valiku-eksitus.md)**  
+See loogikaviga seisneb selles, et esitatakse kaks (või enam) valikut, mis tegelikult on sisult samad, kuid sõnastatud erinevalt. Sellise võtte eesmärk võib olla kuulaja eksitamine või valikuvõimaluse illusiooni loomine.
 
 
-**[Amazing Familiarity](https://www.logicallyfallacious.com/logicalfallacies/Amazing-Familiarity)**  
-Claiming knowledge that seems impossible to have obtained.
+**[Imeline kõigeteadja](imeline-koigeteadja.md)**  
+See loogikaviga seisneb selles, et keegi väidab end teadvat või kogenud olevat midagi, mis on tegelikult väga ebatõenäoline või lausa võimatu. Sellise väitega püütakse jätta mulje, et ollakse asjaga väga hästi kursis või omatakse erilisi teadmisi.
 
 
-**[Ambiguity Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Ambiguity-Fallacy)**  
-Using unclear phrases with multiple definitions in an argument.
+**[Udujutt](udujutt.md)**  
+See loogikaviga seisneb selles, et argumendis kasutatakse sõnu või väljendeid, millel on mitu võimalikku tähendust. See võib tekitada segadust, võimaldada väiteid tõlgendada erinevalt või suunata arutelu soovitud suunas, ilma et sisu oleks tegelikult selge.
 
 
 **[Anonymous Authority](https://www.logicallyfallacious.com/logicalfallacies/Anonymous-Authority)**  
