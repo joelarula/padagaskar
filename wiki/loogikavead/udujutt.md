@@ -1,10 +1,12 @@
 ---
-allikas: "https://www.logicallyfallacious.com/logicalfallacies/Ambiguity-Fallacy"
+allikas:
+ - "https://www.logicallyfallacious.com/logicalfallacies/Ambiguity-Fallacy"
+ - "https://sonaveeb.ee/search/unif/dlall/dsall/udujutt/1/est"
 loogikavea_nimi: "Udujutt"
 ingliskeelne_nimi: "Ambiguity Fallacy"
 keel: "eesti"
 alternatiivsed_nimed:
-	- "jutt aiast ja aiaaugust"
+ - "jutt aiast ja aiaaugust"
 ---
 
 # Udujutt

@@ -79,7 +79,7 @@ See loogikaviga seisneb selles, et argumendis kasutatakse sõnu või väljendeid
 See loogikaviga seisneb selles, et väite kinnitamiseks viidatakse ebamäärasele või nimetamata allikale (nt "öeldakse", "arvatakse", "eksperdid väidavad"). Selline viitamine jätab mulje, et väitel on autoriteetne tugi, kuid tegelikult puudub konkreetne tõendus või allikas.
 
 
-**[Antrpomorfism](antrpomorfism.md)**  
+**[Antropomorfism](antropomorfism.md)**  
 See loogikaviga seisneb selles, et mitte-inimlikule objektile, loomale või nähtusele omistatakse inimlikke omadusi, tundeid või kavatsusi. Selline võte võib muuta argumendi emotsionaalsemaks või veenvamaks, kuid see ei põhine tegelikkusel.
 
 
