@@ -3,7 +3,8 @@ allikas: "https://www.logicallyfallacious.com/logicalfallacies/Alleged-Certainty
 loogikavea_nimi: "Kindluse teesklus"
 ingliskeelne_nimi: "Alleged Certainty"
 keel: "eesti"
-alternatiivsed_nimed: ["Kõik ju teavad tõe eksitus"]
+alternatiivsed_nimed:
+	- "Kõik ju teavad tõe eksitus"
 ---
 
 # Kindluse teesklus

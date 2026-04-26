@@ -1,9 +1,4 @@
 ---
-allikas: "https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Accomplishment"
-loogikavea_nimi: "Saavutustele viitamise eksitus"
-ingliskeelne_nimi: "Appeal to Accomplishment"
-ladinakeelne_nimi: "-"
-keel: "eesti"
 alternatiivsed_nimed:
   - "saavutuste argument"
   - "autoriteedi saavutuste eksitus"

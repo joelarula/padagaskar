@@ -1,7 +1,9 @@
 ---
 allikas: "https://www.logicallyfallacious.com/logicalfallacies/Accident-Fallacy"
 loogikavea_nimi: "Erandipimedus"
-alternatiivsed_nimed: ["Õigustatud erandite eiramine", "Accident Fallacy"]
+alternatiivsed_nimed:
+	- "Õigustatud erandite eiramine"
+	- "Accident Fallacy"
 ingliskeelne_nimi: "Accident Fallacy"
 ladina_nimi: "a dicto simpliciter ad dictum secundum quid"
 keel: "eesti"

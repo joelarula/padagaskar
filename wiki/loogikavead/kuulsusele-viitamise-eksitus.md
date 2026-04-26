@@ -1,9 +1,4 @@
 ---
-allikas: "https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Celebrity"
-loogikavea_nimi: "Kuulsusele viitamise eksitus"
-ingliskeelne_nimi: "Appeal to Celebrity"
-ladinakeelne_nimi: "-"
-keel: "eesti"
 alternatiivsed_nimed:
   - "kuulsuse eksitus"
   - "kuulsuse autoriteet"

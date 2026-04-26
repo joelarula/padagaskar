@@ -1,9 +1,4 @@
 ---
-allikas: "https://www.logicallyfallacious.com/logicalfallacies/Anthropomorphism"
-eesti_nimi: "Antrpomorfism"
-inglise_nimi: "Anthropomorphism"
-ladina_nimi: "Anthropomorphismus"
-keel: "eesti"
 alternatiivsed_nimed:
   - "inimomaduste omistamise eksitus"
   - "inimlikustamine"

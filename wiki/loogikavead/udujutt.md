@@ -3,7 +3,8 @@ allikas: "https://www.logicallyfallacious.com/logicalfallacies/Ambiguity-Fallacy
 loogikavea_nimi: "Udujutt"
 ingliskeelne_nimi: "Ambiguity Fallacy"
 keel: "eesti"
-alternatiivsed_nimed: ["jutt aiast ja aiaaugust"]
+alternatiivsed_nimed:
+	- "jutt aiast ja aiaaugust"
 ---
 
 # Udujutt

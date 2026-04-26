@@ -1,9 +1,4 @@
 ---
-allikas: "https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Authority"
-loogikavea_nimi: "Autoriteedile viitamise eksitus"
-ingliskeelne_nimi: "Appeal to Authority"
-ladinakeelne_nimi: "argumentum ad verecundiam"
-keel: "eesti"
 alternatiivsed_nimed:
   - "autoriteedi eksitus"
   - "autoriteedile tuginemine"

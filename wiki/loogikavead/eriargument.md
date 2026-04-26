@@ -1,7 +1,10 @@
 ---
 allikas: "https://www.logicallyfallacious.com/logicalfallacies/Ad-Hoc-Rescue"
 loogikavea_nimi: "Eriargument"
-alternatiivsed_nimed: ["Ad hoc argument", "Ad Hoc Rescue", "erilahendus"]
+alternatiivsed_nimed:
+	- "Ad hoc argument"
+	- "Ad Hoc Rescue"
+	- "erilahendus"
 ingliskeelne_nimi: "Ad Hoc Rescue"
 ladinakeelne_nimi: "ad hoc"
 keel: "eesti"

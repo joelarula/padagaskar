@@ -1,9 +1,4 @@
 ---
-allikas: "https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Anger"
-loogikavea_nimi: "Viha peale mängimine"
-ingliskeelne_nimi: "Appeal to Anger"
-ladinakeelne_nimi: "-"
-keel: "eesti"
 alternatiivsed_nimed:
   - "vihale rõhumine"
   - "emotsioonidega manipuleerimine"
