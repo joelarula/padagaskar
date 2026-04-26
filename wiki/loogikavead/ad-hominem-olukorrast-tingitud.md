@@ -34,17 +34,7 @@ Will: Ma kahtlen selles – sa tahad ju lihtsalt mulle autot müüa.
 
 **Selgitus:** See, et ateistidest vaimulikud pole eriti nõutud, ei tähenda, et vaimulikud usuvad Jumalasse ainult töö pärast.
 
-**Erand:** Mida asjakohasem on huvi või konflikt argumendi sisuga (ja mida vähem muid tõendeid), seda vähem on tegemist loogikaveaga ja seda enam võib see olla legitiimne motiiv. Näiteks:
-
-Tüdruk: Kas sa armastad mind igavesti?
-
-Poiss: Lase mul selle üle magada!
-
-Tüdruk: Kas sa armastad mind igavesti!!!
-
-Poiss: Ma ei suutnud enam vastu pidada...
-
-(laulusõnad Meat Loafilt)
+**Erand:** Mida asjakohasem on huvi või konflikt argumendi sisuga (ja mida vähem muid tõendeid), seda vähem on tegemist loogikaveaga ja seda enam võib see olla legitiimne motiiv.
 
 **Nipp:** Kui tead, et sul on mingi huvi oma seisukoha suhtes (ja eeldades, et sa pole selle tõttu loogikaviga tegemas), tasub see ise kohe välja öelda, enne kui keegi teine sellele viitab.
 
