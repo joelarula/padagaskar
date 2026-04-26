@@ -12,44 +12,44 @@ See on kureeritud loetelu loogikavigadest, kohandatud allikast [logicallyfallaci
 ## A
 
 
-**[Aksendi viga](aksendi viga)**  
+**[Vale aksent](vale-aksent.md)**  
 Kui sõna, lause või idee tähendus muutub sõltuvalt sellest, millisele osale või sõnale pannakse rõhk.
 
 
-**[Õigustatud erandite eiramine (Accident Fallacy)](Oigustatud-erandite-eiramine.md)**  
+**[Õigustatud erandite eiramine (Accident Fallacy)](erandipimedus.md)**  
 Kui püütakse rakendada üldreeglit kõikidele olukordadele, kuigi on selgeid erandeid. Lihtsustatud reeglid või seadused ei arvesta sageli õigustatud erandeid ning nende eiramine tähendab ratsionaalsuse ohverdamist näilise täiusliku seaduse nimel.
 
 
-**[Enesekindluse ründamine (Ad Fidentia)](Enesekindluse-rundamine.md)**  
-Rünnatakse inimese enesekindlust, mitte tema argumenti või esitatud tõendeid.
+**[Ebakindlusele rõhumine (Ad Fidentia)](ebakindusele-rõhumine.md)**  
+Selle asemel, et rünnata väite sisu, rünnatakse inimese enesekindlust. Eesmärk on tekitada vastases tunne, et ta pole piisavalt kompetentne, tema mälu petab teda või ta pole kõiki asjaolusid arvesse võtnud.
 
 
-**[Ad hoc argument (Ad Hoc Rescue)](Ad-hoc-argument.md)**  
+**[Eriargument (Ad hoc argument, Ad Hoc Rescue)](eriargument.md)**  
 Sageli hakatakse uskumuse kaitseks, vaatamata vastupidistele tõenditele, välja mõtlema uusi vabandusi või põhjendusi.
 
 
-**[Ad Hominem (Abusive)](https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Abusive)**  
-Attacking the person making the argument, not the argument itself.
+**[Ad hominem (solvav)](ad-hominem-solvav.md)**  
+Selle loogikavea puhul rünnatakse väitjat isiklikult, mitte tema esitatud argumenti. Selle asemel, et vaielda väite sisu üle, püütakse väitjat solvata, alandada või diskrediteerida, et tema seisukoht tunduks nõrgem või väär.
 
 
-**[Ad Hominem (Circumstantial)](https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Circumstantial)**  
-Suggesting the arguer is biased, so their argument is invalid.
+**[Ad hominem (olukorrast tingitud)](ad-hominem-olukorrast-tingitud.md)**  
+Selle loogikavea puhul väidetakse, et inimese argument on kehtetu või ebausaldusväärne, kuna tema olukord, huvid või taust muudavad ta kallutatuks. Selle asemel, et vaielda väite sisu üle, rünnatakse väitja motiive või olukorda.
 
 
-**[Ad Hominem (Guilt by Association)](https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Guilt-by-Association)**  
-Discrediting a source due to its association with a negatively viewed person or group.
+**[Ad hominem (süü läbi seotuse)](ad-hominem-suu-labi-seotuse.md)**  
+Selle loogikavea puhul püütakse väitjat või tema seisukohta diskrediteerida, kuna ta on seotud mõne negatiivselt hinnatud isiku või grupiga. Selle asemel, et vaielda väite sisu üle, rünnatakse väitja mainet tema seotuse kaudu.
 
 
-**[Ad Hominem (Tu quoque)](https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque)**  
-Claiming the argument is flawed because the arguer is inconsistent.
+**[Ad hominem (sina ise ka)](ad-hominem-sina-ise-ka.md)**  
+Selle loogikavea puhul püütakse väidet või kriitikat tagasi lükata, viidates sellele, et väitja ise käitub samamoodi või on olnud samasuguses olukorras. Selle asemel, et vaielda väite sisu üle, juhitakse tähelepanu väitja vastuolulisele käitumisele.
 
 
-**[Affirmative Conclusion from a Negative Premise](https://www.logicallyfallacious.com/logicalfallacies/Affirmative-Conclusion-from-a-Negative-Premise)**  
-Drawing an affirmative conclusion from at least one negative premise in a syllogism.
+**[Jaatav järeldus eitavast eelväitest](jaatav-jareldus-eitavast-eelvaite.md)**  
+See loogikaviga tekib, kui vähemalt ühest eitavast eelväitest (nt "mitte", "ei ole") tehakse jaatav järeldus. Sagedamini esineb see sylogismides, kus vähemalt üks eelväide on eitav, kuid järeldus on jaatav – see on loogiliselt vigane.
 
 
-**[Affirming a Disjunct](https://www.logicallyfallacious.com/logicalfallacies/Affirming-a-Disjunct)**  
-Assuming that if one of two options is true, the other must be false, when the “or” is not exclusive.
+**[Kas see või teine" eksitus](kas-see-voi-teine-eksitus.md)**  
+See viga tekib siis, kui arvatakse, et kui üks valik osutus tõeseks, siis teine peab kindlasti olema vale. See eirab võimalust, et mõlemad variandid võivad korraga kehtida.
 
 
 **[Affirming the Consequent](https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent)**  

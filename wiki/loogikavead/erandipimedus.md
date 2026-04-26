@@ -1,12 +1,13 @@
 ---
 allikas: "https://www.logicallyfallacious.com/logicalfallacies/Accident-Fallacy"
-loogikavea_nimi: "Õigustatud erandite eiramine"
+loogikavea_nimi: "Erandipimedus"
+alternatiivsed_nimed: ["Õigustatud erandite eiramine", "Accident Fallacy"]
 ingliskeelne_nimi: "Accident Fallacy"
 ladina_nimi: "a dicto simpliciter ad dictum secundum quid"
 keel: "eesti"
 ---
 
-# Õigustatud erandite eiramine (Accident Fallacy)
+# Erandipimedus (Accident Fallacy)
 
 **Kirjeldus:**
 Kui püütakse rakendada üldreeglit kõikidele olukordadele, kuigi on selgeid erandeid. Lihtsustatud reeglid või seadused ei arvesta sageli õigustatud erandeid ning nende eiramine tähendab ratsionaalsuse ohverdamist näilise täiusliku seaduse nimel. Inimesed eelistavad sageli lihtsust, isegi kui see tähendab ratsionaalsuse kaotamist.

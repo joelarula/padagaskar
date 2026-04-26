@@ -5,7 +5,7 @@ description: Automate fetching, translating, and saving logical fallacies in Est
   
 
 **Instructions:**
-1. Create a new file in `wiki/loogikavead/` using the Estonian name of the fallacy. Name the markdown file with the Estonian name as well (e.g., `wiki/loogikavead/aksendi viga.md`).
+1. Create a new file in `wiki/loogikavead/` using the Estonian name of the fallacy. When creating the filename, convert the Estonian name to a lowercase slug: replace spaces with hyphens and remove special characters if possible (e.g., `wiki/loogikavead/aksendi-viga.md`).
 2. At the top of the file, add YAML frontmatter with these fields:
    - `allikas`: Original article link
    - `loogikavea_nimi`: Estonian name

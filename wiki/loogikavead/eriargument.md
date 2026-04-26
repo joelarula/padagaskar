@@ -1,15 +1,16 @@
 ---
 allikas: "https://www.logicallyfallacious.com/logicalfallacies/Ad-Hoc-Rescue"
-loogikavea_nimi: "Ad hoc argument"
+loogikavea_nimi: "Eriargument"
+alternatiivsed_nimed: ["Ad hoc argument", "Ad Hoc Rescue", "erilahendus"]
 ingliskeelne_nimi: "Ad Hoc Rescue"
 ladinakeelne_nimi: "ad hoc"
 keel: "eesti"
 ---
 
-# Ad hoc argument (Ad Hoc Rescue)
+# Eriargument (Ad hoc argument, Ad Hoc Rescue)
 
 **Kirjeldus:**
-Sageli tahame me väga, et meil oleks õigus, ja hoiame oma uskumustest kinni isegi siis, kui vastupidist tõestatakse. Selle tulemusena hakkame välja mõtlema vabandusi, miks meie uskumus võiks ikkagi tõsi olla, kuigi meil pole selleks tegelikult tõendeid.
+Sageli tahame me väga, et meil oleks õigus, ja hoiame oma uskumustest kinni isegi siis, kui vastupidist tõestatakse. Selle tulemusena hakatakse uskumuse kaitseks, vaatamata vastupidistele tõenditele, välja mõtlema uusi vabandusi või põhjendusi. Filosoofilisemas ja akadeemilisemas kontekstis kasutatakse vahel ka terminit "erilahendus" – see viitab reegli muutmisele ühe konkreetse juhtumi jaoks, et vältida uskumuse ümberlükkamist.
 
 **Loogiline vorm:**
 

@@ -1,15 +1,17 @@
 ---
 allikas: "https://www.logicallyfallacious.com/logicalfallacies/Ad-Fidentia"
-loogikavea_nimi: "Enesekindluse ründamine"
+loogikavea_nimi: "Ebakindlusele rõhumine"
+alternatiivsed_nimed: ["Enesekindluse ründamine", "Ad Fidentia"]
 ingliskeelne_nimi: "Ad Fidentia"
 ladinakeelne_nimi: "argumentum ad fidentia"
 keel: "eesti"
 ---
 
-# Enesekindluse ründamine (Ad Fidentia)
+# Ebakindlusele rõhumine (Ad Fidentia)
 
 **Kirjeldus:**
-Rünnatakse inimese enesekindlust, mitte tema argumenti või esitatud tõendeid.
+Selle asemel, et rünnata väite sisu, rünnatakse inimese enesekindlust. Eesmärk on tekitada vastases tunne, et ta pole piisavalt kompetentne, tema mälu petab teda või ta pole kõiki asjaolusid arvesse võtnud.
+
 
 **Loogiline vorm:**
 
@@ -45,5 +47,23 @@ Kui keegi väidab kindlust asjas, kus kindlus on võimatu, on õige sellele täh
 
 **Nipp:**
 Ole kindel, et oled tõenäoliselt või väga tõenäoliselt õige, kuid väldi dogmaatilist kindlust olukordades, kus absoluutne kindlus pole võimalik.
+
+
+**Rahvakeelne äratundmine:**
+Sageli väljendub see lausetes nagu:
+
+* "Kas sa oled tõesti nii tark, et sellist asja väita?"
+* "Oled sa ikka kindel, et su mälu sind ei peta?"
+* "Kes sa üldse oled, et selles valdkonnas sõna võtta?"
+
+**Teisi levinud näiteid:**
+
+* Skeptilisusele rõhumine (filosoofiline näide):
+	"Kuidas sa saad väita, et see teaduslik fakt on tõene? Kas sa oled isiklikult kõik need katsed läbi viinud? Kas sa oled 100% kindel, et sa ei ela simulatsioonis, kus kõik su meeled sind petavad?"
+	(Eesmärk on muuta vastane nii ebakindlaks, et ta loobub oma väitest, sest absoluutne kindlus on võimatu.)
+
+* Autoriteediga hirmutamine:
+	"Sa võid ju arvata, et see on õige lahendus, aga kas sa oled valmis seda kaitsma terve ekspertide paneeli ees, kes on seda ala 30 aastat uurinud? Kas sa oled tõesti nii enesekindel, et pead end neist targemaks?"
+
 
 [← Tagasi loogikavigade loendisse](../Loogikavead.md)
