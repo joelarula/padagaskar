@@ -170,60 +170,60 @@ Loogikaviga, kus seisukohta püütakse õigustada ähvarduste, surve või jõu k
 Loogikaviga, kus seisukohta püütakse õigustada väitega, et see on "jumala tahe" või kõrgemast allikast tulenev.
 
 
-**[Appeal to Intuition](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Intuition)**  
-Evaluating an argument based on “gut feeling” instead of reason.
+**[Intuitsioonile viitamise eksitus](intuitsioonile-viitamise-eksitus.md)**  
+Loogikaviga, kus argumenti või seisukohta hinnatakse "kõhutunde" või isikliku sisetunde põhjal, mitte loogika või tõendite alusel.
 
 
-**[Appeal to Loyalty](https://www.logicallyfallacious.com/logicalfallacies/appeal-to-loyalty.html)**  
-Encouraging loyalty as a reason to accept an argument, regardless of its truth.
+**[Lojalsusele viitamise eksitus](lojalsusele-viitamise-eksitus.md)**  
+Loogikaviga, kus argumendi või seisukoha toetuseks tuuakse põhjuseks lojaalsus grupile, isikule või ideele, sõltumata väite tõest või põhjendatusest.
 
 
-**[Appeal to Nature](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Nature)**  
-Claiming “natural” is better than “unnatural” simply because it is natural.
+**[Looduslikkusele viitamise eksitus](looduslikkusele-viitamise-eksitus.md)**  
+Loogikaviga, kus midagi peetakse paremaks või õigeks ainult seetõttu, et see on "looduslik", sõltumata tegelikest tõenditest või argumentidest.
 
 
-**[Appeal to Normality](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Normality)**  
-Using social norms as the standard of goodness.
+**[Normaalsusele viitamise eksitus](normaalsusele-viitamise-eksitus.md)**  
+Loogikaviga, kus midagi peetakse õigeks või heaks ainult seetõttu, et see vastab ühiskondlikele normidele või on tavapärane.
 
 
-**[Appeal to Novelty](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Novelty)**  
-Claiming something is better because it is new.
+**[Uudsusele viitamise eksitus](uudsusele-viitamise-eksitus.md)**  
+Loogikaviga, kus midagi peetakse paremaks või tõelisemaks ainult seetõttu, et see on uus või hiljuti ilmunud.
 
 
-**[Appeal to Pity](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Pity)**  
-Distracting from the truth by using pity.
+**[Kaastundele rõhumise eksitus](kaastundele-rohumise-eksitus.md)**  
+Loogikaviga, kus püütakse tähelepanu juhtida kaastundele või haletsusele, et kõrvale juhtida tähelepanu tegelikelt argumentidelt või tõest.
 
 
-**[Appeal to Popularity](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity)**  
-Using popularity as evidence for truthfulness.
+**[Enamuse arvamusele viitamise eksitus](enamuse-arvamusele-viitamise-eksitus.md)**  
+Loogikaviga, kus väidet peetakse tõeseks või õigeks ainult seetõttu, et enamik inimesi seda usub või toetab.
 
 
-**[Appeal to Possibility](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Possibility)**  
-Assuming something is true just because it is possible.
+**[Võimalikkusele viitamise eksitus](voimalikkusele-viitamise-eksitus.md)**  
+Loogikaviga, kus midagi peetakse tõeseks või tõenäoliseks ainult seetõttu, et see on võimalik.
 
 
-**[Appeal to Ridicule](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Ridicule)**  
-Making an argument look ridiculous by misrepresentation or exaggeration.
+**[Naeruvääristamise eksitus](naeruvaaristamise-eksitus.md)**  
+Loogikaviga, kus argument või seisukoht tehakse naeruväärseks, liialdades või moonutades seda, et see tunduks absurdne või rumal.
 
 
-**[Appeal to Self-evident Truth](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Self-evident-Truth)**  
-Claiming something is “self-evident” instead of arguing for it.
+**[Iseenesestmõistetavusele viitamise eksitus](iseenesestmoistetavusele-viitamise-eksitus.md)**  
+Loogikaviga, kus väidet esitatakse tõestuseta või põhjendamata, väites, et see on "iseenesestmõistetav" või "ilmselge".
 
 
-**[Appeal to Spite](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Spite)**  
-Using spite or ill will as evidence in an argument.
+**[Pahameelele rõhumise eksitus](pahameelele-rohumise-eksitus.md)**  
+Loogikaviga, kus argumendi toetuseks või vastuväiteks kasutatakse pahameelt, viha või halba tahet, mitte loogikat või tõendeid.
 
 
-**[Appeal to Stupidity](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Stupidity)**  
-Devaluing reason and intellectual discourse.
+**[Rumalusele rõhumise eksitus](rumalusele-rohumise-eksitus.md)**  
+Loogikaviga, kus mõistust, arutlust või intellektuaalset arutelu alavääristatakse või naeruvääristatakse, justkui oleks rumalus või teadmatus parem või eelistatum.
 
 
-**[Appeal to the Law](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-the-Law)**  
-Assuming following the law is always morally correct, or breaking it is always wrong.
+**[Seadusele viitamise eksitus](seadusele-viitamise-eksitus.md)**  
+Loogikaviga, kus arvatakse, et seaduse järgimine on alati moraalselt õige või seaduse rikkumine alati vale, eirates võimalust, et seadus ise võib olla ebaõiglane.
 
 
-**[Appeal to the Moon](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-the-Moon)**  
-Using “If we can put a man on the moon, we could…” as evidence for an argument.
+**[Kuu-argument](kuu-argument.md)**  
+Loogikaviga, kus mõne suure saavutuse (nt inimese Kuule saatmine) näidet kasutatakse tõestusena, et ka muud, sageli täiesti erinevad eesmärgid peaksid olema lihtsalt saavutatavad.
 
 
 **[Appeal to Tradition](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Tradition)**  
