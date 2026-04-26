@@ -1,7 +1,8 @@
-# ---
+---
 allikas: "https://www.logicallyfallacious.com/fallacies"
 keel: "eesti"
-# ---
+---
+
 # Loogikavead (Loogilised eksitused)
 
 See on kureeritud loetelu loogikavigadest, kohandatud allikast [logicallyfallacious.com/fallacies](https://www.logicallyfallacious.com/fallacies). Täielike kirjelduste ja näidete jaoks külasta originaalsaiti.
