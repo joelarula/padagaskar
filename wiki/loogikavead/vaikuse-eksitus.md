@@ -1,4 +1,3 @@
-
 ---
 allikas: "https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Silence"
 loogikavea_nimi: "Vaikuse eksitus"
