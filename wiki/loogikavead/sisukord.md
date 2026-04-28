@@ -44,11 +44,11 @@ Selle loogikavea puhul püütakse väidet või kriitikat tagasi lükata, viidate
 
 
 **[Jaatav järeldus eitavast eelväitest](jaatav-jareldus-eitavast-eelvaite.md)**  
-See loogikaviga tekib, kui vähemalt ühest eitavast eelväitest (nt "mitte", "ei ole") tehakse jaatav järeldus. Sagedamini esineb see sylogismides, kus vähemalt üks eelväide on eitav, kuid järeldus on jaatav – see on loogiliselt vigane.
+Formaalse loogika eksitus, kus süllogismi järeldus on jaatav, kuigi vähemalt üks eelväidetest on eitav. Kehtivates süllogismides peab eitav eelväide alati viima eitava järelduseni.
 
 
-**[Kas see või teine" eksitus](kas-see-voi-teine-eksitus.md)**  
-See viga tekib siis, kui arvatakse, et kui üks valik osutus tõeseks, siis teine peab kindlasti olema vale. See eirab võimalust, et mõlemad variandid võivad korraga kehtida.
+**["Kas see või teine" eksitus](kas-see-voi-teine-eksitus.md)**  
+Loogikaviga, kus ühe variandi tõesusest järeldatakse valesti, et teine variant peab olema väär. See eirab võimalust, et mõlemad valikud võivad kehtida korraga, kui tegemist pole rangelt välistava valikuga.
 
 
 **[Põhjus-tagajärje eksitus](pohjus-tagajärje-eksitus.md)**
@@ -59,8 +59,8 @@ See loogikaviga tekib, kui eeldatakse, et kui tagajärg (järeldus) on tõene, s
 See loogikaviga seisneb selles, et järeldust või väidet esitatakse täiesti kindlana, ilma et selleks oleks piisavalt tõendeid või põhjendusi. Sageli kasutatakse seda võtet, et vältida arutelu või küsimusi, jättes mulje, nagu oleks asi vaieldamatu.
 
 
-**[Terminipada](terminipada-eksitus.md)**  
-See loogikaviga seisneb selles, et kasutatakse liigset hulka lühendeid, akronüüme või tehnilisi termineid, et jätta endast targema või asjatundlikuma mulje või hoopis kuulajat segadusse ajada. Sageli kasutatakse seda võtet, et vältida sisulist arutelu või varjata argumentide nõrkust.
+**[Akronüümisupp](akronuumisupp.md)**  
+Lühendite ja tehniliste terminite ülemäärane kasutamine, et jätta endast asjatundlikum mulje või kuulajat segadusse ajada. Seda kasutatakse sageli sisulise arutelu vältimiseks või argumentide nõrkuse varjamiseks keerulise keele taha.
 
 
 **[Valiku eksitus](valiku-eksitus.md)**  
@@ -111,8 +111,8 @@ Loogikaviga, kus sündmuse või olukorra põhjuseks väidetakse olevat pelgalt j
 Loogikaviga, kus väite tõesust või õigsust põhjendatakse üksnes sellega, et enamik inimesi seda usub või toetab. Näiteks: "Paljud usuvad, järelikult on see tõsi." Tõde ei sõltu enamuse arvamusest ning ajalugu on näidanud, et levinud uskumused võivad olla ekslikud.
 
 
-**[Tavalise inimesele viitamise eksitus](tavalise-inimesele-viitamise-eksitus.md)**  
-Loogikaviga, kus väite toetuseks püütakse samastuda tavalise inimese või rahvaga, justkui see muudaks argumendi tõesemaks.
+**[Tavalisele inimesele viitamise eksitus](tavalise-inimesele-viitamise-eksitus.md)**  
+Tõendite asemel püütakse luua side kuulajatega, väites, et ollakse "tavaline inimene" nagu nemadki. Sellega püütakse jätta muljet, et esitatud väide on "rahvatarkus", mida peaksid kõik aktsepteerima.
 
 
 **[Tervele mõistusele viitamise eksitus](tervele-moistusele-viitamise-eksitus.md)**  
@@ -124,7 +124,7 @@ Loogikaviga, kus argumenti peetakse valeks või ebatõenäoliseks lihtsalt seet�
 
 
 **[Tagajärgedele viitamise eksitus](tagajargedele-viitamise-eksitus.md)**  
-Loogikaviga, kus väite tõesust või väärust hinnatakse selle põhjal, kas selle tagajärjed on soovitavad või mitte.
+Järeldamine, et väide on tõene või vale ainult selle põhjal, kas selle tõesuse tagajärjed on soovitavad või mitte. See eirab tõsiasja, et tagajärgede meeldivus ei mõjuta väite tegelikku tõeväärtust.
 
 
 **[Definitsioonile viitamise eksitus](definitsioonile-viitamise-eksitus.md)**  
@@ -164,11 +164,11 @@ Loogikaviga, kus toetust või nõusolekut püütakse võita meelituste või üli
 
 
 **[Jõuga ähvardamise eksitus](jouga-ahvardamise-eksitus.md)**  
-Loogikaviga, kus seisukohta püütakse õigustada ähvarduste, surve või jõu kasutamisega, mitte loogiliste argumentide või tõenditega.
+Loogikaviga, kus argumendi ja tõendite asemel kasutatakse järelduse õigustamiseks jõudu, sundi või ähvardust. See asendab ratsionaalse veenmise hirmutamisega.
 
 
 **[Taevaga õigustamise eksitus](taevaga-oigustamise-eksitus.md)**  
-Loogikaviga, kus seisukohta püütakse õigustada väitega, et see on "jumala tahe" või kõrgemast allikast tulenev.
+Väide, et järeldus tuleb vastu võtta, kuna see on "Jumala tahe" või "jumalate tahe". See asendab loogilised argumendid ja tõendid viitega jumalikule autoriteedile, eeldades, et väitja teab täpselt selle autoriteedi tahet.
 
 
 **[Intuitsioonile viitamise eksitus](intuitsioonile-viitamise-eksitus.md)**  
@@ -192,7 +192,7 @@ Loogikaviga, kus midagi peetakse paremaks või tõelisemaks ainult seetõttu, et
 
 
 **[Kaastundele rõhumise eksitus](kaastundele-rohumise-eksitus.md)**  
-Loogikaviga, kus püütakse tähelepanu juhtida kaastundele või haletsusele, et kõrvale juhtida tähelepanu tegelikelt argumentidelt või tõest.
+Emotsionaalse kaastunde või haletsuse kasutamine, et juhtida tähelepanu kõrvale argumendi sisult või tõelt. See märgib sageli sisuliste tõendite puudumist, kus püütakse saavutada soodsat otsust ohvrirolli kaudu.
 
 
 **[Enamuse arvamusele viitamise eksitus](enamuse-arvamusele-viitamise-eksitus.md)**  
@@ -240,7 +240,7 @@ Loogikaviga, kus emotsiooni kasutatakse loogika asemel, et püüda vaidlus võit
 
 
 **[Kiire kõne eksitus](kiire-kone-eksitus.md)**  
-Loogikaviga, kus argumenteerimisel räägitakse kiiresti, et jätta endast targema või enesekindlama mulje või takistada vastuväiteid.
+Kiire ja sorava kõne kasutamine, et jätta mulje intelligentsusest ja enesekindlusest. See on taktikaline võte, mis ei anna kuulajale aega argumendi analüüsimiseks ja lagedale tulnud nõrkuste märkamiseks.
 
 
 **[Segase jutu eksitus](segase-jutu-eksitus.md)**  
@@ -248,11 +248,11 @@ Loogikaviga, kus keerulise žargooni või arusaamatu keele abil püütakse jätt
 
 
 **[Isikliku sarmi eksitus](isikliku-sarmi-eksitus.md)**  
-Loogikaviga, kus argumendi tugevust püütakse suurendada väitleja isiklike omaduste, sarmi või meeldivuse abil, mitte argumentide sisuga.
+Argumendi tugevdamine väitleja isikliku sarmikuse, karisma või meeldivuse abil. See varjutab ratsionaalse arutelu, pannes kuulajad nõustuma väitega pigem rääkija isiku kui esitatud tõendite tõttu.
 
 
 **[Jonnakuse eksitus](jonnakuse-eksitus.md)**  
-Loogikaviga, kus inimene keeldub vastu võtmast hästi põhjendatud või tõestatud argumenti lihtsalt jonnakuse või kangekaelsuse tõttu.
+Põhjendatud ja tõestatud argumendi aktsepteerimisest keeldumine kangekaelsuse tõttu. See avaldub sageli must-valges mõtlemises, kus ideoloogiline positsioon säilitatakse loogika ja mõistuse hinnaga.
 
 
 **[Kordamise eksitus](kordamise-eksitus.md)**  
@@ -308,7 +308,7 @@ Loogikaviga, kus eeldatakse, et kõik argumendid või arutelud on vastandlikud v
 
 
 **[Teemast möödarääkimise eksitus](teemast-moodaraakimise-eksitus.md)**  
-Loogikaviga, kus argumendile vastatakse ilma selle sisulisi punkte käsitlemata.
+Loogikaviga, kus argumendile vastatakse ilma selle sisulisi punkte käsitlemata, juhtides tähelepanu mujale. See on mõistuse ja ausa uurimise hüljamine, et vältida ebamugavaid vastuseid.
 
 
 
@@ -327,7 +327,7 @@ Loogikaviga, kus tehakse järeldus kogu populatsiooni kohta kallutatud või ebae
 Asserting that a proposition is true solely on the authority making the claim, ignoring any counter-evidence.
 
 **[Katkise akna eksitus](katkise-akna-eksitus.md)**  
-Loogikaviga, kus arvatakse, et häving ja selle taastamiseks kulutatud raha on ühiskonnale kasulik, eirates varjatud kulusid.
+Illusioon, et häving ja sellele järgnev taastamiskulu on majanduslikult kasulik. See eirab alternatiivkulusid ehk seda, mis jääb nähtamatuks – kuhu see raha oleks kulunud, kui hävingut poleks toimunud.
 
 **[Bulverism](bulverism.md)**  
 Loogikaviga, kus eeldatakse ja väidetakse, et argument on vigane või vale üksnes selle esitaja oletatavate motiivide, sotsiaalse identiteedi või muu isikuga seotud omaduse tõttu. Argumenti ei hinnata selle sisu, vaid esitaja isiku või motiivide põhjal, mis muudab arutelu sisutuks ja väldib tegelikku vastuväidet.
