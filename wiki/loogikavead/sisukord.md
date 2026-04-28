@@ -220,20 +220,50 @@ Tõendusmaterjali asendamine pahameele, kiusu või vihaga mõne isiku või oluko
 Mõistuse, loogika või teaduslike andmete teadlik alavääristamine. See kutsub üles usaldama vaid "kõhutunnet" ja emotsioone, maalides kriitilisest mõtlemisest negatiivse pildi, et vältida faktipõhist arutelu. Tuntud ka kui "anti-intellektuaalsus".
 
 
+**[Saavutustele viitamise eksitus](saavutustele-viitamise-eksitus.md)**  
+Väite tõesuse hindamine esitaja edu või saavutuste põhjal, mitte argumendi sisu järgi. See hõlmab ka kriitika tõrjumist nõudega, et kriitikul peavad olema samaväärsed saavutused, et üldse sõna võtta. Tuntud ka kui "edu argument".
+
+
+
 **[Seadusele viitamise eksitus](seadusele-viitamise-eksitus.md)**  
-Loogikaviga, kus arvatakse, et seaduse järgimine on alati moraalselt õige või seaduse rikkumine alati vale, eirates võimalust, et seadus ise võib olla ebaõiglane.
+Eeldus, et seadusandlus on moraali ülim mõõdupuu. See samastab seaduslikkuse moraalsusega, eirates asjaolu, et seadused võivad peegeldada pragmaatilisi või poliitilisi otsuseid, mitte tingimata eetilist õiglust. Tuntud ka kui "legalism".
 
 
 **[Kuu-argument](kuu-argument.md)**  
 Nõrga analoogia vorm, kus ühte suurt saavutust (nt Kuule minek) kasutatakse tõendina, et ka mis tahes muu keeruline ülesanne peab olema tehtav. See eirab valdkondade ja ressursside täielikku erinevust.
 
 
+**[Taevaga õigustamise eksitus](taevaga-oigustamise-eksitus.md)**  
+Väide, et järeldus tuleb vastu võtta, kuna see on "Jumala tahe". See asendab loogilise arutelu subjektiivse religioosse veendumusega, eeldades ekslikult, et väitja teab täpselt kõrgemat tahet ja see on piisav tõestus.
+
+
+**[Tervele mõistusele viitamise eksitus](tervele-moistusele-viitamise-eksitus.md)**  
+Väide, et järeldus või faktid on iseenesestmõistetav "terve mõistuse" küsimus, selle asemel et esitada tegelikke tõendeid. See eirab asjaolu, et intuitsioon võib olla ekslik või kultuuriliselt kallutatud. Tuntud ka kui "talupojamõistusele rõhumine".
+
+
+
 **[Traditsioonile viitamise eksitus](traditsioonile-viitamise-eksitus.md)**  
-Loogikaviga, kus midagi peetakse õigeks või paremaks ainult seetõttu, et see on olnud traditsioon või seda on alati tehtud.
+Väide, et idee või teguviis on õige pelgalt seetõttu, et see on vana või traditsiooniline. See asendab loogilise põhjenduse viitega mineviku eelistustele, ignoreerides võimalust, et olud on muutunud või traditsioon ise põhineb arhailistel uskumustel. Ladina keeles *argumentum ad antiquitatem*.
+
 
 
 **[Usaldusele viitamise eksitus](usaldusele-viitamise-eksitus.md)**  
-Loogikaviga, kus usaldusväärsest allikast pärit infot peetakse alati tõeseks (või ebausaldusväärsest allikast pärit infot alati valeks), sõltumata sisust või tõenditest.
+Veendumus, et usaldusväärse allika info on alati tõene (või ebausaldusväärse oma alati vale). See eirab asjaolu, et iga väidet tuleb hinnata selle enda sisu ja tõendite põhjal, mitte ainult allika üldise maine järgi. Tuntud ka kui "usaldusväärsuse eksitus".
+
+
+**[Uskumatuse eksitus](uskumatuse-eksitus.md)**  
+Järeldus, et väide on vale või ebatõenäoline lihtsalt seetõttu, et sa ei suuda või ei taha seda uskuda. See asendab tõendite analüüsi isikliku hämmastusega. Tuntud ka kui "isiklik uskumatus".
+
+
+**[Usule viitamise eksitus](usule-viitamise-eksitus.md)**  
+Ratsionaalsest arutlemisest loobumine ja selle asendamine üleskutsega usule. See tekib siis, kui loogika ja tõendid viivad järelduse ümberlükkamiseni, ning väidetakse, et tõe mõistmiseks on vaja lihtsalt "õiget tüüpi" usku.
+
+
+**[Uudsusele viitamise eksitus](uudsusele-viitamise-eksitus.md)**  
+Väide, et miski on parem või õigem ainult seetõttu, et see on uus või modernne. See eelistab uudsust ilma sisuliste argumentideta, eirates võimalust, et vana lahendus võib olla stabiilsem või efektiivsem. Ladina keeles *argumentum ad novitatem*.
+
+
+
 
 
 **[Emotsionaalse keele kasutamise eksitus](emotsionaalse-keele-kasutamise-eksitus.md)**  
@@ -245,7 +275,7 @@ Kiire ja sorava kõne kasutamine, et jätta mulje intelligentsusest ja enesekind
 
 
 **[Segase jutu eksitus](segase-jutu-eksitus.md)**  
-Loogikaviga, kus keerulise žargooni või arusaamatu keele abil püütakse jätta mulje tugevast argumendist, kuigi tegelikult sisu puudub või on segane.
+Arusaamatu žargooni või seosetu jutu kasutamine asjatundlikkuse teesklemiseks. See on manipulatsioonivõte, kus tõendid asendatakse liigkeeruliste terminitega, et panna kuulaja uskuma väidet, millest ta tegelikult aru ei saanud. Tuntud ka kui "hämamine".
 
 
 **[Isikliku sarmi eksitus](isikliku-sarmi-eksitus.md)**  
@@ -260,12 +290,27 @@ Põhjendatud ja tõestatud argumendi aktsepteerimisest keeldumine kangekaelsuse 
 Väite või argumendi korduv esitamine sisuliste tõendite asemel. See rõhub psühholoogilisele harjumusejõule, kus kordamine jätab eksliku mulje tõesusest, kuigi uusi põhjendusi ei lisandu.
 
 
+**[Vaidluse eksitus](vaidluse-eksitus.md)**  
+Argumendi vääriti mõistmine vaenuliku vastasseisu või tüli tähenduses. See takistab ratsionaalset arutelu, kuna keskendutakse "võitmisele", mitte loogilisele põhjendamisele ja tõe otsimisele.
+
+
+**[Vaikuse eksitus](vaikuse-eksitus.md)**  
+Järelduse tegemine vastaspoole vaikimise põhjal. See eirab asjaolu, et vaikimisel võib olla palju põhjuseid ja see ei asenda loogilist tõestust ega tähenda automaatselt nõusolekut või süüd. Ladina keeles *argumentum e silentio*.
+
+
+**[Valiku eksitus](valiku-eksitus.md)**  
+Olukord, kus esitatakse ainult kaks valikut, mis on sisuliselt samad, kuid sõnastatud erinevalt. See loob illusiooni valikuvõimalusest, peites asjaolu, et tegelikult on olemas ka kolmandad teed. Tuntud ka kui "valikuvõimaluse illusioon".
+
 **[Valikuline lugemine](valikuline-lugemine.md)**  
-Loogikaviga, kus keskendutakse vastaspoole argumendi kõige nõrgemale osale, esitades seda kui kogu argumendi tugevaimat või olulisemat osa.
+Vastaspoole argumentide hulgast kõige nõrgema väljavalimine ja selle ründamine nii, nagu see oleks olnud peamine põhjendus. See moonutab arutelu, eirates tugevamaid tõendeid, et jätta mulje kogu positsiooni väärusest. Tuntud ka kui "nõrgima lüli ründamine".
+
+
+
 
 
 **[Vanusele viitamise eksitus](vanusele-viitamise-eksitus.md)**  
-Loogikaviga, kus eeldatakse, et vanematel põlvkondadel on suurem tarkus ning nende järeldused on seetõttu tõesemad või väärtuslikumad.
+Ekslik eeldus, et varasematel põlvkondadel või muistsetel inimestel oli suurem tarkus, mis muudab nende järeldused automaatselt tõeseks. See eirab uusi teadmisi ja teaduse arengut, romantiseerides minevikku. Tuntud ka kui "muistsete tarkus".
+
 
 
 **[Loogikaveale viitamise eksitus](loogikaveale-viitamise-eksitus.md)**  
@@ -273,7 +318,7 @@ Ekslik järeldus, et kui vastase argumendis leidub loogikaviga, siis peab tema j
 
 
 **[Vale autoriteedi eksitus](vale-autoriteedi-eksitus.md)**  
-Loogikaviga, kus kedagi esitletakse eksperdina või autoriteedina valdkonnas, milles tal tegelikult puudub pädevus.
+Olukord, kus väite toetuseks tuuakse ekspert, kelle pädevus ei kattu arutatava teemaga. See kasutab ära inimese üldist mainet või tiitlit, et anda väitele põhjendamatut kaalu vales valdkonnas. Tuntud ka kui "väärautoriteedi argument".
 
 
 **[Kuuldustele viitamise eksitus](kuuldustele-viitamise-eksitus.md)**  
@@ -289,19 +334,35 @@ Loogikaviga, kus arvatakse, et midagi ei saa olla tõsi lihtsalt seetõttu, et s
 
 
 **[Vaikuse eksitus](vaikuse-eksitus.md)**  
-Loogikaviga, kus järeldatakse midagi vastase või teise osapoole vaikimise põhjal.
+Järelduse tegemine vastaspoole vaikimise põhjal. See eirab asjaolu, et vaikimisel võib olla palju põhjuseid ja see ei asenda loogilist tõestust ega tähenda automaatselt nõusolekut või süüd. Ladina keeles *argumentum e silentio*.
+
+**[Valiku eksitus](valiku-eksitus.md)**  
+Olukord, kus esitatakse ainult kaks valikut, mis on sisuliselt samad, kuid sõnastatud erinevalt. See loob illusiooni valikuvõimalusest, peites asjaolu, et tegelikult on olemas ka kolmandad teed. Tuntud ka kui "valikuvõimaluse illusioon".
+
+**[Valikuline lugemine](valikuline-lugemine.md)**  
+Vastaspoole argumentide hulgast kõige nõrgema väljavalimine ja selle ründamine nii, nagu see oleks olnud peamine põhjendus. See moonutab arutelu, eirates tugevamaid tõendeid, et jätta mulje kogu positsiooni väärusest. Tuntud ka kui "nõrgima lüli ründamine".
+
+**[Vanusele viitamise eksitus](vanusele-viitamise-eksitus.md)**  
+Ekslik eeldus, et varasematel põlvkondadel või muistsetel inimestel oli suurem tarkus, mis muudab nende järeldused automaatselt tõeseks. See eirab uusi teadmisi ja teaduse arengut, romantiseerides minevikku. Tuntud ka kui "muistsete tarkus".
+
+**[Viha peale mängimine](viha-peale-mangimine.md)**  
+Loogikaviga, kus tõendusmaterjali asemel kasutatakse argumendis viha, vihkamist või raevu tekitamist. Selle asemel, et tõestada väite tõesust, üritatakse kuulajat mõjutada tugeva emotsionaalse reaktsiooni kaudu. Ladina keeles *argumentum ad iram*.
+
+**[Viltune valim](viltune-valim.md)**  
+Järelduse tegemine terve populatsiooni kohta ebaesindusliku või kallutatud valimi põhjal. See tekib siis, kui valim on valitud viisil, mis ei peegelda tegelikku keskmist näitajat, vaid on suunatud soovitud tulemusele. Tuntud ka kui "kallutatud valim".
+
+**[Võimalikkusele viitamise eksitus](voimalikkusele-viitamise-eksitus.md)**  
+Järelduse tõeseks pidamine pelgalt seetõttu, et see on teoreetiliselt võimalik, hoolimata selle väikesest tõenäosusest. See eirab asitõendeid ja tõenäosusteooriat, asendades need puhta spekulatsiooniga.
+
+**[Võrdsusele viitamise eksitus](vordsusele-viitamise-eksitus.md)**  
+Väite õigsuse põhjendamine oletatava võrdsusega, ilma et selgitataks nendevahelist sisulist seost või sarnasust. See eeldab automaatset võrdsust seal, kus võib esineda olulisi erinevusi, mis vajaksid eraldi argumenteerimist. Tuntud ka kui "egalitarismile rõhumine".
 
 
-**[Habeme argument](habeme-argument.md)**  
-Loogikaviga, kus väidetakse, et kahe äärmuse vahel ei saa teha vahet, kuna puudub selge piir.
-
-
-**[Mõõdukuse eksitus](moodukuse-eksitus.md)**  
-Ekslik eeldus, et kahe vastandliku seisukoha vahepealne kompromiss on alati tõde. See eirab asjaolu, et faktide ja loogika puhul ei pruugi tõde asuda äärmuste vahel ning üks pool võib olla lihtsalt täielikult eksinud.
 
 
 **[Rahakoti argument](rahakoti-argument.md)**  
 Väite tõesuse hindamine selle esitaja rahalise seisu põhjal. See hõlmab nii rikkuse seostamist tarkusega kui ka vaesuse seostamist moraalse üleoleku või tõega, asendades sisulise analüüsi pangaarve jäägiga. Tuntud ka kui "rikkusele viitamine" või "vaesusele viitamine".
+
 
 
 **[Vaidluse eksitus](vaidluse-eksitus.md)**  
