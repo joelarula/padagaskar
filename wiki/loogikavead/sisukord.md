@@ -51,8 +51,8 @@ Formaalse loogika eksitus, kus süllogismi järeldus on jaatav, kuigi vähemalt 
 Loogikaviga, kus ühe variandi tõesusest järeldatakse valesti, et teine variant peab olema väär. See eirab võimalust, et mõlemad valikud võivad kehtida korraga, kui tegemist pole rangelt välistava valikuga.
 
 
-**[Põhjus-tagajärje eksitus](pohjus-tagajärje-eksitus.md)**
-See loogikaviga tekib, kui eeldatakse, et kui tagajärg (järeldus) on tõene, siis peab ka eeltingimus (eeldus) olema tõene. Tegelikkuses võib tagajärg olla tõene ka muudel põhjustel, mitte ainult selle konkreetse eelduse tõttu.
+**[Põhjus-tagajärje eksitus](pohjus-tagajärje-eksitus.md)**  
+Formaalne loogikaviga, kus järeldatakse põhjuse tõesust tagajärje olemasolu põhjal. See eirab asjaolu, et samale tulemusele võivad viia erinevad teed, ning matkib eksitavalt korrektset arutluskäiku. Tuntud ka kui "järelduse jaatamine".
 
 
 **[Kindluse teesklus](kindluse-teesklus.md)**  
@@ -72,7 +72,7 @@ Loogikaviga, kus keegi väidab teadvat või kogenud olevat midagi, mis on väga 
 
 
 **[Udujutt](udujutt.md)**  
-See loogikaviga seisneb selles, et argumendis kasutatakse sõnu või väljendeid, millel on mitu võimalikku tähendust. See võib tekitada segadust, võimaldada väiteid tõlgendada erinevalt või suunata arutelu soovitud suunas, ilma et sisu oleks tegelikult selge.
+Mitmetimõistetavate sõnade või ebamääraste fraaside kasutamine argumendis, mis võimaldab väidet suvaliselt tõlgendada. See eirab vajadust täpsete definitsioonide järele ja võib peita sisulise argumendi puudumist.
 
 
 **[Anonüümse autoriteedi eksitus](anonyymse-autoriteedi-eksitus.md)**  
@@ -101,7 +101,7 @@ Väite aktsepteerimine pelgalt selle esitaja tuntuse või kuulsuse staatuse põh
 
 
 **[Otsad kokku argument](otsad-kokku-argument.md)**  
-Loogikaviga, kus aktsepteeritakse tõendeid või järeldusi ainult selleks, et arutelu lõpetada või "otsad kokku tõmmata", mitte seetõttu, et need oleksid tegelikult kehtivad või tõesed.
+Puudulike tõendite aktsepteerimine soovist jõuda aruteluga lõpule ja leevendada teadmatusest tekkivat ebamugavustunnet. Eesmärk on protsessi lõpetamine mis tahes hinnaga, mitte tõe välja selgitamine.
 
 
 **[Kokkusattumusele viitamise eksitus](kokkusattumusele-viitamise-eksitus.md)**  
@@ -185,7 +185,7 @@ Ekslik uskumus, et "looduslik" tähendab automaatselt head, tervislikku või mor
 
 
 **[Normaalsusele viitamise eksitus](normaalsusele-viitamise-eksitus.md)**  
-Loogikaviga, kus midagi peetakse õigeks või heaks ainult seetõttu, et see vastab ühiskondlikele normidele või on tavapärane.
+Sotsiaalsete normide või tavapärase olukorra kasutamine headuse ja õigsuse mõõdupuuna. See eirab asjaolu, et "normaalne" on sageli vaid statistiline keskmine ega pruugi ühtida loogika, tervise või moraaliga.
 
 
 **[Uudsusele viitamise eksitus](uudsusele-viitamise-eksitus.md)**  
@@ -205,7 +205,7 @@ Loogikaviga, kus midagi peetakse tõeseks või tõenäoliseks ainult seetõttu, 
 
 
 **[Naeruvääristamise eksitus](naeruvaaristamise-eksitus.md)**  
-Loogikaviga, kus argument või seisukoht tehakse naeruväärseks, liialdades või moonutades seda, et see tunduks absurdne või rumal.
+Argumendi moonutamine ja naeruväärseks muutmine pilkamise, sarkasmi või kohatute võrdluste abil. Selle asemel, et väite sisu ümber lükata, püütakse see panna paistma absurdse või rumalana, et vältida tõsist arutelu.
 
 
 **[Iseenesestmõistetavusele viitamise eksitus](iseenesestmoistetavusele-viitamise-eksitus.md)**  
@@ -213,7 +213,7 @@ Loogikaviga, kus väidet esitatakse tõestuseta või põhjendamata, väites, et 
 
 
 **[Pahameelele rõhumise eksitus](pahameelele-rohumise-eksitus.md)**  
-Loogikaviga, kus argumendi toetuseks või vastuväiteks kasutatakse pahameelt, viha või halba tahet, mitte loogikat või tõendeid.
+Tõendusmaterjali asendamine pahameele, kiusu või vihaga mõne isiku või olukorra vastu. Järeldus tehakse emotsionaalse ärrituse põhjal, sidudes väite tõesuse sellega, kui palju meile seonduv nähtus ei meeldi.
 
 
 **[Rumalusele rõhumise eksitus](rumalusele-rohumise-eksitus.md)**  
@@ -281,7 +281,7 @@ Väite toetamine teise või kolmanda isiku poolt vahendatud infoga, mitte otsese
 
 
 **[Pealiskaudne argument](pealiskaudne-argument.md)**  
-Loogikaviga, kus eeldatakse, et midagi on tõsi lihtsalt seetõttu, et pole tõendeid selle vastu (või vastupidi).
+Väite tõesuse eeldamine seetõttu, et seda pole suudetud ümber lükata (või vastupidi). See eirab asjaolu, et tõendite puudumine ei ole iseenesest tõend, ning asendab teadmatuse meelevaldse järeldusega. Tuntud ka kui "teadmatusele rõhumine".
 
 
 **[Uskumatuse eksitus](uskumatuse-eksitus.md)**  
@@ -297,11 +297,11 @@ Loogikaviga, kus väidetakse, et kahe äärmuse vahel ei saa teha vahet, kuna pu
 
 
 **[Mõõdukuse eksitus](moodukuse-eksitus.md)**  
-Loogikaviga, kus eeldatakse, et kahe vastandliku seisukoha vahepealne kompromiss on alati õige või parim lahendus.
+Ekslik eeldus, et kahe vastandliku seisukoha vahepealne kompromiss on alati tõde. See eirab asjaolu, et faktide ja loogika puhul ei pruugi tõde asuda äärmuste vahel ning üks pool võib olla lihtsalt täielikult eksinud.
 
 
 **[Rahakoti argument](rahakoti-argument.md)**  
-Loogikaviga, kus argumendi tõesust hinnatakse selle esitaja rahalise seisu põhjal.
+Väite tõesuse hindamine selle esitaja rahalise seisu põhjal. See hõlmab nii rikkuse seostamist tarkusega kui ka vaesuse seostamist moraalse üleoleku või tõega, asendades sisulise analüüsi pangaarve jäägiga. Tuntud ka kui "rikkusele viitamine" või "vaesusele viitamine".
 
 
 **[Vaidluse eksitus](vaidluse-eksitus.md)**  
