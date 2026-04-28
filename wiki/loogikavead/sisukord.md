@@ -95,8 +95,9 @@ See loogikaviga seisneb selles, et argumendis asendatakse loogilised põhjenduse
 See loogikaviga seisneb selles, et väite tõesust põhjendatakse ainult sellega, et mõni autoriteet on seda öelnud, ilma et toodaks muid tõendeid või loogilisi põhjendusi. Argument muutub nõrgaks, kui autoriteedi arvamust kasutatakse ainsa alusena.
 
 
+
 **[Kuulsusele viitamise eksitus](kuulsusele-viitamise-eksitus.md)**  
-See loogikaviga seisneb selles, et väite või seisukoha tõesust põhjendatakse ainult sellega, et seda toetab mõni tuntud inimene või kuulsus, mitte argumendi enda tugevusega. Kuulsuse arvamus ei muuda väidet automaatselt tõeseks.
+Väite aktsepteerimine pelgalt selle esitaja tuntuse või kuulsuse staatuse põhjal, mitte argumendi sisulise väärtuse tõttu. See on vale autoriteedi eksituse vorm, kus autoriteediks peetakse meelelahutusmaailma tegelast.
 
 
 **[Otsad kokku argument](otsad-kokku-argument.md)**  
@@ -120,7 +121,7 @@ Loogikaviga, kus väidet põhjendatakse üksnes "terve mõistuse" argumendiga, i
 
 
 **[Liigselt keerukaks pidamise eksitus](liigselt-keerukaks-pidamise-eksitus.md)**  
-Loogikaviga, kus argumenti peetakse valeks või ebatõenäoliseks lihtsalt seetõttu, et see tundub keeruline või arusaamatu.
+Teadmatusele rõhumise vorm, kus argument lükatakse tagasi põhjusel, et see on liiga keeruline või raskesti mõistetav. See eelistab ekslikult lihtsust tõele, eirates asjaolu, et paljud nähtused ongi loomuomaselt keerulised.
 
 
 **[Tagajärgedele viitamise eksitus](tagajargedele-viitamise-eksitus.md)**  
@@ -132,7 +133,7 @@ Loogikaviga, kus sõnaraamatu piiratud definitsiooni kasutatakse tõendina, et m
 
 
 **[Meeleheite eksitus](meeleheite-eksitus.md)**  
-Loogikaviga, kus lahendust peetakse õigeks ainult seetõttu, et midagi tuleb teha, ning pakutav lahendus on "midagi".
+Väide, et konkreetne lahendus on õige lihtsalt seetõttu, et olukord on kriitiline ja "midagi peab ju tegema". See eirab lahenduse tegelikku tõhusust ja eelistab suvalist tegevust ratsionaalsele analüüsile.
 
 
 **[Emotsioonidele rõhumise eksitus](emotsioonidele-rohumise-eksitus.md)**  
@@ -160,7 +161,7 @@ Loogikaviga, kus hirm, mitte tõendid või loogika, on peamine motivaator panna 
 
 
 **[Meelitamise eksitus](meelitamise-eksitus.md)**  
-Loogikaviga, kus toetust või nõusolekut püütakse võita meelituste või ülistavate sõnade abil, mitte loogiliste argumentide või tõendite kaudu.
+Katse võita nõusolekut meelituste ja ülistuste abil, rõhudes kuulaja edevusele. See uinutab kriitilist meelt, asendades ratsionaalsed põhjendused meeldivate, kuid sisutute komplimentidega.
 
 
 **[Jõuga ähvardamise eksitus](jouga-ahvardamise-eksitus.md)**  
@@ -176,11 +177,11 @@ Loogikaviga, kus argumenti hinnatakse või lükatakse tagasi pelgalt intuitsioon
 
 
 **[Lojalsusele viitamise eksitus](lojalsusele-viitamise-eksitus.md)**  
-Loogikaviga, kus argumendi või seisukoha toetuseks tuuakse põhjuseks lojaalsus grupile, isikule või ideele, sõltumata väite tõest või põhjendatusest.
+Seisukoha aktsepteerimine (või kriitikast hoidumine) lojaalsuse tõttu grupile või isikule, mitte tõendite põhjal. See asendab ratsionaalse analüüsi pime-lojaalsusega, kus küsimuste esitamist peetakse reetmiseks.
 
 
 **[Looduslikkusele viitamise eksitus](looduslikkusele-viitamise-eksitus.md)**  
-Loogikaviga, kus midagi peetakse paremaks või õigeks ainult seetõttu, et see on "looduslik", sõltumata tegelikest tõenditest või argumentidest.
+Ekslik uskumus, et "looduslik" tähendab automaatselt head, tervislikku või moraalset ning "tehislik" on halb. See eirab asjaolu, et looduses leidub palju kahjulikku ning sünteetilised lahendused võivad olla elupäästvad.
 
 
 **[Normaalsusele viitamise eksitus](normaalsusele-viitamise-eksitus.md)**  
@@ -224,7 +225,7 @@ Loogikaviga, kus arvatakse, et seaduse järgimine on alati moraalselt õige või
 
 
 **[Kuu-argument](kuu-argument.md)**  
-Loogikaviga, kus mõne suure saavutuse (nt inimese Kuule saatmine) näidet kasutatakse tõestusena, et ka muud, sageli täiesti erinevad eesmärgid peaksid olema lihtsalt saavutatavad.
+Nõrga analoogia vorm, kus ühte suurt saavutust (nt Kuule minek) kasutatakse tõendina, et ka mis tahes muu keeruline ülesanne peab olema tehtav. See eirab valdkondade ja ressursside täielikku erinevust.
 
 
 **[Traditsioonile viitamise eksitus](traditsioonile-viitamise-eksitus.md)**  
@@ -256,7 +257,7 @@ Põhjendatud ja tõestatud argumendi aktsepteerimisest keeldumine kangekaelsuse 
 
 
 **[Kordamise eksitus](kordamise-eksitus.md)**  
-Loogikaviga, kus väidet või argumenti korratakse korduvalt, selle asemel et esitada uusi tõendeid või põhjendusi.
+Väite või argumendi korduv esitamine sisuliste tõendite asemel. See rõhub psühholoogilisele harjumusejõule, kus kordamine jätab eksliku mulje tõesusest, kuigi uusi põhjendusi ei lisandu.
 
 
 **[Valikuline lugemine](valikuline-lugemine.md)**  
@@ -268,7 +269,7 @@ Loogikaviga, kus eeldatakse, et vanematel põlvkondadel on suurem tarkus ning ne
 
 
 **[Loogikaveale viitamise eksitus](loogikaveale-viitamise-eksitus.md)**  
-Loogikaviga, kus arvatakse, et kui argumendis leidub loogikaviga, siis kogu järeldus peab olema vale.
+Ekslik järeldus, et kui vastase argumendis leidub loogikaviga, siis peab tema järeldus olema väär. See eirab tõsiasja, et tõese järelduseni võib jõuda ka vigase argumentatsiooni kaudu. Nimetatakse ka "eksituse eksituseks".
 
 
 **[Vale autoriteedi eksitus](vale-autoriteedi-eksitus.md)**  
@@ -276,7 +277,7 @@ Loogikaviga, kus kedagi esitletakse eksperdina või autoriteedina valdkonnas, mi
 
 
 **[Kuuldustele viitamise eksitus](kuuldustele-viitamise-eksitus.md)**  
-Loogikaviga, kus tõendina kasutatakse kellegi ütlust või kuulujuttu, mitte otsest kogemust või usaldusväärset allikat.
+Väite toetamine teise või kolmanda isiku poolt vahendatud infoga, mitte otsese tõendusmaterjali või tunnistusega. See eirab tõsiasja, et info kipub igal edastamisel moonduma (telefonimängu efekt).
 
 
 **[Pealiskaudne argument](pealiskaudne-argument.md)**  
@@ -318,7 +319,7 @@ Loogikaviga, kus argumendile vastatakse ilma selle sisulisi punkte käsitlemata,
 Loogikaviga, kus statistilist infot eiratakse ning otsustamisel kasutatakse hoopis ebaolulist infot, mida peetakse ekslikult oluliseks. Näiteks arvatakse, et erandlikud omadused (nt geniaalsus või usk) muudavad tõenäosusi oluliselt, kuigi tegelikult kehtivad üldised statistilised baassagedused. Sageli ignoreeritakse tõenäosusteooriat ja keskendutakse kõrvalistele tunnustele või isiklikele uskumustele.
 
 **[Küsimuse eeldamine](kusimuse-eeldamine.md)**  
-Loogikaviga, kus järeldus eeldatakse juba ühe eelduse sees – tegemist on ringtõestusega.
+Ringtõestuse vorm, kus väite järeldus on peidetud juba ühte selle eelväidetest. See ei lisa uut tõendusmaterjali, vaid kordab väidet uues sõnastuses, eeldades selle tõesust juba ette.
 
 **[Viltune valim](viltune-valim.md)**  
 Loogikaviga, kus tehakse järeldus kogu populatsiooni kohta kallutatud või ebaesindusliku valimi põhjal.
