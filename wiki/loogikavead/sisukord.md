@@ -217,7 +217,7 @@ Tõendusmaterjali asendamine pahameele, kiusu või vihaga mõne isiku või oluko
 
 
 **[Rumalusele rõhumise eksitus](rumalusele-rohumise-eksitus.md)**  
-Loogikaviga, kus mõistust, arutlust või intellektuaalset arutelu alavääristatakse või naeruvääristatakse, justkui oleks rumalus või teadmatus parem või eelistatum.
+Mõistuse, loogika või teaduslike andmete teadlik alavääristamine. See kutsub üles usaldama vaid "kõhutunnet" ja emotsioone, maalides kriitilisest mõtlemisest negatiivse pildi, et vältida faktipõhist arutelu. Tuntud ka kui "anti-intellektuaalsus".
 
 
 **[Seadusele viitamise eksitus](seadusele-viitamise-eksitus.md)**  
