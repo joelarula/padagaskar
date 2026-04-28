@@ -2,14 +2,16 @@
 allikas: "https://www.logicallyfallacious.com/logicalfallacies/Accident-Fallacy"
 loogikavea_nimi: "Erandipimedus"
 alternatiivsed_nimed:
-	- "Õigustatud erandite eiramine"
-	- "Accident Fallacy"
+ - "Erandipimedus"
+ - "Accident Fallacy"
 ingliskeelne_nimi: "Accident Fallacy"
 ladina_nimi: "a dicto simpliciter ad dictum secundum quid"
 keel: "eesti"
 ---
 
-# Erandipimedus (Accident Fallacy)
+# Erandipimedus
+
+(Tuntud ka kui: erandi hävitamine, dicto secundum quid ad dictum simpliciter, dicto simpliciter, pöörd-erand, üldreegli eksitus, liiga laia üldistuse eksitus)
 
 **Kirjeldus:**
 Kui püütakse rakendada üldreeglit kõikidele olukordadele, kuigi on selgeid erandeid. Lihtsustatud reeglid või seadused ei arvesta sageli õigustatud erandeid ning nende eiramine tähendab ratsionaalsuse ohverdamist näilise täiusliku seaduse nimel. Inimesed eelistavad sageli lihtsust, isegi kui see tähendab ratsionaalsuse kaotamist.
@@ -35,4 +37,7 @@ Kui üldreegli rakendamisel on hea argument, et tegevus rikub reeglit, pole see 
 **Nipp:**
 Sul on õigus kahelda seadustes, mida sa ei mõista või millega sa ei nõustu.
 
-[← Tagasi loogikavigade loendisse](../Loogikavead.md)
+**Viited:**
+- Bile, J. (1988). Propositional justification: another view. Contemporary Argumentation & Debate, 9, 54–62.
+
+[← Tagasi loogikavigade loendisse](sisukord.md)

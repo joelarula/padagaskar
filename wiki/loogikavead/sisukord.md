@@ -15,16 +15,16 @@ See on kureeritud loetelu loogikavigadest, kohandatud allikast [logicallyfallaci
 Kui sõna, lause või idee tähendus muutub sõltuvalt sellest, millisele osale või sõnale pannakse rõhk.
 
 
-**[Õigustatud erandite eiramine (Accident Fallacy)](erandipimedus.md)**
-Kui püütakse rakendada üldreeglit kõikidele olukordadele, kuigi on selgeid erandeid. Lihtsustatud reeglid või seadused ei arvesta sageli õigustatud erandeid ning nende eiramine tähendab ratsionaalsuse ohverdamist näilise täiusliku seaduse nimel.
+**[Erandipimedus](erandipimedus.md)**  
+Loogikaviga, kus üldreeglit püütakse rakendada kõikidele olukordadele, eirates selgeid erandeid. Lihtsustatud reeglid või seadused ei arvesta sageli õigustatud erandeid ning nende eiramine tähendab ratsionaalsuse ohverdamist näilise täiusliku seaduse nimel. Ole kriitiline reeglite suhtes, mis ei arvesta tegelikkuse mitmekesisust.
 
 
 **[Ebakindlusele rõhumine (Ad Fidentia)](ebakindusele-rõhumine.md)**  
 Selle asemel, et rünnata väite sisu, rünnatakse inimese enesekindlust. Eesmärk on tekitada vastases tunne, et ta pole piisavalt kompetentne, tema mälu petab teda või ta pole kõiki asjaolusid arvesse võtnud.
 
 
-**[Eriargument (Ad hoc argument, Ad Hoc Rescue)](eriargument.md)**  
-Sageli hakatakse uskumuse kaitseks, vaatamata vastupidistele tõenditele, välja mõtlema uusi vabandusi või põhjendusi.
+**[Eriargument](eriargument.md)**  
+Loogikaviga, kus uskumuse kaitseks, vaatamata vastupidistele tõenditele, hakatakse välja mõtlema uusi vabandusi või põhjendusi, miks uskumus võiks ikkagi tõsi olla. Tõendite puudumisel on selline põhjendamine eksitav.
 
 
 **[Ad hominem (solvav)](ad-hominem-solvav.md)**  
@@ -68,7 +68,7 @@ See loogikaviga seisneb selles, et esitatakse kaks (või enam) valikut, mis tege
 
 
 **[Imeline kõigeteadja](imeline-koigeteadja.md)**  
-See loogikaviga seisneb selles, et keegi väidab end teadvat või kogenud olevat midagi, mis on tegelikult väga ebatõenäoline või lausa võimatu. Sellise väitega püütakse jätta mulje, et ollakse asjaga väga hästi kursis või omatakse erilisi teadmisi.
+Loogikaviga, kus keegi väidab teadvat või kogenud olevat midagi, mis on väga ebatõenäoline või võimatu. Sellise väitega püütakse jätta mulje eriteadmistest või kõiketeadlikkusest, kuigi see pole võimalik. Ole kriitiline väidete suhtes, mida pole võimalik kontrollida.
 
 
 **[Udujutt](udujutt.md)**  
@@ -108,7 +108,7 @@ Loogikaviga, kus sündmuse või olukorra põhjuseks väidetakse olevat pelgalt j
 
 
 **[Enamuse arvamusele viitamise eksitus](enamuse-arvamusele-viitamise-eksitus.md)**  
-Loogikaviga, kus väidet peetakse tõeseks ainult seetõttu, et enamik inimesi seda usub või toetab.
+Loogikaviga, kus väite tõesust või õigsust põhjendatakse üksnes sellega, et enamik inimesi seda usub või toetab. Näiteks: "Paljud usuvad, järelikult on see tõsi." Tõde ei sõltu enamuse arvamusest ning ajalugu on näidanud, et levinud uskumused võivad olla ekslikud.
 
 
 **[Tavalise inimesele viitamise eksitus](tavalise-inimesele-viitamise-eksitus.md)**  
@@ -156,7 +156,7 @@ Loogikaviga, kus väite või argumendi toetuseks viidatakse isikule, kes ei ole 
 
 
 **[Hirmutamine](hirmutamine.md)**  
-Loogikaviga, kus kuulajat püütakse veenda või mõjutada hirmu tekitamise kaudu, mitte loogiliste argumentide või tõendite abil.
+Loogikaviga, kus hirm, mitte tõendid või loogika, on peamine motivaator panna teisi aktsepteerima mingit ideed, seisukohta või järeldust. Näiteks: "Kui sa ei tee X, juhtub midagi kohutavat." Tõendite puudumisel on selline mõjutamine eksitav.
 
 
 **[Meelitamise eksitus](meelitamise-eksitus.md)**  
@@ -172,7 +172,7 @@ Loogikaviga, kus seisukohta püütakse õigustada väitega, et see on "jumala ta
 
 
 **[Intuitsioonile viitamise eksitus](intuitsioonile-viitamise-eksitus.md)**  
-Loogikaviga, kus argumenti või seisukohta hinnatakse "kõhutunde" või isikliku sisetunde põhjal, mitte loogika või tõendite alusel.
+Loogikaviga, kus argumenti hinnatakse või lükatakse tagasi pelgalt intuitsiooni või "kõhutunde" põhjal, mitte loogika või tõendite alusel. Tõendite puudumisel on selline põhjendamine eksitav.
 
 
 **[Lojalsusele viitamise eksitus](lojalsusele-viitamise-eksitus.md)**  
@@ -208,7 +208,7 @@ Loogikaviga, kus argument või seisukoht tehakse naeruväärseks, liialdades võ
 
 
 **[Iseenesestmõistetavusele viitamise eksitus](iseenesestmoistetavusele-viitamise-eksitus.md)**  
-Loogikaviga, kus väidet esitatakse tõestuseta või põhjendamata, väites, et see on "iseenesestmõistetav" või "ilmselge".
+Loogikaviga, kus väidet esitatakse tõestuseta või põhjendamata, väites, et see on "iseenesestmõistetav" või "ilmselge". Selle asemel, et tuua argumente või tõendeid, eeldatakse, et kõik peaksid väitega nõustuma. Tegelikkuses vajavad ka näiliselt ilmselged väited põhjendamist ja tõestamist.
 
 
 **[Pahameelele rõhumise eksitus](pahameelele-rohumise-eksitus.md)**  
