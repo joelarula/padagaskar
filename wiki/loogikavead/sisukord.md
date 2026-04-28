@@ -56,7 +56,7 @@ See loogikaviga tekib, kui eeldatakse, et kui tagajärg (järeldus) on tõene, s
 
 
 **[Kindluse teesklus](kindluse-teesklus.md)**  
-See loogikaviga seisneb selles, et järeldust või väidet esitatakse täiesti kindlana, ilma et selleks oleks piisavalt tõendeid või põhjendusi. Sageli kasutatakse seda võtet, et vältida arutelu või küsimusi, jättes mulje, nagu oleks asi vaieldamatu.
+Väite esitamine absoluutse tõena ilma tõenditeta, kasutades sõnastust (nt "kõik teavad"), mis jätab mulje vaieldamatust faktist. Seda kasutatakse sisulise arutelu vältimiseks ja kuulaja survestamiseks.
 
 
 **[Akronüümisupp](akronuumisupp.md)**  
@@ -104,7 +104,7 @@ Loogikaviga, kus aktsepteeritakse tõendeid või järeldusi ainult selleks, et a
 
 
 **[Kokkusattumusele viitamise eksitus](kokkusattumusele-viitamise-eksitus.md)**  
-Loogikaviga, kus sündmuse või olukorra põhjuseks väidetakse olevat pelgalt juhus, kuigi tõendid viitavad muule seletusele.
+Sündmuse või tulemuse seletamine pelga juhuse või kokkusattumusena olukorras, kus tõendid viitavad selgele mustrile või muule põhjusele. Seda kasutatakse sageli vastutusest hoidumiseks.
 
 
 **[Enamuse arvamusele viitamise eksitus](enamuse-arvamusele-viitamise-eksitus.md)**  
