@@ -306,8 +306,6 @@ Vastaspoole argumentide hulgast kõige nõrgema väljavalimine ja selle ründami
 
 
 
-
-
 **[Vanusele viitamise eksitus](vanusele-viitamise-eksitus.md)**  
 Ekslik eeldus, et varasematel põlvkondadel või muistsetel inimestel oli suurem tarkus, mis muudab nende järeldused automaatselt tõeseks. See eirab uusi teadmisi ja teaduse arengut, romantiseerides minevikku. Tuntud ka kui "muistsete tarkus".
 
@@ -397,45 +395,58 @@ Loogikaviga, kus eeldatakse ja väidetakse, et argument on vigane või vale üks
 
 ## C
 
-**[Causal Reductionism](https://www.logicallyfallacious.com/logicalfallacies/Causal-Reductionism)**  
-Assuming a single cause or reason when there were actually multiple causes or reasons.
+**[Põhjuslik reduktsionism](pohjuslik-reduktsionism.md)**  
+Eeldus, et sündmusel on vaid üks põhjus või ajend, kuigi tegelikult oli põhjuseid või ajendeid mitu.
 
-**[Cherry Picking](https://www.logicallyfallacious.com/logicalfallacies/Cherry-Picking)**  
-Presenting only select evidence to persuade, while withholding evidence that would go against the position.
 
-**[Circular Definition](https://www.logicallyfallacious.com/logicalfallacies/Circular-Definition)**  
-Defining a term by using the term in the definition.
+**[Kirsinoppimine](kirsinoppimine.md)**  
+Olukord, kus esitatakse ainult valitud tõendeid, et veenda kuulajaskonda mingit seisukohta aktsepteerima, ning varjatakse tõendeid, mis räägiksid selle seisukoha vastu.
 
-**[Circular Reasoning](https://www.logicallyfallacious.com/logicalfallacies/Circular-Reasoning)**  
-Reasoning in which the proposition is supported by the premises, which is supported by the proposition, creating a circle in reasoning.
 
-**[Commutation of Conditionals](https://www.logicallyfallacious.com/logicalfallacies/Commutation-of-Conditionals)**  
-Switching the antecedent and the consequent in a logical argument.
+**[Ringdefinitsioon](ringdefinitsioon.md)**  
+Mõiste defineerimine, kasutades seda sama mõistet definitsioonis endas.
 
-**[Complex Question Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Complex-Question-Fallacy)**  
-A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
 
-**[Conflicting Conditions](https://www.logicallyfallacious.com/logicalfallacies/Conflicting-Conditions)**  
-When the argument is self-contradictory and cannot possibly be true.
+**[Ringtõestus](ringtoestus.md)**  
+Arutlusviis, kus väidet toetatakse eeldustega, mida omakorda toetab see sama väide, tekitades arutluses ringi.
 
-**[Confusing an Explanation with an Excuse](https://www.logicallyfallacious.com/logicalfallacies/Confusing-an-Explanation-with-an-Excuse)**  
-Treating an explanation of a fact as if it were a justification of the fact.
 
-**[Confusing Currently Unexplained with Unexplainable](https://www.logicallyfallacious.com/logicalfallacies/Confusing-Currently-Unexplained-with-Unexplainable)**  
-Assuming that what cannot currently be explained is, therefore, unexplainable.
+**[Tingimuslausete äravahetamine](tingimuslausete-aravahetamine.md)**  
+Eelnevuse ja järgnevuse äravahetamine loogilises argumendis.
 
-**[Conjunction Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Conjunction-Fallacy)**  
-Assuming that more specific conditions are more probable than general ones.
 
-**[Conspiracy Theory](https://www.logicallyfallacious.com/logicalfallacies/Conspiracy-Theory)**  
-Explaining that your claim cannot be proven or verified because the truth is being hidden by a group.
+**[Keeruka küsimuse eksitus](keeruka-kusimuse-eksitus.md)**  
+Küsimus, mille sisse on ehitatud eeldus, mis vihjab millelegi, kuid kaitseb küsimuse esitajat valeväidete süüdistuste eest.
 
-**[Contextomy](https://www.logicallyfallacious.com/logicalfallacies/Contextomy)**  
-Removing a passage from its surrounding matter in such a way as to distort its intended meaning.
+
+**[Vastandlikud tingimused](vastandlikud-tingimused.md)**  
+Olukord, kus argument on iseendaga vastuolus ja ei saa kuidagi tõsi olla.
+
+
+**[Selgituse ja vabanduse segiaajamine](selgituse-ja-vabanduse-segiaajamine.md)**  
+Fakti selgituse kohtlemine nii, nagu see oleks fakti õigustus, mõjuv põhjus või tõend fakti kohta.
+
+
+**[Praegu selgitamatu ja selgitamatu segiaajamine](praegu-selgitamatu-ja-selgitamatu-segiaajamine.md)**  
+Eelduse tegemine, et see, mida praegu ei saa selgitada, on seetõttu selgitamatu (võimatu selgitada).
+
+
+**[Konjunktsiooniviga](konjunktsiooniviga.md)**  
+Eeldus, et spetsiifilisemad tingimused on tõenäolisemad kui üldised.
+
+
+**[Vandenõuteooria](vandenouteooria.md)**  
+Selgitus, et sinu väidet ei saa tõestada ega kontrollida, kuna tõde varjatakse mõne rühma poolt.
+
+
+**[Kontekstist väljarebimine](kontekstist-valjarebimine.md)**  
+Tekstilõigu eemaldamine ümbritsevast materjalist viisil, mis moonutab selle algset tähendust.
+
 ## D
 
-**[Deceptive Sharing](https://www.logicallyfallacious.com/logicalfallacies/deceptive-sharing.html)**  
-Sharing an article, post, or meme to influence public perception of a rare event as a common event.
+**[Eksitav jagamine](eksitav-jagamine.md)**  
+Artiklite või meemide jagamine eesmärgiga pidada haruldast sündmust tavaliseks.
+
 
 **[Definist Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Definist-Fallacy)**  
 Defining a term in such a way that makes one’s position much easier to defend.
@@ -457,5 +468,10 @@ Asserting a position is different from another based on language when both are t
 
 **[Double Standard](https://www.logicallyfallacious.com/logicalfallacies/Double-Standard)**  
 Judging two situations by different standards when the same standard should be used.
+
+
+
+
+
 
 *Source: [logicallyfallacious.com](https://www.logicallyfallacious.com/)*
