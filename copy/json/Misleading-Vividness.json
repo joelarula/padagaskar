@@ -1,0 +1,28 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Misleading-Vividness",
+  "title": "Misleading Vividness",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "A small number of dramatic and vivid events are taken to outweigh a significant amount of statistical evidence.",
+  "logical_form": "Dramatic or vivid event X occurs (does not jibe with the majority of the statistical evidence).\n\nTherefore, events of type X are likely to occur.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "In Detroit, there is a 10-year-old living on the street selling drugs to stay alive.  In Los Angeles, a 19-year-old prostitute works the streets.  America’s youth is certainly in serious trouble.",
+      "explanation": "While the stories of the 10-year-old illegal pharmacist and the 19-year-old village bicycle are certainly disturbing, they are just two specific cases out of tens of millions -- a vast majority of youth live pretty regular lives, far from being considered in any “serious trouble”.  This is a form of *[appeal to emotion](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Emotion)* that causes us to hold irrational beliefs about a population due to a few select cases.  The example could have featured two other youths:\n\nIn Detroit, there is a 10-year-old who plays the piano as beautifully as Beethoven.  In Los Angeles, a 19-year-old genius is getting her PhD in nuclear physics.  America’s youth is certainly something of which we can be proud."
+    },
+    {
+      "number": 2,
+      "example": "It was freezing today as it was yesterday.  My plants are now dead, and my birdbath turned to solid ice...and it is only October!  This global warming thing is a load of crap.",
+      "explanation": "Whether global warming is a “load of crap” or not, concluding that, by a couple of unusually cold days, is fallacious reasoning at its finest."
+    }
+  ],
+  "exceptions": "If the cases featured are typical of the population in general, then no fallacy is committed.",
+  "tips": "Don’t let your pessimism or optimism cloud your judgments on reality.",
+  "references": [
+    "Nisbett, R. E., & Ross, L. (1980). *Human inference: strategies and shortcomings of social judgment*. Prentice-Hall."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Misleading_Vividness.jpg",
+  "slug": "Misleading-Vividness",
+  "letter": "M"
+}

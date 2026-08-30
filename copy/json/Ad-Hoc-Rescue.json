@@ -1,0 +1,31 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Ad-Hoc-Rescue",
+  "title": "Ad Hoc Rescue",
+  "latin_name": "ad hoc",
+  "also_known_as": [
+    "making stuff up",
+    "MSU fallacy"
+  ],
+  "description": "Very often we desperately want to be right and hold on to certain beliefs, despite any evidence presented to the contrary.  As a result, we begin to make up excuses as to why our belief could still be true, and is still true, despite the fact that we have no real evidence for what we are making up.",
+  "logical_form": "Claim X is true because of evidence Y.\n\nEvidence Y is demonstrated not to be acceptable evidence.\n\nTherefore, it must be guess Z then, even though there is no evidence for guess Z.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Frieda: I just know that Raymond is just waiting to ask me out.\n\nEdna: He has been seeing Rose for three months now.\n\nFrieda: He is just seeing her to make me jealous.\n\nEdna: They’re engaged.\n\nFrieda: Well, that’s just his way of making sure I know about it.",
+      "explanation": "Besides being a bit deluded, poor Frieda refuses to accept the evidence that leads to a truth she is not ready to accept.  As a result, she creates an *ad hoc* reason in an attempt to rescue her initial claim."
+    },
+    {
+      "number": 2,
+      "example": "Mark: The president of the USA is the worst president ever because unemployment has never been so bad before!\n\nSam: Actually, it was worse in 1982 and far worse in the 1930s.  Besides, the president might only be partly responsible for the economy during his term.\n\nMark: Well... the president kicks animals when nobody is looking.",
+      "explanation": "Out of desperation, Mark makes a claim about the president's private treatment of animals after his original claim has been refuted."
+    }
+  ],
+  "exceptions": "Proposing possible solutions is perfectly acceptable when an argument is suggesting only a possible solution -- especially in a hypothetical situation. For example, “If there is no God, then life is meaningless.”  If there is no God who dictates meaning to our lives, perhaps we are truly free to find our own meaning.",
+  "tips": "When you suspect people are just making stuff up, rather than providing evidence to support their claim, simply ask them, “What evidence do you have to support that?”",
+  "references": [
+    "Carey, S. S. (2011). *A Beginner’s guide to scientific method*. Cengage Learning."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Ad_Hoc_Rescue.jpg",
+  "slug": "Ad-Hoc-Rescue",
+  "letter": "A"
+}

@@ -1,0 +1,33 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Causal-Reductionism",
+  "title": "Causal Reductionism",
+  "latin_name": "",
+  "also_known_as": [
+    "complex cause",
+    "fallacy of the single cause",
+    "causal oversimplification",
+    "reduction fallacy"
+  ],
+  "description": "Assuming a single cause or reason when there were actually multiple causes or reasons.",
+  "logical_form": "X occurred after Y.\n\nTherefore, Y caused X (although X was also a result of A,B,C... etc.)",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Hank: I ran my car off the side of the road because that damn squirrel ran in front of my car.\n\nOfficer Sam: You don’t think it had anything to do with the fact that you were trying to text your girlfriend, and driving drunk?",
+      "explanation": "While if it were not for the squirrel, perhaps Hank wouldn’t have totaled his car.  However, if it weren’t for him texting while driving drunk, he could have almost certainly prevented taking his unauthorized shortcut through the woods and into a tree."
+    },
+    {
+      "number": 2,
+      "example": "The reason more and more people are giving up belief in ghosts is because of Bo’s books.",
+      "explanation": "Thank you, but that would be fallacious reasoning.  While my books *may have played a role* in *some* people giving up belief in ghosts, I doubt it was the only cause, and am pretty darn sure that overall, my books have very little effect on the population at large."
+    }
+  ],
+  "exceptions": "Causes and reasons can be debatable, so if you can adequately defend the fact that you believe there was only a single reason, it won’t be fallacious.",
+  "tips": "Use “contributing factors” more and “the reason” or “the cause” a lot less.",
+  "references": [
+    "The Journal of Mental Science*. (1952). Longman, Green, Longman & Roberts."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Causal_Reductionism.jpg",
+  "slug": "Causal-Reductionism",
+  "letter": "C"
+}

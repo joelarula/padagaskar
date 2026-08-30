@@ -1,0 +1,28 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Stolen-Concept-Fallacy",
+  "title": "Stolen Concept Fallacy",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Requiring the truth of the something that you are simultaneously trying to disprove.",
+  "logical_form": "*Person 1 is attempting to disprove X.*\n*X is required to disprove X.*",
+  "examples": [
+    {
+      "number": 1,
+      "example": "*Reason and logic are not always reliable, so we should not count on it to help us find truth.*",
+      "explanation": "Here we are using reason to disprove the validity of reason, which is unreasonable -- reasonably speaking."
+    },
+    {
+      "number": 2,
+      "example": "*Science cannot be trusted.  It is a big conspiracy to cover up the truth of the Bible and the creation story.  Besides, I saw fossils in the creation museum with humans and dinosaurs together, which proves science is wrong!*",
+      "explanation": "Geology is a branch of science.  Using science (examining fossils through the science of geology) to disprove science is absurd, a contradiction and, therefore, a fallacy in reasoning."
+    }
+  ],
+  "exceptions": "Intentional irony.\n\n**Fun Fact:** The *nofallacies fallacy* is the belief that fallacies don't exist (not really).",
+  "tips": "",
+  "references": [
+    "Peikoff, L. (1993). *Objectivism: The Philosophy of Ayn Rand*. Penguin."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Stolen_Concept_Fallacy.jpg",
+  "slug": "Stolen-Concept-Fallacy",
+  "letter": "S"
+}

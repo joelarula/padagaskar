@@ -1,0 +1,26 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/False-Conversion",
+  "title": "False Conversion",
+  "latin_name": "",
+  "also_known_as": [
+    "illicit conversion",
+    "[illicit] inductive conversion"
+  ],
+  "description": "The formal fallacy where the subject and the predicate terms of the proposition are switched (*conversion*) in the conclusion, in a proposition that uses “all” in its premise (type “A” forms), or “some/not” (type “O” forms).",
+  "logical_form": "All P are Q.\n\nTherefore, all Q are P.\n\nSome P are not Q.\n\nTherefore, some Q are not P.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "All Hollywood Squares contestants are bad actors.\n\nTherefore, all bad actors are Hollywood Squares contestants.\n\n**Example #2:**\n\nSome people in the film industry do not win Oscars.\n\nTherefore, some Oscar winners are not people in the film industry.",
+      "explanation": "It does not follow logically that just because all *Hollywood Square*s contestants are bad actors that all bad actors actually make it on *Hollywood Squares*.  Same form problem with the second example -- but we used “some” and “are not”."
+    }
+  ],
+  "exceptions": "None, but remember that type “E” and type “I” forms can use conversion and remain valid.\n\nNo teachers are psychos.\n\nTherefore, no psychos are teachers.",
+  "tips": "Remember that formal fallacies are often obscured by unstructured rants. Creating a formal argument from such rants is both an art and a science.",
+  "references": [
+    "Welton, J. (1896). *A Manual of Logic*. W. B. Clive."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/False_Conversion.jpg",
+  "slug": "False-Conversion",
+  "letter": "F"
+}

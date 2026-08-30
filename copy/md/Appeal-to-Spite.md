@@ -1,0 +1,53 @@
+---
+source: "https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Spite"
+english_name: "Appeal to Spite"
+latin_name: "argumentum ad odium"
+status: "pending_translation"
+---
+
+# Appeal to Spite
+
+*argumentum ad odium*
+
+**Description:**
+
+Substituting spite (petty ill will or hatred with the disposition to irritate, annoy, or thwart) for evidence in an argument, or as a reason to support or reject a claim.
+
+**Logical Form:**
+
+* Claim X is made.
+* Claim X is associated with thing Y that people feel spite towards.
+* Therefore, X is true / false.
+
+**Example #1:**
+
+> Aren't you tired of the political divisiveness in this country? Republicans know what they are talking about when it comes to immigration. Don't you agree?
+
+**Explanation:** This is a slick way of having someone agree with your claim. The arguer began by introducing a common idea that many people despise—political divisiveness (thing Y). Then, made a claim (claim X) in which the person would have to show political divisiveness to reject, in effect, causing the person to substitute spite in the idea of political divisiveness for reason.
+
+**Example #2:**
+
+> Jon: Why should I bother exercising while my spouse is on vacation stuffing her face with food.
+
+**Explanation:** The reasons for exercising are independent of the Jon's wife's actions. The claim here is that Jon should not bother exercising. The claim is associated with the idea that his wife is "stuffing her face with food" (something Jon feels spite towards). Jon concludes that he shouldn't exercise. If Jon were using reason rather than the emotion of spite, he would find another reason not to exercise—like the fact that he is too far behind on* The Golden Girls* reruns.
+
+**Exception:** This doesn't apply to emotional, relatively insignificant arguments.
+
+Sib: Dude, can you give me a ride to the mall?
+
+Eddie: You mean in my car about which you said it was "just slightly better than getting around on a drunk donkey"?
+
+Sib: Yea.
+
+Eddie. No. You are not worthy of a ride in my fine automobile.
+
+The claim is that Sib is not worthy of a ride in Eddie's car (an emotional/subjective claim). Although Eddie appeals to spite in his reason, he has the right to in this case.
+
+**Tip:** Be happy. Avoid spite in all of its forms.
+
+![Appeal to Spite illustration](https://www.logicallyfallacious.com/static/fallacy-images/Appeal_to_Spite.jpg)
+
+**References:**
+
+- Moore, B. N., & Parker, R. (1997). *Critical Thinking Instructor’s Manual: The Logical Accessory*. Mayfield Publishing Company.
+

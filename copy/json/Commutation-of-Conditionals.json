@@ -1,0 +1,31 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Commutation-of-Conditionals",
+  "title": "Commutation of Conditionals",
+  "latin_name": "",
+  "also_known_as": [
+    "the fallacy of the consequent",
+    "converting a conditional"
+  ],
+  "description": "Switching the antecedent and the consequent in a logical argument.",
+  "logical_form": "If P then Q.\n\nTherefore, if Q then P.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "If I have a PhD, then I am smart.\n\nTherefore, if I am smart, then I have a PhD.",
+      "explanation": "There are many who could, rightly so, disagree with the first premise, but assuming that premise is true, does not guarantee that the conclusion is true.  There are many smart people without PhDs."
+    },
+    {
+      "number": 2,
+      "example": "If I have herpes, then I have a strange rash.\n\nTherefore, if I have a strange rash, then I have herpes.",
+      "explanation": "I am glad this is not true.  One can have non-herpes rashes."
+    }
+  ],
+  "exceptions": "If p=q, then it is necessarily true that q=p.",
+  "tips": "If you think might herpes, see your doctor.",
+  "references": [
+    "Pickard, W. A., & Aristotle. (2006). *On Sophistical Refutations*. ReadHowYouWant.com, Limited."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Commutation_of_Conditionals.jpg",
+  "slug": "Commutation-of-Conditionals",
+  "letter": "C"
+}

@@ -1,0 +1,28 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/mcnamara_fallacy.html",
+  "title": "McNamara Fallacy",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "When a decision is based solely on quantitative observations (i.e., metrics, hard data, statistics) and all qualitative factors are ignored.",
+  "logical_form": "Measure whatever can be easily measured.\nDisregard that which cannot be measured easily.\nPresume that which cannot be measured easily is not important.\nPresume that which cannot be measured easily does not exist.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Donald Trump Jr. Tweeted:\n\nIf I had a bowl of skittles and I told you just three would kill you. Would you take a handful? That's our Syrian refugee problem.",
+      "explanation": "Let's ignore the gross statistical inaccuracy of this quote for a moment (i.e., 1 out of every 100 or so Syrian refugees is not going to kill you). The actual quantitative data about how many Syrian refugees are likely to be terrorists is some number greater than zero. The downside of letting Syrian refugees in the U.S. can be measured quantitatively, perhaps your risk of getting killed by a terrorist will increase from 3.46 billion to one to 3.4 billion to one. The upside, for the most part, is qualitative, that is, cannot be measured easily. What is a human life worth? How do we measure the suffering of others? Since these cannot easily be measured, we ignore them and conclude that taking in Syrian refugees is a bad decision."
+    },
+    {
+      "number": 2,
+      "example": "The numbers on gun violence speak for themselves. We should ban guns in the country!",
+      "explanation": "While the numbers on gun violence are alarming, we can't ignore the qualitative benefits of gun ownership. When making a decision, all factors need to be considered, even if they cannot be measured quantitatively."
+    }
+  ],
+  "exceptions": "It is possible that certain decisions do not have any qualitative components, or the qualitative components are irrelevant. For example, very often salespeople or high-end stores will attempt to sell us overpriced products or services that we can get elsewhere for 1/2 the price. They might justify their higher prices with \"service,\" where nobody needs \"service\" when buying toilet paper.",
+  "tips": "Qualitative factors are often measured with a degree of subjectivity, meaning that one might give different moral weight to an idea based on one's core values. Consider this before being too harsh in your judgment of others' political or religious views.",
+  "references": [
+    "Fischer, D. H. (1970). *Historian’s Fallacies*. Harper Collins."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/McNamara_Fallacy.jpg",
+  "slug": "mcnamara_fallacy.html",
+  "letter": "M"
+}

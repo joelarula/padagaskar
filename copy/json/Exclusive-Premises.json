@@ -1,0 +1,25 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Exclusive-Premises",
+  "title": "Exclusive Premises",
+  "latin_name": "",
+  "also_known_as": [
+    "fallacy of exclusive premises"
+  ],
+  "description": "",
+  "logical_form": "",
+  "examples": [
+    {
+      "number": 1,
+      "example": "No kangaroos are MMA fighters.\n\nSome MMA fighters are not Mormons.\n\nTherefore, some Mormons are not kangaroos.\n\n**Example #2:**\n\nNo animals are insects.\n\nSome insects are not dogs.\n\nTherefore, some dogs are not animals.\n\n**Example #3:**\n\nNo animals are insects.\n\nNo insects are dogs.\n\nTherefore, no dogs are animals.",
+      "explanation": "Remember why fallacies are so dangerous: because they appear to be good reasoning.  The conclusion in example #1 makes sense, but it does not follow logically -- it is an invalid argument.  Based on the first two premises, there is no way logically to deduce that conclusion.  Now, look at examples #2 and #3.  We use the same logical form of the argument, committing the same fallacy, but by changing the terms it is much more clear that something went wrong somewhere, and it did.  This kind of argument, the *categorical syllogism*, cannot have two negative premises and still be valid.\n\nJust because the conclusion appears true, it does not mean the argument is valid (or strong, in the case of an informal argument)."
+    }
+  ],
+  "exceptions": "No exceptions.",
+  "tips": "Learn to recognize the forms of formal fallacies, and you will easily spot invalid formal arguments.",
+  "references": [
+    "Goodman, M. F. (1993). *First Logic*. University Press of America."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Exclusive_Premises.jpg",
+  "slug": "Exclusive-Premises",
+  "letter": "E"
+}

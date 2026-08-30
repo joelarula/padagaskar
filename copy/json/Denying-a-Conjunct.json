@@ -1,0 +1,17 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Denying-a-Conjunct",
+  "title": "Denying a Conjunct",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "A formal fallacy in which the first premise states that at least one of the two *conjuncts* (antecedent and consequent) is false and concludes that the other conjunct must be true.",
+  "logical_form": "",
+  "examples": [],
+  "exceptions": "No exceptions.\n\n**Fun Fact:** Atheists don’t eat babies.",
+  "tips": "",
+  "references": [
+    "Kiersky, J. H., & Caste, N. J. (1995). *Thinking Critically: Techniques for Logical Reasoning*. West Publishing Company."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Denying_a_Conjunct.jpg",
+  "slug": "Denying-a-Conjunct",
+  "letter": "D"
+}

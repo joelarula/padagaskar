@@ -1,0 +1,28 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-the-Moon",
+  "title": "Appeal to the Moon",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Using the argument, “If we can put a man on the moon, we could...” as evidence for the argument. This is a specific form of the *[weak analogy](https://www.logicallyfallacious.com/logicalfallacies/Weak-Analogy)*.",
+  "logical_form": "If we can put a man on the moon, we can X.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "If we can put a man on the moon, we can cure all forms of cancer.",
+      "explanation": "Putting a man on the moon is seen to be a virtually impossible task, but since we did it, the (faulty) reasoning is we can then do any virtually impossible task.  Remember that mere possibility is not the same as probability.  These kinds of arguments are not suggesting the mere possibility, but probability, based on the fact that we succeeded getting a man on the moon."
+    },
+    {
+      "number": 2,
+      "example": "If NASA can put a man on the moon, you can certainly sleep with me tonight.",
+      "explanation": "This is an even worse analogy. The accomplishments of NASA are independent of our personal accomplishments."
+    }
+  ],
+  "exceptions": "If the argument is for getting a man on the moon again, then this would work.\n\nIf we can put a man on the moon in 1969, we can do it today.",
+  "tips": "Believe in the possible just don’t count on it unless it is probable.",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Appeal_to_the_Moon.jpg",
+  "slug": "Appeal-to-the-Moon",
+  "letter": "A"
+}

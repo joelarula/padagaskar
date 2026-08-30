@@ -1,0 +1,31 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Argument-by-Pigheadedness",
+  "title": "Argument by Pigheadedness",
+  "latin_name": "",
+  "also_known_as": [
+    "argument by stubbornness",
+    "invincible ignorance fallacy"
+  ],
+  "description": "This is a refusal to accept a well-proven argument for one of many reasons related to stubbornness. It can also be the refusal to argue about a claim that one supports.",
+  "logical_form": "Argument X is well-argued.\n\nPerson 1 has no objections to the argument, besides just refusing to accept the conclusion.\n\nTherefore, argument X is not true.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Dad: You are failing math since you moved the Xbox to your room. You have been playing video games for at least 6 hours each day since. Before that, you consistently got A's and B's. Don't you think that the video games are the real problem here?\n\nBlake: No.",
+      "explanation": "Blake is offering no counter argument or reasoning for rejecting his dad's well-articulated argument. He is simply being stubborn."
+    },
+    {
+      "number": 2,
+      "example": "Cathy: I hate everything about Michelle Obama!\n\nJorge: Do you hate that she launched the national campaign, \"Let's Move!,\" to reduce childhood obesity?\nCathy: Yes.\nJorge: Do you hate that she launched the national veterans' campaign, \"Joining Forces,\" with Dr. Jill Biden?\nCathy: Yes.\nJorge: Do you hate that she traveled to Africa for a week to focus on youth leadership, education, health, and wellness?\nCathy: Yes.\nJorge: Do you hate that she launched the national campaign, \"Reach Higher,\" a higher education initiative?\nCathy: Yes.\nJorge: Do you hate that she launched the national campaign, \"Let Girls Learn,\" a global focus on girls' education?\nCathy: Yes.\n\nJorge: Do you hate her well-toned triceps and biceps?\n\nCathy: Yes, especially those!",
+      "explanation": "Unreasonable people tend to engage in black-and-white thinking and are committed to an ideological position at any expense—including reason. Cathy is one of those people."
+    }
+  ],
+  "exceptions": "Don’t confuse unwillingness to engage with the argument by pigheadedness.\n\n*Street Preacher (to a woman walking by wearing a t-shirt that reads “Thank God I am an atheist!”): You are going to burn in hell!*\n*Woman: (keeps walking)*\n*Street Preacher: (frantically quoting Bible verses that support his claim).*\n*Woman: Yeah, I don’t think so.*\n*Street Preacher: (Yelling Bible verses louder as the woman gets farther away, while trying to keep up with her).*\n*Woman: I don’t buy it, sorry! By the way, you just stepped in dog poop.*\n\nIn this example, the woman is not sincerely engaging in the argument. She might have no interest, no time, or simply sees using the Bible to support claims in the Bible as* *[circular reasoning](https://www.logicallyfallacious.com/logicalfallacies/Circular-Reasoning)**, and not see the street preacher as a worthy interlocutor.",
+  "tips": "As a reminder, avoid absolutes. Instead of saying that you \"hate everything\" about someone, say something such as, \"there's not much I like about...\"",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Argument_by_Pigheadedness.jpg",
+  "slug": "Argument-by-Pigheadedness",
+  "letter": "A"
+}

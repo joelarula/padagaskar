@@ -1,0 +1,28 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Faith",
+  "title": "Appeal to Faith",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "This is an abandonment of reason in an argument and a call to faith, usually when reason clearly leads to disproving the conclusion of an argument.  It is the assertion that one must have (the right kind of) faith in order to understand the argument.\n\nEven arguments that heavily rely on reason that ultimately require faith, abandon reason.",
+  "logical_form": "X is true.\n\nIf you have faith, you will see that.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Jimmie: Joseph Smith, the all American prophet, was the blond-haired, blue-eyed voice of God.\n\nHollie: What is your evidence for that?\n\nJimmie: I don't need evidence—I only need *faith*.",
+      "explanation": "There are some things, some believe, that are beyond reason and logic.  Fair enough, but the moment we accept this, absent of any objective method of telling what is beyond reason and why *anything goes,* anything can be explained away without having to explain anything."
+    },
+    {
+      "number": 2,
+      "example": "Tom: Did you know that souls (\"Thetans\") reincarnate and have lived on other planets before living on Earth, and Xenu was the tyrant ruler of the Galactic Confederacy?\n\nMike: No, I did not know that.  How do you know that?\n\nTom: I know this through my *faith*.  Do you think everything can be known by science alone?  Your faith is weak, my friend.",
+      "explanation": "It should be obvious that reason and logic are not being used, but rather “faith”.  While Tom might be right, there is still no valid reason offered.  The problem also arises in the vagueness of the *appeal to faith*.  Tom’s answer can be used to answer virtually any question imaginable, yet the answer is really a deflection.\n\nSt. Bingo: You need to massage my feet.\n\nTina: Why?\n\nSt. Bingo: My child, you will only see that answer clearly through the eyes of faith."
+    }
+  ],
+  "exceptions": "No exceptions -- the *appeal to faith* is always a fallacy when used to justify a conclusion in the absence of reason.",
+  "tips": "Atheist and theist debate often reduces to the concept of faith, sometimes after many hours. It is often a good idea to start with the question, “Is faith a reliable method to know things?”",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Appeal_to_Faith.jpg",
+  "slug": "Appeal-to-Faith",
+  "letter": "A"
+}

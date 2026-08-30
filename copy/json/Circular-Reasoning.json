@@ -1,0 +1,34 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Circular-Reasoning",
+  "title": "Circular Reasoning",
+  "latin_name": "circulus in demonstrando",
+  "also_known_as": [
+    "paradoxical thinking",
+    "circular argument",
+    "circular cause and consequence",
+    "reasoning in a circle",
+    "vicious circle"
+  ],
+  "description": "A type of reasoning in which the proposition is supported by the premises, which is supported by the proposition, creating a circle in reasoning where no useful information is being shared.  This fallacy is often quite humorous.",
+  "logical_form": "X is true because of Y.\n\nY is true because of X.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Pvt. Joe Bowers: What are these electrolytes? Do you even know?\n\nSecretary of State: They're... what they use to make Brawndo!\n\nPvt. Joe Bowers: But why do they use them to make Brawndo?\n\nSecretary of Defense: [raises hand after a pause] Because Brawndo's got electrolytes.",
+      "explanation": "[This example](https://youtu.be/GFD2ggNxR1g?t=133) is from a favorite movie of mine, *Idiocracy, *where Pvt. Joe Bowers (played by Luke Wilson) is dealing with a bunch of not-very-smart guys from the future.  Joe is not getting any useful information about electrolytes, no matter how hard he tries."
+    },
+    {
+      "number": 2,
+      "example": "The Bible is the Word of God because God tells us it is... in the Bible.",
+      "explanation": "This is a very serious circular argument on which many people base their entire lives. The circularity is in the stated or implied claim that the reason they trust in the Bible is because it is the Word of God.  This is like getting an e-mail from a Nigerian prince, offering to give you his billion dollar fortune -- but only after you wire him a “good will” offering of $50,000.  Of course, you are skeptical until you read the final line in the e-mail that reads *“I, prince Nubadola, assure you that this is my message, and it is legitimate.  You can trust this e-mail and any others that come from me.”  *Now you know it is legitimate... because it says so in the e-mail."
+    }
+  ],
+  "exceptions": "Some philosophies state that we can never escape circular reasoning because the arguments always come back to axioms or first principles, but in those cases, the circles are very large and do manage to share useful information in determining the truth of the proposition.",
+  "tips": "Do your best to avoid circular arguments, as it will help you reason better because better reasoning is often a result of avoiding circular arguments.",
+  "references": [
+    "Fallacies | Internet Encyclopedia of Philosophy. (n.d.). Retrieved from http://www.iep.utm.edu/fallacy"
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Circular_Reasoning.jpg",
+  "slug": "Circular-Reasoning",
+  "letter": "C"
+}

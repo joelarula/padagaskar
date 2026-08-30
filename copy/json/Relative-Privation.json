@@ -1,0 +1,31 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Relative-Privation",
+  "title": "Relative Privation",
+  "latin_name": "",
+  "also_known_as": [
+    "it could be worse",
+    "it could be better"
+  ],
+  "description": "Trying to make a scenario appear better or worse by comparing it to the best or worst case scenario.",
+  "logical_form": "",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Be happy with the 1972 Chevy Nova you drive.  There are many people in this country who don’t even have a car.",
+      "explanation": "This person does have a very crappy car by any reasonable standard.  Only comparing his situation with people who have no cars, does his Chevy Nova look like a Rolls Royce.  It is fallacious to make a reasonable judgment based on these extreme cases."
+    },
+    {
+      "number": 2,
+      "example": "Son: I am so excited!  I got an “A” on my physics exam!\n\nDad:  Why not an “A+”?  This means that you answered something incorrectly.  That is not acceptable!",
+      "explanation": "The poor kid is viewing his success from a very reasonable perspective based on norms.  However, the father is using a best case scenario as a comparison, or a very unreasonable perspective.  The conclusion “it is not acceptable,” is unreasonable and, therefore, fallacious."
+    }
+  ],
+  "exceptions": "When used intentionally to manipulate emotions (especially with good intentions), not to make an argument on reason, then this might be acceptable.\n\nI know that you just lost your job, but at least you still have a great education and plenty of experience, which will help you get another job.\n\n**Fun Fact: **My first car was a crappy, 1972 Chevy Nova that I bought for $50 in my sophomore year in high school. This was when I first learned about correlation. Me driving that car was strongly correlated with my lack of female companions.",
+  "tips": "",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Relative_Privation.jpg",
+  "slug": "Relative-Privation",
+  "letter": "R"
+}

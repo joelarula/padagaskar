@@ -1,0 +1,28 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Fallacy-of-Every-and-All",
+  "title": "Fallacy of Every and All",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "When an argument contains both universal quantifiers and existential quantifiers (all, some, none, every) with different meanings, and the order of the quantifiers is reversed. This is a specific form of* [equivocation](https://www.logicallyfallacious.com/logicalfallacies/Equivocation)*.",
+  "logical_form": "*Quantifier X then quantifier Y.*\n*Therefore, quantifier Y then quantifier X.*",
+  "examples": [
+    {
+      "number": 1,
+      "example": "*Everyone should do something nice for someone. I am someone, so everyone should do something nice for me!*",
+      "explanation": "We have a reversal of the quantifiers.\n**\n\n*Everyone (quantifier X) should do something nice for someone (quantifier Y). I am someone (quantifier Y), so everyone (quantifier X) should do something nice for me!*\n\nAssuming one accepts the premise that \"everyone should do something nice for someone,\" the word \"someone\" in that sentence means \"some person or another\" whereas in the second sentence it means \"a specific person.\" By equivocating the meanings of \"someone,\" we appear to be making a strong argument when in fact we are not."
+    },
+    {
+      "number": 2,
+      "example": "Everyone loves someone.\nI am someone.\nTherefore, everyone loves me!",
+      "explanation": "“Someone” (quantifier X) referred to “any given person” in the first premise. In the second premise, “someone” is referring specifically to me. In the conclusion, we have a reversal of the quantifiers as they were presented in the premises."
+    }
+  ],
+  "exceptions": "No exceptions.",
+  "tips": "It really is a good idea to do something nice for someone.",
+  "references": [
+    "Salmon, M. H. (2012). *Introduction to Logic and Critical Thinking*. Cengage Learning."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Fallacy_of_Every_and_All.jpg",
+  "slug": "Fallacy-of-Every-and-All",
+  "letter": "F"
+}

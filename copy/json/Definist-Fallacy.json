@@ -1,0 +1,26 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Definist-Fallacy",
+  "title": "Definist Fallacy",
+  "latin_name": "",
+  "also_known_as": [
+    "persuasive definition fallacy",
+    "redefinition"
+  ],
+  "description": "Defining a term in such a way that makes one’s position much easier to defend.",
+  "logical_form": "A has definition X.\n\nX is harmful to my argument.\n\nTherefore, A has definition Y.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Before we argue about the truth of creationism, let’s define creationism as, “The acceptance of a set of beliefs even more ridiculous than those of flat-earthers.”\n\n**Example #2:**\n\nBefore we argue about the truth of creationism, let’s define evolution as, “Faith in a crackpot theory that is impossible to prove with certainty.”",
+      "explanation": "It should be clear by the two examples who is defending what position.  Both arguers are taking the opportunity to define a term as a way to take a cheap shot at the opponent.  In some cases, they might actually hope their definition is accepted, which would make it very easy to defend, compared to the actual definition."
+    }
+  ],
+  "exceptions": "When a definition used is really an accurate definition from credible sources, regardless of the damage it might do to a position.",
+  "tips": "Do not accept definitions put forth by the opponent unless you researched your definition on your own, and agree.",
+  "references": [
+    "Bunnin, N., & Yu, J. (2008). *The Blackwell Dictionary of Western Philosophy*. John Wiley & Sons."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Definist_Fallacy.jpg",
+  "slug": "Definist-Fallacy",
+  "letter": "D"
+}

@@ -1,0 +1,28 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Proof-Surrogate",
+  "title": "Proof Surrogate",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "A claim masquerading as proof or evidence, when no such proof or evidence is actually being offered.",
+  "logical_form": "Claim X is made.\n\nClaim X is expressed in such a way where no evidence is forthcoming, or no requests for evidence are welcome.\n\nTherefore, X is true.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Jose writes that \"people are mostly good at heart.\" The author is simply wrong.",
+      "explanation": "The arguer states that the author is \"simply wrong\" yet offers no reasons. Words and phrases such as \"simply,\" \"obviously,\" \"without question,\" etc., are indicators that no such evidence will be presented."
+    },
+    {
+      "number": 2,
+      "example": "Politician X is crooked—this is an indisputable fact known by everyone except politician X's supporters.",
+      "explanation": "The language \"this in an indisputable fact\" is a surrogate for the evidence showing that politician X is crooked."
+    }
+  ],
+  "exceptions": "Claims that are universally accepted as self-evident truths don't apply.\n\nIf you put your penis in a wood chipper, it's going to hurt.",
+  "tips": "If you have a penis, don't put it in a wood chipper.",
+  "references": [
+    "Dowden. (1993). *Logical Reasoning Im*. Thomson Learning EMEA, Limited."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Proof_Surrogate.jpg",
+  "slug": "Proof-Surrogate",
+  "letter": "P"
+}

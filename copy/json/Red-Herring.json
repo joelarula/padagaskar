@@ -1,0 +1,39 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Red-Herring",
+  "title": "Red Herring",
+  "latin_name": "Ignoratio elenchi",
+  "also_known_as": [
+    "beside the point",
+    "misdirection [form of]",
+    "changing the subject",
+    "false emphasis",
+    "the Chewbacca defense",
+    "irrelevant conclusion",
+    "irrelevant thesis",
+    "clouding the issue",
+    "ignorance of refutation"
+  ],
+  "description": "Attempting to redirect the argument to another issue to which the person doing the redirecting can better respond. While it is similar to the *[avoiding the issue](https://www.logicallyfallacious.com/logicalfallacies/Avoiding-the-Issue)* fallacy, the *red herring *is a deliberate diversion of attention with the intention of trying to abandon the original argument.",
+  "logical_form": "Argument A is presented by person 1.\n\nPerson 2 introduces argument B.\n\nArgument A is abandoned.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Mike: It is morally wrong to cheat on your spouse, why on earth would you have done that?\n\nKen: But what is morality exactly?\n\nMike: It’s a code of conduct shared by cultures.\n\nKen: But who creates this code?...",
+      "explanation": "Ken has successfully derailed this conversation off of his sexual digressions to the deep, existential, discussion on morality."
+    },
+    {
+      "number": 2,
+      "example": "Billy: How could the universe be 6000 years old when we know the speed of light, the distance of astronomical objects (13+ billion light years away), and the fact that the light has reached us[[1]](#_ftn1)?\n\nMarty: 6000 years is not a firm number.  The universe can be as old as about 10,000 years.\n\nBilly: How do you figure that?...",
+      "explanation": "Marty has succeeded in avoiding the devastating question by introducing a new topic for debate... shifting the young-earth creation timeline where it does not necessarily coincide with the Bible."
+    }
+  ],
+  "exceptions": "Using a *red herring* to divert attention away from your opponent's *red herring*, might work, but do two wrongs make a right?\n\n**Variation:** *Misdirection* is a more generic term for diverting attention away from something. This could be for the purpose of entertainment, avoiding embarrassment, or any other purpose including argumentation.",
+  "tips": "Impress your friends by telling them that there is no such fish species as a \"red herring;\" rather it refers to a particularly pungent fish—typically a herring but not always—that has been strongly cured in brine and/or heavily smoked.",
+  "references": [
+    "Hurley, P. J. (2011). *A Concise Introduction to Logic*. Cengage Learning.",
+    "[1]The most distant object yet confirmed in the universe is a self-destructing star that exploded 13.1 billion light years from Earth. The object is a gamma-ray burst (GRB) – the brightest type of stellar explosion.  The burst is dubbed GRB 090423 for the date of its discovery."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Red_Herring.jpg",
+  "slug": "Red-Herring",
+  "letter": "R"
+}

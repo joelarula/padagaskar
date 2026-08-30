@@ -1,0 +1,30 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Quantifier-Shift-Fallacy",
+  "title": "Quantifier-Shift Fallacy",
+  "latin_name": "",
+  "also_known_as": [
+    "illicit quantifier shift"
+  ],
+  "description": "A fallacy of reversing the order of two quantifiers.",
+  "logical_form": "Every X has a related Y.\n\nTherefore, there is some Y related to every X.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Everybody has a mother.\n\nTherefore, there is some woman out there who is the mother of us all.",
+      "explanation": "While it is true that everyone has (or had) a mother, the term “mother” is not a singular term that is shared -- it is implied that it is a category in which many mothers reside.  The conclusion is asserting the opposite of the meaning -- that there is actually just one mother shared by everyone.  This form of reasoning is invalid; therefore, fallacious."
+    },
+    {
+      "number": 2,
+      "example": "Everybody has a brain.\n\nTherefore, there is a single brain we all share.",
+      "explanation": "Everybody has *his or her own* brain, not one we all share.  Although I have met many people who seem not to have their own brain.  This form of reasoning is invalid; therefore, fallacious."
+    }
+  ],
+  "exceptions": "",
+  "tips": "Remember that a quantifier is an expression (e.g. all, some) that indicates the scope of a term to which it is attached.",
+  "references": [
+    "Cook, R. T. (2009). *A Dictionary of Philosophical Logic*. Edinburgh University Press."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Quantifier_Shift_Fallacy.jpg",
+  "slug": "Quantifier-Shift-Fallacy",
+  "letter": "Q"
+}

@@ -1,0 +1,32 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Coincidence",
+  "title": "Appeal to Coincidence",
+  "latin_name": "",
+  "also_known_as": [
+    "appeal to luck",
+    "appeal to bad luck",
+    "appeal to good luck"
+  ],
+  "description": "",
+  "logical_form": "Evidence suggests that X is the result of Y.\n\nYet one insists that X is the result of chance.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Bill: Steve, I am sorry to say, but you are a horrible driver!\n\nSteve: Why do you say that?\n\nBill: This is your fourteenth accident this year.\n\nSteve: It’s just been an unlucky year for me.",
+      "explanation": "Based on statistical norms, it is very clear that anyone getting into fourteen accidents in a single year has a safety issue as a driver.  Ignoring this obvious fact and writing it off as “bad luck”, is seen as the *appeal to coincidence*."
+    },
+    {
+      "number": 2,
+      "example": "Mom: This is the eighth time you have been sent to the principal's office this year.  The principal tells me she has seen you more times in her office than any other student.  Why is this?\n\nDwight: A teacher just happens to sneak up on me whenever I am doing something against the rules, which is no more often than any other student.",
+      "explanation": "Dwight is a trouble-maker -- that is quite clear.  Rather than face the facts, he is *appealing to* *coincidence *by suggesting he just gets caught more often due to bad timing."
+    }
+  ],
+  "exceptions": "Coincidences do happen.  When the evidence points in the direction of coincidence, the coincidence might be the best option.",
+  "tips": "Remember that million-to-one thing happened to you? It was probably a coincidence. Given how many things happen to us every day, all of us should experience many million-to-one events throughout our lifetimes.",
+  "references": [
+    "Shermer, M. (2002). *Why People Believe Weird Things: Pseudoscience, Superstition, and Other Confusions of Our Time*. Henry Holt and Company."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Appeal_to_Coincidence.jpg",
+  "slug": "Appeal-to-Coincidence",
+  "letter": "A"
+}

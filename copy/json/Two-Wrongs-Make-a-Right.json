@@ -1,0 +1,28 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Two-Wrongs-Make-a-Right",
+  "title": "Two Wrongs Make a Right",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "When a person attempts to justify an action against another person because the other person did take or would take the same action against him or her.",
+  "logical_form": "",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Jimmy stole Tommy’s lunch in the past.\n\nTherefore, it is acceptable for Tommy to steal Jimmy’s lunch today.",
+      "explanation": "It was wrong for Jimmy to steal Tommy’s lunch, but it is not good reasoning to claim that Tommy stealing Jimmy’s lunch would make the situation right.  What we are left with, are two kids who steal, with no better understanding of why they shouldn’t steal."
+    },
+    {
+      "number": 2,
+      "example": "It looks like the waiter forgot to charge us for the expensive bottle of champagne.  Let’s just leave -- after all, if he overcharged us, I doubt he would chase us down to give us our money back that we overpaid.",
+      "explanation": "Here the reasoning is a bit more fallacious because we are making an assumption of what the waiter might do.  Even if that were true, two ripoffs don’t make the situation right."
+    }
+  ],
+  "exceptions": "There can be much debate on what exactly is “justified retribution” or “justified preventative measures”.\n\n**Fun Fact:** Three lefts make a right.",
+  "tips": "",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Two_Wrongs_Make_a_Right.jpg",
+  "slug": "Two-Wrongs-Make-a-Right",
+  "letter": "T"
+}

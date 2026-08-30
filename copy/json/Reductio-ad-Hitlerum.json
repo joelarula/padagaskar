@@ -1,0 +1,32 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Reductio-ad-Hitlerum",
+  "title": "Reductio ad Hitlerum",
+  "latin_name": "reductio ad hitlerum",
+  "also_known_as": [
+    "argumentum ad Hitlerum",
+    "playing the Nazi card",
+    "Hitler card"
+  ],
+  "description": "The attempt to make an argument analogous with Hitler or the Nazi party.  Hitler is probably the most universally despised figure in history, so any connection to Hitler, or his beliefs, can (erroneously) cause others to view the argument in a similar light.  However, this fallacy is becoming more well known as is the fact that it is most often a desperate attempt to render the truth claim of the argument invalid out of lack of a good counter argument.",
+  "logical_form": "",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Peter Gibbons: It's NOT wrong. INITECH is wrong. INITECH is an evil corporation, all right? Chochkies is wrong. Doesn't it bother you that you have to get up in the morning and you have to put on a bunch of pieces of flair?\n\nJoanna: Yeah, but I'm not about to go in and start taking money from the register.\n\nPeter Gibbons: Well, maybe you should. You know, the Nazis had pieces of flair that they made the Jews wear.\n\nJoanna: What?",
+      "explanation": "The above was from the classic masterpiece film, *Office Space*.  Out of desperation, Peter plays the \"Nazi card\" in order to make the idea of being made to wear flair more appalling.  This somewhat jarring statement misdirects the argument, and the focus is taken off Joanna’s last response, which was quite good."
+    },
+    {
+      "number": 2,
+      "example": "My professor is making me redo this assignment. Do you know who else forced people to do things they didn't want to do? Hitler.",
+      "explanation": "Yes, Hitler forced people to do things they didn't want to do. Of course, the extent of \"force\" used by the professor is quite different than the extent of the force used by Hitler, so the professor is really nothing like Hitler in any meaningful way, thus the argument is fallacious."
+    }
+  ],
+  "exceptions": "Sometimes it might be worth risking the fallacy to prevent disaster.\n\nMr. President, I can appreciate your desire to make some changes in the White House, but that new hand gesture you are proposing we use to show our allegiance to you is way too much like the one Hitler used.  On a similar note, that Charlie Chaplin mustache doesn’t work on you.\n\n**Fun Fact: **The Hitler mustache style is known as the *toothbrush mustache*. It was made famous by such comedians as Charlie Chaplin and Oliver Hardy. Hitler later became the person most associated with the mustache style and ended that fashion trend. I wish Hitler was also known for wearing mom jeans.",
+  "tips": "",
+  "references": [
+    "Strauss, L. (1953). *Natural Right and History*. University of Chicago Press."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Reductio_ad_Hitlerum.jpg",
+  "slug": "Reductio-ad-Hitlerum",
+  "letter": "R"
+}

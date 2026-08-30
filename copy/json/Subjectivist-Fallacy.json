@@ -1,0 +1,30 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Subjectivist-Fallacy",
+  "title": "Subjectivist Fallacy",
+  "latin_name": "",
+  "also_known_as": [
+    "relativist fallacy"
+  ],
+  "description": "Claiming something is true for one person, but not for someone else when, in fact, it is true for everyone (objective) as demonstrated by empirical evidence.",
+  "logical_form": "Person 1 claims that Y is true.\n\nPerson 2 claims that Y is true for some people, but not for everyone (even though empirical evidence demonstrates otherwise).",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Jane: You know, smoking might not be the most healthy habit to start.\n\nTerry: Smoking is unhealthy for most people, but not for me.",
+      "explanation": "Sorry Terry, smoking is unhealthy for everyone -- you are no different."
+    },
+    {
+      "number": 2,
+      "example": "Jack: Sorry, your argument is full of contradictions.\n\nTed: Contradictions only apply to the carnal mind, not the spiritual one.",
+      "explanation": "Besides being a case of the *subjectivist fallacy*, Ted is also moving outside the realm of reason and logic."
+    }
+  ],
+  "exceptions": "Many things are actually true or false, depending on the person to which the rule may or may not apply.\n\nWhile Twinkies may be horrible to you, I find them delicious—baked, spongy sunshine with a white, creamy, cloud-like center, with the power to make any problem go away—even if just for a brief, magical moment.",
+  "tips": "Stay away from Twinkies.",
+  "references": [
+    "Peacocke, C. (2005). *The Realm of Reason*. Clarendon Press."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Subjectivist_Fallacy.jpg",
+  "slug": "Subjectivist-Fallacy",
+  "letter": "S"
+}

@@ -1,0 +1,45 @@
+---
+source: "https://www.logicallyfallacious.com/logicalfallacies/Anonymous-Authority"
+english_name: "Anonymous Authority"
+also_known_as:
+  - "appeal to anonymous authority"
+status: "pending_translation"
+---
+
+# Anonymous Authority
+
+(also known as: appeal to anonymous authority)
+
+**Description:**
+
+When an unspecified source is used as evidence for the claim.  This is commonly indicated by phrases such as “They say that...”, “It has been said...”, “I heard that...”, “Studies show...”, or generalized groups such as, “scientists say...”  When we fail to specify a source of the authority, we can’t verify the source, thus the credibility of the argument.  Appeals to anonymous sources are more often than not, a way to fabricate, exaggerate, or misrepresent facts in order to deceive others into accepting your claim.  At times, this deception is done subconsciously -- it might not always be deliberate.
+
+**Logical Form:**
+
+* Person 1 once heard that X was true.
+* Therefore, X is true.
+
+**Example #1:**
+
+> You know, they say that if you swallow gum it takes seven years to digest.  So whatever you do, don’t swallow the gum!
+
+**Explanation:** “They” are wrong as “they” usually are.  Gum passes through the system relatively unchanged but does not hang around for 7 years like a college student terrified to get a job.  “They” is a common form of appeal to *anonymous authority*.
+
+**Example #2:**
+
+> The 13.7 billion-year-old universe is a big conspiracy.  I read this article once where these notable scientists found strong evidence that the universe was created 6000 years ago, but because of losing their jobs, they were forced to keep quiet!
+
+**Explanation:** Without knowing who these scientists are, or the credibility of the source of the article, we cannot verify the evidence; therefore, we should not accept the evidence.
+
+**Exception:** At times, an accepted fact uses the same indicating phrases like the ones used for the fallacy; therefore, if the anonymous authority is actually just a statement of an accepted fact, it should be accepted as evidence.
+
+Climate change is happening -- and always has been.  Scientists say the earth is certainly in a warming phase, but there is some debate on the exact causes and certainly more debate on what should be done about it politically.
+
+**Tip:** Be very wary of “they”.
+
+![Anonymous Authority illustration](https://www.logicallyfallacious.com/static/fallacy-images/Anonymous_Authority.jpg)
+
+**References:**
+
+- Greenwell, W. S., Knight, J. C., Holloway, C. M., & Pease, J. J. (2006). *A Taxonomy of fallacies in system safety arguments*. Retrieved from https://ntrs.nasa.gov/search.jsp?R=20060027794
+

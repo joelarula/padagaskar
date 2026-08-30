@@ -1,0 +1,29 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Slippery-Slope",
+  "title": "Slippery Slope",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "When a relatively insignificant first event is suggested to lead to a more significant event, which in turn leads to a more significant event, and so on, until some ultimate, significant event is reached, where the connection of each event is not only unwarranted but with each step it becomes more and more improbable.  Many events are usually present in this fallacy, but only two are actually required -- usually connected by “the next thing you know...”",
+  "logical_form": "If A, then B, then C, ... then ultimately Z!",
+  "examples": [
+    {
+      "number": 1,
+      "example": "We cannot unlock our child from the closet because if we do, she will want to roam the house.  If we let her roam the house, she will want to roam the neighborhood.  If she roams the neighborhood, she will get picked up by a stranger in a van, who will sell her in a sex slavery ring in some other country.  Therefore, we should keep her locked up in the closet.",
+      "explanation": "In this example, it starts out with reasonable effects to the causes.  For example, yes, if the child is allowed to go free in her room, she would most likely want to roam the house -- 95% probability estimate[[1]](#_ftn1).  Sure, if she roams the house, she will probably want the freedom of going outside, but not necessarily “roaming the neighborhood”, but let’s give that a probability of say 10%.  Now we start to get very improbable.  The chances of her getting picked up by a stranger (.05%) in a van (35%) to sell her into sex slavery (.07%) in another country (40%) is next to nothing when you do all the math:\n\n.95 x .10 x .0005 x .35 x .0007 x .4 = about 1 in 25,000,000.\n\nMorality and legality aside, is it really worth it to keep a child locked in a closet based on those odds?"
+    },
+    {
+      "number": 2,
+      "example": "If you accept that the story of Adam and Eve was figurative, then you will do the same for most of the Old Testament stories of similar literary styles.  Once you are there, the New Testament and the story of Jesus does not make sense, which will lead you to believe that the resurrection of Jesus was a “spiritual” one.  Once you accept that, you won’t be a Christian anymore; you will be a dirty atheist, then you will have no morals and start having sex with animals of a barnyard nature.  So you better take the story of Adam and Eve literally, before the phrase, “that chicken looks delicious”, takes on a whole new meaning.",
+      "explanation": "Accepting the story of Adam and Eve as figurative rarely (it is sad that I cannot confidently say “never”) leads to bestiality."
+    }
+  ],
+  "exceptions": "When a chain of events has an inevitable cause and effect relationship, as in a mathematical, logical, or physical certainty, it is not a fallacy.",
+  "tips": "The concept of a “bad day” is part of this fallacy.  You wake up in the morning, and you discover that you are out of coffee.  From there, you fallaciously reason that this means you will be grumpy, late for work, then behind all day in work, then have to stay late, then miss dinner with the family, then cause more friction at home, etc.  This is only true if you act it out as if it is true.  Of course, with an already bad attitude, you look back on the day, block out the good and wallow in the bad, just so you can tell yourself, that you were right all along about having a “bad day”.\n\nDon’t let that happen.",
+  "references": [
+    "Walton, D. N. (1992). *Slippery Slope Arguments*. Clarendon Press.",
+    "[1] I am basing these estimates on my best guess... this is not meant to be an accurate study on child abduction, just an illustration of how odds work in the fallacy."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Slippery_Slope.jpg",
+  "slug": "Slippery-Slope",
+  "letter": "S"
+}

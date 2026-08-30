@@ -1,0 +1,30 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/pragmatic-fallacy.html",
+  "title": "Pragmatic Fallacy",
+  "latin_name": "",
+  "also_known_as": [
+    "appeal to practicality"
+  ],
+  "description": "Claiming that something is true because the person making the claim has experienced, or is referring to someone who has experienced, some practical benefit from believing the thing to be true. The practical benefit is often summarized as “it works.” The person is confusing the truth-value of the claim with the results from believing the claim to be true.",
+  "logical_form": "I believe X is true.\nBelieving in X results in practical benefit Y.\nTherefore, X is true.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Starbeam: Of course, astrology is true!\nNate: How do you know this?\nStarbeam: Because on the days I forget to consult my horoscope, things always go wrong.",
+      "explanation": "Astrology is a pseudoscience that claims divine information about human affairs and terrestrial events by studying the movements and relative positions of celestial objects. Starbeam is almost certainly experiencing a host of cognitive biases, including the *confirmation bias*, where she notices the things that go wrong and ignores all that goes right on the days she forgets to read her horoscope. There is also likely some s*elf-fulfilling prophecy* going on where she interprets things that happen to her in a negative light, allowing her to maintain the belief in the power of horoscopes. Starbeam is committing the pragmatic fallacy because she is claiming astrology is true due to her “evidence” that horoscopes work for her."
+    },
+    {
+      "number": 2,
+      "example": "People all over the world under different religions that believe in all kinds of gods claim that their particular religion is true because of how believing in their religion makes them feel, the practical benefits they get from being a member of that religion (e.g., community support, social programs, etc.), their belief that they are loved, and more.",
+      "explanation": "All of these reasons as to why religion “works” might be sufficient for why believing in a religion can be good  but these reasons do not address the truth-claims the religion makes about the existence of gods, angels, an afterlife, a soul, and similar claims of existence."
+    }
+  ],
+  "exceptions": "This is not a fallacy when what is claimed to be true is the fact that something “works,” and works is defined subjectively (i.e., works for the person and not for everyone). For example, it is fair to say that prayer “works” when “works” is defined as giving (some) people a sense of peace and comfort.\n\nSeth: Prayer works!\nTina: What do you mean by “works” and how do you know this?\nSeth: I mean that it gives me a sense of peace and comfort.\nTina: Will it work for me?\nSeth: I don’t know.",
+  "tips": "",
+  "references": [
+    "[http://skepdic.com/pragmatic.html](http://skepdic.com/pragmatic.html)"
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Pragmatic_Fallacy.jpg",
+  "slug": "pragmatic-fallacy.html",
+  "letter": "P"
+}

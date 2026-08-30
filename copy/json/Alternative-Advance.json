@@ -1,0 +1,30 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Alternative-Advance",
+  "title": "Alternative Advance",
+  "latin_name": "",
+  "also_known_as": [
+    "lose-lose situation"
+  ],
+  "description": "When one is presented with just two choices, both of which are essentially the same, just worded differently.  This technique is often used in sales.  Fallacious reasoning would be committed by the person accepting the options as the only options, which would most likely be on a subconscious level since virtually anyone—if they thought about it—would recognize other options exist.",
+  "logical_form": "",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Max: If you’re not a witch, you have nothing to fear.  If you’re not a witch, you are not made of wood; therefore, you will sink and drown after we tie you up and throw you in the well.  If you do float, then you are made of wood, you are a witch, and we will hang you.\n\nGlinda: Wait, how is it I have nothing to worry about if I am not a witch?",
+      "explanation": "The argument is created so that any woman accused of being a witch will die, which is certainly a lose-lose situation."
+    },
+    {
+      "number": 2,
+      "example": "Guy working a booth in the mall: Excuse me, but you look like you can use a vacation!  Do you have a few minutes to chat about vacation destinations, or would you prefer I just send you some information by e-mail?",
+      "explanation": "Of course, other options include just ignoring the guy and keep walking; telling the guy, “no thank you,” and keep walking; or respond, “I have some time to chat. My rate is $10 per minute. Do you prefer to pay me by cash or check?”"
+    }
+  ],
+  "exceptions": "If you engage your critical thinking and realize other options exist and still choose one of the given options, you would not be guilty of fallacious reasoning.",
+  "tips": "Whenever you are presented with options, carefully consider the possibility of other options not mentioned, and propose them.",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Alternative_Advance.jpg",
+  "slug": "Alternative-Advance",
+  "letter": "A"
+}

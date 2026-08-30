@@ -1,0 +1,25 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Existential-Fallacy",
+  "title": "Existential Fallacy",
+  "latin_name": "",
+  "also_known_as": [
+    "existential instantiation"
+  ],
+  "description": "A formal logical fallacy, which is committed when a categorical syllogism employs two universal premises (“all”) to arrive at a particular (“some”) conclusion.\n\nIn a valid categorical syllogism, if the two premises are universal, then the conclusion *must* be universal, as well.\n\nThe reasoning behind this fallacy becomes clear when you use classes without any members, and the conclusion states that there are members of this class -- which is wrong.",
+  "logical_form": "All X are Y.\n\nAll Z are X.\n\nTherefore, some Z are Y.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "All babysitters have pimples.\n\nAll babysitter club members are babysitters.\n\nTherefore, some babysitter club members have pimples.\n\n**Example #2: **\n\nAll forest creatures live in the woods.\n\nAll leprechauns are forest creatures.\n\nTherefore, some leprechauns live in the woods.",
+      "explanation": "In both examples, the fallacy is committed because we have two universal premises and a particular conclusion, but our example #1 conclusion makes sense, no?  **Just because the conclusion *might* be true, does not mean the logic used to produce it, was valid.  **This is how tests like SAT’s and GRE’s screw us over and, technically, in the above example, *all* babysitter club members have pimples, not just* some*.\n\nNow, look at the second example.  Same form, but when we use classes that obviously (to most people) have no members (leprechauns), we can see that it results in a conclusion that is false."
+    }
+  ],
+  "exceptions": "There actually *is* an exception to this formal fallacy -- if we are strictly using Aristotelian logic, then it is permissible because apparently, Aristotle did not see a problem with presupposing that classes have members even when we are not explicitly told that they do.",
+  "tips": "When making a claim, be as precise as possible in the scope of the claim. Don’t just say “men are bastards,” say “some men are bastards,” or better yet, “12.62% of men are bastards.”",
+  "references": [
+    "Goodman, M. F. (1993). *First Logic*. University Press of America."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Existential_Fallacy.jpg",
+  "slug": "Existential-Fallacy",
+  "letter": "E"
+}

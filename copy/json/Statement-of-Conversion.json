@@ -1,0 +1,28 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Statement-of-Conversion",
+  "title": "Statement of Conversion",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Accepting the truth of a claim based on a conversion story without considering any evidence for the truth of the claim.",
+  "logical_form": "I used to believe in X.\n\nTherefore, X is wrong.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "I used to be a Christian, now I know better.",
+      "explanation": "All this tells us is that the arguer changed his mind.  We don’t know why. Accepting this as evidence against Christianity would be fallacious reasoning."
+    },
+    {
+      "number": 2,
+      "example": "There used to be a time when I didn’t believe, now I see the light and have accepted Jesus as my savior!",
+      "explanation": "All this tells us is that the arguer changed his mind.  We don’t know why.  Accepting this as evidence for Christianity would be fallacious reasoning."
+    }
+  ],
+  "exceptions": "It might be the case where the person with the conversion story has some expertise or direct experience related to the claim, so their conversion story is reasonable evidence for the truth of the claim.**\n**\n\n*I used to think that the earth was flat, then Elon Musk took me to the space station in one of his ships. I am no longer a flat-earther, and I can’t believe what an idiot I was listening to YouTube videos of 40-year-old guys living in their parent’s basement over NASA.***\n**",
+  "tips": "Remember not to confuse people’s interpretations of their experiences as actual experiences. People who were unbelievers in aliens visiting earth and changed their mind based on “aliens visiting them in their dreams” are almost certainly misinterpreting their experiences.",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Statement_of_Conversion.jpg",
+  "slug": "Statement-of-Conversion",
+  "letter": "S"
+}

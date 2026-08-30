@@ -1,0 +1,30 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Notable-Effort",
+  "title": "Notable Effort",
+  "latin_name": "",
+  "also_known_as": [
+    "“E” is for effort"
+  ],
+  "description": "Accepting good effort as a valid reason to accept the truth of the conclusion, even though the effort is unrelated to the truth.",
+  "logical_form": "Person 1 made a notable effort to prove Y.\n\nTherefore, Y is true.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Judge: In all my years as a federal judge I have never seen a defendant make such a good effort to prove his innocence.  As a result, I rule for the defendant.",
+      "explanation": "The fact that the defendant made a good effort to prove his innocence means nothing to the fact that he is actually innocent or not—unless he *succeeded *in his efforts.  The judge's ruling would be based on emotion and not reason."
+    },
+    {
+      "number": 2,
+      "example": "How can you possibly deny his claim?  William wrote an entire book trying to explain why he thinks his claim is true.  Therefore, it must be true.",
+      "explanation": "The fact that William made a *notable effort* to prove his claim does not mean that he did."
+    }
+  ],
+  "exceptions": "As long as the effort is unrelated to the truth of the claim, there are no exceptions.",
+  "tips": "Enough with the “everyone’s a winner” mentality.  As long as we keep rewarding *all* effort, we devalue the effort that leads to *successful results*.  The world needs losers as well -- just don’t be one of them.",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Notable_Effort.jpg",
+  "slug": "Notable-Effort",
+  "letter": "N"
+}

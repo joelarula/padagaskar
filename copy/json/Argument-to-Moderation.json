@@ -1,0 +1,37 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Argument-to-Moderation",
+  "title": "Argument to Moderation",
+  "latin_name": "argumentum ad temperantiam",
+  "also_known_as": [
+    "appeal to moderation",
+    "middle ground",
+    "false compromise",
+    "gray fallacy",
+    "golden mean fallacy",
+    "fallacy of the mean",
+    "splitting the difference"
+  ],
+  "description": "Asserting that given any two positions, there exists a compromise between them that must be correct.",
+  "logical_form": "Person 1 says A.\n\nPerson 2 says Z.\n\nTherefore, somewhere around M must be correct.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "So you are saying your car is worth $20k.  I think it is worth $1, so let’s just compromise and say it is worth $10k. (Assuming the car is worth $20k)",
+      "explanation": "The price of $20k was a reasonable book value for the car, where the price of $1 was an unreasonable extreme.  The fact is the car is worth about $20k -- thinking the car is worth $1 or $1,000,000, won’t change that fact[[1]](#_ftn1)."
+    },
+    {
+      "number": 2,
+      "example": "Ok, I am willing to grant that there might not be angels and demons really floating around Heaven or hanging out in Hell, but you must grant that there has to be at least one God.  Is that a fair compromise?",
+      "explanation": "There is no compromise when it comes to truth.  Truth is truth.  If there are angels, demons, and God, there are angels, demons, and God.  If there aren’t, there aren’t.  Compromise and splitting the difference work fine in some cases, but not in determining truth."
+    }
+  ],
+  "exceptions": "When the two extremes are equally distanced from the “correct” value -- and there actually *is* a correct, or fair, value between the two proposed values.\n\nSo you are saying your car is worth $40k.  I think it is worth $1, so let’s just compromise and say it is worth $20k. (Assuming the car is worth $20k)",
+  "tips": "If you know you are entering into a negotiation, be prepared to be low-balled, and don’t let those figures change your target figure going into the negotiation.",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found.",
+    "[[1]](#_ftnref) Worth, in this sense, has much to do with what someone is willing to pay, but for this example, let’s just ignore that detail—otherwise I would need to come up with another example."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Argument_to_Moderation.jpg",
+  "slug": "Argument-to-Moderation",
+  "letter": "A"
+}

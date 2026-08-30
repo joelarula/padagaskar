@@ -1,0 +1,50 @@
+---
+source: "https://www.logicallyfallacious.com/logicalfallacies/Lying-with-Statistics"
+english_name: "Lying with Statistics"
+also_known_as:
+  - "statistical fallacy/fallacies"
+  - "misunderstanding the nature of statistics [form of]"
+  - "fallacy of curve fitting"
+  - "the fallacy of overfitting"
+status: "pending_translation"
+---
+
+# Lying with Statistics
+
+(also known as: statistical fallacy/fallacies, misunderstanding the nature of statistics [form of], fallacy of curve fitting, the fallacy of overfitting)
+
+**Description:**
+
+This can be seen as an entire class of fallacies that result in presenting statistical data in a very biased way, and of course, interpreting statistics without questioning the methods behind collecting and presenting the data.
+
+The many methods are outside the scope of this book, but if you really want to jump in here, and see how deceptive statistics can be, get the book, *How to Lie with Statistics* by Darrell Huff, a 1954 classic that is just as relevant today as it was in his time.
+
+**Logical Form:**
+
+* Claim A is made.
+* Statistic S is manipulated to support claim A.
+
+**Example #1:**
+
+> Did you see that bar graph in USA Today?  It showed a HUGE spike in the moral decline of our country!
+
+**Explanation:** The first question that should immediately come to mind is, how on earth can one measure morality?  With such a loose definition, it is not hard to imagine one collecting and measuring the data that only supports her desired outcome for the “numbers”.  Furthermore, what is a “huge spike?”  Visually, you can play with graphs to make numbers seem much more dramatic by not starting at zero, or by doing that little “chopped section” thing.  For example, let’s accept that last year 20% of all people were immoral.  This year it is 22%.  Not a big deal, and if shown on a graph with a vertical axis of 0% to 100%, the line connecting the 20% to the 22% would be barely inclined.  However, if shown on a graph with a vertical axis of 20% to 25%, the line connecting the 20% to the 22% would appear to be a huge spike. The same data, a very different presentation.
+
+**Example #2:**
+
+> Looking at that pie chart, there is a very small percentage of people who declare themselves atheist.  Therefore, atheism is not that popular of a belief.
+
+**Explanation:** First, atheism is better described as a lack of belief.  Second, many non-believers are not even familiar with the term “atheist,” and often consider themselves Christian, Jewish, or some other religion, based on their culture and family tradition, not necessarily their beliefs.  Statistics don’t account for this.
+
+**Exception:** At times, careful and honest explanations of the data and the presentation can help one avoid statistical fallacies, but like virtually all exceptions, this can be debatable.
+
+**Variation:** *Misunderstanding the nature of statistics* is related to this fallacy, but the fallacy rests on the person interpreting the statistics.  For example, you might be very troubled to find out that your doctor graduated in the bottom half of her class, but that is half of all the doctors in the world, and to be expected.
+
+**Tip:** There are many free, online courses on statistics. Take one. It will be worth your time (and money)!
+
+![Lying with Statistics illustration](https://www.logicallyfallacious.com/static/fallacy-images/Lying_with_Statistics.jpg)
+
+**References:**
+
+- Huff, D. (1993). *How to Lie with Statistics* (Reissue edition). New York: W. W. Norton & Company.
+

@@ -1,0 +1,33 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Meaningless-Question",
+  "title": "Meaningless Question",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Asking a question that cannot be answered with any sort of rational meaning. This is the textual equivalent of dividing by zero.",
+  "logical_form": "*Question asked.*\n*Question is meaningless.*",
+  "examples": [
+    {
+      "number": 1,
+      "example": "*What’s north of the North Pole?*",
+      "explanation": "The North Pole is the most northern point of the space in which we measure direction using the north, south, east, and west coordinates. “North” of the North Pole is meaningless."
+    },
+    {
+      "number": 2,
+      "example": "*What happened before time?*",
+      "explanation": "“Before” is a term related to a place in time. Without time, this concept is meaningless."
+    },
+    {
+      "number": 3,
+      "example": "*How many angels can you fit on a head of a pin?*",
+      "explanation": "Angels are said to be ghost-like in that they don’t take up space. “Fit” is a word that refers to space. The question is meaningless.\n\n**Fun Fact:** The answers to our three meaningless questions are 1) Northness, 2) space and energy had sex, and 3) the answer depends on if Heaven has Krispy Kreme doughnut shops or not."
+    }
+  ],
+  "exceptions": "",
+  "tips": "",
+  "references": [
+    "Yngve, V., & Wasik, Z. (2006). *Hard-Science Linguistics*. A&C Black."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Meaningless_Question.jpg",
+  "slug": "Meaningless-Question",
+  "letter": "M"
+}

@@ -1,0 +1,53 @@
+---
+source: "https://www.logicallyfallacious.com/logicalfallacies/Complex-Question-Fallacy"
+english_name: "Complex Question Fallacy"
+latin_name: "plurium interrogationum"
+also_known_as:
+  - "many questions fallacy"
+  - "fallacy of presupposition"
+  - "loaded question"
+  - "trick question"
+  - "false question"
+status: "pending_translation"
+---
+
+# Complex Question Fallacy
+
+*plurium interrogationum*
+
+(also known as: many questions fallacy, fallacy of presupposition, loaded question, trick question, false question)
+
+**Description:**
+
+A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.  It is a form of misleading discourse, and it is a fallacy when the audience does not detect the assumed information implicit in the question and accepts it as a fact.
+
+**Logical Form:**
+
+* Question X is asked that requires implied claim Y to be accepted before question X can be answered.*
+
+**Example #1:**
+
+> *How many times per day do you beat your wife?*
+
+**Explanation:** Even if the response is an emphatic, “none!” the damage has been done.  If you are hearing this question, you are more likely to accept the possibility that the person who was asked this question is a wife-beater, which is fallacious reasoning on your part.
+
+**Example #2:**
+
+> *How many school shootings should we tolerate before we change the gun laws?*
+
+**Explanation:** The presupposition is that changing the gun laws will decrease the number of school shootings.  This may be the case, but it is a claim that is implied in the statement and hidden by a more complex question.  Reactively, when one hears a question such as this, one's mind will attempt to search for an answer to the question—which is actually a distraction from rejecting the implicit claim being made.  It is quite brilliant but still fallacious.
+
+**Exception:** It is not a fallacy if the implied information in the question is known to be an accepted fact.
+
+*How long can one survive without water?*
+
+Here, it is presumed that we need water to survive, which very few would deny that fact.
+
+**Tip:** Remember that fallacious techniques don’t require the person using them to be lacking in reason; it is the audience or interlocutor that is at risk for falling for the deception.
+
+![Complex Question Fallacy illustration](https://www.logicallyfallacious.com/static/fallacy-images/Complex_Question_Fallacy.jpg)
+
+**References:**
+
+- Menssen, S., & Sullivan, T. D. (2007). *The Agnostic Inquirer: Revelation from a Philosophical Standpoint*. Wm. B. Eerdmans Publishing.
+

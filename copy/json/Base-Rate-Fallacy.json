@@ -1,0 +1,33 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Base-Rate-Fallacy",
+  "title": "Base Rate Fallacy",
+  "latin_name": "",
+  "also_known_as": [
+    "neglecting base rates",
+    "base rate neglect",
+    "prosecutor's fallacy [form of]"
+  ],
+  "description": "Ignoring statistical information in favor of using irrelevant information, that one incorrectly believes to be relevant, to make a judgment.  This usually stems from the irrational belief that statistics don’t apply to a situation, for one reason or another when, in fact, they do.",
+  "logical_form": "",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Only 6% of applicants make it into this school, but my son is brilliant!  They are certainly going to accept him!",
+      "explanation": "Statistically speaking, the son may still have a low chance of acceptance. The school is for brilliant kids (and everyone knows this), so the vast majority of kids who apply are brilliant. Of the whole population of brilliant kids who apply, only about 6% get accepted. So even if the son is brilliant, he still has a low chance of being accepted (about 6%)."
+    },
+    {
+      "number": 2,
+      "example": "Faith healing \"works,\" but not all the time, especially when one’s faith is not strong enough (as generally indicated by the size of one’s financial offering).  Unbiased, empirical tests, demonstrate that a small but noticeable percentage of people are cured of “incurable” diseases such as cancer.",
+      "explanation": "This is true.  However, what is not mentioned in the above is the number of cases of cancer that just go away without any kind of faith healing, in other words, the *base rate* of cancer remission.  It is a statistical certainty that among those with cancer, there will be a percentage with spontaneous remission.  If that percentage is the same as the faith-healing group, then that is what is to be expected, and no magic or divine healing is taking place.  The following is from the American Cancer Society:\n\nAvailable scientific evidence does not support claims that faith healing can cure cancer or any other disease. Some scientists suggest that the number of people who attribute their cure to faith healing is lower than the number predicted by calculations based on the historical percentage of spontaneous remissions seen among people with cancer. However, faith healing may promote peace of mind, reduce stress, relieve pain and anxiety, and strengthen the will to live.[[1]](#_ftn1)"
+    }
+  ],
+  "exceptions": "If there are factors that increase one’s odds and alter the known statistical probabilities, it would be a reasonable assumption, as long as the variations from the statistical norm are in line with the factors that cause the variation.  In other words, perhaps the mother in our first example knows that her son is gifted musically, that counts for something, then it is not unreasonable to expect a better than 6% probability -- but assuming a 50%, 80%, or 100% probability, is still committing the fallacy.\n\n**Variation:** The *prosecutor's fallacy* is a fallacy of statistical reasoning best demonstrated by a prosecutor when exaggerating the likelihood of a defendant's guilt. In mathematical terms, it is the claim that the probability of A given B is equal to the probability of B given A. For example,\n\n*The probability that you have a cervix given that you are pregnant is the same as the probability that you are pregnant given that you have a cervix.*\n\nClearly, this is wrong. The probability that you have a cervix if you are pregnant is close to 100% (leaving room for weird science and magic). The probability that you are pregnant if you have a cervix is dependent on many other factors, but let’s just say it is a lot less than 100%. In legal cases, a prosecutor may abuse this fallacy to convince the jury that the chance of the defendant being innocent is very small, when it fact, if the whole population were considered (as it should be), the chance of the defendant being guilty (based on that statistic alone) is very small.",
+  "tips": "Take some time in your life to read a book or take a course on probability.  Probability affects our lives in so many ways that having a good understanding of it will continually pay off.",
+  "references": [
+    "Bar-Hillel, M. (1977). *The Base-Rate Fallacy in Probability Judgments*. Defense Technical Information Center.",
+    "[[1]](#_ftnref) The American Cancer Society, [https://www.cancer.org/cancer/supportive-care/integrative-medicine.html](https://www.cancer.org/cancer/supportive-care/integrative-medicine.html)"
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Base_Rate_Fallacy.jpg",
+  "slug": "Base-Rate-Fallacy",
+  "letter": "B"
+}

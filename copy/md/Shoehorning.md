@@ -1,0 +1,35 @@
+---
+source: "https://www.logicallyfallacious.com/logicalfallacies/Shoehorning"
+english_name: "Shoehorning"
+status: "pending_translation"
+---
+
+# Shoehorning
+
+**Description:**
+
+The process of force-fitting some current affair into one's personal, political, or religious agenda.  Many people aren't aware of how easy it is to make something look like confirmation of a claim after the fact, especially if the source of the confirmation is something in which they already believe, like Biblical prophecies, psychic predictions, astrological horoscopes, fortune cookies, and more.
+
+**Logical Form:**
+
+* Current event X is said to relate to agenda Y.*
+* Agenda Y has no rational connection to current event X.*
+
+**Example #1:**
+
+> This example is taken from the *Skeptic’s Dictionary* ([http://www.skepdic.com/shoehorning.html](http://www.skepdic.com/shoehorning.html)).
+> 
+> *After the terrorist attacks on the World Trade Center and the Pentagon on September 11, 2001, fundamentalist Christian evangelists Jerry Falwell and Pat Robertson shoehorned the events to their agenda. They claimed "liberal civil liberties groups, feminists, homosexuals and abortion rights supporters bear partial responsibility...because their actions have turned God's anger against America." According to Falwell, God allowed "the enemies of America...to give us probably what we deserve." Robertson agreed. The American Civil Liberties Union has "got to take a lot of blame for this," said Falwell and Robertson agreed. Federal courts bear part of the blame, too, said Falwell, because they've been "throwing God out of the public square." Also, "abortionists have got to bear some burden for this because God will not be mocked," said Falwell and Robertson agreed.*
+
+**Explanation:** It should be very clear how these religious leaders attempted to profit from the September 11 attacks by *shoehorning*.
+
+**Exception:** Explaining events is legitimate when reason is being used -- and sometimes it may actually fit into your ideological agenda.
+
+**Fun Fact:** Did you every notice website with crazy conspiricy theories tend to be horribly designed? *Haig’s Law* states: “The awfulness of a website's design is directly proportional to the insanity of its contents and creator.”
+
+![Shoehorning illustration](https://www.logicallyfallacious.com/static/fallacy-images/Shoehorning.jpg)
+
+**References:**
+
+- shoehorning - The Skeptic’s Dictionary - Skepdic.com. (n.d.). Retrieved from http://www.skepdic.com/shoehorning.html
+

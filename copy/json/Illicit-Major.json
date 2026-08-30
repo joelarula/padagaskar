@@ -1,0 +1,30 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Illicit-Major",
+  "title": "Illicit Major",
+  "latin_name": "",
+  "also_known_as": [
+    "illicit process of the major term"
+  ],
+  "description": "Any form of a *categorical syllogism* in which the major term is distributed in the conclusion, but not in the major premise.",
+  "logical_form": "All A are B.\n\nNo C are A.\n\nTherefore, no C are B.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "All hotdogs are fast food.\n\nNo hamburgers are hotdogs.\n\nTherefore, no hamburgers are fast food.",
+      "explanation": "In our example, the major term is “fast food”, because it is the term that appears in the major premise (first premise) as the predicate and in the conclusion.  As such, in this position, it is “undistributed”."
+    },
+    {
+      "number": 2,
+      "example": "All Jim Carrey movies are hilarious.\n\nNo horror movies are Jim Carrey movies.\n\nTherefore, no horror movies are hilarious.",
+      "explanation": "In our example, the major term is “hilarious”, because it is the term that appears in the major premise (first premise) as the predicate and in the conclusion.  As such, in this position, it is “undistributed”."
+    }
+  ],
+  "exceptions": "None.",
+  "tips": "If you are not sure if a syllogism is fallacious or not, keep substituting the items in the syllogism for other items. If a syllogism is consistent with the form but clearly doesn’t make sense, you will know that it is fallacious.",
+  "references": [
+    "Neil, S. (1853). *The Art of Reasoning: A Popular Exposition of the Principles of Logic*. Walton & Maberly."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Illicit_Major.jpg",
+  "slug": "Illicit-Major",
+  "letter": "I"
+}

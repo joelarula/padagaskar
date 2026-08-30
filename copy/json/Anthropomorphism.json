@@ -1,0 +1,28 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Anthropomorphism",
+  "title": "Anthropomorphism",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "The attributing of human characteristics and purposes to inanimate objects, animals, plants, or other natural phenomena, or to gods. This becomes a logical fallacy when used within the context of an argument.",
+  "logical_form": "Non-human thing is described with human characteristics.\n\nClaim X is made that requires the human characteristics of the thing.\n\nTherefore, claim X is true.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "How dare you murder those carrots!",
+      "explanation": "Murder applies to humans, not carrots. By definition, one cannot murder carrots. In this example, the carrots are assumed to have the human characteristics that make murder “murder” and not just “killing” or “eating.”"
+    },
+    {
+      "number": 2,
+      "example": "Akoni: The Polynesian fire goddess, Pele, sacrificed her own daughter in the volcano to bring peace to the islands. This is how I know she loves us.\n\nUbon: Aren't the gods and goddesses immortal?\n\nAkoni: Err, yes.\n\nUbon: Then what happened to Pele's daughter after she was thrown in the volcano?\n\nAkoni: She was reunited with Pele in the heavens.\n\nUbon: So why was this a sacrifice?",
+      "explanation": "The goddess, Pele, and her daughter are given the human quality of the frailty of life in order for the concept of “sacrifice” to be meaningful."
+    }
+  ],
+  "exceptions": "",
+  "tips": "If you want to make people laugh, give objects and small animals human qualities. Anthropomorphism is a comedy goldmine for stand-up comedians.",
+  "references": [
+    "anthropomorphism | religion. (n.d.). https://www.britannica.com/topic/anthropomorphism"
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Anthropomorphism.jpg",
+  "slug": "Anthropomorphism",
+  "letter": "A"
+}

@@ -1,0 +1,30 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Denying-the-Correlative",
+  "title": "Denying the Correlative",
+  "latin_name": "",
+  "also_known_as": [
+    "denying the correlative conjunction"
+  ],
+  "description": "Introducing alternatives when, in fact, there are none.  This could happen when you have two mutually exclusive statements (*correlative conjunction*) presented as choices, and instead of picking one or the other, introduce a third -- usually as  a distraction from having to choose between the two alternatives presented.",
+  "logical_form": "Either X or not X.\n\nTherefore, Y.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Rocco:  Do ya have the five grand you owe me or not?\n\nPaulie: I can get it.\n\nRocco: That means you don’t have it?\n\nPaulie: I know someone who does.\n\nRocco: Read my lips: do you have my money or not?\n\nPaulie: No.\n\n(sound of a baseball bat breaking kneecaps)",
+      "explanation": "Rocco was asking a simple question, and out of personal safety, Paulie was committing the fallacy of *denying the correlative* by offering up another option to a choice that only had two.  If Paulie were smarter, he could not have committed the fallacy and saved his kneecaps, by honesty and a little negotiation:\n\nRocco:  Do ya have the five grand you owe me or not?\n\nPaulie: No. I realize I did not hold up my end of the deal, so I will compensate you for that.\n\nRocco: What are you sayin’?\n\nPaulie: I can have your $5000 by this time tomorrow, plus an extra $500 for making you have to wait an extra day.\n\nRocco: Deal.  I’ll be back this time tomorrow.\n\n(sound of heart dropping from throat)"
+    },
+    {
+      "number": 2,
+      "example": "Judge: So did you kill your landlord or not?\n\nKirk: I fought with him.",
+      "explanation": "Here is a classic case where a “yes” or “no” answer is expected, and the only acceptable answer to such a question, yet Kirk is deflecting the question by providing a third answer option, that leaves the original question unanswered."
+    }
+  ],
+  "exceptions": "When non-mutually exclusive choices are presented as mutually exclusive choices, the fallacy lies with the one presenting the choices (*[false dilemma](https://www.logicallyfallacious.com/logicalfallacies/False-Dilemma)* ).",
+  "tips": "Don’t borrow money from anyone named \"Rocco.\"",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Denying_the_Correlative.jpg",
+  "slug": "Denying-the-Correlative",
+  "letter": "D"
+}

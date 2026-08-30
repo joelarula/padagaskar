@@ -1,0 +1,31 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Conflicting-Conditions",
+  "title": "Conflicting Conditions",
+  "latin_name": "contradictio in adjecto",
+  "also_known_as": [
+    "a self-contradiction",
+    "self-refuting idea"
+  ],
+  "description": "When the argument is self-contradictory and cannot possibly be true.",
+  "logical_form": "*Claim X is made, which is impossible as demonstrated by all or part of claim X.*",
+  "examples": [
+    {
+      "number": 1,
+      "example": "*The only thing that is certain is uncertainty.*",
+      "explanation": "Uncertainty itself cannot be certain by definition.  It is a self-contradiction."
+    },
+    {
+      "number": 2,
+      "example": "*I don’t care what you believe, as long as your beliefs don’t harm others.*",
+      "explanation": "This is a contradiction.  At first glance, “as long as” appears to be a condition for the assertion, “I don’t care what you believe”, but it’s not; the assertion *has to be* false in all cases.  *The arguer must always care if the person believes something that will harm others or not.*"
+    }
+  ],
+  "exceptions": "When the self-contradictory statement is not put forth as an argument, but rather as an ironic statement, perhaps with the intent to convey some kind of deeper truth or meaning, but not necessarily to be taken literally, then this fallacy is not committed.\n\n**Fun Fact:** This sentence is false.",
+  "tips": "",
+  "references": [
+    "Cicero: Academic Skepticism | Internet Encyclopedia of Philosophy. (n.d.). Retrieved from http://www.iep.utm.edu/cicero-a/"
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Conflicting_Conditions.jpg",
+  "slug": "Conflicting-Conditions",
+  "letter": "C"
+}

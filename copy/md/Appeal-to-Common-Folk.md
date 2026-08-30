@@ -1,0 +1,38 @@
+---
+source: "https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Common-Folk"
+english_name: "Appeal to Common Folk"
+also_known_as:
+  - "appeal to the common man"
+status: "pending_translation"
+---
+
+# Appeal to Common Folk
+
+(also known as: appeal to the common man)
+
+**Description:**
+
+In place of evidence, attempting to establish a connection to the audience based on being a “regular person” just like each of them.  Then suggesting that your proposition is something that all common folk believe or should accept.
+
+**Example #1:**
+
+> My fellow Americans, I am just like you.  Sure, I have a few private jets and homes in twelve countries, but I put on my pants one leg at a time, just like you common people.  So believe me when I say, this increase in taxes for the common folk is just what we all need.
+
+**Explanation:** There is no valid reason given for the increase in taxes.
+
+**Example #2:**
+
+> You don't want a hot dog and beer?  Eating hot dogs and drinking beer at a baseball game is the American thing to do.
+
+**Explanation:** Here the person making the argument is appealing to the *tradition* of the common folk.
+
+**Exception:** If the “common folk” appeal is made in addition to valid reasons, then it is not a fallacy, although I would argue it is cheap pandering that many people can easily detect.
+
+**Tip:** : If you are tempted to appeal to some folk, appeal to the folk that made the world a better place. Not only do people love inspirational stories, but these stories are also powerful motivators. Just be sure to use this technique in addition to reason, not in place of it.
+
+![Appeal to Common Folk illustration](https://www.logicallyfallacious.com/static/fallacy-images/Appeal_to_Common_Folk.jpg)
+
+**References:**
+
+- McWhorter, K. T. (2001). *Academic Reading*. Addison Wesley Longman.
+

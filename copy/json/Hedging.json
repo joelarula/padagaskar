@@ -1,0 +1,28 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Hedging",
+  "title": "Hedging",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Refining your claim simply to avoid counter evidence and then acting as if your revised claim is the same as the original.",
+  "logical_form": "Claim X is made.\n\nClaim X is refuted.\n\nClaim Y is then made and is made to be the same as claim X when it is not.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Freddie: All women are evil, manipulative, man-haters.\n\nWade: Including your mother and best friend?\n\nFreddie: Not them, but all the others.\n\nWade: How can you say that, when you only know maybe a hundred or so women?\n\nFreddie: Obviously, I am talking about the ones I know.",
+      "explanation": "The claim changed quite drastically from about 3.5 billion women to about 100, yet there was no admission by Freddie of this drastic change in his argument.  Freddie is guilty of committing this fallacy, and those who see Freddie’s initial argument as still valid, are guilty, as well."
+    },
+    {
+      "number": 2,
+      "example": "Adam: The story of Noah’s ark is very probable, and almost certainly a historical and scientific fact.\n\nGreg: So you think it is very probable that two of each animal came from around the globe, including the animals that cannot survive for very long outside their natural environments?\n\nAdam: Well, that part did require God’s help.\n\nGreg: You think it is very probable even though virtually every geologist and natural scientist today reject the idea of a global flood?\n\nAdam: Probability exists on many levels.\n\nGreg: Do you really still think this story is, “very probable”?\n\nAdam: Yes.",
+      "explanation": "Besides the multiple *[ad hoc](https://www.logicallyfallacious.com/logicalfallacies/Ad-Hoc-Rescue)* explanations used by Adam to answer the counterclaims, each counterclaim was evidence against the initial claim, specifically the “very probable” nature of the story.  Rather than concede the argument or revise the claim, Adam let his insistence to be right come before logical thought and refused to change his original claim."
+    }
+  ],
+  "exceptions": "If the point of argumentation is really to arrive closer to the truth, then there is no shame in revising claims.  If this is done, there is no fallacy.\n\n**Fun Fact:** Every time you acknowledge that you are wrong, you are one step closer to actually being right.",
+  "tips": "",
+  "references": [
+    "Dowden, B. (n.d.). Fallacies | Internet Encyclopedia of Philosophy. Retrieved from http://www.iep.utm.edu/fallacy/"
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Hedging.jpg",
+  "slug": "Hedging",
+  "letter": "H"
+}

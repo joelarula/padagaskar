@@ -1,0 +1,28 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Possibility",
+  "title": "Appeal to Possibility",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "When a conclusion is assumed not because it is probably true, but because it is possible that it is true, no matter how improbable.",
+  "logical_form": "",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Brittany: I haven’t applied to any other schools besides Harvard.\n\nCasey: You think that is a good idea?  After all, you only have a 2.0 GPA, your SAT scores were pretty bad, and frankly, most people think you are not playing with a full deck.\n\nBrittany: Are you telling me that it is impossible for me to get in?\n\nCasey: Not *impossible*, but...\n\nBrittany: Then shut your trap.",
+      "explanation": "Yes, it is possible that Harvard will accept Brittany to fill some sympathy quota, or perhaps someone at admissions will mix Brittany up with “Britney”, the 16-year-old Asian with the 4.0 average who also discovered a vaccine for a rare flu in her spare time, but because Brittany is *appealing to possibility*, she is committing this fallacy."
+    },
+    {
+      "number": 2,
+      "example": "Dave: Did you know that Jesus liked to dress up as a woman and sing show tunes?\n\nTim: And why do you say that?\n\nDave: You have to admit, it is possible!\n\nTim: So is the fact that you are a moron.",
+      "explanation": "We cannot assume Jesus liked to dress like a woman while belting out 2000-year-old show tunes based on the possibility alone. This also includes the *[argument from ignorance](https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance)* fallacy -- concluding a possibility based on missing information (an outright statement that Jesus did not do these things)."
+    }
+  ],
+  "exceptions": "There are no exceptions. Possibility alone never justifies probability.",
+  "tips": "Catch yourself every time you are about to use the word “impossible”.  Yes, there are many things that are logically and physically impossible, and it is a valid concept and word, but so often we use that word when we really mean  “improbable”.  Confusing the impossible with the improbable or unlikely, could, in many cases, destroy the possibility of great success.",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Appeal_to_Possibility.jpg",
+  "slug": "Appeal-to-Possibility",
+  "letter": "A"
+}

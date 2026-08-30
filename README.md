@@ -1,6 +1,6 @@
 # Loogikavigade Viki
 
-See repositoorium on loodud eesmärgiga koostada väike eestikeelne viki loogikavigadest. Siin kirjeldatakse erinevaid loogikavigu koos näidetega päriselust, et aidata paremini mõista ja ära tunda eksitusi argivestlustes, meedias ja mujal.
+See repositoorium on loodud eesmärgiga koostada väike eestikeelne wiki loogikavigadest. Siin kirjeldatakse erinevaid loogikavigu koos näidetega päriselust, et aidata paremini mõista ja ära tunda eksitusi argivestlustes, meedias ja mujal.
 
 ## Eesmärgid
 - Koguda ja kirjeldada olulisemaid loogilisi eksitusi
@@ -17,4 +17,11 @@ Sisu on mõeldud vabaks kasutamiseks ja jagamiseks hariduslikel eesmärkidel.
 
 ## Tunnustus ja allikas
 
-Suured tänud [logicallyfallacious.com](https://www.logicallyfallacious.com/) autorile Bo Bennettile, kelle põhjalik töö loogikavigade kogumisel ja selgitamisel on selle viki loomise peamine allikas ja inspiratsioon. Originaalsisu ja ingliskeelsed näited pärinevad saidilt logicallyfallacious.com. Kõik õigused kuuluvad vastavale autorile.
+Selle projekti peamiseks allikaks, struktuuri aluseks ja inspiratsiooniks on veebileht **[Logically Fallacious](https://www.logicallyfallacious.com/)** ning selle autor **dr Bo Bennett, Ph.D.** (Archieboy Holdings, LLC).
+
+- **Originaalallikas:** [logicallyfallacious.com](https://www.logicallyfallacious.com/)
+- **Raamat:** Bo Bennett, *Logically Fallacious: The Ultimate Collection of Over 300 Logical Fallacies* ([Osta raamat](https://www.bobennett.com/bobennett/logicallyfallacious))
+- **Veebikursus:** *Mastering Logical Fallacies* ([Virversity](https://www.virversity.com/course/masteringlogicalfallacies))
+
+See repositoorium on mitteäriline hariduslik tõlke- ja kohandusprojekt, mille eesmärk on teha loogikavigade ja kriitilise mõtlemise materjalid kättesaadavaks eesti keeles. Kõik originaalsisu, ingliskeelsete terminite, loogiliste vormide, näidete ja illustratsioonide autoriõigused kuuluvad autorile Bo Bennettile ja Archieboy Holdings, LLC-le.
+

@@ -1,0 +1,34 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Avoiding-the-Issue",
+  "title": "Avoiding the Issue",
+  "latin_name": "",
+  "also_known_as": [
+    "avoiding the question [form of]",
+    "missing the point",
+    "straying off the subject",
+    "digressing",
+    "distraction [form of]"
+  ],
+  "description": "When an arguer responds to an argument by not addressing the points of the argument.  Unlike the *[strawman fallacy](https://www.logicallyfallacious.com/logicalfallacies/Strawman-Fallacy)*, avoiding the issue does not create an unrelated argument to divert attention, it simply avoids the argument.",
+  "logical_form": "Person 1 makes claim X.\n\nPerson 2 makes unrelated statement.\n\nAudience and/or person 1 forgets about claim X.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Daryl: Answer honestly, do you think if we were born and raised in Iran, by Iranian parents, we would still be Christian, or would we be Muslim?\n\nRoss: I think those of us raised in a place where Christianity is taught are fortunate.\n\nDaryl:  I agree, but do you think if we were born and raised in Iran, by Iranian parents, we would still be Christian, or would we be Muslim?\n\nRoss: Your faith is weak -- you need to pray to God to make it stronger.\n\nDaryl:  I guess you’re right.  What was I thinking?",
+      "explanation": "Some questions are not easy to answer, and some answers are not easy to accept.  While it may seem, at the time, like avoiding the question is the best action, it is actually an abandonment of reason and honest inquiry; therefore, fallacious."
+    },
+    {
+      "number": 2,
+      "example": "Molly: It is 3:00 in the morning, you are drunk, covered in lipstick, and your shirt is on backward!  Would you care to explain yourself?\n\nRick: I was out with the guys.\n\nMolly: And the lipstick?\n\nRick: You look wonderful tonight, honey!\n\nMolly: (softening) You think so?  I got my hair cut today!",
+      "explanation": "It is not difficult to digress a line of questioning, so beware of these attempts."
+    }
+  ],
+  "exceptions": "At times, a digression is a good way to take the pressure off of a highly emotional argument.  A funny story, a joke,  or anything used as a “break” could be a very good thing at times.  As long as the issue is dealt with again.",
+  "tips": "Don’t avoid questions where you are afraid you won’t like the answers.  Face them head on, and deal with the truth.\n\n**Variation:** *Distraction* can be a form of *[avoiding the issue](https://www.logicallyfallacious.com/logicalfallacies/Avoiding-the-Issue)*, but does not have to be just verbal.  For example, being asked a question you can’t answer and pretending your phone rings, saying you need to use the restroom, faking a heart attack, etc.",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Avoiding_the_Issue.jpg",
+  "slug": "Avoiding-the-Issue",
+  "letter": "A"
+}

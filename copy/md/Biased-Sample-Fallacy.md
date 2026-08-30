@@ -1,0 +1,45 @@
+---
+source: "https://www.logicallyfallacious.com/logicalfallacies/Biased-Sample-Fallacy"
+english_name: "Biased Sample Fallacy"
+status: "pending_translation"
+---
+
+# Biased Sample Fallacy
+
+**Description:**
+
+Drawing a conclusion about a population based on a sample that is biased, or chosen in order to make it appear the population on average is different than it actually is.
+
+This differs from the *[hasty generalization](https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization)* fallacy, where the biased sample is specifically chosen from a select group, and the small sample is just a random sample, but too small to get any accurate information.
+
+**Logical Form:**
+
+* Sample S, which is biased, is taken from population P.
+* Conclusion C is drawn about population P based on S.
+
+**Example #1:**
+
+> Based on a survey of 1000 American homeowners, 99% of those surveyed have two or more automobiles worth on average $100,000 each.  Therefore, Americans are very wealthy.
+
+**Explanation:** Where did these homeowners live?  Beverly Hills, CA.  If the same survey was taken in Detroit, the results would be quite different.  It is fallacious to accept the conclusion about the American population in general based on not just the geographical sample, but also the fact that homeowners were only surveyed.
+
+**Example #2:**
+
+> Pastor Pete: People are turning to God everywhere!  9 out of 10 people I interviewed said that they had a personal relationship with Jesus Christ.
+> 
+> Fred: Where did you find these people you interviewed?
+> 
+> Pastor Pete: In my church.
+
+**Explanation:** Pastor Pete has drawn a conclusion about religious beliefs from people “everywhere” based on people he has interviewed in his church.  That’s like concluding that the world likes to dance naked in front of strangers after interviewing a group of strippers.
+
+**Exception:** What exactly is “biased” is subjective, but some biases are very clear.
+
+**Tip:** Be very wary of statistics.  Look at the source and details of the studies which produced the statistics.  Very often you will find some kind of bias.
+
+![Biased Sample Fallacy illustration](https://www.logicallyfallacious.com/static/fallacy-images/Biased_Sample_Fallacy.jpg)
+
+**References:**
+
+- Halverson, W. H. (1984). *A Concise Logic*. McGraw-Hill Higher Education.
+

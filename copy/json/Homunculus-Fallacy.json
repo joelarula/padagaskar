@@ -1,0 +1,31 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Homunculus-Fallacy",
+  "title": "Homunculus Fallacy",
+  "latin_name": "",
+  "also_known_as": [
+    "homunculus argument",
+    "infinite regress"
+  ],
+  "description": "An argument that accounts for a phenomenon in terms of the very phenomenon that it is supposed to explain, which results in an infinite regress.",
+  "logical_form": "Phenomenon X needs to be explained.\n\nReason Y is given.\n\nReason Y depends on phenomenon X.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Bert: How do eyes project an image to your brain?\n\nErnie: Think of it as a little guy in your brain watching the movie projected by your eyes.\n\nBert: Ok, but what is happening in the little guy in your head’s brain?\n\nErnie: Well, think of it as a little guy in his brain watching a movie...",
+      "explanation": "This fallacy creates an endless loop that actually explains nothing.  It is fallacious reasoning to accept an explanation that creates this kind of endless loop that lacks any explanatory value."
+    },
+    {
+      "number": 2,
+      "example": "Dicky: So how do you think life began?\n\nRalphie: Simple.  Aliens from another planet seeded this planet with life billions of years ago.\n\nDicky: OK, but how did that alien life form begin?\n\nRalphie: Simple.  Aliens from another planet seeded that planet with life.",
+      "explanation": "This fallacy can be tricky because maybe it is true that aliens are responsible for spreading life, so the answers might be technically right, but the question implied is how life *ultimately* began, which this form of reasoning will not answer."
+    }
+  ],
+  "exceptions": "There might be some exceptions that rely on high-level epistemology having to do with a large enough loop and validating feedback.  The important question to ask is, does the explanation have any value and is the question being answered or deflected?\n\n**Fun Fact:** Several fallacies are a result of a lack of explanatory value. For example, the *homunculus fallacy* can be seen as a specific form of the *[failure to elucidate](https://www.logicallyfallacious.com/logicalfallacies/Failure-to-Elucidate)*.",
+  "tips": "",
+  "references": [
+    "Tulving, E. (2000). *Memory, Consciousness, and the Brain: The Tallinn Conference*. Psychology Press."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Homunculus_Fallacy.jpg",
+  "slug": "Homunculus-Fallacy",
+  "letter": "H"
+}

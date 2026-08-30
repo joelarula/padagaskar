@@ -1,0 +1,38 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Circumstantial",
+  "title": "Ad Hominem (Circumstantial)",
+  "latin_name": "argumentum ad hominem",
+  "also_known_as": [
+    "appeal to bias",
+    "appeal to motive",
+    "appeal to personal interest",
+    "argument from motives",
+    "conflict of interest",
+    "faulty motives",
+    "naïve cynicism",
+    "questioning motives",
+    "vested interest"
+  ],
+  "description": "Suggesting that the person who is making the argument is biased or predisposed to take a particular stance, and therefore, the argument is *necessarily* invalid.",
+  "logical_form": "Person 1 is claiming Y.\n\nPerson 1 has a vested interest in Y being true.\n\nTherefore, Y is false.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Salesman: This car gets better than average gas mileage and is one of the most reliable cars according to Consumer Reports.\n\nWill: I doubt it—you obviously just want to sell me that car.",
+      "explanation": "The fact that the salesman has a vested interest in selling Will the car does not mean that he is lying.  He may be, but this is not something you can conclude solely on his interests.  It is reasonable to assume that salespeople sell the products and services they do because they believe in them."
+    },
+    {
+      "number": 2,
+      "example": "Of course, your minister says he believes in God.  He would be unemployed otherwise.",
+      "explanation": "The fact that atheist ministers are about as in demand as hookers who, “just want to be friends”, does not mean that ministers believe in God just because they need a job."
+    }
+  ],
+  "exceptions": "As the bias or conflict of interest becomes more relevant to the argument, usually signified by a lack of other evidence, the argument is seen as less of a fallacy and more as a legitimate motive.  For example, courtesy of Meat Loaf...\n\nGirl: Will you love me forever?\n\nBoy: Let me sleep on it!!!\n\nGirl: Will you love me forever!!!\n\nBoy: I couldn't take it any longer\n\nLord, I was crazed\n\nAnd when the feeling came upon me\n\nLike a tidal wave\n\nI started swearing to my god and on my mother's grave\n\nThat I would love you to the end of time\n\nI swore that I would love you to the end of time!",
+  "tips": "When you know you have something to gain from a position you hold (assuming, of course, you are not guilty of this fallacy for holding the position), be upfront about it and bring it up before someone else does.\n\nSupporting this cause is the right thing to do.  Yes, as the baseball coach, I will benefit from the new field, but my benefit is negligible compared to the benefit the kids of this town will receive.  After all, they are the ones who really matter here.",
+  "references": [
+    "Walton, D. (1998). *Ad hominem arguments*. University of Alabama Press."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Ad_hominem_Circumstantial.jpg",
+  "slug": "Ad-Hominem-Circumstantial",
+  "letter": "A"
+}

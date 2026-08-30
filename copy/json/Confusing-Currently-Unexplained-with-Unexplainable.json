@@ -1,0 +1,28 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Confusing-Currently-Unexplained-with-Unexplainable",
+  "title": "Confusing Currently Unexplained with Unexplainable",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Making the assumption that what cannot currently be explained is, therefore, unexplainable (impossible to explain). This is a problem because we cannot know the future and what conditions might arise that offer an explanation. It is also important to note that we cannot assume the currently unexplained **is** explainable.",
+  "logical_form": "Claim X is currently unexplained.\n\nTherefore, claim X is unexplainable.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Teri: I don't know why that stuffed animal flew off my dresser this morning. I guess some things in life will forever remain a mystery!",
+      "explanation": "The fact that Teri could not explain something, does not make it unexplainable. Later, it might be revealed that a family member was playing a trick and tied a string to the stuffed animal. Maybe Teri will read about a slight earthquake that happened at the same time. Maybe Teri will later discover that there is a rat in her room that made a home in her stuffed animals. The point is, what is currently unexplained is not necessarily unexplainable."
+    },
+    {
+      "number": 2,
+      "example": "While we may be able to explain **how** humans got here, we will never be able to explain **why**.",
+      "explanation": "Besides *[begging the question](https://www.logicallyfallacious.com/logicalfallacies/Begging-the-Question)* (this assumes there is a \"why\"), we don't know if we will never be able to explain why. Perhaps aliens created us, and they will tell us one day that created us for one big social experiment. Perhaps they wanted to see, after seeding Earth with life about 3 1/2 billion years ago, if one of the members of the human species, Alfredo, scratched his left ear at precisely 3:46 PM on December 12, 2023. After which time they will hit the reset button and try a different experiment."
+    }
+  ],
+  "exceptions": "Like other claims, expressing probability is a way around this fallacy.\n\nWhile we may be able to explain **how** humans got here, we **may** never be able to explain **why** (assuming there is a why).",
+  "tips": "Be careful using terms such as \"impossible\" and \"possible.\" The casual use of both terms is often incorrect within argumentation.",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Confusing_Currently_Unexplained_with_Unexplainable.jpg",
+  "slug": "Confusing-Currently-Unexplained-with-Unexplainable",
+  "letter": "C"
+}

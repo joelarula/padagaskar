@@ -1,0 +1,32 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Argument-by-Personal-Charm",
+  "title": "Argument by Personal Charm",
+  "latin_name": "",
+  "also_known_as": [
+    "sex appeal",
+    "flamboyance",
+    "eloquence"
+  ],
+  "description": "When an argument is made stronger by the personal characteristics of the person making the argument, often referred to as “charm”.",
+  "logical_form": "Person 1 says that Y is true.\n\nPerson 1 is very charming.\n\nTherefore, Y is true.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Hi there, ladies (wink - teeth sparkle). I just want to say that all of you have the right to do what you will with your bodies, including the right to abortion.",
+      "explanation": "The charm of the arguer is irrelevant to the issue of abortion."
+    },
+    {
+      "number": 2,
+      "example": "Let me start by thanking the wonderful people of this town for hosting this great event.  I would be honored to call you all my friends.  As friends, I want to tell you that streaking should be legalized.",
+      "explanation": "Buttering up the audience is actually a technique that is suggested—because it is effective.  If you know your argument is weak, and compensate by laying on the charm, you are guilty of this fallacious tactic.  If you are letting the charm affect your decision, you are also committing the fallacy."
+    }
+  ],
+  "exceptions": "If the argument being made is directly related to the charm of the arguer, as in arguing that he or she would be the better host for a new show where charm does matter, then no fallacy has been committed.",
+  "tips": "If you are a natural charmer don’t be afraid to use it—just not at the expense of valid claims and strong evidence.",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Argument_by_Personal_Charm.jpg",
+  "slug": "Argument-by-Personal-Charm",
+  "letter": "A"
+}

@@ -1,0 +1,28 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Argument-from-False-Authority",
+  "title": "Argument from False Authority",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "When a person making a claim is presented as an expert who should be trusted when his or her expertise is not in the area being discussed.",
+  "logical_form": "Expert A gives her view on issue B.\n\nExpert A's area of expertise has little or nothing to do with issue B.\n\nExpert A's opinion influences how people feel about issue B.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Dr. Dean, TV's hottest new psychologist, says that coffee enemas are the \"fountain of youth.\" Get me that coffee enema!",
+      "explanation": "Assuming Dr. Dean is actually a licensed psychologist, that does not qualify him to give advice about non-psychology related issues such as coffee enemas. Extending his expertise from psychology to issues of the colon is fallacious."
+    },
+    {
+      "number": 2,
+      "example": "My accountant says that within the next 90 days, the president will be impeached! So we should take this claim seriously!",
+      "explanation": "Unless the accountant has some inside information to the presidency, her expertise in accounting has little to do with the current administration, political, and constitutional law."
+    }
+  ],
+  "exceptions": "Don't pigeonhole people into certain areas of expertise. A medical doctor can also be an expert in sewing. A fly-fisherman can also be an expert in law. And a patent clerk can also be an expert in quantum mechanics.",
+  "tips": "Become an expert in something.",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Argument_from_False_Authority.jpg",
+  "slug": "Argument-from-False-Authority",
+  "letter": "A"
+}

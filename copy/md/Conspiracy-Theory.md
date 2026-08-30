@@ -1,0 +1,44 @@
+---
+source: "https://www.logicallyfallacious.com/logicalfallacies/Conspiracy-Theory"
+english_name: "Conspiracy Theory"
+also_known_as:
+  - "canceling hypothesis"
+  - "canceling hypotheses"
+  - "cover-ups"
+status: "pending_translation"
+---
+
+# Conspiracy Theory
+
+(also known as: canceling hypothesis, canceling hypotheses, cover-ups)
+
+**Description:**
+
+Explaining that your claim cannot be proven or verified because the truth is being hidden and/or evidence destroyed by a group of two or more people.  When that reason is challenged as not being true or accurate, the challenge is often presented as just another attempt to cover up the truth and presented as further evidence that the original claim is true.
+
+**Logical Form:**
+
+* A is true.
+* B is why the truth cannot be proven.
+* Therefore, A is true.
+
+**Example #1:**
+
+> Noah’s ark has been found by the Russian government a long time ago, but because of their hate for religion, they have been covering it up ever since.
+> 
+> **Example #2:**
+> 
+> Geologists and scientists all over the world are discovering strong evidence for a 6000-year-old earth, yet because of the threat of ruining their reputation, they are suppressing the evidence and keeping quiet.
+
+**Explanation:** The psychology behind conspiracy theories is quite complex and involves many different cognitive biases and fallacies discussed in this book.  In general, people tend to overlook the incredible improbabilities involved in a large-scale conspiracy, as well as the potential risks for all involved in the alleged cover-up.  In the above examples, those who stick with a literal interpretation of the Bible often experience *cognitive dissonance*, or the mental struggle involved when one’s beliefs contradict factual claims.  This cognitive dissonance causes people to create conspiracy theories, like the ones above, to change facts to match their beliefs, rather than changing their beliefs to match facts.
+
+**Exception:** Sometimes, there really are conspiracies and cover-ups.  The more evidence one can present for a cover-up, the better, but we must remember that possibility does not equal probability.
+
+**Tip:** Take time to question any conspiracy theories in which you believe are true.  Do the research with an open mind.
+
+![Conspiracy Theory illustration](https://www.logicallyfallacious.com/static/fallacy-images/Conspiracy_Theory.jpg)
+
+**References:**
+
+- Barkun, M. (2006). *A Culture of Conspiracy: Apocalyptic Visions in Contemporary America*. University of California Press.
+

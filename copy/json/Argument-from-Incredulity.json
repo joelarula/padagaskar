@@ -1,0 +1,32 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Incredulity",
+  "title": "Argument from Incredulity",
+  "latin_name": "",
+  "also_known_as": [
+    "argument from personal astonishment",
+    "argument from personal incredulity",
+    "personal incredulity"
+  ],
+  "description": "Concluding that because you can't or refuse to believe something, it must not be true, improbable, or the argument must be flawed. This is a specific form of the *[argument from ignorance](https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance)*.",
+  "logical_form": "Person 1 makes a claim.\n\nPerson 2 cannot believe the claim.\n\nPerson 2 concludes, without any reason besides he or she cannot believe or refuses to believe it, that the claim is false or improbable.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Marty: Doc, I'm from the future. I came here in a time machine that you invented. Now, I need your help to get back to the year 1985.\n\nDoc: I've had enough practical jokes for one evening. Good night, future boy!",
+      "explanation": "Clearly Marty is making an extraordinary claim, but the doc's dismissal of Marty's claim is based on pure incredulity. It isn't until Marty provides the Doc with extraordinary evidence (how he came up with the Flux Capacitor) that the Doc accepts Marty's claim. Given the nature of Marty's claim, it could be argued that Doc's dismissal of Marty's claim (although technically fallacious) was the more reasonable thing to do than entertain its possibility with good questions."
+    },
+    {
+      "number": 2,
+      "example": "NASA: Yes, we really did successfully land men on the moon.\n\nTinFoilHatGuy1969: Yeah, right. And Elvis is really dead.",
+      "explanation": "The unwillingness to entertain ideas that one finds unbelievable is fallacious, especially when the ideas are mainstream ideas made by a reputable source, such as a NASA and the truthfulness of the moon landings."
+    }
+  ],
+  "exceptions": "We can't possibly entertain every crackpot with crackpot ideas. People with little credibility or those pushing fringe ideas need to provide more compelling evidence to get the attention of others.\n\n**Fun Fact:** YouTube is not a reliable source. But this doesn’t mean that very reputable sources don’t use YouTube for content distribution. The problem is, so does TinFoilHatGuy1969.",
+  "tips": "",
+  "references": [
+    "Bebbington, D. (2011). Argument from personal incredulity. *Think*, *10*(28), 27–28. https://doi.org/10.1017/S1477175611000030"
+  ],
+  "image_url": "",
+  "slug": "Argument-from-Incredulity",
+  "letter": "A"
+}

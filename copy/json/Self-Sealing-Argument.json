@@ -1,0 +1,30 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Self-Sealing-Argument",
+  "title": "Self-Sealing Argument",
+  "latin_name": "",
+  "also_known_as": [
+    "vacuous argument"
+  ],
+  "description": "",
+  "logical_form": "*Claim X is made.*\n*Reason Y is given for claim X.*\n*Reason Y can not possibly be refuted.*",
+  "examples": [
+    {
+      "number": 1,
+      "example": "*Wherever you go, there you are.*",
+      "explanation": "You can’t argue against that position, and as a result, it is *vacuous*, or meaningless."
+    },
+    {
+      "number": 2,
+      "example": "*Tina: My life is guided by destiny.*\n\n*Mary: How do you know that?*\n\n*Tina: Whatever comes my way is what was meant to be.*",
+      "explanation": "We have the same vacuity problem here, except this one is less obvious and protected by a philosophical belief system.  There is no possible way we can know what \"destiny may have in store for us,\" thus no way to argue against it.  As a result, it is meaningless -- it is the equivalent of saying everything happens because it happens."
+    }
+  ],
+  "exceptions": "Holding beliefs that are unfalsifiable is not fallacious, especially when stated as beliefs or opinions. This becomes fallacious when an unfalsifiable claim is presented as evidence in argumentation.",
+  "tips": "Realize that most superstitious beliefs are centered around self-sealing or vacuous arguments, that is why so many people refuse to let go of superstitious beliefs -- because they cannot be proven false.",
+  "references": [
+    "Blair, J. A. (2011). *Groundwork in the Theory of Argumentation: Selected Papers of J. Anthony Blair*. Springer Science & Business Media."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Self_Sealing_Argument.jpg",
+  "slug": "Self-Sealing-Argument",
+  "letter": "S"
+}

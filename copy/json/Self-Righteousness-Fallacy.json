@@ -1,0 +1,28 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Self-Righteousness-Fallacy",
+  "title": "Self-Righteousness Fallacy",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Assuming that just because your intentions are good, you have the truth or facts on your side. Also see *[righteousness fallacy](https://www.logicallyfallacious.com/logicalfallacies/Righteousness-Fallacy)*.",
+  "logical_form": "*You make claim X.*\n\n*You have good intentions.*\n\n*Therefore, X is true.*",
+  "examples": [
+    {
+      "number": 1,
+      "example": "*Ricki: Do you think aborted fetuses have feelings?*\n*Jenni: Any honorable and kind person would have to say they do have feelings. So yes.*",
+      "explanation": "Jenni might be the queen of honor with kindness oozing from her puppy-dog eyes, but these qualities are independent of one’s ability to know facts or come to an accurate conclusion based on available data."
+    },
+    {
+      "number": 2,
+      "example": "*Jenni: Is a fetus a human being?*\n*Ricki: No, because I am not a monster and would never suggest killing an unwanted human being is okay.*",
+      "explanation": "Ricki is making a claim about a fetus and using the fact that she is “not a monster” to support the claim, which is independent of her intentions."
+    }
+  ],
+  "exceptions": "This relates to facts, not subjective truth. We can use the idea of righteousness to conclude how we feel about something or someone. For example,\n\n*Jenni: Do you consider a fetus to be as valuable as a human being?*\n*Ricki: No, because I am not a monster and would never suggest killing an unwanted human being is okay.*\n\n**Fun Fact: ***Self-righteous* is defined as having or characterized by a certainty, especially an unfounded one, that one is totally correct or morally superior. The *self-righteousness fallacy* follows a more generic definition of being correct because of “good intentions.”",
+  "tips": "",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Self_Righteousness_Fallacy.jpg",
+  "slug": "Self-Righteousness-Fallacy",
+  "letter": "S"
+}

@@ -1,0 +1,28 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/fact-to-fiction_fallacy.html",
+  "title": "Fact-to-fiction Fallacy",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Attempting to support a narrative or argument with facts that don't support the narrative or argument. The distinguishing characteristic of the fact-to-fiction fallacy is **the accusation that those who reject your conclusion are rejecting the facts.**",
+  "logical_form": "Facts are stated and made clear they are facts.\n\nTherefore, some conclusion is true that is not supported by the facts.\n\nIf you reject the conclusion, you are rejecting the facts.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "FACT: On average, 150,000 people die every day around the world. It is crazy to panic about a virus that, at its peak, was killing 8,000 people per day. But what else can be expected from a moron like you who rejects facts?",
+      "explanation": "It is a fact that, on average, 150,000 people die every day around the world. It is also a fact that at its peak in the spring of 2020, the Coronavirus was killing about 8,000 people per day. What hasn't been established is what justifies \"panic.\" \"Panic,\" or perhaps more accurately \"serious concern,\" can be justified in many other ways besides the total number of historical deaths. Given this, it doesn't follow that it is \"crazy to panic.\" Further, saying or writing \"FACT,\" followed by an accusation of rejecting the fact, makes this more fallacious than a standard non-sequitur."
+    },
+    {
+      "number": 2,
+      "example": "In May of 2020, it was common to hear accusations of \"anti-science\" hurled at people who wanted the country to reopen after being closed due to the Covid-19 pandemic.",
+      "explanation": "\"Anti-science\" is similar to \"anti-fact.\" There are many facts that point to ways the virus could spread, and reopening the country would unquestionably increase the odds that the virus would spread. Science doesn't make value judgments, however. For example, would an extra X number of deaths per week justify people getting back to work? Science *informs* political decisions such as these; it doesn't answer them. It can be perfectly consistent to agree with the science (facts) and still reject the argument that we are reopening the country \"too soon.\""
+    }
+  ],
+  "exceptions": "If there is no accusation of rejecting facts, we might have a non-sequitur, but not a fact-to-fiction fallacy. It is not unreasonable to state a fact such as the 150,000 deaths per day stat, then ask why we are taking the actions we are for just 8000 deaths? These kinds of questions are likely to lead to answers that expose the nuance of the arguments.",
+  "tips": "Be careful not to read too much into facts. Our minds tend to “connect the dots” in order to support the narratives we already accept.",
+  "references": [
+    "This is an original logical fallacy named by the author."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Fact_to_fiction_Fallacy.jpg",
+  "slug": "fact-to-fiction_fallacy.html",
+  "letter": "F"
+}

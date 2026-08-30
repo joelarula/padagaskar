@@ -1,0 +1,28 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Genetic-Fallacy",
+  "title": "Genetic Fallacy",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Basing the truth claim of an argument on the origin of its claims or premises.",
+  "logical_form": "The origin of the claim is presented.\n\nTherefore, the claim is true/false.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Lisa was brainwashed as a child into thinking that people are generally good.  Therefore, people are not generally good.",
+      "explanation": "That fact that Lisa may have been brainwashed as a child, is irrelevant to the claim that people are generally good."
+    },
+    {
+      "number": 2,
+      "example": "He was born to Catholic parents and raised as a Catholic until his confirmation in 8th grade.  Therefore, he is bound to want to defend some Catholic traditions and, therefore, cannot be taken seriously.",
+      "explanation": "I am referring to myself here.  While my upbringing was Catholic, and I have long since considered myself a Catholic, that is irrelevant to any defenses I make of Catholicism -- like the fact that many local churches do focus on helping the community through charity work.  If I make an argument defending anything Catholic, the argument should be evaluated on the argument itself, not on the history of the one making the argument or how I came to hold the claims as true or false."
+    }
+  ],
+  "exceptions": "At times, the origin of the claim is relevant to the truth of the claim.\n\nI believe in closet monsters because my big sister told me unless I do whatever she tells me, the closet monsters will eat me.",
+  "tips": "Remember that considering the source is often a useful heuristic in quickly assessing if the claim is probably true or not, but dismissing the claim or accepting it as true based on the source is fallacious.",
+  "references": [
+    "Engel, S. M., Soldan, A., & Durand, K. (2007). *The Study of Philosophy*. Rowman & Littlefield."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Genetic_Fallacy.jpg",
+  "slug": "Genetic-Fallacy",
+  "letter": "G"
+}

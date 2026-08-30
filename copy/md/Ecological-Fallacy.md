@@ -1,0 +1,44 @@
+---
+source: "https://www.logicallyfallacious.com/logicalfallacies/Ecological-Fallacy"
+english_name: "Ecological Fallacy"
+also_known_as:
+  - "ecological inference fallacy"
+status: "pending_translation"
+---
+
+# Ecological Fallacy
+
+(also known as: ecological inference fallacy)
+
+**Description:**
+
+The interpretation of statistical data where inferences about the nature of individuals are deduced from inference for the group to which those individuals belong.
+
+**Logical Form:**
+
+* Group X has characteristic Y.
+* Person 1 is in group X.
+* Therefore, person 1 has characteristic Y.
+
+**Example #1:**
+
+> Men score better on math than women do. Jerry is a man. Therefore, Jerry is better at math than Sylvia, who is a woman.
+
+**Explanation:** The fact that men score better on math than women is a group generalization. This does not mean that any individual man will score better than any individual woman on math. Educated guesses could be made if we knew more about the statistics. For example, if we just knew that men scored an average of 8% higher than women, we could not even say that any given man is likely to be better at math than any given woman. This is because there could be what is referred to as an uneven distribution, that is, there could be a small group of women who are really bad at math or a small group of men who are really good at math that throws off the curve.
+
+**Example #2:**
+
+> A study was done recently showing that church attendance was positively correlated with marriage longevity, that is, those couples who attended church together more often were more likely to stay married. This really should not be a surprise considering the general view of divorce within religion. **What this does not mean is that any given couple who does not attend church is more likely to get divorced than any given couple that does attend church.**
+
+**Explanation:** To make this claim, we would need more information on the raw data used. Perhaps just religious fanatics who go to church daily have a practically non-existent divorce rate of say 2%. Then it is possible that those who never go to church have a lower divorce rate than those who do go to church every Sunday, but because of the fanatics, the distribution is not evenly distributed.
+
+**Exception:** It is not unreasonable to make a probabilistic claim about any given member of a group if the data warrants such a claim. For example, if 999 jellybeans in a jar are red and one is green, we can say that any given jellybean in the jar is  99.9% likely to be red.
+
+**Fun Fact:** Although this is a statistical fallacy, it is commonly extended to everyday situations. If you don't mind getting into statistics a bit, understanding statistical fallacies could improve one's overall reasoning ability.
+
+![Ecological Fallacy illustration](https://www.logicallyfallacious.com/static/fallacy-images/Ecological_Fallacy.jpg)
+
+**References:**
+
+- Babbie, E. R. (2016). *The Basics of Social Research*. Cengage Learning.
+

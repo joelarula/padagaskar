@@ -1,0 +1,29 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Extended-Analogy",
+  "title": "Extended Analogy",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "",
+  "logical_form": "A is like B in some way.\n\nC is like B in a different way.\n\nTherefore, A is like C.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Jennie: Anyone who doesn’t have a problem with slaughtering animals for food, should not, in principle, have a problem with an advanced alien race slaughtering us for food.\n\nCarl: Fruitarians, the crazy people who won’t eat anything except for fruit that fell from the tree, are also against slaughtering animals for food.  Are you crazy like them?",
+      "explanation": "Although I don’t think I can ever give up delicious chicken, Jennie does make a good point via a valid analogy.  Ignoring Carl’s attempt to* [poisoning the well](https://www.logicallyfallacious.com/logicalfallacies/Poisoning-the-Well)* by using *[argument by emotive language](https://www.logicallyfallacious.com/logicalfallacies/Argument-by-Emotive-Language)* he is, by* [extended analogy](https://www.logicallyfallacious.com/logicalfallacies/Extended-Analogy)*, claiming the “craziness” of the fruitarians must be shared by her, as well, since they both are alike because they share a view on using animals for food."
+    },
+    {
+      "number": 2,
+      "example": "Science often gets things wrong.  It wasn’t until the early 20th century when particle physics came along that scientists realized that the atom wasn’t the smallest particle in existence.  So perhaps science will soon realize that it is wrong about the age of the universe, the non-existence of a global flood, evolution, and every other science fact that contradicts the Bible when read literally.",
+      "explanation": "To see this fallacy, let’s put it in the logical form, using just the evolution claim:\n\nP1. Thinking the atom was the smallest particle was a mistake of science.\n\nP2. Evolution is also a mistake of science.\n\nC. Therefore, science thinking the atom was the smallest particle is like science thinking evolution is true.\n\nPremise two (P2) should jump out as a bold assumption, although not fallacious.  Remember, the premises don’t have to be true for the argument to be valid, but if both premises were true, does the conclusion (C) follow?  No, because of the *extended fallacy*.  The reason is if evolution were false it would not be for the same reason that science thought the atom was the smallest particle.  Science “was wrong” in that case because it did not have access to the whole truth due to discoveries yet to be made at the time.  If evolution were wrong, then all the discoveries that have been made, the facts that have been established, the foundation of many sciences that have led to countless advances in medicine, would all be dead wrong.  This would be a mistake of unimaginable proportions and consequences that would unravel the very core of scientific understanding and inquiry."
+    }
+  ],
+  "exceptions": "If one can show evidence that the connection between all the subjects is the same, it is not fallacious.\n\nIt is crazy to think that carrots have feelings.\n\nIt is crazy to think that cows have feelings.\n\nTherefore, vegetarians are just as crazy as fruitarians.[[1]](#_ftn1)",
+  "tips": "Don’t call people crazy -- leave that kind of psychological assessment for the licensed professionals.  You can call them, “nutjobs”.",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found.",
+    "[[1]](#_ftnref) For the record, I certainly do not think vegetarians are crazy, and I don’t even think fruitarians are crazy.  I certainly believe animals have feelings.  Carrots? Not so much."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Extended_Analogy.jpg",
+  "slug": "Extended-Analogy",
+  "letter": "E"
+}

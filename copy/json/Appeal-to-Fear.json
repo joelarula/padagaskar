@@ -1,0 +1,32 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Fear",
+  "title": "Appeal to Fear",
+  "latin_name": "argumentum in terrorem",
+  "also_known_as": [
+    "argumentum ad metum",
+    "argument from adverse consequences",
+    "scare tactics"
+  ],
+  "description": "When fear, not based on evidence or reason, is being used as the primary motivator to get others to accept an idea, proposition, or conclusion.",
+  "logical_form": "If you don’t accept X as true, something terrible will happen to you.\n\nTherefore, X must be true.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "If we don’t bail out the big automakers, the US economy will collapse.  Therefore, we need to bail out the automakers.",
+      "explanation": "The idea of a collapsed economy is frightening enough for many people to overlook the fact that this is a premise without justification, resulting in them just accepting the conclusion. There is no evidence or reason provided for the claim that if we don’t bail out the big automakers, the US economy will collapse."
+    },
+    {
+      "number": 2,
+      "example": "Timmy: Mom, what if I don’t believe in God?\n\nMom: Then you burn in Hell forever.  Why do you ask?\n\nTimmy: No reason.",
+      "explanation": "Timmy’s faith is waning, but Mom, like most moms, is very good at scaring the Hell, in this case, into, Timmy.  This is a fallacy because Mom provided no evidence that disbelief in God will lead to an eternity of suffering in Hell, but because the possibility is terrifying to Timmy, he “accepts” the proposition (to believe in God), despite the lack of actual evidence."
+    }
+  ],
+  "exceptions": "When fear is not the primary motivator, but a supporting one and the probabilities of the fearful event happening are honestly disclosed, it would not be fallacious.\n\nTimmy: Mom, what if I don’t believe in God?\n\nMom: Then I would hope that you don’t believe in God for the right reasons, and not because your father and I didn’t do a good enough job telling you why you should believe in him, including the possibility of what some believe is eternal suffering in Hell.\n\nTimmy: That’s a great answer mom.  I love you.  You are so much better than my mom in the other example.",
+  "tips": "Think in terms of probabilities, not possibilities.  Many things are possible, including a lion busting into your home at night and mauling you to death -- but it is very, very improbable.  People who use fear to manipulate you, count on you to be irrational and emotional rather than reasonable and calculating.  Prove them wrong.",
+  "references": [
+    "Garden, F. (1878). *A Dictionary of English Philosophical Terms*. Rivingtons."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Appeal_to_Fear.jpg",
+  "slug": "Appeal-to-Fear",
+  "letter": "A"
+}

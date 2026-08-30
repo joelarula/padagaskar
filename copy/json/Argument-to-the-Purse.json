@@ -1,0 +1,32 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Argument-to-the-Purse",
+  "title": "Argument to the Purse",
+  "latin_name": "",
+  "also_known_as": [
+    "appeal to poverty or argumentum ad lazarum",
+    "appeal to wealth",
+    "appeal to money"
+  ],
+  "description": "Concluding that the truth value of the argument is true or false based on the financial status of the author of the argument or the money value associated with the truth. The *appeal to poverty* is when the truth is assumed based on a lack of wealth whereas the *appeal to wealth* is when the truth is assumed based on an excess of wealth.",
+  "logical_form": "Person 1 says Y is true.\n\nPerson 1 is very rich.\n\nTherefore, Y must be true (appeal to wealth) / false (appeal to poverty).",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Mike: Did you know that the author of the book, “Logically Fallacious,” made a fortune on the Internet?\n\nJon: So?\n\nMike: That means that this book must be awesome!",
+      "explanation": "While my financial status might impress the participants at an Amway conference, it has little to do with my knowledge of fallacies.  However, remember the *[argument from fallacy](https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Fallacy)*; just because the argument is fallacious, does not mean the conclusion is not true, dammit."
+    },
+    {
+      "number": 2,
+      "example": "Simon is very poor.  Simon says that the secret to life is giving up all your material possessions, and living off the government’s material possessions.  Simon must be very enlightened.",
+      "explanation": "Just like people tend to associate wealth with wisdom, they also associate extreme poverty with wisdom.  Rich people are rich and poor people are poor—which members of those groups have wisdom does not depend on their financial status."
+    }
+  ],
+  "exceptions": "If one’s wealth, or lack thereof, is directly related to the truth value of an argument, then it is not a fallacy.\n\nMike: Did you know that the author of this book, who does extremely well financially in business, also wrote the book, “[Year To Success](https://www.hostingauthors.com/bobennett/yeartosuccess)” that was endorsed by Arnold Schwarzenegger?\n\nJon: I did not know that.\n\nMike: That means that his book on success is probably worth looking into!\n\nJon: I agree, and I am sure Bo will thank you for the cheap plug.",
+  "tips": "There is nothing wrong with a little self-promotion.",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Argument_to_the_Purse.jpg",
+  "slug": "Argument-to-the-Purse",
+  "letter": "A"
+}

@@ -1,0 +1,28 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Complexity",
+  "title": "Appeal to Complexity",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Concluding that because you don't understand something, it must not be true, it's improbable, or the argument must be flawed. This is a specific form of the *[argument from ignorance](https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance)*.",
+  "logical_form": "I don't understand argument X.\n\nTherefore, argument X cannot be true / is flawed / improbable.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Bill the Eye Guy: The development of the eye is monophyletic, meaning they have their origins in a proto-eye that evolved around 540 million years ago. Multiple eye types and subtypes developed in parallel. We know this partly because eyes in various animals show adaption to their requirements.\n\nToby: Uh, that sounds made up. I don't think the eye could have evolved.",
+      "explanation": "Yes, the evolution of the eye is confusing to non-biologists and those who are not familiar with evolutionary theory and natural selection. But the complexity of this argument is not a reason to reject it or find it less credible than a simpler claim (e.g. Zeus created eyes from clay)."
+    },
+    {
+      "number": 2,
+      "example": "If a layperson criticizes a complex policy about which they know nothing or very little, they are probably *appealing to complexity*.",
+      "explanation": "Black and white thinking is found where one has a lack of knowledge about a topic. Policies such as national healthcare are incredibly complex where each change has benefits and drawbacks. Non-experts often will dismiss a 1000-page document and say something such as, \"Look, it's simple. Do this, this, and this. Problem solved.\" No, it's not simple, and that wouldn't solve the problem."
+    }
+  ],
+  "exceptions": "When the one making the argument doesn't understand what they are actually saying, they are committing the [*argument by gibberish*](/logicalfallacies/Argument-by-Gibberish).",
+  "tips": "It is the job of the arguer to make the argument as clear as possible, and use language and terms that the audience can understand. This is a major problem in science communication. The *curse of knowledge* often leads to those trying to explain a complex topic in such a way where they assume the audience has as much knowledge in the fields as they do. If your audience fails to understand your argument, don't blame the audience;  explain your argument differently.",
+  "references": [
+    "This is a logical fallacy frequently used on the Internet. No academic sources could be found."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Appeal_to_Complexity.jpg",
+  "slug": "Appeal-to-Complexity",
+  "letter": "A"
+}

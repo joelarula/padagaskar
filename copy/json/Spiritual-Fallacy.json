@@ -1,0 +1,30 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Spiritual-Fallacy",
+  "title": "Spiritual Fallacy",
+  "latin_name": "",
+  "also_known_as": [
+    "spiritual excuse"
+  ],
+  "description": "Insisting that something meant to be literal is actually “spiritual” as an explanation or justification for something that otherwise would not fit in an explanation.",
+  "logical_form": "X makes no sense; therefore, X was meant in a “spiritual” sense.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Of course, the Koran is not a history or science book, but each and every story in it does contain a spiritual truth.",
+      "explanation": "Because we cannot define or prove a “spiritual truth”, anything can be a spiritual truth."
+    },
+    {
+      "number": 2,
+      "example": "Harold Camping, the preacher who predicted the rapture in 2011, said that the rapture actually did come, but it was a \"spiritual\" rapture.  Of course, there is no way to demonstrate this.",
+      "explanation": "We can’t use “spiritual” as a get-out-of-jail-free card to cover up an apparent contradiction."
+    }
+  ],
+  "exceptions": "It is not a fallacy when it is specifically referred to as “spiritual”.\n\n“and drank the same spiritual drink; for they drank from the spiritual rock that accompanied them, and that rock was Christ.” (1 Cor 10:4)",
+  "tips": "Next time you get pulled over for speeding, tell the cop you were only “spiritually” speeding. See if that works.",
+  "references": [
+    "This is an original logical fallacy named by the author."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Spiritual_Fallacy.jpg",
+  "slug": "Spiritual-Fallacy",
+  "letter": "S"
+}

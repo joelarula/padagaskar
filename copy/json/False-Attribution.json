@@ -1,0 +1,28 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/False-Attribution",
+  "title": "False Attribution",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument (modern usage). Historical use of this fallacy was in the attribution of \"religious\" or \"spiritual\" experiences to outside \"higher\" sources rather than internal, psychological processes (see *[fantasy projection](https://www.logicallyfallacious.com/logicalfallacies/Fantasy-Projection)*).",
+  "logical_form": "Claim X is made.\n\nSource Y, a fake or unverifiable source, is used to verify claim X.\n\nTherefore, claim X is true.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "But professor, I got all these facts from a program I saw on TV once... I don’t remember the name of it though.",
+      "explanation": "Without a credible, verifiable source, the argument or claim being made is very weak."
+    },
+    {
+      "number": 2,
+      "example": "I had this book that proved that leprechauns are real and have been empirically verified by scientists, but I lost it.  I forgot the name of it as well -- and who the author was.",
+      "explanation": "A story of “this book” hardly can serve as proof of an event as potentially significant as the discovery of leprechauns that have been empirically verified by scientists.  While it might be the case that the person telling this story really does remember reading a convincing argument, it very well could be the case that this person is fabricating this book -- it sure sounds like it.  In either case, it is fallacious to accept the claim that leprechauns are real and have been empirically verified by scientists based on this argument."
+    }
+  ],
+  "exceptions": "No Exceptions.",
+  "tips": "Don't falsify facts.  If you get caught lying, you will almost certainly lose the argument, even if you are right.",
+  "references": [
+    "The Journal of Philosophy*. (1918). Journal of Philosophy, Incorporated."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/False_Attribution.jpg",
+  "slug": "False-Attribution",
+  "letter": "F"
+}

@@ -1,0 +1,30 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Negative-Conclusion-from-Affirmative-Premises",
+  "title": "Negative Conclusion from Affirmative Premises",
+  "latin_name": "",
+  "also_known_as": [
+    "illicit affirmative"
+  ],
+  "description": "The conclusion of a standard form categorical syllogism is negative, but both of the premises are positive.  Any valid forms of categorical syllogisms that assert a negative conclusion must have at least one negative premise.",
+  "logical_form": "If A is a subset of B, and B is a subset of C, then A is not a subset of C.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "All cats are animals.\n\nSome pets are cats.\n\nTherefore, some pets are not animals.",
+      "explanation": "The conclusion might be true -- I had a pet rock growing up, but the argument still does not logically support that.  Think of sets and subsets.  All cats are animals: we have a set of animals and a subset of cats.  “Some” pets are cats: so all we know is that there is a part of our set, “pets” that intersects with the subset, “cats”, but we don’t have the information we need to conclude logically that some pets are not animals.  This argument is invalid, thus as a formal argument, it is fallacious."
+    },
+    {
+      "number": 2,
+      "example": "All boys are sports fans.\n\nSome bakers are boys.\n\nTherefore, some bakers are not sports fans.",
+      "explanation": "The conclusion might be true -- but the argument still does not logically support that for the same reasons in the first example.  This argument is invalid, thus as a formal argument, it is fallacious.\n\n**Fun Fact:** I taught my pet rock how to play dead. It was its only trick."
+    }
+  ],
+  "exceptions": "",
+  "tips": "",
+  "references": [
+    "Goodman, M. F. (1993). *First Logic*. University Press of America."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Negative_Conclusion_from_Affirmative_Premises.jpg",
+  "slug": "Negative-Conclusion-from-Affirmative-Premises",
+  "letter": "N"
+}

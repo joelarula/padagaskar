@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Cherry-Picking",
+  "title": "Cherry Picking",
+  "latin_name": "",
+  "also_known_as": [
+    "ignoring inconvenient data",
+    "suppressed evidence",
+    "fallacy of incomplete evidence",
+    "argument by selective observation",
+    "argument by half-truth",
+    "card stacking",
+    "fallacy of exclusion",
+    "ignoring the counter evidence",
+    "one-sided assessment",
+    "slanting",
+    "one-sidedness"
+  ],
+  "description": "When only select evidence is presented in order to persuade the audience to accept a position, and evidence that would go against the position is withheld.  The stronger the withheld evidence, the more fallacious the argument.",
+  "logical_form": "Evidence A and evidence B is available.\n\nEvidence A supports the claim of person 1.\n\nEvidence B supports the counterclaim of person 2.\n\nTherefore, person 1 presents only evidence A.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Employer: It says here on your resume that you are a hard worker, you pay attention to detail, and you don’t mind working long hours.\n\nAndy: Yes sir.\n\nEmployer: I spoke to your previous employer.  He says that you constantly change things that should not be changed, you could care less about other people’s privacy, and you had the lowest score in customer relations.\n\nAndy: Yes, that is all true, as well.\n\nEmployer: Great then.  Welcome to our social media team!",
+      "explanation": "Resumes are a classic example of *cherry picking* information.  A resume can be seen as an argument as to why you are qualified for the job.  Most employers are wise enough to know that resumes are one-sided and look for more evidence in the form of interviews and recommendations to make a decision."
+    },
+    {
+      "number": 2,
+      "example": "My political candidate gives 10% of his income to the needy, goes to church every Sunday, and volunteers one day a week at a homeless shelter.  Therefore, he is honest and morally straight.",
+      "explanation": "What information was left out of the example is that this same candidate gives 10% of his income to needy prostitutes in exchange for services, goes to the bar every Sunday after church (and sometimes before), and only works at the homeless shelter to get clients for his drug dealing business."
+    }
+  ],
+  "exceptions": "If the parts of the truth being suppressed do not affect the truth of the conclusion, or can reasonably be assumed, they could be left out of the argument.  For example, political candidates are not committing this fallacy when they leave out the fact that they will need about 8 hours of sleep each night.",
+  "tips": "If you suspect people are only telling you a half-truth, don’t be afraid to ask, “Is there anything you are not telling me?”",
+  "references": [
+    "Fallacies | Internet Encyclopedia of Philosophy. (n.d.). Retrieved from http://www.iep.utm.edu/fallacy/#SuppressedEvidence"
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Cherry_Picking.jpg",
+  "slug": "Cherry-Picking",
+  "letter": "C"
+}

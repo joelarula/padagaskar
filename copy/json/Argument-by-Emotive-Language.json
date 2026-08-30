@@ -1,0 +1,37 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Argument-by-Emotive-Language",
+  "title": "Argument by Emotive Language",
+  "latin_name": "",
+  "also_known_as": [
+    "loaded words",
+    "loaded language",
+    "euphemisms"
+  ],
+  "description": "Substituting facts and evidence with words that stir up emotion, with the attempt to manipulate others into accepting the truth of the argument.",
+  "logical_form": "Person A claims that X is true.\n\nPerson A uses very powerful and emotive language in the claim.\n\nTherefore, X is true.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "By *rejecting* God, you are rejecting goodness, kindness, and love itself.",
+      "explanation": "Instead of just “not believing” in God, we are  “rejecting” God, which is a much stronger term—especially when God is associated with “goodness.”"
+    },
+    {
+      "number": 2,
+      "example": "The Bible is filled with stories of God's *magic*.",
+      "explanation": "Instead of using the more accepted term “miracles,” the word “magic” is used that connotes powers associated with fantasy and make-believe in an attempt to make the stories in the Bible seem foolish."
+    },
+    {
+      "number": 3,
+      "example": "I don’t see what’s wrong with engaging the services of a professional escort.",
+      "explanation": "That’s just a nice way of saying, “soliciting a hooker.”  No matter what you call it unless you live in certain parts of Nevada (or other parts of the world), it is still legally wrong (not necessarily morally wrong)."
+    }
+  ],
+  "exceptions": "Language is powerful and should be used to draw in emotions, but never at the expense of valid reasoning and evidence.",
+  "tips": ": *Euphemisms*, when used correctly, reflect good social intelligence. When in a business meeting, say, “Pardon me for a moment, I have to use the restroom,” rather than “Pardon me for a moment, I have to move my bowels.”",
+  "references": [
+    "Walton, D. (2006). *Fundamentals of Critical Argumentation*. Cambridge University Press."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Argument_by_Emotive_Language.jpg",
+  "slug": "Argument-by-Emotive-Language",
+  "letter": "A"
+}

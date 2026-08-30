@@ -1,0 +1,30 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Conjunction-Fallacy",
+  "title": "Conjunction Fallacy",
+  "latin_name": "",
+  "also_known_as": [
+    "conjunction effect"
+  ],
+  "description": "Similar to the *[disjunction fallacy](https://www.logicallyfallacious.com/logicalfallacies/Disjunction-Fallacy)* , the *conjunction fallacy* occurs when one estimates a conjunctive statement (this *and* that) to be more probable than at least one of its component statements. It is the assumption that more specific conditions are more probable than general ones.  This fallacy usually stems from thinking the choices are alternatives, rather than members of the same set.  The fallacy is further exacerbated by priming the audience with information leading them to choose the subset as the more probable option.",
+  "logical_form": "*X is a subset of Y.\n**Therefore, X is more probable than Y.*\n\n*Conjunction X and Y (both taken together) is more likely than a constituent X.*",
+  "examples": [
+    {
+      "number": 1,
+      "example": "*While jogging around the neighborhood, you are more likely to get bitten by someone’s pet dog, than by any member of the canine species.*",
+      "explanation": "Actually, that is not the case.  “Someone’s pet dog”, assuming a real dog and not some robot dog, would also be a member of the canine species.  Therefore, the canine species includes wolves,  coyotes, as well as your neighbor’s Shih Tzu, who is likely to bite you just because he’s pissed for being so small."
+    },
+    {
+      "number": 2,
+      "example": "Karen is a thirty-something-year-old female who drives a mini-van, lives in the suburbs, and wears mom jeans. Is Karen more likely to be a woman or a mom?",
+      "explanation": "It would be fallacious to say that Karen is more likely to be a mom—even if we found out that Karen spent an hour each day at the playground with other moms. There is a 100% chance the Karen is a woman (we know she is female), and a smaller chance that she is a mom."
+    }
+  ],
+  "exceptions": "When contradicting conditions are implied, but incorrectly stated.\n\nIn the example above, the way the question reads, we now know that there is a 100% chance Karen is a woman and a smaller chance that she is a mom. However, if the questioner meant to imply, “not a mom” or “mom” as the choices, then it could be more of a poorly phrased question than a fallacy.",
+  "tips": "Read *Thinking, Fast and Slow*, by Daniel Kahneman and Amos Tversky for a deep dive on cognitive errors.",
+  "references": [
+    "Kahneman, D. (2013). *Thinking, Fast and Slow* (1st edition). New York: Farrar, Straus and Giroux."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Conjunction_Fallacy.jpg",
+  "slug": "Conjunction-Fallacy",
+  "letter": "C"
+}

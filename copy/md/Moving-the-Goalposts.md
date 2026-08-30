@@ -1,0 +1,56 @@
+---
+source: "https://www.logicallyfallacious.com/logicalfallacies/Moving-the-Goalposts"
+english_name: "Moving the Goalposts"
+also_known_as:
+  - "gravity game"
+  - "raising the bar"
+  - "argument by demanding impossible perfection [form of]"
+status: "pending_translation"
+---
+
+# Moving the Goalposts
+
+(also known as: gravity game, raising the bar, argument by demanding impossible perfection [form of])
+
+**Description:**
+
+Demanding from an opponent that he or she address more and more points after the initial counter-argument has been satisfied refusing to concede or accept the opponent’s argument.
+
+**Logical Form:**
+
+* Issue A has been raised, and adequately answered.
+* Issue B is then raised, and adequately answered.
+* .....
+* Issue Z is then raised, and adequately answered.
+* (despite all issues adequately answered, the opponent refuses to conceded or accept the argument.
+
+**Example #1:**
+
+> Ken: There has to be an objective morality because otherwise terms like “right” and “wrong” would be meaningless since they have no foundation for comparison.
+> 
+> Rob: The terms “right” and “wrong” are based on cultural norms, which do have a subjective foundation -- one that changes as the moral sphere of the culture changes.  The term “heavy” does not have an objective standard, yet we have no problem using that term in a meaningful way.  In fact, very few relational terms have any kind of objective foundation.
+> 
+> Ken: But without an objective morality, we would all be lost morally as a race.
+> 
+> Rob: Many would say that we are.
+> 
+> Ken: But how can you say that torturing children for fun is morally acceptable in any situation?
+> 
+> Rob: Personally, I wouldn’t, but you are implying that anything that is not objective must necessarily be seen in all possible ways. A feather may not be seen as “heavy” to anyone, but that doesn’t mean its “lightness” is still not relative to other objects.
+> 
+> Ken: But God is the standard of objective morality.  Prove that wrong!
+> 
+> Rob: That I cannot do.
+
+**Explanation:** Ken starts with a statement explaining why he thinks there* has to be* an objective morality -- a statement based on a reasonable argument that can be pursued with reason and logic.  Rob adequately answers that objection, as indicated by Ken’s move away from that objection to a new objection.  This pattern continues until we arrive at an impossible request.  Despite all the objections being adequately answered, at no time does Ken concede any points or abandon the argument.
+
+**Exception:** This fallacy should not be confused with an argument or set of arguments, with multiple propositions inherent in the argument.  The reason for the difference between this kind of argument and the *moving the goalposts fallacy*, is a subtle one, but indicated by a strong initial claim (“has to be”, “must”, “required for”, etc.) that gets answered and/or what appears to be *[ad hoc](https://www.logicallyfallacious.com/logicalfallacies/Ad-Hoc-Rescue)* objections that follow eventually leading to an impossible request for proof.
+
+**Fun Fact:** The name “moving the goalposts” comes from the analogy of kicking a perfect field goal in American football, only to have the goalposts be moved on you. This would be very unfair.
+
+![Moving the Goalposts illustration](https://www.logicallyfallacious.com/static/fallacy-images/Moving_the_Goalposts.jpg)
+
+**References:**
+
+- This a logical fallacy frequently used on the Internet. No academic sources could be found.
+

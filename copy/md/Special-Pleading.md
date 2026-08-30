@@ -1,0 +1,38 @@
+---
+source: "https://www.logicallyfallacious.com/logicalfallacies/Special-Pleading"
+english_name: "Special Pleading"
+status: "pending_translation"
+---
+
+# Special Pleading
+
+**Description:**
+
+Applying standards, principles, and/or rules to other people or circumstances, while making oneself or certain circumstances exempt from the same critical criteria, without providing adequate justification.  Special pleading is often a result of strong emotional beliefs that interfere with reason.
+
+**Logical Form:**
+
+* If X then Y, but not when it hurts my position.*
+
+**Example #1:**
+
+> *Yes, I do think that all drunk drivers should go to prison, but your honor, he is my son!  He is a good boy who just made a mistake!*
+
+**Explanation:** The mother in this example has applied the rule that all drunk drivers should go to prison.  However, due to her emotional attachment to her son, she is fallaciously reasoning that he should be exempt from this rule, because, “he is a good boy who just made a mistake”, which would hardly be considered adequate justification for exclusion from the rule.
+
+**Example #2:**
+
+> *Superstition is a belief or practice resulting from ignorance, fear of the unknown, trust in magic or chance, or a false conception of causation -- unless it is astrology.*
+
+**Explanation:** It has been said that one’s superstition is another’s faith.  The standard of superstition has been defined by the person and violated by astrology.  However, while the person in the example rejects all other sources of superstition using certain criteria, the superstitious belief of their preference is exempt from these criteria.
+
+**Exception:** “Adequate justification” is subjective, and can be argued.
+
+**Tip:** If you are accused of special pleading, take the time to consider honestly if the accusation is warranted.  This is a fallacy that is easy to spot when others make it yet difficult to spot when we make it.
+
+![Special Pleading illustration](https://www.logicallyfallacious.com/static/fallacy-images/Special_Pleading.jpg)
+
+**References:**
+
+- Walton, D. (1999). *One-Sided Arguments: A Dialectical Analysis of Bias*. SUNY Press.
+

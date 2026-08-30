@@ -1,0 +1,58 @@
+---
+source: "https://www.logicallyfallacious.com/logicalfallacies/No-True-Scotsman"
+english_name: "No True Scotsman"
+also_known_as:
+  - "appeal to purity [form of]"
+  - "no true Christian"
+  - "no true crossover fallacy [form of]"
+status: "pending_translation"
+---
+
+# No True Scotsman
+
+(also known as: appeal to purity [form of], no true Christian, no true crossover fallacy [form of])
+
+**Description:**
+
+When a universal (“all”, “every”, etc.) claim is refuted, rather than conceding the point or meaningfully revising the claim, the claim is altered by going from universal to specific, and failing to give any objective criteria for the specificity.
+
+**Logical Form:**
+
+* All X are Y.
+* (the claim that all X are Y is clearly refuted)
+* Then all true X are Y.
+
+**Example #1:**
+
+> In 2011, Christian broadcaster, Harold Camping, (once again) predicted the end of the world via Jesus, and managed to get many Christians to join his alarmist campaign.  During this time, and especially after the Armageddon date had passed,  many Christian groups publicly declared that Camping is not a “true Christian”.  On a personal note, I think Camping was and is as much of a Christian as any other self-proclaimed Christian and religious/political/ethical beliefs aside, I give him credit for having the cojones to make a falsifiable claim about his religious beliefs.
+> 
+> **Example #2:**
+> 
+> John: Members of the UbaTuba White Men's Club are upstanding citizens of the community.
+> 
+> Marvin: Then why are there so many of these members in jail?
+> 
+> John: They were never* true* UbaTuba White Men's Club members.
+> 
+> Marvin: What’s a true UbaTuba White Men's Club member?
+> 
+> John: Those who don't go to jail.
+
+**Explanation:** This is a very common form of this fallacy that has many variations.  Every time one group member denounces another group member for doing or saying something that they don’t approve of, usually by the phrase, “he is not really a *true* [insert membership here]”, this fallacy is committed.
+
+The universal claim here is that no UbaTuba White Men's Club member will ever (universal) go to jail.  Marvin points out how clearly this is counterfactual as there are many UbaTuba White Men's Club members in jail.  Instead of conceding or meaningfully revising the claim, the implication that no "UbaTuba White Men's Club members" is changed to “no true UbaTuba White Men's Club members”, which is not meaningful because John’s definition of a “true UbaTuba White Men's Club member” apparently can only be demonstrated in the negative if an UbaTuba White Men's Club member goes to jail.  This results in the *[questionable cause](https://www.logicallyfallacious.com/logicalfallacies/Questionable-Cause)* fallacy as it is also an *[unfalsifiable](https://www.logicallyfallacious.com/logicalfallacies/Unfalsifiability)* claim, and of course, it commits the *no true Scotsman* fallacy.****
+
+**Exception:** A revised claim going from universal to specific that does give an objective standard would not be fallacious.
+
+**Variations: **The more generic *appeal to purity* can be seen when the claim is that someone "does not have enough of" something, which is why they are not meeting the condition. For example, "If you have the desire for success, you will succeed!" Billy has the desire but is not succeeding. Therefore, Billy's desire is not strong (or pure) enough. The difference between the *appeal to purity* and the *no true Scotsman* is one of degree versus authenticity.
+
+Another variation is what I call the *no true crossover fallacy*. This fallacy is committed when one denies, for the purpose of protecting one of the groups, that an individual can be a part of two or more non-exclusionary groups. During the protests in the spring of 2020, many businesses have been vandalized, looted, and even burned down. When people blamed this on the protesters, the defense was that “protesters protest and looters loot.” The implication is that the moment a protester loots, they become a “looter,” and no longer are part of the group “protesters.” This is a way of absolving every “true” member of the group “protesters” from any wrongdoing. It is likely that there are a group of looters who are opportunists and have no ideological position and would not qualify in any reasonable way as “protesters.” It is clear, however, that there are protesters who believe looting is an effective tool for protesting. Similarly, attempting to absolve police officers from wrongdoing because “police officers police and criminals commit crimes” is equally as fallacious for all the same reasons.
+
+**Tip:** People will sometimes claim outright that if any person who claims to be a member of group X and has Y characteristic, is not a member of group X. Ask them if those who claim to be a member of group X and has Y characteristic would agree.
+
+![No True Scotsman illustration](https://www.logicallyfallacious.com/static/fallacy-images/No_True_Scotsman.jpg)
+
+**References:**
+
+- Flew, A. (1984). *A Dictionary of Philosophy: Revised Second Edition*. Macmillan.
+
