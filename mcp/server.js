@@ -9,6 +9,7 @@ import { McpServer } from '@modelcontextprotocol/sdk/server/mcp.js';
 import { StdioServerTransport } from '@modelcontextprotocol/sdk/server/stdio.js';
 import { z } from 'zod';
 import { FallacyDatabase } from './db.js';
+import { extractArticle } from './extractor.js';
 
 const db = new FallacyDatabase();
 
@@ -18,8 +19,41 @@ const server = new McpServer({
 });
 
 // ==========================================
-// 1. MCP TOOLS (DATA RETRIEVAL & SEARCH)
+// 1. MCP TOOLS (DATA RETRIEVAL & ARTICLE EXTRACTION)
 // ==========================================
+
+// Tool: extract_article
+server.tool(
+  'extract_article',
+  'Scrape and extract clean text, lead paragraph, metadata, and body paragraphs from any online news article, speech, or debate transcript URL.',
+  {
+    url: z.string().url().describe('The web URL of the article, op-ed, or debate transcript to extract')
+  },
+  async ({ url }) => {
+    const result = await extractArticle(url);
+    if (!result.success) {
+      return {
+        isError: true,
+        content: [
+          {
+            type: 'text',
+            text: `Failed to extract article from "${url}": ${result.error}`
+          }
+        ]
+      };
+    }
+
+    return {
+      content: [
+        {
+          type: 'text',
+          text: JSON.stringify(result, null, 2)
+        }
+      ]
+    };
+  }
+);
+
 
 // Tool: get_fallacy_index
 server.tool(
