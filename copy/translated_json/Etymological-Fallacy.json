@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Etymological-Fallacy",
+  "title": "Etymological Fallacy",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "The assumption that the present-day meaning of a word should be/is similar to the historical meaning.  This fallacy ignores the evolution of language and heart of linguistics.  This fallacy is usually committed when one finds the historical meaning of a word more palatable or conducive to his or her argument. This is a more specific form of the *[appeal to definition](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Definition)*.",
+  "logical_form": "X is defined as Y.\n\nX used to be defined as Z.\n\nTherefore, X means Z.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Elba: I can’t believe the art critic said my artwork is awful!\n\nRowena: He must have meant it in the old sense of the word -- that your artwork inspired awe!\n\nElba: Yes!  That makes sense now!",
+      "explanation": "“Awful” did once mean “to inspire awe”, but there are very few, if any, people who continue to use the term in this way.  Just because it makes her feel better, it cannot be assumed."
+    },
+    {
+      "number": 2,
+      "example": "Steve: I think it is fantastic that you and Sylvia are getting married!\n\nChuck: I cannot believe you think my getting married only exists in my imagination!  That is what fantastic means, after all.",
+      "explanation": "Yes, it is true \"fantastic\" was once most commonly used as existing only in the imagination, but common use of this word has a very different definition."
+    }
+  ],
+  "exceptions": "If a bogus, “modern”, definition is made up by a questionable source, that won’t make all other sources “historical”.",
+  "tips": ": Don’t call a housewife a “hussy” even though the word “hussy” comes from the word “housewife” and used to refer to the mistress of a household, not the disreputable woman it refers to today. They don’t like that.",
+  "references": [
+    "Wilson, K. G. (1993). *The Columbia Guide to Standard American English*. Columbia University Press."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Etymological_Fallacy.jpg",
+  "slug": "Etymological-Fallacy",
+  "letter": "E",
+  "title_et": "Etümoloogiline eksitus",
+  "description_et": "Eeldus, et sõna tänane tähendus peaks/on sarnane ajaloolise tähendusega.  See eksitus ignoreerib keele arengut ja keeleteaduse südant.  See eksitus tehakse tavaliselt siis, kui keegi leiab, et sõna ajalooline tähendus on meeldivam või tema argumendile soodsam. See on *[apellatsioon definitsioonile](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Definition)* täpsem vorm.",
+  "logical_form_et": "X on defineeritud kui Y.\n\nX oli varem määratletud kui Z.\n\nSeetõttu tähendab X Z.",
+  "exceptions_et": "Kui võlts, \"kaasaegne\" määratlus on koostatud küsitavast allikast, ei muuda see kõiki teisi allikaid \"ajalooliseks\".",
+  "tips_et": ": Ärge nimetage koduperenaist \"hussiks\", kuigi sõna \"huss\" pärineb sõnast \"koduperenaine\" ja viitas perenaisele, mitte halva mainega naisele, kellele see tänapäeval viitab. See neile ei meeldi.",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Elba: Ma ei suuda uskuda, et kunstikriitik ütles, et mu kunstiteos on kohutav!\n\nRowena: Ta pidi seda mõtlema selle sõna vanas tähenduses – et teie kunstiteos inspireeris aukartust!\n\nElba: Jah!  See on nüüd mõistlik!",
+      "explanation": "Sõna \"kohutav\" tähendas kunagi \"aukarttust äratada\", kuid väga vähe on inimesi, kes jätkavad selle termini kasutamist sellisel viisil, kui üldse.  Lihtsalt sellepärast, et see paneb teda end paremini tundma, ei saa seda eeldada.",
+      "original_example": "Elba: I can’t believe the art critic said my artwork is awful!\n\nRowena: He must have meant it in the old sense of the word -- that your artwork inspired awe!\n\nElba: Yes!  That makes sense now!",
+      "original_explanation": "“Awful” did once mean “to inspire awe”, but there are very few, if any, people who continue to use the term in this way.  Just because it makes her feel better, it cannot be assumed."
+    },
+    {
+      "number": 2,
+      "example": "Steve: Minu meelest on fantastiline, et sina ja Sylvia abiellute!\n\nChuck: Ma ei suuda uskuda, et arvate, et minu abiellumine eksisteerib ainult minu kujutluses!  See on ju see, mida fantastiline tähendab.",
+      "explanation": "Jah, on tõsi, et sõna \"fantastiline\" kasutati kunagi kõige sagedamini ainult kujutluses eksisteerivana, kuid selle sõna tavalisel kasutamisel on väga erinev määratlus.",
+      "original_example": "Steve: I think it is fantastic that you and Sylvia are getting married!\n\nChuck: I cannot believe you think my getting married only exists in my imagination!  That is what fantastic means, after all.",
+      "original_explanation": "Yes, it is true \"fantastic\" was once most commonly used as existing only in the imagination, but common use of this word has a very different definition."
+    }
+  ],
+  "translated_at": "2026-08-30T22:44:53.249Z"
+}

@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Equivocation",
+  "title": "Equivocation",
+  "latin_name": "",
+  "also_known_as": [
+    "doublespeak"
+  ],
+  "description": "Using an ambiguous term in more than one sense, thus making an argument misleading.",
+  "logical_form": "*Term X is used to mean Y in the premise.*\n*Term X is used to mean Z in the conclusion.*",
+  "examples": [
+    {
+      "number": 1,
+      "example": "*I want to have myself a merry little Christmas, but I refuse to do as the song suggests and make the yuletide gay.  I don't think sexual preference should have anything to do with enjoying the holiday.*",
+      "explanation": "The word, “gay” is meant to be in light spirits, joyful, and merry, not in the homosexual sense."
+    },
+    {
+      "number": 2,
+      "example": "*The priest told me I should have faith.\n**I have faith that my son will do well in school this year.\n**Therefore, the priest should be happy with me.*",
+      "explanation": "The term “faith” used by the priest, was in the religious sense of believing in God without sufficient evidence, which is different from having “faith” in your son in which years of good past performance leads to the “faith” you might have in your son."
+    }
+  ],
+  "exceptions": "Equivocation works great when deliberate attempts at humor are being made.",
+  "tips": "When you suspect equivocation, substitute the word with the same definition for all uses and see if it makes sense.",
+  "references": [
+    "Parry, W. T., & Hacker, E. A. (n.d.). *Aristotelian Logic*. SUNY Press."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Equivocation.jpg",
+  "slug": "Equivocation",
+  "letter": "E",
+  "title_et": "Kahtlemine",
+  "description_et": "Mitmetähendusliku termini kasutamine rohkem kui ühes tähenduses, muutes argumendi seega eksitavaks.",
+  "logical_form_et": "*Term X is used to mean Y in the premise.*\n*Term X is used to mean Z in the conclusion.*",
+  "exceptions_et": "Kahtlemine toimib suurepäraselt, kui tehakse tahtlikke huumorikatseid.",
+  "tips_et": "Kui kahtlustate kahemõttelisust, asendage sõna kõigi kasutuste puhul sama määratlusega ja vaadake, kas sellel on mõtet.",
+  "also_known_as_et": [
+    "kahekõne"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "*Ma tahan endale rõõmsaid jõule, kuid keeldun tegemast nii, nagu laul soovitab, ja muudaks jõulupäeva geideks.  Ma arvan, et seksuaalsed eelistused ei tohiks olla seotud puhkuse nautimisega.*",
+      "explanation": "Sõna \"gei\" on mõeldud olema kerges tujus, rõõmsameelne ja lõbus, mitte homoseksuaalses mõttes.",
+      "original_example": "*I want to have myself a merry little Christmas, but I refuse to do as the song suggests and make the yuletide gay.  I don't think sexual preference should have anything to do with enjoying the holiday.*",
+      "original_explanation": "The word, “gay” is meant to be in light spirits, joyful, and merry, not in the homosexual sense."
+    },
+    {
+      "number": 2,
+      "example": "*Preester ütles mulle, et mul peaks olema usku.\n**Usun, et mu pojal läheb sel aastal koolis hästi.\n**Seetõttu peaks preester minuga rahul olema.*",
+      "explanation": "Preestri kasutatud termin \"usk\" oli religioosses tähenduses jumalasse uskumine ilma piisavate tõenditeta, mis erineb \"usust\" oma poega, mille puhul aastatepikkune hea tulemus toob kaasa \"usu\", mis teil võib olla oma poega.",
+      "original_example": "*The priest told me I should have faith.\n**I have faith that my son will do well in school this year.\n**Therefore, the priest should be happy with me.*",
+      "original_explanation": "The term “faith” used by the priest, was in the religious sense of believing in God without sufficient evidence, which is different from having “faith” in your son in which years of good past performance leads to the “faith” you might have in your son."
+    }
+  ],
+  "translated_at": "2026-08-30T22:44:39.321Z"
+}

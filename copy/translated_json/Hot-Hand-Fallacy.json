@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Hot-Hand-Fallacy",
+  "title": "Hot Hand Fallacy",
+  "latin_name": "",
+  "also_known_as": [
+    "hot hand phenomenon"
+  ],
+  "description": "The hot hand fallacy is the irrational belief that if you win or lose several chance games in a row, you are either “hot” or “cold,” respectively, meaning that the streak is likely to continue and has to do with something other than pure probability.  Because we are generally stupid when it comes to realizing this, and pigheaded when it comes to accepting this fact, casinos around the world make a lot of money. This is similar to the* [gambler’s fallacy](https://www.logicallyfallacious.com/logicalfallacies/Gamblers-Fallacy)*.",
+  "logical_form": "Person 1 has won a probability game X times in a row.\n\nTherefore, person 1 is \"hot\" and likely to win again the next game.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Marta: (shooting craps) Let's just cash in now. We did great, but let's quit while we're ahead.\n\nCarlos: Forget it! We are hot! Let's see how long this streak will last!",
+      "explanation": "Statistically, Carlos and Marta are more likely to lose the next game since a) their \"streak\" is probability-based, not talent-based and b) the odds are against them in the game of craps. Carlos is incorrectly viewing the string of wins as a streak that is more likely to continue than not."
+    }
+  ],
+  "exceptions": "As mentioned, a streak of favorable talent-based actions can be the result of superior physical and mental performance.",
+  "tips": "",
+  "references": [
+    "The Hot Hand Fallacy: Cognitive Mistakes or Equilibrium Adjustments? Evidence from Baseball. (n.d.). Retrieved from https://www.gsb.stanford.edu/faculty-research/working-papers/hot-hand-fallacy-cognitive-mistakes-or-equilibrium-adjustments"
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Hot_Hand_Fallacy.jpg",
+  "slug": "Hot-Hand-Fallacy",
+  "letter": "H",
+  "title_et": "Kuuma käe eksitus",
+  "description_et": "Kuuma käe eksitus on irratsionaalne usk, et kui võidate või kaotate mitu õnnemängu järjest, on teil vastavalt kas \"kuum\" või \"külm\", mis tähendab, et seeria tõenäoliselt jätkub ja see on seotud millegi muuga kui puhta tõenäosusega.  Kuna me oleme selle mõistmisel üldiselt rumalad ja selle faktiga nõustumisel põdurad, teenivad kasiinod üle maailma palju raha. See sarnaneb * [hasartmängija eksitusega](https://www.logicallyfallacious.com/logicalfallacies/Gamblers-Fallacy)*.",
+  "logical_form_et": "Isik 1 on võitnud tõenäosusmängu X korda järjest.\n\nSeetõttu on isik 1 \"kuum\" ja tõenäoliselt võidab järgmise mängu uuesti.",
+  "exceptions_et": "Nagu mainitud, võib positiivsete talendipõhiste tegude jada olla parema füüsilise ja vaimse jõudluse tulemus.",
+  "tips_et": "",
+  "also_known_as_et": [
+    "kuumakäe fenomen"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Marta: (tulistab jama) Paneme nüüd raha sisse. Saime suurepäraselt hakkama, aga lõpetame, kui oleme ees.\n\nCarlos: Unusta see! Meil on palav! Vaatame, kaua see jada kestab!",
+      "explanation": "Statistiliselt kaotavad Carlos ja Marta järgmise mängu suurema tõenäosusega, kuna a) nende \"seeria\" on tõenäosuspõhine, mitte talendipõhine ja b) jamade mängus on koefitsiendid nende vastu. Carlos peab võitude jada valesti jadaks, mis tõenäolisemalt jätkub kui mitte.",
+      "original_example": "Marta: (shooting craps) Let's just cash in now. We did great, but let's quit while we're ahead.\n\nCarlos: Forget it! We are hot! Let's see how long this streak will last!",
+      "original_explanation": "Statistically, Carlos and Marta are more likely to lose the next game since a) their \"streak\" is probability-based, not talent-based and b) the odds are against them in the game of craps. Carlos is incorrectly viewing the string of wins as a streak that is more likely to continue than not."
+    }
+  ],
+  "translated_at": "2026-08-30T22:53:04.257Z"
+}

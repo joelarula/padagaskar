@@ -1,0 +1,25 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Denying-a-Conjunct",
+  "title": "Denying a Conjunct",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "A formal fallacy in which the first premise states that at least one of the two *conjuncts* (antecedent and consequent) is false and concludes that the other conjunct must be true.",
+  "logical_form": "",
+  "examples": [],
+  "exceptions": "No exceptions.\n\n**Fun Fact:** Atheists don’t eat babies.",
+  "tips": "",
+  "references": [
+    "Kiersky, J. H., & Caste, N. J. (1995). *Thinking Critically: Techniques for Logical Reasoning*. West Publishing Company."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Denying_a_Conjunct.jpg",
+  "slug": "Denying-a-Conjunct",
+  "letter": "D",
+  "title_et": "Konjunkti eitamine",
+  "description_et": "Formaalne eksitus, mille esimene eeldus väidab, et vähemalt üks kahest *konjunktist* (eelnev ja järgnev) on väär ja järeldab, et teine ​​konjunkt peab olema tõene.",
+  "logical_form_et": "",
+  "exceptions_et": "Ei mingeid erandeid.\n\n**Lõbus fakt:** Ateistid ei söö imikuid.",
+  "tips_et": "",
+  "also_known_as_et": [],
+  "examples_et": [],
+  "translated_at": "2026-08-30T22:42:55.204Z"
+}

@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Scapegoating",
+  "title": "Scapegoating",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Unfairly blaming an unpopular person or group of people for a problem or a person or group that is an easy target for such blame.",
+  "logical_form": "Nobody likes or cares about X.\n\nTherefore, X is to blame for Y.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "I know I got drunk, slapped the waitress on the behind, then urinated in the parking lot... from inside the restaurant, but that was Satan who had a hold of me.",
+      "explanation": "The person is avoiding personal responsibility and blaming “Satan” for his actions.  Satan is an easy target -- he does not show up to defend himself, and a surprising number of people believe he exists and actually does cause immoral behavior."
+    },
+    {
+      "number": 2,
+      "example": "The reason New Orleans was hit so hard with the hurricane was because of all the immoral people who live there.",
+      "explanation": "This was an actual argument seen in the months that followed hurricane Katrina.  Ignoring the validity of the claims being made, the arguer is blaming a natural disaster on a group of people."
+    }
+  ],
+  "exceptions": "There is no exception when people are being unfairly blamed.\n\n**Fun Fact:** *Scapegoating* meets a deep psychological need for justice, or more accurately, the *belief* that justice has been served.",
+  "tips": "",
+  "references": [
+    "Douglas, T. (2002). *Scapegoats: Transferring Blame*. Routledge."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Scapegoating.jpg",
+  "slug": "Scapegoating",
+  "letter": "S",
+  "title_et": "Põhjendamine",
+  "description_et": "Ebapopulaarse inimese või inimrühma ebaõiglane süüdistamine probleemis või isiku või rühma, kes on sellise süüdistamise lihtne sihtmärk.",
+  "logical_form_et": "X ei meeldi kellelegi ega hooli sellest.\n\nSeetõttu on X süüdi Y-s.",
+  "exceptions_et": "Pole erandit, kui inimesi süüdistatakse ebaõiglaselt.\n\n**Lõbus tõsiasi:** *Põhjaloomade tegemine* vastab sügavale psühholoogilisele vajadusele õigluse järele või täpsemalt *uskusele*, et õiglus on jalule seatud.",
+  "tips_et": "",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Ma tean, et jäin purju, lõin ettekandjale selja taha ja urineerisin siis parklas... restorani seest, aga see oli saatan, kes mind kinni hoidis.",
+      "explanation": "Inimene väldib isiklikku vastutust ja süüdistab oma tegudes “saatanat”.  Saatan on lihtne sihtmärk – ta ei ilmu end kaitsma ja üllatavalt palju inimesi usub, et ta on olemas ja põhjustab tegelikult ebamoraalset käitumist.",
+      "original_example": "I know I got drunk, slapped the waitress on the behind, then urinated in the parking lot... from inside the restaurant, but that was Satan who had a hold of me.",
+      "original_explanation": "The person is avoiding personal responsibility and blaming “Satan” for his actions.  Satan is an easy target -- he does not show up to defend himself, and a surprising number of people believe he exists and actually does cause immoral behavior."
+    },
+    {
+      "number": 2,
+      "example": "Põhjus, miks orkaan New Orleansi nii rängalt tabas, oli kõigi seal elavate ebamoraalsete inimeste tõttu.",
+      "explanation": "See oli tegelik vaidlus, mida nähti orkaanile Katrina järgnenud kuudel.  Eirates esitatud väidete paikapidavust, süüdistab vaidleja looduskatastroofis inimrühma.",
+      "original_example": "The reason New Orleans was hit so hard with the hurricane was because of all the immoral people who live there.",
+      "original_explanation": "This was an actual argument seen in the months that followed hurricane Katrina.  Ignoring the validity of the claims being made, the arguer is blaming a natural disaster on a group of people."
+    }
+  ],
+  "translated_at": "2026-08-30T23:09:45.348Z"
+}

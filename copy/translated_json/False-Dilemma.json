@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/False-Dilemma",
+  "title": "False Dilemma",
+  "latin_name": "",
+  "also_known_as": [
+    "all-or-nothing fallacy",
+    "false dichotomy [form of]",
+    "the either-or fallacy",
+    "either-or reasoning",
+    "fallacy of false choice",
+    "fallacy of false alternatives",
+    "black-and-white thinking",
+    "the fallacy of exhaustive hypotheses",
+    "bifurcation",
+    "excluded middle",
+    "no middle ground",
+    "polarization"
+  ],
+  "description": "When only two choices are presented yet more exist, or a spectrum of possible choices exists between two extremes.  False dilemmas are usually characterized by “either this or that” language, but can also be characterized by omissions of choices.  Another variety is the false trilemma, which is when three choices are presented when more exist.",
+  "logical_form": "",
+  "examples": [],
+  "exceptions": "There may be cases when the number of options really is limited.  For example, if an ice cream man just has chocolate and vanilla left, it would be a waste of time insisting he has mint chocolate chip.\n\nIt is also not a fallacy if other options exist, but you are not offering other options as a possibility.  For example:\n\nMom: Billy, it’s time for bed.\n\nBilly: Can I stay up and watch a movie?\n\nMom: You can either go to bed or stay up for another 30 minutes and read.\n\nBilly: That is a false dilemma!\n\nMom: No, it’s not.  Here, read Bo’s book and you will see why.\n\nBilly: This is freaky, our exact conversation is used as an example in this book!",
+  "tips": "Be conscious of how many times you are presented with false dilemmas, and how many times you present yourself with false dilemmas.\n\n**Variation:** Staying true to the definitions, the *false dilemma* is different from the *false dichotomy* in that a dilemma implies two equally unattractive options whereas a dichotomy generally comprises two opposites. This is a fine point, however, and is generally ignored in common usage.",
+  "references": [
+    "Moore, B. N., & Parker, R. (1989). *Critical thinking: evaluating claims and arguments in everyday life*. Mayfield Pub. Co."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/False_Dilemma.jpg",
+  "slug": "False-Dilemma",
+  "letter": "F",
+  "title_et": "Vale dilemma",
+  "description_et": "Kui esitatakse ainult kaks valikut, on veel rohkem või kahe äärmuse vahel on võimalike valikute spekter.  Valedilemmat iseloomustavad tavaliselt \"kas see või teine\" keel, kuid neid võib iseloomustada ka valikute tegemata jätmisega.  Teine variant on vale trilemma, mille puhul esitatakse kolm valikut, kui neid on rohkem.",
+  "logical_form_et": "",
+  "exceptions_et": "Võib juhtuda, et valikute arv on tõesti piiratud.  Näiteks kui jäätisemehel on šokolaadi ja vanilje järele jäänud, oleks ajaraiskamine nõuda, et tal oleks piparmündišokolaaditükk.\n\nSee ei ole ka eksitus, kui on olemas muud võimalused, kuid te ei paku muid võimalusi võimalusena.  Näiteks:\n\nEma: Billy, on aeg magama minna.\n\nBilly: Kas ma võin üleval olla ja filmi vaadata?\n\nEma: Sa võid minna magama või olla veel 30 minutit üleval ja lugeda.\n\nBilly: See on vale dilemma!\n\nEma: Ei, ei ole.  Siin lugege Bo raamatut ja näete, miks.\n\nBilly: See on veider, meie täpset vestlust kasutatakse selles raamatus näitena!",
+  "tips_et": "Olge teadlik sellest, kui palju kordi esitatakse teile valedilemmasid ja kui palju kordi esitate endale valesid dilemmasid.\n\n**Variatsioon:** Määratlustele truuks jäädes erineb *valedilemma* *valedihhotoomiast* selle poolest, et dilemma hõlmab kahte võrdselt ebaatraktiivset võimalust, samas kui dihhotoomia koosneb üldiselt kahest vastandist. See on siiski hea punkt ja tavakasutuses seda üldiselt eiratakse.",
+  "also_known_as_et": [
+    "kõik või mitte midagi eksitus",
+    "vale dihhotoomia [vorm]",
+    "kas-või eksitus",
+    "kas-või arutluskäik",
+    "vale valiku eksitus",
+    "valede alternatiivide ekslikkus",
+    "must-valge mõtlemine",
+    "ammendavate hüpoteeside ekslikkus",
+    "hargnemine",
+    "välistatud kesk",
+    "keskteed pole",
+    "polarisatsioon"
+  ],
+  "examples_et": [],
+  "translated_at": "2026-08-30T22:48:58.309Z"
+}

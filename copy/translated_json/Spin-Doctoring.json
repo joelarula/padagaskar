@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Spin-Doctoring",
+  "title": "Spin Doctoring",
+  "latin_name": "",
+  "also_known_as": [
+    "spinning"
+  ],
+  "description": "Presenting information in a deceptive way that results in others interpreting the information in such a way that does not reflect reality but is how you want the information to be interpreted.",
+  "logical_form": "X represents reality.\n\nInformation is presented in such a way that Y appears to represent reality.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Senator Elizabeth Warren was recently under attack because it was discovered that the men on her staff were paid, on average, considerably more than the women on her staff—an issue that Warren has campaigned on many times. While the facts are true (men are paid more on her staff), in many analyses, relevant data was excluded such as the criteria necessary to prove the claim that women on Senator Warren's staff were paid less than their male counterparts for equivalent work [1]. In fairness to some conservative outlets that reported this story, some used this as an example to show that there is more to the story than just raw numbers.\n\n**Example #2:**\n\nSimon: It is pretty darn clear that God is against homosexuality. According to Leviticus 20:13, *“If a man lies with a male as with a woman, both of them shall be put to death for their abominable deed; they have forfeited their lives.”*\n\n*Bret: You don't understand. This was before Jesus. After Jesus, God was okay with it. Besides, these were specific instructions to a specific people during a specific historical period.*",
+      "explanation": "Very often, people's ideas of God are a result of their values, not the other way around. This is made clear by the cultural shifts on moral issues that correlate with people's interpretation of the Bible (one example being [Christian's views on homosexuality](http://www.pewresearch.org/fact-tank/2015/12/18/most-u-s-christian-groups-grow-more-accepting-of-homosexuality/)). Bret may genuinely believe his narrative, but it was most likely a result of the spin doctoring of another person or organization."
+    }
+  ],
+  "exceptions": "They are situations where there is no objective truth to a view and data can be looked at in multiple ways, such as the classic \"is the glass half-full or half-empty\" question.",
+  "tips": "Consider the source's biases. This will help with detecting spin doctoring.",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found.",
+    "1 Elizabeth Warren Pays Female Staffers Less Than Their Male Counterparts? (2017, April 6). Retrieved April 13, 2017, from http://www.snopes.com/elizabeth-warren-staff-pay/"
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Spin_Doctoring.jpg",
+  "slug": "Spin-Doctoring",
+  "letter": "S",
+  "title_et": "Spin Doctoring",
+  "description_et": "Teabe esitamine petlikul viisil, mille tulemuseks on see, et teised tõlgendavad teavet nii, et see ei peegelda tegelikkust, vaid nii, nagu soovite, et teavet tõlgendataks.",
+  "logical_form_et": "X tähistab tegelikkust.\n\nTeave esitatakse nii, et Y näib esindavat tegelikkust.",
+  "exceptions_et": "Need on olukorrad, kus vaatel puudub objektiivne tõde ja andmeid saab vaadata mitmel viisil, näiteks klassikaline küsimus \"kas klaas on pooltäis või pooltühi\".",
+  "tips_et": "Võtke arvesse allika eelarvamusi. See aitab tuvastada spin-doktoreerimist.",
+  "also_known_as_et": [
+    "ketramine"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Senaator Elizabeth Warren sattus hiljuti rünnaku alla, sest avastati, et tema töötajate meestele maksti keskmiselt tunduvalt rohkem palka kui tema töötajate naistele – probleem, mille kallal Warren on korduvalt kampaaniat teinud. Kuigi faktid vastavad tõele (meestele makstakse tema töötajatele rohkem palka), jäeti paljudes analüüsides välja asjakohased andmed, näiteks kriteeriumid, mis on vajalikud väite tõendamiseks, et senaator Warreni töötajate naistele maksti samaväärse töö eest vähem kui nende meessoost kolleegidele [1]. Ausalt öeldes mõnede konservatiivsete väljaannete suhtes, kes seda lugu teatasid, kasutasid mõned seda näitena, et näidata, et loos on midagi enamat kui ainult toored numbrid.\n\n**Näide #2:**\n\nSimon: On üsna selge, et Jumal on homoseksuaalsuse vastu. Vastavalt 3. Moosese 20:13: *\"Kui mees magab mehega nagu naisega, siis tuleb mõlemad surmata oma jäleda teo eest, nad on kaotanud oma elu.\"*\n\n*Bret: Sa ei saa aru. See oli enne Jeesust. Pärast Jeesust oli Jumal sellega rahul. Pealegi olid need konkreetsed juhised konkreetsele rahvale konkreetsel ajalooperioodil.*",
+      "explanation": "Väga sageli tulenevad inimeste ettekujutused Jumalast nende väärtushinnangutest, mitte vastupidi. Seda teevad selgeks kultuurilised nihked moraalsetes küsimustes, mis on korrelatsioonis inimeste poolt Piibli tõlgendamisega (üks näide on [Christiani vaated homoseksuaalsusele] (http://www.pewresearch.org/fact-tank/2015/12/18/most-u-s-christian-groups-grow-more-hore-hoacmos). Bret võib oma jutustust siiralt uskuda, kuid suure tõenäosusega oli see teise inimese või organisatsiooni keerutamise tulemus.",
+      "original_example": "Senator Elizabeth Warren was recently under attack because it was discovered that the men on her staff were paid, on average, considerably more than the women on her staff—an issue that Warren has campaigned on many times. While the facts are true (men are paid more on her staff), in many analyses, relevant data was excluded such as the criteria necessary to prove the claim that women on Senator Warren's staff were paid less than their male counterparts for equivalent work [1]. In fairness to some conservative outlets that reported this story, some used this as an example to show that there is more to the story than just raw numbers.\n\n**Example #2:**\n\nSimon: It is pretty darn clear that God is against homosexuality. According to Leviticus 20:13, *“If a man lies with a male as with a woman, both of them shall be put to death for their abominable deed; they have forfeited their lives.”*\n\n*Bret: You don't understand. This was before Jesus. After Jesus, God was okay with it. Besides, these were specific instructions to a specific people during a specific historical period.*",
+      "original_explanation": "Very often, people's ideas of God are a result of their values, not the other way around. This is made clear by the cultural shifts on moral issues that correlate with people's interpretation of the Bible (one example being [Christian's views on homosexuality](http://www.pewresearch.org/fact-tank/2015/12/18/most-u-s-christian-groups-grow-more-accepting-of-homosexuality/)). Bret may genuinely believe his narrative, but it was most likely a result of the spin doctoring of another person or organization."
+    }
+  ],
+  "translated_at": "2026-08-30T23:11:29.908Z"
+}

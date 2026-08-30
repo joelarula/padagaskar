@@ -1,0 +1,79 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Political-Correctness-Fallacy",
+  "title": "Political Correctness Fallacy",
+  "latin_name": "",
+  "also_known_as": [
+    "PC fallacy"
+  ],
+  "description": "This is a common one in recent history.  It is the assumption or admission that two or more groups, individuals, or ideas of groups or individuals, are equal, of equal value, or both true, based on the recent phenomenon of political correctness, which is defined as, *a term which denotes language, ideas, policies, and behavior seen as seeking to minimize social and institutional offense in occupational, gender, racial, cultural, sexual orientation, certain other religions, beliefs or ideologies, disability, and age-related contexts, and, as purported by the term, doing so to an excessive extent.*\n\nThis can be seen as an over-correction of* [stereotyping (the fallacy).](https://www.logicallyfallacious.com/logicalfallacies/Stereotyping-the-fallacy)*",
+  "logical_form": "Claim A is politically incorrect.\n\nTherefore, claim A is false.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Racial/cultural profiling at airports is wrong.  An adult, middle-eastern male is just as likely to be a terrorist as a four-year-old American girl.",
+      "explanation": "While many things are possible, including a four-year-old American girl being a terrorist, profiling works on probabilities. Inserting political correctness here goes against reason in asserting that every person is just as likely to be a terrorist."
+    },
+    {
+      "number": 2,
+      "example": "The masked individual who committed the crime was about 6’2”, and took down four male security guards by hand.  It is just as likely that the criminal was a woman.",
+      "explanation": "While it is certainly possible that a 6’2” female martial-arts master is the criminal, it is highly unlikely, and it would be a waste of resources to question an even number of men and women based on the desire not to discriminate."
+    },
+    {
+      "number": 3,
+      "example": "Everyone is entitled to his or her own religious beliefs.  So if dancing in the streets naked is part of their ritual, we must extend them that right.",
+      "explanation": "Are any and all religiously-based behaviors acceptable?  Must we allow all expression of religion?  Where do we draw the line and why?"
+    },
+    {
+      "number": 4,
+      "example": "Sacrificing virgins is part of that tribe's culture and heritage.  Therefore, it is just as acceptable as our culture’s tradition of eating a hot dog at a baseball game.",
+      "explanation": "Here we enter the realm of morality and choose to protect a “cultural belief” over saving the life of a young girl.\n\nThese examples—and this fallacy—are very controversial.  Like all fallacies, arguments need to be made.  I am making an argument that PC can be a fallacy in many cases.  You might agree, you might disagree.  In either case, be prepared to argue for your position with valid reasons."
+    }
+  ],
+  "exceptions": "See above.",
+  "tips": "At its core, being “PC” is the belief that minimizing social and institutional offense is a kind and compassionate thing to do. Don’t confuse this with the fallacy of determining the truth of a claim based on its perceived political correctness. Reality doesn’t care about social and institutional offense.",
+  "references": [
+    "This is an original logical fallacy named by the author."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Political_Correctness_Fallacy.jpg",
+  "slug": "Political-Correctness-Fallacy",
+  "letter": "P",
+  "title_et": "Poliitilise korrektsuse eksitus",
+  "description_et": "See on lähiajaloos tavaline.  See on oletus või möönmine, et kaks või enam rühma, indiviidi või rühmade või indiviidide ideed on võrdsed, võrdse väärtusega või mõlemad tõesed, mis põhineb hiljutisel poliitilise korrektsuse fenomenil, mida defineeritakse kui *terminit, mis tähistab keelt, ideid, poliitikat ja käitumist, mille eesmärk on minimeerida sotsiaalseid ja institutsionaalseid kuritegusid teatud ametialase, soolise, seksuaalse sättumuse, usutunnistuse, ideoloogiad, puue ja vanusega seotud kontekstid ning, nagu seda terminit väidetakse, tehes seda liiga palju.*\n\nSeda võib vaadelda kui * [stereotüüpimine (eksitus).](https://www.logicallyfallacious.com/logicalfallacies/Stereotyping-the-fallacy)* üleparandus.",
+  "logical_form_et": "Väide A on poliitiliselt ebakorrektne.\n\nSeetõttu on väide A vale.",
+  "exceptions_et": "Vaata ülalt.",
+  "tips_et": "Arvutiks olemise tuumaks on usk, et sotsiaalse ja institutsionaalse solvamise minimeerimine on lahke ja kaastundlik tegevus. Ärge ajage seda segamini väite tõesuse kindlakstegemisega selle tajutava poliitilise korrektsuse põhjal. Reaalsus ei hooli sotsiaalsest ja institutsionaalsest solvamisest.",
+  "also_known_as_et": [
+    "Arvuti eksitus"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Rassiline/kultuuriline profiilide koostamine lennujaamades on vale.  Täiskasvanud Lähis-Ida mees on sama suure tõenäosusega terrorist kui nelja-aastane Ameerika tüdruk.",
+      "explanation": "Kuigi paljud asjad on võimalikud, sealhulgas nelja-aastane Ameerika tüdruk on terrorist, töötab profiilide koostamine tõenäosuste põhjal. Poliitkorrektsuse lisamine on vastuolus mõistusega, väites, et iga inimene on sama suure tõenäosusega terrorist.",
+      "original_example": "Racial/cultural profiling at airports is wrong.  An adult, middle-eastern male is just as likely to be a terrorist as a four-year-old American girl.",
+      "original_explanation": "While many things are possible, including a four-year-old American girl being a terrorist, profiling works on probabilities. Inserting political correctness here goes against reason in asserting that every person is just as likely to be a terrorist."
+    },
+    {
+      "number": 2,
+      "example": "Kuriteo toime pannud maskis isik oli umbes 6’2\" ja võttis käega maha neli meessoost turvameest. Sama tõenäoline on, et kurjategija oli naine.",
+      "explanation": "Kuigi on kindlasti võimalik, et kurjategijaks on 6’2-tolline naisvõitluskunstide meister, on see väga ebatõenäoline ja oleks ressursi raiskamine, kui küsitleda paarisarvu mehi ja naisi, lähtudes soovist mitte diskrimineerida.",
+      "original_example": "The masked individual who committed the crime was about 6’2”, and took down four male security guards by hand.  It is just as likely that the criminal was a woman.",
+      "original_explanation": "While it is certainly possible that a 6’2” female martial-arts master is the criminal, it is highly unlikely, and it would be a waste of resources to question an even number of men and women based on the desire not to discriminate."
+    },
+    {
+      "number": 3,
+      "example": "Igaühel on õigus oma usulistele tõekspidamistele.  Nii et kui alasti tänaval tantsimine on osa nende rituaalist, peame neile seda õigust laiendama.",
+      "explanation": "Kas kõik usupõhised käitumisviisid on vastuvõetavad?  Kas me peame lubama igasugusel religiooni väljendamisel?  Kuhu me tõmbame piiri ja miks?",
+      "original_example": "Everyone is entitled to his or her own religious beliefs.  So if dancing in the streets naked is part of their ritual, we must extend them that right.",
+      "original_explanation": "Are any and all religiously-based behaviors acceptable?  Must we allow all expression of religion?  Where do we draw the line and why?"
+    },
+    {
+      "number": 4,
+      "example": "Neitside ohverdamine on osa selle hõimu kultuurist ja pärandist.  Seetõttu on see sama aktsepteeritav kui meie kultuuri traditsioon süüa pesapallimängul hot dogi.",
+      "explanation": "Siin me siseneme moraali valdkonda ja otsustame kaitsta \"kultuurilist veendumust\" noore tüdruku elu päästmise asemel.\n\nNeed näited – ja see eksitus – on väga vastuolulised.  Nagu kõik eksitused, tuleb esitada argumente.  Ma väidan, et arvuti võib paljudel juhtudel olla ekslik.  Võite nõustuda, võite mitte nõustuda.  Mõlemal juhul olge valmis oma seisukoha poolt mõjuvatel põhjustel argumenteerima.",
+      "original_example": "Sacrificing virgins is part of that tribe's culture and heritage.  Therefore, it is just as acceptable as our culture’s tradition of eating a hot dog at a baseball game.",
+      "original_explanation": "Here we enter the realm of morality and choose to protect a “cultural belief” over saving the life of a young girl.\n\nThese examples—and this fallacy—are very controversial.  Like all fallacies, arguments need to be made.  I am making an argument that PC can be a fallacy in many cases.  You might agree, you might disagree.  In either case, be prepared to argue for your position with valid reasons."
+    }
+  ],
+  "translated_at": "2026-08-30T23:04:22.421Z"
+}

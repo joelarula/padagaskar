@@ -1,0 +1,37 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Reification",
+  "title": "Reification",
+  "latin_name": "",
+  "also_known_as": [
+    "abstraction",
+    "concretism",
+    "fallacy of misplaced concreteness",
+    "hypostatisation",
+    "pathetic fallacy [form of]"
+  ],
+  "description": "When an abstraction (abstract belief or hypothetical construct) is treated as if it were a concrete, real event or physical entity -- when an idea is treated as if had a real existence.",
+  "logical_form": "*Abstraction X is treated as if it were concrete, a real event, or a physical entity.\nBecause the abstraction is seen as if it were concrete, a real event, or a physical entity, the conclusion is true.*",
+  "examples": [],
+  "exceptions": "In most cases, even in the above examples, these are used as rhetorical devices. When the reification is deliberate and harmless, and not used as evidence to support a claim or conclusion, then it is not fallacious.\n\n*It’s time to grab my future by the balls.*\n\nThe future is an abstraction. It does not have testicles. If it did, you probably wouldn’t want to grab them because your future might sue you for sexual misconduct.\n\n**Variation:** The *pathetic fallacy* is the treatment of inanimate objects as if they had human feelings, thought, or sensations.  Think of cursing at your computer when it does not give you the results you expect.\n\n**Fun Fact:** *Reification* is similar to *[anthropomorphism](https://www.logicallyfallacious.com/logicalfallacies/Anthropomorphism)**,* except that *reification* does not have to deal with human qualities.",
+  "tips": "",
+  "references": [
+    "reification | literature | Britannica.com. (n.d.). Retrieved from https://www.britannica.com/topic/reification"
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Reification.jpg",
+  "slug": "Reification",
+  "letter": "R",
+  "title_et": "Reifikatsioon",
+  "description_et": "Kui abstraktsiooni (abstraktset uskumust või hüpoteetilist konstruktsiooni) käsitletakse nii, nagu oleks see konkreetne, reaalne sündmus või füüsiline üksus - kui ideed käsitletakse nii, nagu sellel oleks reaalne olemasolu.",
+  "logical_form_et": "* Abstraktsiooni X käsitletakse nii, nagu oleks see konkreetne, reaalne sündmus või füüsiline üksus.\nKuna abstraktsiooni nähakse nii, nagu oleks see konkreetne, reaalne sündmus või füüsiline üksus, on järeldus tõsi.*",
+  "exceptions_et": "Enamikul juhtudel, isegi ülaltoodud näidetes, kasutatakse neid retooriliste vahenditena. Kui ümberkujundamine on tahtlik ja kahjutu ning seda ei kasutata väite või järelduse toetamiseks tõendina, ei ole see ekslik.\n\n*On aeg haarata oma tuleviku pallidest kinni.*\n\nTulevik on abstraktsioon. Sellel puuduvad munandid. Kui see juhtuks, ei tahaks te tõenäoliselt neid haarata, sest teie tulevik võib teid seksuaalse väärkäitumise eest kohtusse kaevata.\n\n**Variatsioon:** *haletsusväärne eksitus* on elutute objektide käsitlemine nii, nagu neil oleks inimlikke tundeid, mõtteid või aistinguid.  Mõelge oma arvuti sõimamisele, kui see ei anna teile oodatud tulemusi.\n\n**Lõbus fakt:** *Reifikatsioon* sarnaneb *[antropomorfismiga](https://www.logicallyfallacious.com/logicalfallacies/Anthropomorphism)**, välja arvatud see, et *reifikatsioon* ei pea tegelema inimlike omadustega.",
+  "tips_et": "",
+  "also_known_as_et": [
+    "abstraktsioon",
+    "konkretismist",
+    "ekslik konkreetsus",
+    "hüpostatisatsioon",
+    "haletsusväärne eksitus [vorm]"
+  ],
+  "examples_et": [],
+  "translated_at": "2026-08-30T23:08:36.314Z"
+}

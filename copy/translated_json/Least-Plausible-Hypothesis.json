@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Least-Plausible-Hypothesis",
+  "title": "Least Plausible Hypothesis",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Choosing more unreasonable explanations for phenomena over more defensible ones.  In judging the validity of hypotheses or conclusions from observation, the scientific method relies upon the *Principle of Parsimony*, also known as *Occam’s Razor*, which states, *all things being equal, the simplest explanation of a phenomenon that requires the fewest assumptions is the preferred explanation until it can be disproved.  *\n\nThis is very similar to the *[far-fetched hypothesis](https://www.logicallyfallacious.com/logicalfallacies/Far-Fetched-Hypothesis)*, but the hypotheses are generally more within reason (i.e., no leprechauns involved).",
+  "logical_form": "Hypothesis X is used to explain Y, but hypothesis X is the least plausible.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Here is why I think my date never showed up: her father had a heart-attack, and she had to rush him to the hospital.  In her state of panic, she forgot her cell phone and while at the hospital she was too concerned about her dad to worry about standing me up.",
+      "explanation": "While possible, it is not *probable*.  It is much more probable that his date just forgot or has purposely stood him up.  People tend to believe in the least probable hypotheses out of desire, emotion, or faith -- not out of reason."
+    },
+    {
+      "number": 2,
+      "example": "Creationists have written volumes of books explaining how, given some divine intervention, a few broken natural laws, and accepting the *inconsistency* of nature, it could be possible that the universe is only 6000 years old.  Accepting these theories would require the abandonment or radical reformation of virtually every science we have, as well us a new understanding of the term, “fact”.  So either all of that is true, or, the Biblical creation story, like hundreds of others in cultures all around the world, are simply mythology.",
+      "explanation": "Given the incomprehensible number and severity of the assumptions that would need to be made for creationism to be true, the explanation that the creation story is mythology, by far, is the most economical explanation."
+    }
+  ],
+  "exceptions": "This isn't about what might be possible; *Occam’s Razor* is all about probabilities.\n\n**Fun Fact:** “Plausibility” technically means “believability,” which is highly subjective. A Flat-earther would find the flat-earth theory more plausible than the spherical earth. Clearly, who is making the claim of plausibility, matters.",
+  "tips": "",
+  "references": [
+    "Wormeli, R. (2001). *Meet Me in the Middle: Becoming an Accomplished Middle-level Teacher*. Stenhouse Publishers."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Least_Plausible_Hypothesis.jpg",
+  "slug": "Least-Plausible-Hypothesis",
+  "letter": "L",
+  "title_et": "Kõige vähem usutav hüpotees",
+  "description_et": "Nähtuste ebamõistlikumate seletuste valimine kaitsvamatele.  Hüpoteeside või vaatluste põhjal tehtud järelduste paikapidavuse hindamisel tugineb teaduslik meetod *Parsimony printsiibile*, mida tuntakse ka kui *Occami habemenuga*, mis väidab, et *kui kõik asjad on võrdsed, on nähtuse kõige lihtsam seletus, mis nõuab kõige vähem eeldusi, kuni selle ümberlükkamiseni eelistatakse.  *\n\nSee on väga sarnane *[kaugelt tõmmatud hüpoteesiga](https://www.logicallyfallacious.com/logicalfallacies/Far-Fetched-Hypothesis)*, kuid hüpoteesid on üldiselt rohkem mõistuse piires (st leprechaunid ei ole kaasatud).",
+  "logical_form_et": "Hüpoteesi X kasutatakse Y selgitamiseks, kuid hüpotees X on kõige vähem usutav.",
+  "exceptions_et": "See ei puuduta seda, mis võib olla võimalik; *Occam’s Razor* on seotud tõenäosustega.\n\n**Lõbus tõsiasi:** „usutavus” tähendab tehniliselt „usutavus”, mis on väga subjektiivne. Lamemaa peab lameda maa teooriat usutavamaks kui kerakujulist maad. On selge, et see, kes esitab usutavuse väite, on oluline.",
+  "tips_et": "",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "See on põhjus, miks ma arvan, et mu kohting ei ilmunud kunagi kohale: tema isa sai südamerabanduse ja ta pidi ta kiiresti haiglasse viima.  Paanikaseisundis unustas ta oma mobiiltelefoni ja haiglas olles oli ta liiga mures oma isa pärast, et muretseda minu püstitõusmise pärast.",
+      "explanation": "Kuigi võimalik, pole see *tõenäoline*.  On palju tõenäolisem, et tema kohting lihtsalt unustas või on ta tahtlikult üles tõstnud.  Inimesed kipuvad kõige vähem tõenäolisi hüpoteese uskuma soovist, emotsioonist või usust, mitte mõistusest.",
+      "original_example": "Here is why I think my date never showed up: her father had a heart-attack, and she had to rush him to the hospital.  In her state of panic, she forgot her cell phone and while at the hospital she was too concerned about her dad to worry about standing me up.",
+      "original_explanation": "While possible, it is not *probable*.  It is much more probable that his date just forgot or has purposely stood him up.  People tend to believe in the least probable hypotheses out of desire, emotion, or faith -- not out of reason."
+    },
+    {
+      "number": 2,
+      "example": "Kreatsionistid on kirjutanud hulgaliselt raamatuid, milles selgitatakse, kuidas jumaliku sekkumise, mõne rikutud loodusseaduse ja looduse *ebajärjekindluse* aktsepteerimise tõttu võib olla võimalik, et universum on vaid 6000 aastat vana.  Nende teooriate aktsepteerimine eeldaks peaaegu kõigi meie teaduste hülgamist või radikaalset ümberkujundamist, samuti uue arusaama mõistest \"fakt\".  Nii et kas see kõik on tõsi või on Piibli loomislugu, nagu sajad teised kultuurides üle kogu maailma, lihtsalt mütoloogia.",
+      "explanation": "Arvestades kreatsionismi tõeks saamise eelduste arusaamatut arvu ja tõsidust, on seletus, et loomislugu on mütoloogia, kõige ökonoomsem seletus.",
+      "original_example": "Creationists have written volumes of books explaining how, given some divine intervention, a few broken natural laws, and accepting the *inconsistency* of nature, it could be possible that the universe is only 6000 years old.  Accepting these theories would require the abandonment or radical reformation of virtually every science we have, as well us a new understanding of the term, “fact”.  So either all of that is true, or, the Biblical creation story, like hundreds of others in cultures all around the world, are simply mythology.",
+      "original_explanation": "Given the incomprehensible number and severity of the assumptions that would need to be made for creationism to be true, the explanation that the creation story is mythology, by far, is the most economical explanation."
+    }
+  ],
+  "translated_at": "2026-08-30T22:57:43.768Z"
+}

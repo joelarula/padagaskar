@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Illicit-Substitution-of-Identicals",
+  "title": "Illicit Substitution of Identicals",
+  "latin_name": "",
+  "also_known_as": [
+    "hooded man fallacy",
+    "masked man fallacy",
+    "intensional fallacy"
+  ],
+  "description": "A formal fallacy due to confusing the knowing of a thing (*extension*) with the knowing of it under all its various names or descriptions (*intension*).\n\nWe need to define two terms here to understand this fallacy fully: *intensional* and *extensional*.  In logic and mathematics, an *intensional* definition gives the meaning of a term by specifying all the properties required to come to that definition, that is, the necessary and sufficient conditions for belonging to the set being defined.  In contrast, an *extensional* definition is defined by its listing everything that falls under that definition.  Confused?  You should be, but relax because I am not done.\n\nImagine Superman, who is also Clark Kent, flew to Italy for a slice of pizza.  If we said, “Clark Kent flew to Italy for pizza” we would be right, because of the *extensional context* of that statement.  Conversely, if we said, “Lois Lane thinks Superman flew to Italy for pizza”, we would still be making a true claim, although the context is now *intensional* as indicated by the term, “thinks”.  Now if we said, “Lois Lane thinks Clark Kent flew to Italy for pizza”, we would be wrong and would have committed this fallacy because Lois* does not believe that*, even though *extensionally* it is the case (this is after the kiss that wiped her memory of Clark being Superman).",
+  "logical_form": "",
+  "examples": [
+    {
+      "number": 1,
+      "example": "The lady in the pink dress is Julia Roberts.\n\nThe reporter thinks the lady in the pink dress drives a Prius.\n\nTherefore, the reporter thinks Julia Roberts drives a Prius.\n\n**Example #2:**\n\nThe lady in the pink dress is Julia Roberts.\n\nThe reporter thinks Julia Roberts drives a Prius.\n\nTherefore, the reporter thinks the lady in the pink dress drives a Prius.",
+      "explanation": "The examples used are just two different logical forms of the same fallacy.  Because the reporter, “thinks” the statement is made in an intensional context, we cannot switch the terms.  However, if we were to keep the premises in an extensional context, we could get away with switching the terms.  This would be a valid logical argument form known as* Leibniz’ Law*."
+    }
+  ],
+  "exceptions": "Technically, none, but here is the above example #1 using *Leibniz’ Law, *with no fallacy:\n\nThe lady in the pink dress is Julia Roberts.\n\nThe lady in the pink dress drives a Prius.\n\nTherefore, Julia Roberts drives a Prius.\n\n**Fun Fact: **Julia Roberts really does own a Prius (at the time of this writing).",
+  "tips": "",
+  "references": [
+    "Neil, S. (1853). *The Art of Reasoning: A Popular Exposition of the Principles of Logic*. Walton & Maberly."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Illicit_Substitution_of_Identicals.jpg",
+  "slug": "Illicit-Substitution-of-Identicals",
+  "letter": "I",
+  "title_et": "Identsete ebaseaduslik asendamine",
+  "description_et": "Formaalne eksitus, mis tuleneb asja tundmise (*laiendus*) segi ajamisest selle teadmisega kõigi selle erinevate nimede või kirjelduste all (*intensioon*).\n\nSelle eksituse täielikuks mõistmiseks peame siin määratlema kaks terminit: *intensionaalne* ja *laiend*.  Loogikas ja matemaatikas annab *intensionaalne* definitsioon termini tähenduse, täpsustades kõik selle definitsioonini jõudmiseks vajalikud omadused, st vajalikud ja piisavad tingimused defineeritavasse hulka kuulumiseks.  Seevastu *laiendatud* määratlus on määratletud nii, et see loetleb kõik, mis selle määratluse alla kuulub.  Segaduses?  Peaksite olema, aga lõdvestuge, sest ma pole veel lõpetanud.\n\nKujutage ette, et Superman, kes on ka Clark Kent, lendas Itaaliasse pitsalõigule.  Kui me ütleksime: \"Clark Kent lendas Itaaliasse pitsat otsima\", oleks meil selle väite *laiendatud konteksti* tõttu õigus.  Ja vastupidi, kui me ütleksime: „Lois Lane arvab, et Superman lendas Itaaliasse pitsat otsima”, esitaksime siiski tõese väite, kuigi kontekst on nüüd *intensionaalne*, nagu osutab termin „arvab”.  Kui me nüüd ütleksime: „Lois Lane arvab, et Clark Kent lendas Itaaliasse pitsa järele”, siis me eksiksime ja oleksime teinud selle eksituse, sest Lois* ei usu seda*, kuigi *laiemalt* see nii on (see on pärast suudlust, mis pühkis ta mälestuse Clarkist kui Supermanist).",
+  "logical_form_et": "",
+  "exceptions_et": "Tehniliselt mitte ühtegi, kuid siin on ülaltoodud näide nr 1, kasutades *Leibnizi seadust, * ilma eksitusteta:\n\nRoosas kleidis daam on Julia Roberts.\n\nRoosas kleidis daam sõidab Priusega.\n\nSeetõttu sõidab Julia Roberts Priusega.\n\n**Lõbus fakt: **Julia Robertsil on tõesti Prius (selle kirjutamise ajal).",
+  "tips_et": "",
+  "also_known_as_et": [
+    "kapuutsiga mehe eksitus",
+    "maskeeritud mehe eksitus",
+    "intensiivne eksitus"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Roosas kleidis daam on Julia Roberts.\n\nReporter arvab, et roosas kleidis daam sõidab Priusega.\n\nSeetõttu arvab reporter, et Julia Roberts sõidab Priusega.\n\n**Näide #2:**\n\nRoosas kleidis daam on Julia Roberts.\n\nReporter arvab, et Julia Roberts sõidab Priusega.\n\nSeetõttu arvab reporter, et roosas kleidis daam sõidab Priusega.",
+      "explanation": "Kasutatud näited on vaid ühe ja sama eksituse kaks erinevat loogilist vormi.  Kuna reporter \"arvab\", et avaldus on tehtud intensiivses kontekstis, ei saa me termineid vahetada.  Kui aga hoiaksime ruume laienduskontekstis, saaksime tingimuste muutmisest pääseda.  See oleks kehtiv loogiline argumendi vorm, mida tuntakse * Leibnizi seadusena *.",
+      "original_example": "The lady in the pink dress is Julia Roberts.\n\nThe reporter thinks the lady in the pink dress drives a Prius.\n\nTherefore, the reporter thinks Julia Roberts drives a Prius.\n\n**Example #2:**\n\nThe lady in the pink dress is Julia Roberts.\n\nThe reporter thinks Julia Roberts drives a Prius.\n\nTherefore, the reporter thinks the lady in the pink dress drives a Prius.",
+      "original_explanation": "The examples used are just two different logical forms of the same fallacy.  Because the reporter, “thinks” the statement is made in an intensional context, we cannot switch the terms.  However, if we were to keep the premises in an extensional context, we could get away with switching the terms.  This would be a valid logical argument form known as* Leibniz’ Law*."
+    }
+  ],
+  "translated_at": "2026-08-30T22:55:28.165Z"
+}

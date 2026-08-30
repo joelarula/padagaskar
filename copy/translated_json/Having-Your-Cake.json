@@ -1,0 +1,59 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Having-Your-Cake",
+  "title": "Having Your Cake",
+  "latin_name": "",
+  "also_known_as": [
+    "failure to assert",
+    "diminished claim",
+    "failure to choose sides"
+  ],
+  "description": "Making an argument, or responding to one, in such a way that it does not make it at all clear what your position is.  This puts you in a position to back out of your claim at any time and go in a new direction without penalty, claiming that you were “right” all along.",
+  "logical_form": "I believe X is a strong argument.\n\nY is also a very strong argument.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Reporter: Mr. Congressman, where do you stand on the clean water vs. new factory issue?\n\nCongressman: Of course, I want our state to have the cleanest water possible.  I can appreciate the petition against the new factory as I can also appreciate the new jobs introduced in our community as a result of the new factory.",
+      "explanation": "This type of “non-decision” or refusal to choose a side often eludes those looking for an answer but getting more of a non-answer in return.  In our example, the congressman can later choose a side based on the outcome, looking like the guy who knew the right answer all along."
+    },
+    {
+      "number": 2,
+      "example": "Scott: So do you think the earth has only been here for 6-10 thousand years?\n\nSam: The evidence for an old earth is very strong, but we cannot discount some of the claims made by the creationists.\n\nScott: So what are you saying?\n\nSam: I am saying that a 4.7 billion-year-old earth makes a lot of sense, but the 6000-year-old theory does, as well.",
+      "explanation": "We all know and want to shoot people like Sam.  Sam is failing to assert his position.  If Sam’s opinion is respected in this area, no doubt people on both sides will use his statement to their advantage.  This ambiguity is not helpful and is misleading."
+    }
+  ],
+  "exceptions": "Wishy-washy statements are sometimes acceptable to demonstrate your uncertainty on a given issue, and if these kinds of statements are followed with admissions of uncertainty or ignorance,  then they are not fallacious; they are honest.",
+  "tips": "If you don’t have an opinion, say that you don’t have an opinion.  If you don’t know, say that you don’t know.  It’s that simple.",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Having_Your_Cake.jpg",
+  "slug": "Having-Your-Cake",
+  "letter": "H",
+  "title_et": "Teie kook",
+  "description_et": "Argumendi esitamine või sellele vastamine nii, et see ei anna sugugi selgeks, milline on teie seisukoht.  See annab teile võimaluse oma nõudest igal ajal taganeda ja minna ilma karistuseta uude suunda, väites, et teil oli kogu aeg õigus.",
+  "logical_form_et": "Usun, et X on tugev argument.\n\nY on ka väga tugev argument.",
+  "exceptions_et": "Soovitud väited on mõnikord vastuvõetavad, et demonstreerida teie ebakindlust antud küsimuses, ja kui sellistele väidetele järgneb ebakindluse või teadmatuse tunnistamine, siis need ei ole ekslikud; nad on ausad.",
+  "tips_et": "Kui teil pole arvamust, öelge, et teil pole arvamust.  Kui sa ei tea, ütle, et sa ei tea.  Nii lihtne see ongi.",
+  "also_known_as_et": [
+    "suutmatus kinnitada",
+    "vähenenud nõue",
+    "suutmatus pooli valida"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Reporter: Härra kongresmen, milline on teie seisukoht puhta vee ja uue tehase küsimuses?\n\nKongresmen: Muidugi tahan, et meie osariigis oleks võimalikult puhas vesi.  Ma hindan uue tehase vastu esitatud petitsiooni, kuna hindan ka meie kogukonnas uue tehase tulemusel loodud uusi töökohti.",
+      "explanation": "Seda tüüpi \"otsustamatus\" või poole valimisest keeldumine jääb sageli kõrvale nendest, kes otsivad vastust, kuid saavad vastutasuks rohkem vastuseta.  Meie näites saab kongresmen hiljem tulemuse põhjal poole valida, näides välja nagu mees, kes teadis kogu aeg õiget vastust.",
+      "original_example": "Reporter: Mr. Congressman, where do you stand on the clean water vs. new factory issue?\n\nCongressman: Of course, I want our state to have the cleanest water possible.  I can appreciate the petition against the new factory as I can also appreciate the new jobs introduced in our community as a result of the new factory.",
+      "original_explanation": "This type of “non-decision” or refusal to choose a side often eludes those looking for an answer but getting more of a non-answer in return.  In our example, the congressman can later choose a side based on the outcome, looking like the guy who knew the right answer all along."
+    },
+    {
+      "number": 2,
+      "example": "Scott: Kas sa arvad, et maa on siin olnud vaid 6-10 tuhat aastat?\n\nSam: Tõendid vana maa kohta on väga tugevad, kuid me ei saa jätta kõrvale mõningaid kreatsionistide väiteid.\n\nScott: Mida sa siis räägid?\n\nSam: Ma ütlen, et 4,7 miljardi aasta vanusel maakeral on palju mõtet, kuid ka 6000-aastasel teoorial on see nii.",
+      "explanation": "Me kõik teame ja tahame tulistada selliseid inimesi nagu Sam.  Sam ei suuda oma seisukohta kinnitada.  Kui Sami arvamust selles valdkonnas austatakse, kasutavad mõlemad pooled kahtlemata tema avaldust enda huvides.  See ebaselgus ei ole kasulik ja on eksitav.",
+      "original_example": "Scott: So do you think the earth has only been here for 6-10 thousand years?\n\nSam: The evidence for an old earth is very strong, but we cannot discount some of the claims made by the creationists.\n\nScott: So what are you saying?\n\nSam: I am saying that a 4.7 billion-year-old earth makes a lot of sense, but the 6000-year-old theory does, as well.",
+      "original_explanation": "We all know and want to shoot people like Sam.  Sam is failing to assert his position.  If Sam’s opinion is respected in this area, no doubt people on both sides will use his statement to their advantage.  This ambiguity is not helpful and is misleading."
+    }
+  ],
+  "translated_at": "2026-08-30T22:51:51.547Z"
+}

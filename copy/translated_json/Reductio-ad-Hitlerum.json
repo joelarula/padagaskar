@@ -1,0 +1,59 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Reductio-ad-Hitlerum",
+  "title": "Reductio ad Hitlerum",
+  "latin_name": "reductio ad hitlerum",
+  "also_known_as": [
+    "argumentum ad Hitlerum",
+    "playing the Nazi card",
+    "Hitler card"
+  ],
+  "description": "The attempt to make an argument analogous with Hitler or the Nazi party.  Hitler is probably the most universally despised figure in history, so any connection to Hitler, or his beliefs, can (erroneously) cause others to view the argument in a similar light.  However, this fallacy is becoming more well known as is the fact that it is most often a desperate attempt to render the truth claim of the argument invalid out of lack of a good counter argument.",
+  "logical_form": "",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Peter Gibbons: It's NOT wrong. INITECH is wrong. INITECH is an evil corporation, all right? Chochkies is wrong. Doesn't it bother you that you have to get up in the morning and you have to put on a bunch of pieces of flair?\n\nJoanna: Yeah, but I'm not about to go in and start taking money from the register.\n\nPeter Gibbons: Well, maybe you should. You know, the Nazis had pieces of flair that they made the Jews wear.\n\nJoanna: What?",
+      "explanation": "The above was from the classic masterpiece film, *Office Space*.  Out of desperation, Peter plays the \"Nazi card\" in order to make the idea of being made to wear flair more appalling.  This somewhat jarring statement misdirects the argument, and the focus is taken off Joanna’s last response, which was quite good."
+    },
+    {
+      "number": 2,
+      "example": "My professor is making me redo this assignment. Do you know who else forced people to do things they didn't want to do? Hitler.",
+      "explanation": "Yes, Hitler forced people to do things they didn't want to do. Of course, the extent of \"force\" used by the professor is quite different than the extent of the force used by Hitler, so the professor is really nothing like Hitler in any meaningful way, thus the argument is fallacious."
+    }
+  ],
+  "exceptions": "Sometimes it might be worth risking the fallacy to prevent disaster.\n\nMr. President, I can appreciate your desire to make some changes in the White House, but that new hand gesture you are proposing we use to show our allegiance to you is way too much like the one Hitler used.  On a similar note, that Charlie Chaplin mustache doesn’t work on you.\n\n**Fun Fact: **The Hitler mustache style is known as the *toothbrush mustache*. It was made famous by such comedians as Charlie Chaplin and Oliver Hardy. Hitler later became the person most associated with the mustache style and ended that fashion trend. I wish Hitler was also known for wearing mom jeans.",
+  "tips": "",
+  "references": [
+    "Strauss, L. (1953). *Natural Right and History*. University of Chicago Press."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Reductio_ad_Hitlerum.jpg",
+  "slug": "Reductio-ad-Hitlerum",
+  "letter": "R",
+  "title_et": "Reductio ad Hitlerum",
+  "description_et": "Katse esitada Hitleri või natsipartei analoogilist argumenti.  Hitler on ilmselt ajaloo kõige üleüldiselt põlatud tegelane, nii et igasugune seos Hitleriga või tema tõekspidamised võivad (eksitult) panna teised seda argumenti sarnases valguses vaatama.  Kuid see eksitus on muutumas tuntumaks, nagu ka tõsiasi, et enamasti on see meeleheitlik katse muuta argumendi tõe väide kehtetuks hea vastuargumendi puudumise tõttu.",
+  "logical_form_et": "",
+  "exceptions_et": "Mõnikord tasub katastroofi ärahoidmiseks eksitusega riskida.\n\nHärra president, ma hindan teie soovi teha Valges Majas mõningaid muudatusi, kuid see uus käeliigutus, mida te pakute, et näidata teile oma truudust, sarnaneb liiga palju sellega, mida Hitler kasutas.  Sarnaselt võib öelda, et Charlie Chaplini vuntsid ei tööta teie peal.\n\n**Lõbus fakt: **Hitleri vuntside stiil on tuntud kui *hambaharja vuntsid*. Selle tegid kuulsaks sellised koomikud nagu Charlie Chaplin ja Oliver Hardy. Hitlerist sai hiljem vuntside stiiliga kõige rohkem seotud inimene ja ta lõpetas selle moevoolu. Soovin, et Hitler oleks tuntud ka selle poolest, et ta kandis ema teksaseid.",
+  "tips_et": "",
+  "also_known_as_et": [
+    "argumentum ad Hitlerum",
+    "natsikaarti mängides",
+    "Hitleri kaart"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Peter Gibbons: See EI ole vale. INITECH eksib. INITECH on kuri korporatsioon, eks? Chochkies on vale. Kas sind ei häiri, et sa pead hommikul üles tõusma ja pead hunniku särtsu selga panema?\n\nJoanna: Jah, aga ma ei kavatse siseneda ega hakata registrist raha võtma.\n\nPeter Gibbons: Noh, võib-olla peaksite. Teate, natsidel oli jube, mida nad panid juudid kandma.\n\nJoanna: Mida?",
+      "explanation": "Ülaltoodu pärines klassikalisest meistriteosefilmist *Kontoriruum*.  Meeleheitest mängib Peter \"natside kaarti\", et muuta mõte, et teda pannakse kandma, kohutavamaks muuta.  See mõnevõrra tüütu avaldus suunab argumendi valesti ja tähelepanu pööratakse Joanna viimasele vastusele, mis oli üsna hea.",
+      "original_example": "Peter Gibbons: It's NOT wrong. INITECH is wrong. INITECH is an evil corporation, all right? Chochkies is wrong. Doesn't it bother you that you have to get up in the morning and you have to put on a bunch of pieces of flair?\n\nJoanna: Yeah, but I'm not about to go in and start taking money from the register.\n\nPeter Gibbons: Well, maybe you should. You know, the Nazis had pieces of flair that they made the Jews wear.\n\nJoanna: What?",
+      "original_explanation": "The above was from the classic masterpiece film, *Office Space*.  Out of desperation, Peter plays the \"Nazi card\" in order to make the idea of being made to wear flair more appalling.  This somewhat jarring statement misdirects the argument, and the focus is taken off Joanna’s last response, which was quite good."
+    },
+    {
+      "number": 2,
+      "example": "Minu professor sunnib mind seda ülesannet uuesti tegema. Kas teate, kes veel sundis inimesi tegema asju, mida nad teha ei tahtnud? Hitler.",
+      "explanation": "Jah, Hitler sundis inimesi tegema asju, mida nad teha ei tahtnud. Muidugi on professori kasutatud \"jõu\" ulatus hoopis teistsugune kui Hitleri poolt kasutatud jõu ulatus, seega pole professor tegelikult mitte millegi poolest Hitleri moodi, seega on väide ekslik.",
+      "original_example": "My professor is making me redo this assignment. Do you know who else forced people to do things they didn't want to do? Hitler.",
+      "original_explanation": "Yes, Hitler forced people to do things they didn't want to do. Of course, the extent of \"force\" used by the professor is quite different than the extent of the force used by Hitler, so the professor is really nothing like Hitler in any meaningful way, thus the argument is fallacious."
+    }
+  ],
+  "translated_at": "2026-08-30T23:08:09.256Z"
+}

@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Identity-Fallacy",
+  "title": "Identity Fallacy",
+  "latin_name": "",
+  "also_known_as": [
+    "identity politics"
+  ],
+  "description": "When one's argument is evaluated based on their physical or social identity, i.e., their social class, generation, ethnic group, gender or sexual orientation, profession, occupation or subgroup when the strength of the argument is independent of identity.",
+  "logical_form": "Person 1 makes argument X.\n\nPerson 2 dismisses argument X because of the physical or social identity of person 1.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "S.J. Sam: Asian people in this country are systematically passed over in the tech field for non-Asians.\n\nCindy: Actually, according to most research, employers are biased in favor of Asian technical workers.\n\nS.J. Sam: Unless you are Asian, keep your mouth shut. You can't possibly know the struggles of the Asian community!",
+      "explanation": "S.J. Sam is making an empirical claim about a hiring preference for non-Asians. Cindy has refuted the claim that is independent of her physical or social identity (i.e., her ability to refute the argument is not dependent upon her being Asian). S.J. Sam rejects her rebuttal because she is not Asian. In addition, he pulls a *[red herring](https://www.logicallyfallacious.com/logicalfallacies/Red-Herring)* by changing the argument to \"knowing the struggles\" of the Asian community."
+    },
+    {
+      "number": 2,
+      "example": "The female staff of a large corporation holds a meeting to discuss solutions to reduce discrimination against women at the company. Men are invited but asked just to listen and not contribute to the discussion.",
+      "explanation": "The implication here is that men have nothing to add to the discussion. Ideas to reduce gender discrimination are independent of gender, that is, both men and women can have equally valid arguments."
+    }
+  ],
+  "exceptions": "A requirement for this fallacy is \"when the strength of the argument is independent of identity.\" There are arguments that do rely on identity. For example, claims of feeling and perception could be unique to certain groups.\n\nS.J. Sam: As a gay man, I feel that I am being discriminated against at work.\n\nCindy: I don't think people at work discriminate against gays.\n\nS.J. Sam: You are not gay. I bet your perspective would be different if you were.\n\nCindy could ask for evidence of discrimination, which would be reasonable, but she dismisses S.J. Sam's claim when she lacks the insight due to her not being part of the social group (gays).",
+  "tips": "Before you exclude any group from your discussions or ignore their arguments based on their physical or social group, make sure you have a solid reason.",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Identity_Fallacy.jpg",
+  "slug": "Identity-Fallacy",
+  "letter": "I",
+  "title_et": "Identiteedi eksitus",
+  "description_et": "Kui kellegi argumenti hinnatakse tema füüsilise või sotsiaalse identiteedi, st tema sotsiaalse klassi, põlvkonna, etnilise rühma, soo või seksuaalse sättumuse, elukutse, ameti või alarühma alusel, kui argumendi tugevus on identiteedist sõltumatu.",
+  "logical_form_et": "Isik 1 esitab argumendi X.\n\nIsik 2 lükkab argumendi X tagasi isiku 1 füüsilise või sotsiaalse identiteedi tõttu.",
+  "exceptions_et": "Selle eksituse nõue on \"kui argumendi tugevus on identiteedist sõltumatu\". On argumente, mis tuginevad identiteedile. Näiteks väited tunnete ja taju kohta võivad olla teatud rühmadele ainulaadsed.\n\nS.J. Sam: Mina kui gei tunnen, et mind diskrimineeritakse tööl.\n\nCindy: Ma ei usu, et inimesed tööl homosid diskrimineerivad.\n\nS.J. Sam: Sa ei ole gei. Vean kihla, et teie vaatenurk oleks teistsugune, kui te seda teeksite.\n\nCindy võiks nõuda tõendeid diskrimineerimise kohta, mis oleks mõistlik, kuid ta lükkab S.J. Sami väide, kui tal puudub arusaam, kuna ta ei kuulu sotsiaalsesse rühma (geid).",
+  "tips_et": "Enne kui jätate mõne rühma oma aruteludest välja või ignoreerite nende argumente nende füüsilisel või sotsiaalsel rühmal, veenduge, et teil on kindel põhjus.",
+  "also_known_as_et": [
+    "identiteedipoliitika"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "S.J. Sam: Aasia elanikke suunatakse süstemaatiliselt mitte-aasialaste tehnoloogiavaldkonnas.\n\nCindy: Tegelikult on enamiku uuringute kohaselt tööandjad kallutatud Aasia tehniliste töötajate kasuks.\n\nS.J. Sam: Kui te pole Aasia, hoidke oma suu kinni. Sa ei saa kuidagi teada Aasia kogukonna võitlustest!",
+      "explanation": "S.J. Sam esitab empiirilise väite mitte-aasialaste palkamise eelistuse kohta. Cindy on ümber lükanud väite, mis ei sõltu tema füüsilisest või sotsiaalsest identiteedist (st tema võime argumenti ümber lükata ei sõltu sellest, kas ta on Aasia päritolu). S.J. Sam lükkab tema ümberlükkamise tagasi, kuna ta pole Aasia päritolu. Lisaks tõmbab ta *[punase heeringa](https://www.logicallyfallacious.com/logicalfallacies/Red-Herring)*, muutes argumendi Aasia kogukonna võitluste tundmiseks.",
+      "original_example": "S.J. Sam: Asian people in this country are systematically passed over in the tech field for non-Asians.\n\nCindy: Actually, according to most research, employers are biased in favor of Asian technical workers.\n\nS.J. Sam: Unless you are Asian, keep your mouth shut. You can't possibly know the struggles of the Asian community!",
+      "original_explanation": "S.J. Sam is making an empirical claim about a hiring preference for non-Asians. Cindy has refuted the claim that is independent of her physical or social identity (i.e., her ability to refute the argument is not dependent upon her being Asian). S.J. Sam rejects her rebuttal because she is not Asian. In addition, he pulls a *[red herring](https://www.logicallyfallacious.com/logicalfallacies/Red-Herring)* by changing the argument to \"knowing the struggles\" of the Asian community."
+    },
+    {
+      "number": 2,
+      "example": "Ühe suurkorporatsiooni naistöötajad peavad nõupidamise, et arutada lahendusi naiste diskrimineerimise vähendamiseks ettevõttes. Mehed on kutsutud, kuid neil palutakse lihtsalt kuulata ja mitte kaasa rääkida.",
+      "explanation": "See tähendab, et meestel pole arutelule midagi lisada. Ideed soolise diskrimineerimise vähendamiseks on soost sõltumatud, st nii meestel kui naistel võivad olla võrdselt põhjendatud argumendid.",
+      "original_example": "The female staff of a large corporation holds a meeting to discuss solutions to reduce discrimination against women at the company. Men are invited but asked just to listen and not contribute to the discussion.",
+      "original_explanation": "The implication here is that men have nothing to add to the discussion. Ideas to reduce gender discrimination are independent of gender, that is, both men and women can have equally valid arguments."
+    }
+  ],
+  "translated_at": "2026-08-30T22:54:00.040Z"
+}

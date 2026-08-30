@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Self-Righteousness-Fallacy",
+  "title": "Self-Righteousness Fallacy",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Assuming that just because your intentions are good, you have the truth or facts on your side. Also see *[righteousness fallacy](https://www.logicallyfallacious.com/logicalfallacies/Righteousness-Fallacy)*.",
+  "logical_form": "*You make claim X.*\n\n*You have good intentions.*\n\n*Therefore, X is true.*",
+  "examples": [
+    {
+      "number": 1,
+      "example": "*Ricki: Do you think aborted fetuses have feelings?*\n*Jenni: Any honorable and kind person would have to say they do have feelings. So yes.*",
+      "explanation": "Jenni might be the queen of honor with kindness oozing from her puppy-dog eyes, but these qualities are independent of one’s ability to know facts or come to an accurate conclusion based on available data."
+    },
+    {
+      "number": 2,
+      "example": "*Jenni: Is a fetus a human being?*\n*Ricki: No, because I am not a monster and would never suggest killing an unwanted human being is okay.*",
+      "explanation": "Ricki is making a claim about a fetus and using the fact that she is “not a monster” to support the claim, which is independent of her intentions."
+    }
+  ],
+  "exceptions": "This relates to facts, not subjective truth. We can use the idea of righteousness to conclude how we feel about something or someone. For example,\n\n*Jenni: Do you consider a fetus to be as valuable as a human being?*\n*Ricki: No, because I am not a monster and would never suggest killing an unwanted human being is okay.*\n\n**Fun Fact: ***Self-righteous* is defined as having or characterized by a certainty, especially an unfounded one, that one is totally correct or morally superior. The *self-righteousness fallacy* follows a more generic definition of being correct because of “good intentions.”",
+  "tips": "",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Self_Righteousness_Fallacy.jpg",
+  "slug": "Self-Righteousness-Fallacy",
+  "letter": "S",
+  "title_et": "Eneseõiguse eksitus",
+  "description_et": "Eeldades, et just sellepärast, et teie kavatsused on head, on tõde või faktid teie poolel. Vaadake ka *[righteousness falacy](https://www.logicallyfallacious.com/logicalfallacies/Righteousness-Fallacy)*.",
+  "logical_form_et": "*Te esitate nõude X.*\n\n*Sul on head kavatsused.*\n\n*Seetõttu on X tõsi.*",
+  "exceptions_et": "See on seotud faktidega, mitte subjektiivse tõega. Me saame kasutada õigluse ideed, et teha järeldusi, kuidas me millegi või kellegi suhtes tunneme. Näiteks\n\n*Jenni: Kas sa pead loodet sama väärtuslikuks kui inimest?*\n*Ricki: Ei, sest ma ei ole koletis ja ei soovita kunagi soovimatu inimese tapmist.*\n\n**Lõbus tõsiasi: ***Eneseõigust* määratletakse kui kindlustunnet, eriti alusetu, et ta on täiesti õige või moraalselt parem, või seda iseloomustab kindlus. *Eneseõiguse eksitus* järgib üldisemat definitsiooni, et olla õige \"heade kavatsuste\" tõttu.",
+  "tips_et": "",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "*Ricki: Kas sa arvad, et aborteeritud lootel on tundeid?*\n*Jenni: Iga auväärne ja lahke inimene peaks ütlema, et tal on tunded. Nii et jah.*",
+      "explanation": "Jenni võib olla aukuninganna, kelle kutsika-koera silmadest õhkub lahkust, kuid need omadused ei sõltu inimese võimest teada fakte või teha olemasolevate andmete põhjal täpseid järeldusi.",
+      "original_example": "*Ricki: Do you think aborted fetuses have feelings?*\n*Jenni: Any honorable and kind person would have to say they do have feelings. So yes.*",
+      "original_explanation": "Jenni might be the queen of honor with kindness oozing from her puppy-dog eyes, but these qualities are independent of one’s ability to know facts or come to an accurate conclusion based on available data."
+    },
+    {
+      "number": 2,
+      "example": "*Jenni: Kas loode on inimene?*\n*Ricki: Ei, sest ma ei ole koletis ja ei soovita kunagi soovimatu inimese tapmist.*",
+      "explanation": "Ricki esitab väite loote kohta ja kasutab väite toetuseks tõsiasja, et ta pole \"koletis\", mis on tema kavatsustest sõltumatu.",
+      "original_example": "*Jenni: Is a fetus a human being?*\n*Ricki: No, because I am not a monster and would never suggest killing an unwanted human being is okay.*",
+      "original_explanation": "Ricki is making a claim about a fetus and using the fact that she is “not a monster” to support the claim, which is independent of her intentions."
+    }
+  ],
+  "translated_at": "2026-08-30T23:10:05.286Z"
+}

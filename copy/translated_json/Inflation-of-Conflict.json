@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Inflation-of-Conflict",
+  "title": "Inflation of Conflict",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Reasoning that because authorities cannot agree precisely on an issue, no conclusions can be reached at all, and minimizing the credibility of the authorities, as a result.  This is a form of black and white thinking -- either we know the exact truth, or we know nothing at all.",
+  "logical_form": "Authority A disagrees with authority B on issue X.\n\nTherefore, we can say nothing meaningful about issue X.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "My mom says that I should study for at least 2 hours each night, and my dad says just a half hour should be fine.  Neither one of them knows what they are talking about, so I should just skip studying altogether.",
+      "explanation": "A disagreement among experts does not mean that both are wrong, the answer is a compromise, or that there is no answer to be known; it simply means that there is disagreement -- that is all we can infer."
+    },
+    {
+      "number": 2,
+      "example": "Scientists cannot agree on the age of the universe.  Some say it is 13.7 billion years old, some say it is only about 13 billion years old.  That’s a difference of almost a billion years!  It should be clear that because there is so much disagreement, then the 6000-year-old universe should be carefully considered, as well.",
+      "explanation": "Scientists who “disagree” with the estimated age of the universe do so primarily on slightly different interpretations of the same objectively valid dating methods.  The difference is fairly minute in terms of percentage.  Suggesting 6000 years is valid is one thing, but doing so based on the difference in interpretation from mainstream science is completely fallacious.  The differences have no bearing on the truth claim of the argument (the actual age)."
+    }
+  ],
+  "exceptions": "When the difference in professional disagreement is critical, it should be carefully examined. For example, if two doctors were debating on what medicine to give a patient, and both were claiming that the other medicine would kill the patient.\n\n**Fun Fact:** When experts have very different views on scientific issues, it is very often the case that one or more of them are sharing views outside their realm of professional expertise.",
+  "tips": "",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Inflation_of_Conflict.jpg",
+  "slug": "Inflation-of-Conflict",
+  "letter": "I",
+  "title_et": "Konfliktide inflatsioon",
+  "description_et": "Põhjendades sellega, et kuna võimuorganid ei suuda mingis küsimuses täpselt kokku leppida, siis ei saa üldse järeldusi teha ning selle tulemusena minimeeritakse ametiasutuste usaldusväärsus.  See on mustvalge mõtlemise vorm – me kas teame täpset tõde või ei tea üldse mitte midagi.",
+  "logical_form_et": "Asutus A ei nõustu asutusega B küsimuses X.\n\nSeetõttu ei saa me probleemi X kohta midagi sisukat öelda.",
+  "exceptions_et": "Kui ametialaste erimeelsuste erinevus on kriitiline, tuleks seda hoolikalt uurida. Näiteks kui kaks arsti arutlevad selle üle, millist ravimit patsiendile anda, ja mõlemad väidavad, et teine ​​ravim tapab patsiendi.\n\n**Lõbus tõsiasi:** kui ekspertidel on teadusküsimustes väga erinevad vaated, on väga sageli nii, et üks või mitu neist jagavad seisukohti väljaspool oma erialateadmiste valdkonda.",
+  "tips_et": "",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Mu ema ütleb, et ma peaksin igal õhtul vähemalt 2 tundi õppima ja isa ütleb, et ainult pool tundi peaks sobima.  Kumbki neist ei tea, millest nad räägivad, nii et ma peaksin õppimise üldse vahele jätma.",
+      "explanation": "Eriarvamused ekspertide vahel ei tähenda, et mõlemad on valed, vastus on kompromiss või et vastust pole teada; see tähendab lihtsalt, et on lahkarvamusi – see on kõik, mida me järeldada saame.",
+      "original_example": "My mom says that I should study for at least 2 hours each night, and my dad says just a half hour should be fine.  Neither one of them knows what they are talking about, so I should just skip studying altogether.",
+      "original_explanation": "A disagreement among experts does not mean that both are wrong, the answer is a compromise, or that there is no answer to be known; it simply means that there is disagreement -- that is all we can infer."
+    },
+    {
+      "number": 2,
+      "example": "Teadlased ei suuda universumi vanuses kokku leppida.  Mõned ütlevad, et see on 13,7 miljardit aastat vana, mõned ütlevad, et see on vaid umbes 13 miljardit aastat vana.  See on peaaegu miljard aastat vahet!  Peaks olema selge, et kuna lahkarvamusi on nii palju, tuleks hoolikalt kaaluda ka 6000-aastast universumit.",
+      "explanation": "Teadlased, kes ei nõustu universumi hinnangulise vanusega, teevad seda peamiselt samade objektiivselt kehtivate dateerimismeetodite pisut erinevatel tõlgendustel.  Protsentuaalselt on erinevus üsna väike.  6000 aasta paikapidamine on üks asi, kuid seda teha, tuginedes tõlgenduste erinevusele tavateadusest, on täiesti ekslik.  Erinevused ei mõjuta argumendi tõepärasust (tegelik vanus).",
+      "original_example": "Scientists cannot agree on the age of the universe.  Some say it is 13.7 billion years old, some say it is only about 13 billion years old.  That’s a difference of almost a billion years!  It should be clear that because there is so much disagreement, then the 6000-year-old universe should be carefully considered, as well.",
+      "original_explanation": "Scientists who “disagree” with the estimated age of the universe do so primarily on slightly different interpretations of the same objectively valid dating methods.  The difference is fairly minute in terms of percentage.  Suggesting 6000 years is valid is one thing, but doing so based on the difference in interpretation from mainstream science is completely fallacious.  The differences have no bearing on the truth claim of the argument (the actual age)."
+    }
+  ],
+  "translated_at": "2026-08-30T22:56:17.005Z"
+}

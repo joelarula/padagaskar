@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Subverted-Support",
+  "title": "Subverted Support",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "The attempt to explain some phenomenon that does not actually occur or there is no evidence that it does.  It is a form of *[begging the question](https://www.logicallyfallacious.com/logicalfallacies/Begging-the-Question)*.",
+  "logical_form": "X happens because of Y (when X doesn’t really even happen)",
+  "examples": [
+    {
+      "number": 1,
+      "example": "The reason billions of children starve to death each year is because we live in a world that does not care.",
+      "explanation": "Billions of children don’t starve to death each year -- not even close.  If it were close, it might be better categorized as an exaggeration, but this would be more of an attempt to get the audience to accept the assertion as a fact while focusing more on the reason rather than the assertion itself."
+    },
+    {
+      "number": 2,
+      "example": "The reason the firmament, a tent-like structure that kept the “waters above” from flooding the earth as described in the Bible, is no longer there today, is because it was destroyed during Noah’s flood.",
+      "explanation": "The reason the firmament isn’t there today is because it never existed.  To attempt to explain it is to get the audience to assume it existed."
+    }
+  ],
+  "exceptions": "If the argument is preceded with a declaration that the phenomenon does occur, then what would be the *subverted support *is simply a reason given.\n\nThe firmament, a tent-like structure that kept the “waters above” from flooding the earth as described in the Bible, once covered the earth.  It is no longer there today because it was destroyed during Noah’s flood.",
+  "tips": "Exaggeration is a risky technique you want to avoid. On the one hand, it can make your argument more compelling (technically, by misrepresenting the truth). On the other hand, if you are called out for your exaggeration, it will damage the credibility of your argument as well as your own credibility.",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Subverted_Support.jpg",
+  "slug": "Subverted-Support",
+  "letter": "S",
+  "title_et": "Kahjustatud tugi",
+  "description_et": "Katse selgitada mõnda nähtust, mida tegelikult ei esine või puuduvad tõendid selle kohta.  See on *[küsimuse esitamine](https://www.logicallyfallacious.com/logicalfallacies/Begging-the-Question)*.",
+  "logical_form_et": "X juhtub Y tõttu (kui X tegelikult isegi ei juhtu)",
+  "exceptions_et": "Kui argumendile eelneb deklaratsioon, et nähtus esineb, siis milline oleks *õõnestatud tugi *, on lihtsalt põhjus.\n\nTaevalaotus, telgitaoline ehitis, mis hoidis Piiblis kirjeldatud „veed üleval” maa üle ujutamast, kattis kunagi maad.  Tänapäeval seda enam pole, sest see hävis Noa veeuputuse ajal.",
+  "tips_et": "Liialdamine on riskantne tehnika, mida soovite vältida. Ühest küljest võib see muuta teie argumendi veenvamaks (tehniliselt, esitades tõe valesti). Teisest küljest, kui teid liialdatakse, kahjustab see teie argumendi usaldusväärsust ja ka teie enda usaldusväärsust.",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Põhjus, miks miljardid lapsed igal aastal nälga surevad, on see, et me elame maailmas, mis ei hooli.",
+      "explanation": "Miljardid lapsed ei sure igal aastal nälga – isegi mitte ligilähedaseltki.  Kui see oleks lähedane, võiks seda liigitada pigem liialduseks, kuid see oleks pigem katse panna publik seda väidet faktina aktsepteerima, keskendudes rohkem põhjusele, mitte väitele endale.",
+      "original_example": "The reason billions of children starve to death each year is because we live in a world that does not care.",
+      "original_explanation": "Billions of children don’t starve to death each year -- not even close.  If it were close, it might be better categorized as an exaggeration, but this would be more of an attempt to get the audience to accept the assertion as a fact while focusing more on the reason rather than the assertion itself."
+    },
+    {
+      "number": 2,
+      "example": "Põhjus, miks taevalaotust, telgitaolist ehitist, mis hoidis Piiblis kirjeldatud „veed üleval” maa üle ujutamast, pole tänapäeval enam olemas, sest see hävis Noa veeuputuse ajal.",
+      "explanation": "Põhjus, miks taevalaotust täna pole, on see, et seda pole kunagi eksisteerinud.  Püüdes seda seletada tähendab panna publik arvama, et see on olemas.",
+      "original_example": "The reason the firmament, a tent-like structure that kept the “waters above” from flooding the earth as described in the Bible, is no longer there today, is because it was destroyed during Noah’s flood.",
+      "original_explanation": "The reason the firmament isn’t there today is because it never existed.  To attempt to explain it is to get the audience to assume it existed."
+    }
+  ],
+  "translated_at": "2026-08-30T23:13:39.504Z"
+}

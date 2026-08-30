@@ -1,0 +1,71 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Argument-by-Emotive-Language",
+  "title": "Argument by Emotive Language",
+  "latin_name": "",
+  "also_known_as": [
+    "loaded words",
+    "loaded language",
+    "euphemisms"
+  ],
+  "description": "Substituting facts and evidence with words that stir up emotion, with the attempt to manipulate others into accepting the truth of the argument.",
+  "logical_form": "Person A claims that X is true.\n\nPerson A uses very powerful and emotive language in the claim.\n\nTherefore, X is true.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "By *rejecting* God, you are rejecting goodness, kindness, and love itself.",
+      "explanation": "Instead of just “not believing” in God, we are  “rejecting” God, which is a much stronger term—especially when God is associated with “goodness.”"
+    },
+    {
+      "number": 2,
+      "example": "The Bible is filled with stories of God's *magic*.",
+      "explanation": "Instead of using the more accepted term “miracles,” the word “magic” is used that connotes powers associated with fantasy and make-believe in an attempt to make the stories in the Bible seem foolish."
+    },
+    {
+      "number": 3,
+      "example": "I don’t see what’s wrong with engaging the services of a professional escort.",
+      "explanation": "That’s just a nice way of saying, “soliciting a hooker.”  No matter what you call it unless you live in certain parts of Nevada (or other parts of the world), it is still legally wrong (not necessarily morally wrong)."
+    }
+  ],
+  "exceptions": "Language is powerful and should be used to draw in emotions, but never at the expense of valid reasoning and evidence.",
+  "tips": ": *Euphemisms*, when used correctly, reflect good social intelligence. When in a business meeting, say, “Pardon me for a moment, I have to use the restroom,” rather than “Pardon me for a moment, I have to move my bowels.”",
+  "references": [
+    "Walton, D. (2006). *Fundamentals of Critical Argumentation*. Cambridge University Press."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Argument_by_Emotive_Language.jpg",
+  "slug": "Argument-by-Emotive-Language",
+  "letter": "A",
+  "title_et": "Emotsionaalse keele argument",
+  "description_et": "Faktide ja tõendite asendamine emotsioone õhutavate sõnadega, katsega manipuleerida teisi väite tõesust aktsepteerima.",
+  "logical_form_et": "Isik A väidab, et X on tõsi.\n\nIsik A kasutab väites väga võimsat ja emotsionaalset keelt.\n\nSeetõttu on X tõene.",
+  "exceptions_et": "Keel on võimas ja seda tuleks kasutada emotsioonide tõmbamiseks, kuid mitte kunagi kehtivate põhjenduste ja tõendite arvelt.",
+  "tips_et": ": *Eufemismid* peegeldavad õigel kasutamisel head sotsiaalset intelligentsust. Kui ärikohtumisel öelge: \"Vabandage korraks, ma pean tualetti kasutama\", selle asemel, et \"Vabandage korraks, ma pean oma soolestikku liigutama\".",
+  "also_known_as_et": [
+    "laetud sõnad",
+    "laaditud keel",
+    "eufemismid"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Jumala *hülgamisega* lükkate tagasi headuse, lahkuse ja armastuse enda.",
+      "explanation": "Selle asemel, et lihtsalt \"ei uskuda\" Jumalasse, \"tõrjume\" Jumalat, mis on palju tugevam termin – eriti kui Jumal on seotud \"headusega\".",
+      "original_example": "By *rejecting* God, you are rejecting goodness, kindness, and love itself.",
+      "original_explanation": "Instead of just “not believing” in God, we are  “rejecting” God, which is a much stronger term—especially when God is associated with “goodness.”"
+    },
+    {
+      "number": 2,
+      "example": "Piibel on täis lugusid Jumala *maagiast*.",
+      "explanation": "Selle asemel, et kasutada enam aktsepteeritud mõistet \"imed\", kasutatakse sõna \"maagia\", mis tähistab fantaasia ja teesklusega seotud võimeid, püüdes muuta Piibli lood rumalaks.",
+      "original_example": "The Bible is filled with stories of God's *magic*.",
+      "original_explanation": "Instead of using the more accepted term “miracles,” the word “magic” is used that connotes powers associated with fantasy and make-believe in an attempt to make the stories in the Bible seem foolish."
+    },
+    {
+      "number": 3,
+      "example": "Ma ei saa aru, mis viga on professionaalse saatja teenuste kasutamises.",
+      "explanation": "See on lihtsalt tore viis öelda: \"Hakkuri otsimine\".  Olenemata sellest, kuidas te seda nimetate, välja arvatud juhul, kui elate teatud Nevada osades (või mujal maailmas), on see ikkagi juriidiliselt vale (mitte tingimata moraalselt vale).",
+      "original_example": "I don’t see what’s wrong with engaging the services of a professional escort.",
+      "original_explanation": "That’s just a nice way of saying, “soliciting a hooker.”  No matter what you call it unless you live in certain parts of Nevada (or other parts of the world), it is still legally wrong (not necessarily morally wrong)."
+    }
+  ],
+  "translated_at": "2026-08-30T22:42:18.470Z"
+}

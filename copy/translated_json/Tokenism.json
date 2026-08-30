@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Tokenism",
+  "title": "Tokenism",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Interpreting a token gesture as an adequate substitute for the real thing.",
+  "logical_form": "*Problem X exists.*\n*Solution Y is offered.*\n*Solution Y is inadequate to solve problem X but accepted as adequate.*",
+  "examples": [
+    {
+      "number": 1,
+      "example": "*The presidential nominee has been accused of being racist.  But he recently stated that he really liked the movie, “Roots,” so I guess he isn’t racist.*",
+      "explanation": "Liking one movie that exposes racism and encourages equality, is far from the same as not being a racist."
+    },
+    {
+      "number": 2,
+      "example": "*Mr. McBoss' company consists of 50 executives who are all men, and 50 secretaries who are all women.  To show he is all about equal opportunity, he has agreed to hire a woman executive.*",
+      "explanation": "This \"token\" gesture does not come close to making up for the disproportionate hiring practices of Mr. McBoss' company."
+    }
+  ],
+  "exceptions": "If a token gesture is seen as a token, and not as an adequate substitute, it is not a fallacy.\n\n*I know I have a weight problem, and I am trying.  So far, I have replaced my usual breakfast of doughnuts with a single grapefruit.*\n\n**Fun Fact: **Some attempts to solve racism are Stupid with a capital “S.”",
+  "tips": "",
+  "references": [
+    "Cogan, R. (1998). *Critical Thinking: Step by Step*. University Press of America."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Tokenism.jpg",
+  "slug": "Tokenism",
+  "letter": "T",
+  "title_et": "Tokenism",
+  "description_et": "Sümboolse žesti tõlgendamine tõelise asja adekvaatse asendajana.",
+  "logical_form_et": "*Probleem X on olemas.*\n*Pakutakse lahendust Y.*\n*Lahendus Y ei ole probleemi X lahendamiseks piisav, kuid aktsepteeritud kui piisav.*",
+  "exceptions_et": "Kui märgižesti peetakse märgiks, mitte sobivaks asenduseks, ei ole see eksitus.\n\n*Ma tean, et mul on kaaluprobleem, ja ma üritan.  Seni olen oma tavapärase sõõrikute hommikusöögi asendanud üheainsa greibiga.*\n\n**Lõbus tõsiasi: **Mõned katsed rassismi lahendada on rumalad suure S-iga.",
+  "tips_et": "",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "*Presidendikandidaati on süüdistatud rassistlikkuses.  Kuid ta ütles hiljuti, et talle meeldis film \"Roots\", nii et ma arvan, et ta ei ole rassist.*",
+      "explanation": "Meeldida üks film, mis paljastab rassismi ja julgustab võrdsust, pole kaugeltki sama, mis mitte olla rassist.",
+      "original_example": "*The presidential nominee has been accused of being racist.  But he recently stated that he really liked the movie, “Roots,” so I guess he isn’t racist.*",
+      "original_explanation": "Liking one movie that exposes racism and encourages equality, is far from the same as not being a racist."
+    },
+    {
+      "number": 2,
+      "example": "*Hr. McBossi ettevõte koosneb 50 juhist, kes kõik on mehed, ja 50 sekretärist, kes kõik on naised.  Näidamaks, et ta soovib võrdseid võimalusi, on ta nõustunud palkama naisjuhi.*",
+      "explanation": "See \"märk\" žest ei kompenseeri hr McBossi ettevõtte ebaproportsionaalseid töölevõtmise tavasid.",
+      "original_example": "*Mr. McBoss' company consists of 50 executives who are all men, and 50 secretaries who are all women.  To show he is all about equal opportunity, he has agreed to hire a woman executive.*",
+      "original_explanation": "This \"token\" gesture does not come close to making up for the disproportionate hiring practices of Mr. McBoss' company."
+    }
+  ],
+  "translated_at": "2026-08-30T23:14:46.731Z"
+}

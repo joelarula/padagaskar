@@ -1,0 +1,16 @@
+{
+  "name": "fallacies-mcp-server",
+  "version": "1.0.0",
+  "description": "Model Context Protocol (MCP) server for Logical Fallacies in English and Estonian",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.6.0"
+  },
+  "keywords": ["mcp", "logical-fallacies", "argumentation", "critical-thinking"],
+  "author": "",
+  "license": "MIT"
+}

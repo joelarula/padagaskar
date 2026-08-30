@@ -1,0 +1,63 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Logic-Chopping",
+  "title": "Logic Chopping",
+  "latin_name": "",
+  "also_known_as": [
+    "quibbling",
+    "nit-picking",
+    "smokescreen",
+    "splitting-hairs",
+    "trivial objections"
+  ],
+  "description": "",
+  "logical_form": "*\n*\n\n*A claim is made.\nAn objection is made regarding a trivial part of the claim, distracting from the main point.*",
+  "examples": [
+    {
+      "number": 1,
+      "example": "John: Can you please help me push my car to the side of the road until the tow truck comes?\n\nPaul: Why push it to the side of the road?  Why not just leave it?\n\nJohn: It is slowing down traffic unnecessarily where it is.\n\nPaul: Many things slow down traffic—do you feel you need to do something about all them?\n\nJohn: No, but this was my fault.\n\nPaul: Was it really? Were you the direct cause of your car breaking down?\n\nJohn: Are you going to help me move this damn car or not?!",
+      "explanation": "You can see here that Paul is avoiding the request for assistance by attempting to make a deep philosophical issue out of a simple request.  While Paul may have some good points, not every situation in life calls for deep critical thought.  This situation being one of them."
+    },
+    {
+      "number": 2,
+      "example": "Service Tech: Your car could use some new tires.\n\nBart: You have a financial interest in selling me tires, why should I trust you?\n\nService Tech: You brought your car to me to have it checked, sir.\n\nBart: I brought my car to the shop where you work.\n\nService Tech: So should we forget about the new tires for now?\n\nBart: I never suggested that.  Are you trying to use reverse psychology on me, so I will buy the tires?",
+      "explanation": "This kind of fallacy could easily be a result of someone with paranoid behavioral tendencies -- thinking the world is out to get him or her."
+    }
+  ],
+  "exceptions": "Of course, there is no clear line between situations that call for critical thought and those that call for reactionary obedience, but if you cross the line, hopefully, you are with people who care about you enough to tell you.",
+  "tips": "People don’t like to be made to feel inferior.  You need to know when tact and restraint are more important than being right.",
+  "references": [
+    "Byerly, H. C. (1973). *A primer of logic*. Harper & Row."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Logic_Chopping.jpg",
+  "slug": "Logic-Chopping",
+  "letter": "L",
+  "title_et": "Loogika tükeldamine",
+  "description_et": "",
+  "logical_form_et": "*\n*\n\n*Esitatakse pretensioon.\nVastuväide esitatakse nõude triviaalse osa kohta, mis juhib tähelepanu põhipunktist.*",
+  "exceptions_et": "Muidugi pole selget piiri olukordade vahel, mis nõuavad kriitilist mõtlemist, ja nende vahel, mis nõuavad reaktsioonilist kuulekust, kuid kui ületate piiri, siis loodetavasti olete inimestega, kes hoolivad teist piisavalt, et teile öelda.",
+  "tips_et": "Inimestele ei meeldi, kui nad tunnevad end alaväärsena.  Peate teadma, millal taktitunne ja vaoshoitus on tähtsamad kui õige olemine.",
+  "also_known_as_et": [
+    "sebimine",
+    "nokitsemine",
+    "suitsukate",
+    "juuste lõhenemine",
+    "tühised vastuväited"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "John: Kas saaksite palun aidata mul oma autot tee äärde lükata, kuni puksiirauto tuleb?\n\nPaul: Why push it to the side of the road?  Miks mitte lihtsalt jätta?\n\nJohn: See aeglustab asjatult liiklust seal, kus see on.\n\nPaul: Paljud asjad aeglustavad liiklust – kas tunnete, et peate nende kõigiga midagi ette võtma?\n\nJohn: Ei, aga see oli minu süü.\n\nPaul: Kas see oli tõesti? Kas teie olite auto purunemise otsene põhjus?\n\nJohn: Kas sa aitad mul seda neetud autot teisaldada või mitte?!",
+      "explanation": "Siin on näha, et Paulus väldib abipalvet, üritades lihtsast palvest teha sügava filosoofilise probleemi.  Kuigi Paulil võib olla häid külgi, ei nõua iga olukord elus sügavat kriitilist mõtlemist.  See olukord on üks neist.",
+      "original_example": "John: Can you please help me push my car to the side of the road until the tow truck comes?\n\nPaul: Why push it to the side of the road?  Why not just leave it?\n\nJohn: It is slowing down traffic unnecessarily where it is.\n\nPaul: Many things slow down traffic—do you feel you need to do something about all them?\n\nJohn: No, but this was my fault.\n\nPaul: Was it really? Were you the direct cause of your car breaking down?\n\nJohn: Are you going to help me move this damn car or not?!",
+      "original_explanation": "You can see here that Paul is avoiding the request for assistance by attempting to make a deep philosophical issue out of a simple request.  While Paul may have some good points, not every situation in life calls for deep critical thought.  This situation being one of them."
+    },
+    {
+      "number": 2,
+      "example": "Teenindustehnika: teie autol võib kasutada uusi rehve.\n\nBart: Sul on rahaline huvi mulle rehve müüa, miks ma peaksin sind usaldama?\n\nTeenindustehnik: Te tõite oma auto mulle kontrollimiseks, söör.\n\nBart: Ma tõin oma auto poodi, kus sa töötad.\n\nTeenindustehnik: kas peaksime nüüd uued rehvid unustama?\n\nBart: Ma pole seda kunagi soovitanud.  Kas proovite minu peal kasutada pöördpsühholoogiat, et ma ostan rehvid?",
+      "explanation": "Selline eksitus võib kergesti tuleneda sellest, et keegi, kellel on paranoiline käitumine – arvab, et maailm on valmis teda kätte saama.",
+      "original_example": "Service Tech: Your car could use some new tires.\n\nBart: You have a financial interest in selling me tires, why should I trust you?\n\nService Tech: You brought your car to me to have it checked, sir.\n\nBart: I brought my car to the shop where you work.\n\nService Tech: So should we forget about the new tires for now?\n\nBart: I never suggested that.  Are you trying to use reverse psychology on me, so I will buy the tires?",
+      "original_explanation": "This kind of fallacy could easily be a result of someone with paranoid behavioral tendencies -- thinking the world is out to get him or her."
+    }
+  ],
+  "translated_at": "2026-08-30T22:58:32.388Z"
+}

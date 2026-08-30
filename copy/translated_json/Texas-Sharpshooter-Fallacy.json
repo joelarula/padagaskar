@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Texas-Sharpshooter-Fallacy",
+  "title": "Texas Sharpshooter Fallacy",
+  "latin_name": "",
+  "also_known_as": [
+    "clustering illusion"
+  ],
+  "description": "Ignoring the difference while focusing on the similarities, thus coming to an inaccurate conclusion.  Similar to the *[gambler’s fallacy](https://www.logicallyfallacious.com/logicalfallacies/Gamblers-Fallacy)*, this is an example of inserting meaning into randomness.  This is also similar to the *[post-designation](https://www.logicallyfallacious.com/logicalfallacies/Post-Designation)* fallacy, but with the *Texas sharpshooter fallacy* the focus is generally a result of deliberate misleading.",
+  "logical_form": "*X and Y are compared by several criteria.*\n*A conclusion is made based on only the criteria that produce the desired outcome.*",
+  "examples": [
+    {
+      "number": 1,
+      "example": "*The “prophet” Nostradamus wrote about 500 years ago:*\n\n*Beasts wild with hunger will cross the rivers,\n**The greater part of the battle will be against Hister.\n**He will cause great men to be dragged in a cage of iron,\n**When the son of Germany obeys no law.*\n\n*Surely he must have had some vision of Hitler!*",
+      "explanation": "When you focus on just that prediction, then it might seem that way, but realize that Nostradamus made over 1000 “predictions”, most (all?) of which are vague nonsense.  Given that many predictions, it is statistically impossible NOT to match at least one with an actual event.  Again, if you ignore the noise (the predictions that do not make any sense), it looks amazing.  By the way, “Hister” is the Latin name for the Danube River."
+    },
+    {
+      "number": 2,
+      "example": "*SuperCyberDate.con determined that Sally and Billy are a great match because they both like pizza, movies, junk food, Janet Jackson, and vote republican.*",
+      "explanation": "What SuperCyberDate.con did not take into consideration were the 245 other likes and dislikes that were very different for both Sally and Billy—such as the fact that Billy likes men."
+    }
+  ],
+  "exceptions": "It's never a good idea to ignore the differences in the data while only focusing on the similarities.\n\n**Fun Fact: **The name “*Texas sharpshooter fallacy*” comes from the idea that someone could shoot randomly at a barn, then draw a bullseye around the largest cluster, making it appear as if they were a sharpshooter.",
+  "tips": "",
+  "references": [
+    "Forshaw, M. (2012). *Critical Thinking For Psychology: A Student Guide*. John Wiley & Sons."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Texas_Sharpshooter_Fallacy.jpg",
+  "slug": "Texas-Sharpshooter-Fallacy",
+  "letter": "T",
+  "title_et": "Texas Sharpshooter Fallacy",
+  "description_et": "Erinevuste ignoreerimine, keskendudes samal ajal sarnasustele, tehes seega ebatäpse järelduse.  Sarnaselt *[hasartmängija eksitusega](https://www.logicallyfallacious.com/logicalfallacies/Gamblers-Fallacy)* on see näide juhuslikkusele tähenduse lisamisest.  See sarnaneb ka *[post-designation](https://www.logicallyfallacious.com/logicalfallacies/Post-Designation)* eksitusega, kuid *Texase täpsuslaskja eksituse* puhul on fookus tavaliselt tahtliku eksitamise tulemus.",
+  "logical_form_et": "*X-i ja Y-d võrreldakse mitme kriteeriumi alusel.*\n*Järeldus tehakse ainult nende kriteeriumide põhjal, mis annavad soovitud tulemuse.*",
+  "exceptions_et": "Kunagi pole hea mõte ignoreerida andmete erinevusi, keskendudes ainult sarnasustele.\n\n**Lõbus tõsiasi: **Nimi „*Texase shooter falacy*” tuleneb ideest, et keegi võiks juhuslikult lauta tulistada, seejärel joonistada suurima kobara ümber silmapilk, mis jätab mulje, nagu oleks tegemist täpsuslaskuriga.",
+  "tips_et": "",
+  "also_known_as_et": [
+    "rühmitav illusioon"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "*Prohvet Nostradamus kirjutas umbes 500 aastat tagasi:*\n\n*Näljast metsikud metsalised lähevad üle jõgede,\n**Suurem osa lahingust toimub Histeri vastu.\n** Ta laseb suurmehed raudpuuris tirida,\n**Kui Saksamaa poeg ei järgi ühtki seadust.*\n\n*Kindlasti oli tal Hitlerist mingi nägemus!*",
+      "explanation": "Kui keskendute ainult sellele ennustusele, võib see nii tunduda, kuid mõista, et Nostradamus tegi üle 1000 \"ennustuse\", millest enamik (kõik?) on ebamäärane jama.  Arvestades paljusid ennustusi, on statistiliselt võimatu MITTE ühtida vähemalt ühte tegeliku sündmusega.  Jällegi, kui te eirate müra (ennustusi, millel pole mõtet), tundub see hämmastav.  Muide, “Hister” on Doonau jõe ladinakeelne nimi.",
+      "original_example": "*The “prophet” Nostradamus wrote about 500 years ago:*\n\n*Beasts wild with hunger will cross the rivers,\n**The greater part of the battle will be against Hister.\n**He will cause great men to be dragged in a cage of iron,\n**When the son of Germany obeys no law.*\n\n*Surely he must have had some vision of Hitler!*",
+      "original_explanation": "When you focus on just that prediction, then it might seem that way, but realize that Nostradamus made over 1000 “predictions”, most (all?) of which are vague nonsense.  Given that many predictions, it is statistically impossible NOT to match at least one with an actual event.  Again, if you ignore the noise (the predictions that do not make any sense), it looks amazing.  By the way, “Hister” is the Latin name for the Danube River."
+    },
+    {
+      "number": 2,
+      "example": "*SuperCyberDate.con tegi kindlaks, et Sally ja Billy sobivad suurepäraselt, sest neile mõlemale meeldivad pitsad, filmid, rämpstoit, Janet Jackson ja nad valivad vabariiklaseks.*",
+      "explanation": "SuperCyberDate.con ei võtnud arvesse 245 muud meeldimist ja mittemeeldimist, mis olid nii Sally kui ka Billy jaoks väga erinevad – näiteks asjaolu, et Billyle meeldivad mehed.",
+      "original_example": "*SuperCyberDate.con determined that Sally and Billy are a great match because they both like pizza, movies, junk food, Janet Jackson, and vote republican.*",
+      "original_explanation": "What SuperCyberDate.con did not take into consideration were the 245 other likes and dislikes that were very different for both Sally and Billy—such as the fact that Billy likes men."
+    }
+  ],
+  "translated_at": "2026-08-30T23:14:34.801Z"
+}

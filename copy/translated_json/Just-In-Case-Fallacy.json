@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Just-In-Case-Fallacy",
+  "title": "Just In Case Fallacy",
+  "latin_name": "",
+  "also_known_as": [
+    "worst case scenario fallacy"
+  ],
+  "description": "Making an argument based on the worst-case scenario rather than the most probable scenario, allowing fear to prevail over reason.",
+  "logical_form": "It would be a good idea to accept claim X since it is possible for event Y.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Maury, you should really wear a helmet when playing chess.  You can easily get excited, fall off your chair, and crack your head open.",
+      "explanation": "Every decision you make has both costs and benefits.  Fallacious arguments, like the one above, will attempt to get you to make a decision out of fear rather than reason, thus increasing the *perceived* cost of choosing not to wear a helmet.  Of course, the cost of wearing a helmet while playing chess is peer ridicule of historic proportions."
+    },
+    {
+      "number": 2,
+      "example": "If Hell is real, then you would be wise to accept Christianity as true.",
+      "explanation": "The attempt is to get you to make a decision out of fear rather than reason, thus increasing the *perceived* cost of not accepting Christianity as true.  There are many Christians who reject the idea of Hell and eternal torment by a perfectly loving God.  Plus, there are over a billion people who subscribe to the religion that believes worshiping anyone besides Allah will buy you a one-way ticket into the fiery pits of Hell.  Through reason, you can evaluate these choices and make a decision on reason, not on fear."
+    }
+  ],
+  "exceptions": "When you can come to a reasonable conclusion that preparing for the worst-case scenario is the most economically sound course of action (as in cost-benefit—not necessarily financial), then the fallacy is not committed.",
+  "tips": "Buying insurance or a warranty is not always a good idea—mitigating risk comes with costs, that are often not obvious.",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Just_In_Case_Fallacy.jpg",
+  "slug": "Just-In-Case-Fallacy",
+  "letter": "J",
+  "title_et": "Igaks juhuks eksitus",
+  "description_et": "Argumendi esitamine halvima stsenaariumi, mitte kõige tõenäolisema stsenaariumi põhjal, lastes hirmul mõistusest võitu saada.",
+  "logical_form_et": "Hea mõte oleks nõue X aktsepteerida, kuna see on sündmuse Y puhul võimalik.",
+  "exceptions_et": "Kui jõuate mõistlikule järeldusele, et halvimaks stsenaariumiks valmistumine on majanduslikult kõige mõistlikum (nagu kulude ja tulude puhul – mitte tingimata rahaline), siis ekslikkust ei tehta.",
+  "tips_et": "Kindlustuse või garantii ostmine ei ole alati hea mõte – riski maandamisega kaasnevad kulud, mis sageli ei ole ilmsed.",
+  "also_known_as_et": [
+    "halvima stsenaariumi eksitus"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Maury, sa peaksid malet mängides tõesti kiivrit kandma.  Võite kergesti erutuda, toolilt maha kukkuda ja pea lahti murda.",
+      "explanation": "Igal teie tehtud otsusel on nii kulud kui ka kasu.  Ekslikud argumendid, nagu ülaltoodud, püüavad panna teid otsuseid langetama pigem hirmust kui mõistusest lähtudes, suurendades seega kiivri mittekandmise *tajutavaid* kulusid.  Muidugi on malet mängides kiivri kandmise hind ajaloolise mõõtmega kaaslaste naeruvääristamine.",
+      "original_example": "Maury, you should really wear a helmet when playing chess.  You can easily get excited, fall off your chair, and crack your head open.",
+      "original_explanation": "Every decision you make has both costs and benefits.  Fallacious arguments, like the one above, will attempt to get you to make a decision out of fear rather than reason, thus increasing the *perceived* cost of choosing not to wear a helmet.  Of course, the cost of wearing a helmet while playing chess is peer ridicule of historic proportions."
+    },
+    {
+      "number": 2,
+      "example": "Kui põrgu on tõeline, siis oleks mõistlik aktsepteerida kristlust tõena.",
+      "explanation": "Katse on panna teid tegema otsuseid pigem hirmust kui mõistusest lähtudes, suurendades sellega kristluse tõena mitte aktsepteerimise *tajutavaid* kulusid.  On palju kristlasi, kes lükkavad tagasi idee põrgust ja igavesest piinast täiuslikult armastava Jumala poolt.  Lisaks on üle miljardi inimese, kes liituvad religiooniga, mis usub, et peale Allahi kellegi kummardamine ostab teile üheotsapileti põrgu tulisesse auku.  Läbi mõistuse saate neid valikuid hinnata ja teha otsuse mõistuse, mitte hirmu põhjal.",
+      "original_example": "If Hell is real, then you would be wise to accept Christianity as true.",
+      "original_explanation": "The attempt is to get you to make a decision out of fear rather than reason, thus increasing the *perceived* cost of not accepting Christianity as true.  There are many Christians who reject the idea of Hell and eternal torment by a perfectly loving God.  Plus, there are over a billion people who subscribe to the religion that believes worshiping anyone besides Allah will buy you a one-way ticket into the fiery pits of Hell.  Through reason, you can evaluate these choices and make a decision on reason, not on fear."
+    }
+  ],
+  "translated_at": "2026-08-30T22:57:17.360Z"
+}

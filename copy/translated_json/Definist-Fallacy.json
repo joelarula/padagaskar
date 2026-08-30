@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Definist-Fallacy",
+  "title": "Definist Fallacy",
+  "latin_name": "",
+  "also_known_as": [
+    "persuasive definition fallacy",
+    "redefinition"
+  ],
+  "description": "Defining a term in such a way that makes one’s position much easier to defend.",
+  "logical_form": "A has definition X.\n\nX is harmful to my argument.\n\nTherefore, A has definition Y.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Before we argue about the truth of creationism, let’s define creationism as, “The acceptance of a set of beliefs even more ridiculous than those of flat-earthers.”\n\n**Example #2:**\n\nBefore we argue about the truth of creationism, let’s define evolution as, “Faith in a crackpot theory that is impossible to prove with certainty.”",
+      "explanation": "It should be clear by the two examples who is defending what position.  Both arguers are taking the opportunity to define a term as a way to take a cheap shot at the opponent.  In some cases, they might actually hope their definition is accepted, which would make it very easy to defend, compared to the actual definition."
+    }
+  ],
+  "exceptions": "When a definition used is really an accurate definition from credible sources, regardless of the damage it might do to a position.",
+  "tips": "Do not accept definitions put forth by the opponent unless you researched your definition on your own, and agree.",
+  "references": [
+    "Bunnin, N., & Yu, J. (2008). *The Blackwell Dictionary of Western Philosophy*. John Wiley & Sons."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Definist_Fallacy.jpg",
+  "slug": "Definist-Fallacy",
+  "letter": "D",
+  "title_et": "Definistlik eksitus",
+  "description_et": "Mõiste määratlemine viisil, mis muudab oma positsiooni palju lihtsamaks kaitsta.",
+  "logical_form_et": "A-l on definitsioon X.\n\nX on minu argumendile kahjulik.\n\nSeetõttu on A-l definitsioon Y.",
+  "exceptions_et": "Kui kasutatav määratlus on tõesti usaldusväärne usaldusväärsetest allikatest pärit määratlus, olenemata sellest, millist kahju see positsioonile võib põhjustada.",
+  "tips_et": "Ärge aktsepteerige vastase esitatud definitsioone, kui te pole oma määratlust ise uurinud ja nõustute.",
+  "also_known_as_et": [
+    "veenev määratlusviga",
+    "ümberdefineerimine"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Enne kui vaidleme kreatsionismi tõe üle, defineerigem kreatsionismi järgmiselt: \"Uskumuste kogumi aktsepteerimine, mis on veelgi naeruväärsem kui lamemaalaste omad.\"\n\n**Näide #2:**\n\nEnne kui vaidleme kreatsionismi tõesuse üle, defineerigem evolutsiooni järgmiselt: \"Usk mõra teooriasse, mida on võimatu kindlalt tõestada.\"",
+      "explanation": "Kahe näite põhjal peaks olema selge, kes millist seisukohta kaitseb.  Mõlemad vaidlejad kasutavad võimalust defineerida terminit kui viisi, kuidas vastase pihta odav löök.  Mõnel juhul võivad nad tegelikult loota, et nende määratlus aktsepteeritakse, mis muudaks kaitsmise tegeliku määratlusega võrreldes väga lihtsaks.",
+      "original_example": "Before we argue about the truth of creationism, let’s define creationism as, “The acceptance of a set of beliefs even more ridiculous than those of flat-earthers.”\n\n**Example #2:**\n\nBefore we argue about the truth of creationism, let’s define evolution as, “Faith in a crackpot theory that is impossible to prove with certainty.”",
+      "original_explanation": "It should be clear by the two examples who is defending what position.  Both arguers are taking the opportunity to define a term as a way to take a cheap shot at the opponent.  In some cases, they might actually hope their definition is accepted, which would make it very easy to defend, compared to the actual definition."
+    }
+  ],
+  "translated_at": "2026-08-30T22:42:51.893Z"
+}

@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Overextended-Outrage",
+  "title": "Overextended Outrage",
+  "latin_name": "",
+  "also_known_as": [
+    "overextended moral outrage",
+    "overextended political outrage"
+  ],
+  "description": "This is a form of poor statistical thinking where one or more statistically rare cases are implied to be the norm or the trend (without evidence) for the purpose of expressing or inciting outrage toward an entire group. It is a form of extreme *[stereotyping (the fallacy)](https://www.logicallyfallacious.com/logicalfallacies/Stereotyping-the-fallacy)*, based on the cognitive bias known as the *group attribution error*.",
+  "logical_form": "Person 1 does something bad.\n\nPerson 1 is a member of group X.\n\nOutrage is expressed towards group X.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "FAUX News runs a story about an illegal immigrant who committed a horrible crime. The commentators talk about this case for weeks, expressing outrage about the serious danger illegal immigrants pose to the good people of the United States.",
+      "explanation": "Violent crime by illegal immigrants is rarer than violent crime committed by U.S. citizens [1]. However, if the narrative a media outlet is trying to sell is that illegal immigrants are dangerous, then they can influence public opinion by inferring that one example of such violence is characteristic of the group. Expressing outrage is a way to make the influence even more effective."
+    },
+    {
+      "number": 2,
+      "example": "The Huffaluf Post runs a story about a Republican who assaulted a Muslim woman and told her to \"go back where she came from.\" The story is shared millions of times and picked up by other liberal media outlets. Liberals are discussing this story on social media saying how outraged they are at Republicans for their hatred of Muslims.",
+      "explanation": "People and the media (biased media) tend to associate a physical or social identity to the perpetrator of a crime for the purpose of damaging the group's public perception. Why a \"Republican\" man? How many Republicans are assaulting Muslim women? How many Democrats are? The data are ignored for the benefit of the narrative being sold."
+    }
+  ],
+  "exceptions": "There is no exception. If it is \"overextended,\" then the problem is being exaggerated, and a group of people is unfairly demonized.",
+  "tips": "Next time you read about a story that makes you feel outraged, direct your outrage to the individuals directly involved in the story. Don't demonize an entire physical or social identity.",
+  "references": [
+    "This is an original logical fallacy named by the author.",
+    "1 Adelman, R., Reid, L. W., Markle, G., Weiss, S., & Jaret, C. (2017). Urban crime rates and the changing face of immigration: Evidence across four decades. *Journal of Ethnicity in Criminal Justice*, *15*(1), 52–77. https://doi.org/10.1080/15377938.2016.1261057"
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Overextended_Outrage.jpg",
+  "slug": "Overextended-Outrage",
+  "letter": "O",
+  "title_et": "Ülepikendatud nördimus",
+  "description_et": "See on halva statistilise mõtlemise vorm, mille puhul eeldatakse, et üks või mitu statistiliselt haruldast juhtumit on norm või suundumus (ilma tõenditeta), eesmärgiga väljendada või õhutada pahameelt terve rühma vastu. See on äärmusliku *[stereotüüpimise (eksimus)](https://www.logicallyfallacious.com/logicalfallacies/Stereotyping-the-fallacy)* vorm, mis põhineb *grupi omistamisveaks* tuntud kognitiivsel eelarvamusel.",
+  "logical_form_et": "1. inimene teeb midagi halba.\n\nIsik 1 on grupi X liige.\n\nRühma X vastu väljendatakse nördimust.",
+  "exceptions_et": "Pole erandit. Kui see on \"üle laiendatud\", siis probleemiga liialdatakse ja inimgruppi demoniseeritakse ebaõiglaselt.",
+  "tips_et": "Järgmine kord, kui loed loost, mis tekitab sinus nördimust, suuna oma pahameel looga otseselt seotud isikutele. Ärge demoniseerige kogu füüsilist või sotsiaalset identiteeti.",
+  "also_known_as_et": [
+    "ülemäärane moraalne nördimus",
+    "liialdatud poliitiline nördimus"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "FAUX News edastab loo illegaalsest immigrandist, kes pani toime kohutava kuriteo. Kommentaatorid räägivad sellest juhtumist nädalaid, väljendades nördimust tõsise ohu üle, mida illegaalsed immigrandid USA tublidele inimestele kujutavad.",
+      "explanation": "Ebaseaduslike immigrantide vägivaldsed kuriteod on harvemad kui USA kodanike vägivaldsed kuriteod [1]. Kui aga narratiiv, mida meediaväljaanne üritab müüa, ütleb, et illegaalsed immigrandid on ohtlikud, saavad nad avalikku arvamust mõjutada, järeldades, et üks sellise vägivalla näide on rühmale iseloomulik. Nördimuse väljendamine on viis mõju veelgi tõhusamaks muuta.",
+      "original_example": "FAUX News runs a story about an illegal immigrant who committed a horrible crime. The commentators talk about this case for weeks, expressing outrage about the serious danger illegal immigrants pose to the good people of the United States.",
+      "original_explanation": "Violent crime by illegal immigrants is rarer than violent crime committed by U.S. citizens [1]. However, if the narrative a media outlet is trying to sell is that illegal immigrants are dangerous, then they can influence public opinion by inferring that one example of such violence is characteristic of the group. Expressing outrage is a way to make the influence even more effective."
+    },
+    {
+      "number": 2,
+      "example": "Huffaluf Post avaldab loo vabariiklasest, kes ründas mosleminaist ja käskis tal \"mine tagasi sinna, kust ta tuli\". Lugu jagatakse miljoneid kordi ja seda korjavad üles ka teised liberaalsed meediaväljaanded. Liberaalid arutavad seda lugu sotsiaalmeedias, öeldes, kui nördinud nad on vabariiklaste peale nende vihkamise pärast moslemite vastu.",
+      "explanation": "Inimesed ja meedia (kallutatud meedia) kipuvad seostama kuriteo toimepanijaga füüsilist või sotsiaalset identiteeti eesmärgiga kahjustada grupi avalikku ettekujutust. Miks \"vabariiklane\"? Kui palju vabariiklasi ründab mosleminaisi? Kui palju on demokraate? Andmeid eiratakse müüdava narratiivi huvides.",
+      "original_example": "The Huffaluf Post runs a story about a Republican who assaulted a Muslim woman and told her to \"go back where she came from.\" The story is shared millions of times and picked up by other liberal media outlets. Liberals are discussing this story on social media saying how outraged they are at Republicans for their hatred of Muslims.",
+      "original_explanation": "People and the media (biased media) tend to associate a physical or social identity to the perpetrator of a crime for the purpose of damaging the group's public perception. Why a \"Republican\" man? How many Republicans are assaulting Muslim women? How many Democrats are? The data are ignored for the benefit of the narrative being sold."
+    }
+  ],
+  "translated_at": "2026-08-30T23:03:14.218Z"
+}

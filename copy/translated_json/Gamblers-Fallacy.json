@@ -1,0 +1,69 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Gamblers-Fallacy",
+  "title": "Gambler’s Fallacy",
+  "latin_name": "",
+  "also_known_as": [
+    "the Monte Carlo fallacy",
+    "the doctrine of the maturity of chances"
+  ],
+  "description": "Reasoning that, in a situation that is pure random chance, the outcome can be affected by previous outcomes.",
+  "logical_form": "*Situation X is purely random.*\n*Situation X resulted in Y.*\n*Y is less likely to be the result next time.*",
+  "examples": [
+    {
+      "number": 1,
+      "example": "*I have flipped heads five times in a row.  As a result, the next flip will probably be tails.*",
+      "explanation": "The odds for each and every flip are calculated independently from other flips.  The chance for each flip is 50/50, no matter how many times heads came up before."
+    },
+    {
+      "number": 2,
+      "example": "*Eric: For my lottery numbers, I chose 6, 14, 22, 35, 38, 40.  What did you choose?*\n\n*Steve: I chose 1, 2, 3, 4, 5, 6.*\n\n*Eric: You idiot!  Those numbers will never come up!*",
+      "explanation": "“Common sense” is contrary to logic and probability, when people think that any possible lottery number is more probable than any other.  This is because we see meaning in patterns -- but probability doesn’t.  Because of what is called the *clustering illusion*, we give the numbers 1, 2, 3, 4, 5, and 6 special meaning when arranged in that order, random chance is just as likely to produce a 1 as the first number as it is a 6.  Now the second number produced is only affected by the first selection in that the first number is no longer a possible choice, but still, the number 2 has the same odds of being selected as 14, and so on."
+    },
+    {
+      "number": 3,
+      "example": "*Maury: Please put all my chips on red 21.*\n\n*Dealer: Are you sure you want to do that?  Red 21 just came up in the last spin.*\n\n*Maury:  I didn’t know that!  Thank you!  Put it on black 15 instead.  I can’t believe I almost made that mistake!*",
+      "explanation": "The dealer (or whatever you call the person spinning the roulette wheel) really should know better -- the fact that red 21 just came up is completely irrelevant to the chances that it will come up again for the next spin.  If it did, to us, that would seem “weird,” but it is simply the inevitable result of probability."
+    }
+  ],
+  "exceptions": "If you think something is random, but it really isn’t -- like a loaded die, then previous outcomes can be used as an indicator of future outcomes.",
+  "tips": "Gamble for fun, not for the money, and don’t wager more than you wouldn’t mind losing.  Remember, at least as far as casinos go, the odds are against you.",
+  "references": [
+    "Tversky, A., & Kahneman, D. (1974). Judgment under Uncertainty: Heuristics and Biases. *Science*, *185*(4157), 1124–1131. https://doi.org/10.1126/science.185.4157.1124"
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Gambler___s_Fallacy.jpg",
+  "slug": "Gamblers-Fallacy",
+  "letter": "G",
+  "title_et": "Mänguri eksitus",
+  "description_et": "Põhjendades, et olukorras, mis on puhas juhuslik juhus, võivad tulemust mõjutada varasemad tulemused.",
+  "logical_form_et": "*Olukord X on täiesti juhuslik.*\n*Situatsiooni X tulemuseks oli Y.*\n*Järgmisel korral on tulemuseks vähem tõenäoline.*",
+  "exceptions_et": "Kui arvate, et miski on juhuslik, aga tegelikult pole see nii – nagu laetud stants, siis saab varasemaid tulemusi kasutada tulevaste tulemuste indikaatorina.",
+  "tips_et": "Mängige lõbu pärast, mitte raha pärast ja ärge panustage rohkem, kui teil poleks kahju kaotada.  Pidage meeles, et vähemalt kasiinode puhul on tõenäosus teie vastu.",
+  "also_known_as_et": [
+    "Monte Carlo eksitus",
+    "juhuste küpsuse õpetus"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "*Olen viis korda järjest pead pööranud.  Selle tulemusena on tõenäoliselt järgmine klapp sabad.*",
+      "explanation": "Iga flipi koefitsient arvutatakse teistest flippidest sõltumatult.  Iga ümberpööramise võimalus on 50/50, olenemata sellest, kui mitu korda varem tulid pead.",
+      "original_example": "*I have flipped heads five times in a row.  As a result, the next flip will probably be tails.*",
+      "original_explanation": "The odds for each and every flip are calculated independently from other flips.  The chance for each flip is 50/50, no matter how many times heads came up before."
+    },
+    {
+      "number": 2,
+      "example": "*Eric: valisin oma loosinumbriteks 6, 14, 22, 35, 38, 40. Mille sa valisid?*\n\n*Steve: Valisin 1, 2, 3, 4, 5, 6.*\n\n*Eric: Sa idioot!  Need numbrid ei tule kunagi välja!*",
+      "explanation": "\"Terine mõistus\" on vastuolus loogika ja tõenäosusega, kui inimesed arvavad, et mis tahes võimalik lotonumber on tõenäolisem kui ükski teine.  Selle põhjuseks on asjaolu, et me näeme mustrites tähendust, kuid tõenäosus seda mitte.  Tänu sellele, mida nimetatakse *klastri illusiooniks*, anname numbritele 1, 2, 3, 4, 5 ja 6 eritähendused, kui need on paigutatud selles järjestuses, juhuslik juhus annab sama tõenäolisena 1 kui esimene arv kui ka 6. Nüüd mõjutab teist genereeritud arvu ainult esimene valik, kuna esimene arv ei ole enam võimalik kui võimalik valik 2, kuid on siiski sama, nii edasi.",
+      "original_example": "*Eric: For my lottery numbers, I chose 6, 14, 22, 35, 38, 40.  What did you choose?*\n\n*Steve: I chose 1, 2, 3, 4, 5, 6.*\n\n*Eric: You idiot!  Those numbers will never come up!*",
+      "original_explanation": "“Common sense” is contrary to logic and probability, when people think that any possible lottery number is more probable than any other.  This is because we see meaning in patterns -- but probability doesn’t.  Because of what is called the *clustering illusion*, we give the numbers 1, 2, 3, 4, 5, and 6 special meaning when arranged in that order, random chance is just as likely to produce a 1 as the first number as it is a 6.  Now the second number produced is only affected by the first selection in that the first number is no longer a possible choice, but still, the number 2 has the same odds of being selected as 14, and so on."
+    },
+    {
+      "number": 3,
+      "example": "*Maury: Palun pane kõik mu žetoonid punasele 21.*\n\n*Diiler: Kas olete kindel, et soovite seda teha?  Punane 21 tuli just viimases keerutuses.*\n\n*Maury: Ma ei teadnud seda!  Aitäh!  Pane see hoopis mustale 15 peale.  Ma ei suuda uskuda, et ma peaaegu selle vea tegin!*",
+      "explanation": "Diiler (või kuidas iganes ruletiratast keerutavat inimest nimetada) peaks tõesti paremini teadma – see, et punane 21 just ilmus, on täiesti ebaoluline selle tõenäosuse jaoks, et see järgmisel keerutamisel uuesti esile kerkib.  Kui see nii oleks, siis meie jaoks tunduks see \"veider\", kuid see on lihtsalt tõenäosuse vältimatu tagajärg.",
+      "original_example": "*Maury: Please put all my chips on red 21.*\n\n*Dealer: Are you sure you want to do that?  Red 21 just came up in the last spin.*\n\n*Maury:  I didn’t know that!  Thank you!  Put it on black 15 instead.  I can’t believe I almost made that mistake!*",
+      "original_explanation": "The dealer (or whatever you call the person spinning the roulette wheel) really should know better -- the fact that red 21 just came up is completely irrelevant to the chances that it will come up again for the next spin.  If it did, to us, that would seem “weird,” but it is simply the inevitable result of probability."
+    }
+  ],
+  "translated_at": "2026-08-30T22:50:48.792Z"
+}

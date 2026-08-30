@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Retrogressive-Causation",
+  "title": "Retrogressive Causation",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Invoking the cause to eliminate the effect, or calling on the source to relieve the effect of the source.",
+  "logical_form": "*X causes/is the source of Y.*\n\n*In order to eliminate or relieve Y, do more of X.*",
+  "examples": [
+    {
+      "number": 1,
+      "example": "*Jen: Don’t you realize that all this drinking you are doing is making your family miserable?*\n\n*Bridget: Yes, I do.*\n\n*Jen: Then what are you doing about it?*\n\n*Bridget: Drinking to forget.*",
+      "explanation": "Bridget has a drinking problem that she is dealing with by drinking some more -- because the effects of drinking make her (temporarily) forget/not worry about the greater scale effects of her drinking.  Her reasoning that this is a good idea is fallacious."
+    },
+    {
+      "number": 2,
+      "example": "David: We have way too much police presence in this city.\n\nPete: What are you going to do about it?\n\nDavid: Vandalize, loot, and perhaps a little arson.",
+      "explanation": "The primary role of the police is to enforce laws. David is suggesting that breaking the laws will facilitate his goal of having the police force reduced."
+    }
+  ],
+  "exceptions": "In some cases, one may not be trying to eliminate the effect, but rather continue the cycle for some higher purpose. For example, if one learns to feel constant guilt by going to church and is relieved of that guilt by going to confession, they might find meaning in the constant “spiritual cleansing” ritual. While this might seem like irrational thinking to some, it would not fit under this fallacy.\n\n**Fun Fact:** People are easily persuaded to act against their self-interests. If acting against their self-interest is for some higher purpose, the behavior would not be considered irrational.",
+  "tips": "",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Retrogressive_Causation.jpg",
+  "slug": "Retrogressive-Causation",
+  "letter": "R",
+  "title_et": "Retrogressiivne põhjuslik seos",
+  "description_et": "Põhjusele kutsumine tagajärje kõrvaldamiseks või allika kutsumine allika mõju leevendama.",
+  "logical_form_et": "*X põhjustab/on Y allikas.*\n\n*Y-i kõrvaldamiseks või leevendamiseks tehke X-i rohkem.*",
+  "exceptions_et": "Mõnel juhul ei pruugitagi püüda efekti kõrvaldada, vaid pigem jätkata tsüklit mingil kõrgemal eesmärgil. Näiteks kui inimene õpib kirikus käies tundma pidevat süütunnet ja vabaneb sellest süütundest pihtides käies, võib ta leida tähenduse pidevast “vaimse puhastuse” rituaalist. Kuigi see võib mõnele tunduda irratsionaalne mõtlemine, ei mahu see selle eksituse alla.\n\n**Lõbus fakt:** inimesi on lihtne veenda tegutsema oma huvide vastaselt. Kui nende omakasu vastane tegutsemine on mingil kõrgemal eesmärgil, ei peetaks seda käitumist irratsionaalseks.",
+  "tips_et": "",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "*Jen: Kas sa ei saa aru, et kogu see joomine, mida sa teed, muudab su pere õnnetuks?*\n\n*Bridget: Jah, ma tean.*\n\n*Jen: Mida sa siis sellega teed?*\n\n*Bridget: Joob, et unustada.*",
+      "explanation": "Bridgetil on joomise probleem, millega ta tegeleb joomisega, sest joomise tagajärjed sunnivad teda (ajutiselt) unustama/mitte muretsema joomise suuremate mõjude pärast.  Tema arutluskäik, et see on hea idee, on ekslik.",
+      "original_example": "*Jen: Don’t you realize that all this drinking you are doing is making your family miserable?*\n\n*Bridget: Yes, I do.*\n\n*Jen: Then what are you doing about it?*\n\n*Bridget: Drinking to forget.*",
+      "original_explanation": "Bridget has a drinking problem that she is dealing with by drinking some more -- because the effects of drinking make her (temporarily) forget/not worry about the greater scale effects of her drinking.  Her reasoning that this is a good idea is fallacious."
+    },
+    {
+      "number": 2,
+      "example": "David: Meil ​​on selles linnas liiga palju politseinikke.\n\nPete: Mida sa sellega peale hakkad?\n\nDavid: Vandaalitse, rüüsta ja võib-olla süüta.",
+      "explanation": "Politsei peamine ülesanne on seaduste jõustamine. David vihjab, et seaduste rikkumine hõlbustab tema eesmärki vähendada politseijõude.",
+      "original_example": "David: We have way too much police presence in this city.\n\nPete: What are you going to do about it?\n\nDavid: Vandalize, loot, and perhaps a little arson.",
+      "original_explanation": "The primary role of the police is to enforce laws. David is suggesting that breaking the laws will facilitate his goal of having the police force reduced."
+    }
+  ],
+  "translated_at": "2026-08-30T23:09:07.964Z"
+}

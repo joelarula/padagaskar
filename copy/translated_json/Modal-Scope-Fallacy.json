@@ -1,0 +1,59 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Modal-Scope-Fallacy",
+  "title": "Modal (Scope) Fallacy",
+  "latin_name": "",
+  "also_known_as": [
+    "fallacy of modal logic",
+    "misconditionalization",
+    "fallacy of neccessity"
+  ],
+  "description": "*Modal logic* studies ways in which propositions can be true or false, the most common being *necessity* and *possibility*.  Some propositions are necessarily true/false, and others are possibly true/false.  In short, a modal fallacy involves making a formal argument invalid by confusing the *scope* of what is actually necessary or possible.",
+  "logical_form": "*A conditional claim is made using a necessary truth.*\n*Therefore, conclusion is reached that a possible truth is necessary with no conditional statement.*",
+  "examples": [
+    {
+      "number": 1,
+      "example": "*If Debbie and TJ have two sons and two daughters, then they must have at least one son.*\n*Debbie and TJ have two sons and two daughters.*\n*Therefore, Debbie and TJ must have at least one son.*",
+      "explanation": "We are told that Debbie and TJ have two sons and two daughters, so logically, by necessity, they must *have at* least one son.  However, to say that Debbie and TJ *must* have at least one son, is to *confuse the scope of the modal*, or in this case, to take the *contingent fact* that applies to the specific case that is conditional upon Debbie and TJ having the two sons and two daughters, to the general hypothetical case where they don’t have to have any children.  Therefore, if they don’t *have to* have any children, then they certainly don’t *have to* (*necessary fact*) have at least one son."
+    },
+    {
+      "number": 2,
+      "example": "*If Barak is President, then he must be 35 years-old or older.*",
+      "explanation": "Technically this is fallacious.  There is no condition in which someone *necessarily* is a certain age.  More accurately, we would say:\n\n*It must be the case that if Barak is President, then he is 35 or older.*\n\nThe “must” in this second statement covers the whole condition, not just the age of the president."
+    }
+  ],
+  "exceptions": "This is one of those fallacies that would make you look foolish for calling someone out on, unless you are among all academic philosophers. In casual argumentation many people do mean \"possibility\" and not \"necessity.\" Remember to offer others a charitable interpretation of their argument.\n\n**Fun Fact:** According to Article II of the U.S. Constitution, the president of the United States must be a natural-born citizen of the United States; be at least 35 years old; have been a resident of the United States for 14 years; and be able to identify a snake, an elephant, and an alligator.",
+  "tips": "",
+  "references": [
+    "Curtis, G. N. (1993). *The Concept of Logical Form*. Indiana University."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Modal__Scope__Fallacy.jpg",
+  "slug": "Modal-Scope-Fallacy",
+  "letter": "M",
+  "title_et": "Modaalne (ulatus) eksitus",
+  "description_et": "*Modaalne loogika* uurib viise, kuidas propositsioonid võivad olla tõesed või valed, millest kõige levinumad on *vajadus* ja *võimalus*.  Mõned väited on tingimata tõesed/valed ja teised võib-olla tõesed/valed.  Lühidalt öeldes hõlmab modaalne eksitus formaalse argumendi kehtetuks muutmist, ajades segamini selle *ulatuse*, mis on tegelikult vajalik või võimalik.",
+  "logical_form_et": "*Tingimuslik väide esitatakse vajalikku tõde kasutades.*\n*Seetõttu jõutakse järeldusele, et võimalik tõde on vajalik ilma tingimusliku väiteta.*",
+  "exceptions_et": "See on üks nendest eksitustest, mis paneks teid kellegi peale kutsudes loll välja nägema, välja arvatud juhul, kui kuulute kõigi akadeemiliste filosoofide hulka. Juhuslikus vaidluses mõtlevad paljud inimesed \"võimalust\" ja mitte \"vajadust\". Ärge unustage pakkuda teistele oma argumendile heategevuslikku tõlgendust.\n\n**Lõbus tõsiasi:** USA põhiseaduse artikli II kohaselt peab Ameerika Ühendriikide president olema Ameerika Ühendriikide loomulikul teel sündinud kodanik; olema vähemalt 35-aastane; on olnud Ameerika Ühendriikide elanik 14 aastat; ja oskama tuvastada madu, elevanti ja alligaatorit.",
+  "tips_et": "",
+  "also_known_as_et": [
+    "modaalse loogika eksitus",
+    "väärtingimuste seadmine",
+    "vajalikkuse ekslikkus"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "*Kui Debbiel ja TJ-l on kaks poega ja kaks tütart, peab neil olema vähemalt üks poeg.*\n*Debbiel ja TJ-l on kaks poega ja kaks tütart.*\n*Seetõttu peab Debbiel ja TJ-l olema vähemalt üks poeg.*",
+      "explanation": "Meile öeldakse, et Debbiel ja TJ-l on kaks poega ja kaks tütart, nii et loogiliselt võttes peab neil olema * vähemalt üks poeg.  Kui aga öelda, et Debbiel ja TJ-l *peab* olema vähemalt üks poeg, aetakse *modaali ulatus segamini* või antud juhul võtta *tingimuslik fakt*, mis kehtib konkreetse juhtumi puhul, mille tingimuseks on, et Debbiel ja TJ-l on kaks poega ja kaks tütart, üldisele hüpoteetilisele juhtumile, kus neil ei pea lapsi olema.  Seega, kui neil *ei pea* olema lapsi, ei pea nad kindlasti *(*vajalik fakt*) saama vähemalt ühte poega.",
+      "original_example": "*If Debbie and TJ have two sons and two daughters, then they must have at least one son.*\n*Debbie and TJ have two sons and two daughters.*\n*Therefore, Debbie and TJ must have at least one son.*",
+      "original_explanation": "We are told that Debbie and TJ have two sons and two daughters, so logically, by necessity, they must *have at* least one son.  However, to say that Debbie and TJ *must* have at least one son, is to *confuse the scope of the modal*, or in this case, to take the *contingent fact* that applies to the specific case that is conditional upon Debbie and TJ having the two sons and two daughters, to the general hypothetical case where they don’t have to have any children.  Therefore, if they don’t *have to* have any children, then they certainly don’t *have to* (*necessary fact*) have at least one son."
+    },
+    {
+      "number": 2,
+      "example": "*Kui Barak on president, peab ta olema 35-aastane või vanem.*",
+      "explanation": "Tehniliselt on see ekslik.  Pole olemas tingimust, kus keegi *tingimata* on teatud vanuses.  Täpsemalt ütleksime:\n\n*Peab olema nii, et kui Barak on president, siis ta on 35 või vanem.*\n\nSelle teise väite \"peab\" hõlmab kogu seisundit, mitte ainult presidendi vanust.",
+      "original_example": "*If Barak is President, then he must be 35 years-old or older.*",
+      "original_explanation": "Technically this is fallacious.  There is no condition in which someone *necessarily* is a certain age.  More accurately, we would say:\n\n*It must be the case that if Barak is President, then he is 35 or older.*\n\nThe “must” in this second statement covers the whole condition, not just the age of the president."
+    }
+  ],
+  "translated_at": "2026-08-30T23:00:19.640Z"
+}

@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Distinction-Without-a-Difference",
+  "title": "Distinction Without a Difference",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "The assertion that a position is different from another position based on the language when, in fact, both positions are the same -- at least in practice or practical terms.",
+  "logical_form": "*Claim X is made where the truth of the claim requires a distinct difference between A and B.*\n*There is no distinct difference between A and B.*\n*Therefore, claim X is true.*",
+  "examples": [
+    {
+      "number": 1,
+      "example": "*Sergio: There is no way I would ever even consider taking dancing lessons.\n**Kitty: How about I ask my friend from work to teach you?\n**Sergio: If you know someone who is willing to teach me how to dance, then I am willing to learn, sure.*",
+      "explanation": "Perhaps it is the stigma of “dancing lessons” that is causing Sergio to hold this view, but the fact is, someone teaching him how to dance is the same thing.  Sergio has been duped by language."
+    },
+    {
+      "number": 2,
+      "example": "*We must judge this issue by what the Bible says, not by what we think it says or by what some scholar or theologian thinks it says.*",
+      "explanation": "Before you say, “Amen!”, realize that this is a clear case of *distinction without a difference*.  There is absolutely no difference here because the only possible way to read the Bible is through interpretation, in other words, what we think it says.  What is being implied here is that one's own interpretation (what he or she thinks the Bible says) is what it really says, and everyone else who has a different interpretation is not really reading the Bible for what it says."
+    }
+  ],
+  "exceptions": "It is possible that some difference can be very minute, exist in principle only, or made for emphasis, in which case the fallacy could be debatable.\n\n*Coach:  I don’t want you to try to get the ball; I want you to GET the ball!*\n\nIn practical usage, this means the same thing, but the effect could be motivating, especially in a non-argumentative context.",
+  "tips": "Replace the phrase, “I’ll try” in your vocabulary with, “I’ll do my best”.  While the same idea in practice, perceptually it means so much more.",
+  "references": [
+    "Smart, B. H. (1829). *Practical Logic,: Or Hints to Theme-writers: to which are Now Added Some Prefatory Remarks on Aristotelian Logic, with Particular Reference to a Late Work of Dr. Whatley’s*. Whittaker, Treacher, & Company."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Distinction_Without_a_Difference.jpg",
+  "slug": "Distinction-Without-a-Difference",
+  "letter": "D",
+  "title_et": "Erinevus ilma erinevuseta",
+  "description_et": "Väide, et positsioon erineb teisest positsioonist keele põhjal, kuigi tegelikult on mõlemad positsioonid samad – vähemalt praktikas või praktilises mõttes.",
+  "logical_form_et": "*Väide X esitatakse juhul, kui väite õigsus nõuab selget erinevust A ja B vahel.*\n*A ja B vahel pole selget erinevust.*\n*Seetõttu on väide X tõsi.*",
+  "exceptions_et": "Võimalik, et mõni erinevus võib olla väga väike, eksisteerida ainult põhimõtteliselt või esiletõstmiseks, sel juhul võib eksitus olla vaieldav.\n\n*Treener: Ma ei taha, et sa prooviksid palli kätte saada; Ma tahan, et sa palli saaksid!*\n\nPraktikas tähendab see sama asja, kuid mõju võib olla motiveeriv, eriti argumenteerimata kontekstis.",
+  "tips_et": "Asendage fraas \"ma proovin\" oma sõnavaras fraasiga \"Ma annan endast parima\".  Kuigi praktikas on sama idee, tähendab see tajuliselt palju enamat.",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "*Sergio: Ma ei kaaluks kunagi isegi tantsutundide võtmist.\n**Kissu: Kuidas oleks, kui ma paluksin oma sõbral töölt sind õpetada?\n**Sergio: Kui tead kedagi, kes on nõus mind tantsima õpetama, siis ma olen nõus seda kindlasti õppima.*",
+      "explanation": "Võib-olla põhjustab Sergio seda seisukohta „tantsutundide” häbimärgistamine, kuid fakt on see, et keegi, kes õpetab talle tantsima, on sama asi.  Sergiot on keel petnud.",
+      "original_example": "*Sergio: There is no way I would ever even consider taking dancing lessons.\n**Kitty: How about I ask my friend from work to teach you?\n**Sergio: If you know someone who is willing to teach me how to dance, then I am willing to learn, sure.*",
+      "original_explanation": "Perhaps it is the stigma of “dancing lessons” that is causing Sergio to hold this view, but the fact is, someone teaching him how to dance is the same thing.  Sergio has been duped by language."
+    },
+    {
+      "number": 2,
+      "example": "*Me peame hindama seda küsimust selle järgi, mida Piibel ütleb, mitte selle järgi, mida me arvame, et see ütleb või mida mõni õpetlane või teoloog arvab, et see ütleb.*",
+      "explanation": "Enne kui ütlete: \"Aamen!\", mõistke, et see on selge *erinevus ilma erinevuseta*.  Siin pole absoluutselt mingit vahet, sest ainus võimalik viis Piibli lugemiseks on tõlgendamine, teisisõnu see, mida me arvame, et see ütleb.  Siin antakse mõista, et inimese enda tõlgendus (mida ta arvab, et Piibel ütleb) on see, mida see tegelikult ütleb, ja kõik teised, kellel on erinev tõlgendus, ei loe tegelikult Piiblit selle järgi, mida see ütleb.",
+      "original_example": "*We must judge this issue by what the Bible says, not by what we think it says or by what some scholar or theologian thinks it says.*",
+      "original_explanation": "Before you say, “Amen!”, realize that this is a clear case of *distinction without a difference*.  There is absolutely no difference here because the only possible way to read the Bible is through interpretation, in other words, what we think it says.  What is being implied here is that one's own interpretation (what he or she thinks the Bible says) is what it really says, and everyone else who has a different interpretation is not really reading the Bible for what it says."
+    }
+  ],
+  "translated_at": "2026-08-30T22:43:56.359Z"
+}

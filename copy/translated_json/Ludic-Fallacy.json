@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Ludic-Fallacy",
+  "title": "Ludic Fallacy",
+  "latin_name": "ludus",
+  "also_known_as": [],
+  "description": "Assuming flawless statistical models apply to situations where they actually don’t.  This can result in the over-confidence in probability theory or simply not knowing exactly where it applies as opposed to chaotic situations or situations with external influences too subtle or numerous to predict.",
+  "logical_form": "*Claim is made.*\n*Statistics are referenced, reason is ignored.*\n*Therefore, the statistical answer is used to support or reject the claim.*",
+  "examples": [
+    {
+      "number": 1,
+      "example": "The best example of this fallacy is presented by the person who coined this term, Nassim Nicholas Taleb in his 2007 book, *The Black Swan*.  There are two people:\n\n*Dr. John, who is regarded as a man of science and logical thinking.*\n\n*Fat Tony, who is regarded as a man who lives by his wits.*\n\n*A third party asks them, \"assume a fair coin is flipped 99 times, and each time it comes up heads. What are the odds that the 100th flip would also come up heads?\"  Dr. John says that the odds are not affected by the previous outcomes so the odds must still be 50/50.  Fat Tony says that the odds of the coin coming up heads 99 times in a row are so low (less than 1 in 6.33 × 1029) that the initial assumption that the coin had a 50/50 chance of coming up heads is most likely incorrect.*",
+      "explanation": "You can imagine yourself watching a coin flip.  Knowing all about the *[gambler’s fallacy](https://www.logicallyfallacious.com/logicalfallacies/Gamblers-Fallacy)*, you would hold out much longer than someone like Fat Tony when you get to the point where you say, “All right, something’s going on here with the coin”.  At what point does it become fallacious reasoning to continue to insist that you are just witnessing the “inevitable result of probability”?  There is no definite answer -- your decision will need to be argued and supported by solid reasons."
+    },
+    {
+      "number": 2,
+      "example": "*Lolita: Since about half the people in the world are female, the chances of the next person to walk out that door being female is about 50/50.*\n\n*Celina: Do you realize that is the door to Dr. Vulvastein, the gynecologist?*",
+      "explanation": "Lolita is focusing on pure statistics while ignoring actual reason."
+    }
+  ],
+  "exceptions": "See the explanation for example #1.\n\n**Fun Fact: ** Chaos theory plays a huge role in our universe, and it is way beyond the scope of this book.  As for this fallacy, many things that appear to be random are actually chaotic systems, or unpredictable, deterministic systems.  Attempting to apply the rules of random probability in those cases will result in all kinds of errors.",
+  "tips": "",
+  "references": [
+    "Taleb, N. N. (2010). *The Black Swan: Second Edition: The Impact of the Highly Improbable Fragility\"*. Random House Publishing Group."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Ludic_Fallacy.jpg",
+  "slug": "Ludic-Fallacy",
+  "letter": "L",
+  "title_et": "Ludic Fallacy",
+  "description_et": "Eeldades, et veatud statistilised mudelid kehtivad olukordades, kus nad seda tegelikult ei tee.  Selle tulemuseks võib olla liigne usaldus tõenäosusteoorias või lihtsalt teadmatus, kus see täpselt kehtib, mitte kaootiliste olukordade või olukordade puhul, mille välismõjud on ennustamiseks liiga peened või arvukad.",
+  "logical_form_et": "*Nõue on esitatud.*\n*Statistikale viidatakse, põhjust eiratakse.*\n*Seetõttu kasutatakse väite toetuseks või tagasilükkamiseks statistilist vastust.*",
+  "exceptions_et": "Vaadake selgitust näite nr 1 kohta.\n\n**Lõbus tõsiasi: ** Kaoseteoorial on meie universumis tohutu roll ja see jääb sellest raamatust palju kaugemale.  Mis puutub sellesse eksitusse, siis paljud asjad, mis näivad olevat juhuslikud, on tegelikult kaootilised süsteemid või ettearvamatud deterministlikud süsteemid.  Sellistel juhtudel juhusliku tõenäosuse reeglite rakendamise katse toob kaasa igasuguseid vigu.",
+  "tips_et": "",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Selle eksituse parimat näidet esitab selle termini looja Nassim Nicholas Taleb oma 2007. aasta raamatus \"Must luik\".  Seal on kaks inimest:\n\n*Dr. John, keda peetakse teaduse ja loogilise mõtlemise inimeseks.*\n\n*Paks Tony, keda peetakse meheks, kes elab oma mõistuse järgi.*\n\n*Kolmas osapool küsib neilt: \"Oletame, et õiglast münti visatakse ümber 99 korda ja iga kord, kui see kerkib. Kui suur on tõenäosus, et 100. viskamine tuleb samuti pähe?\"  Dr John ütleb, et varasemad tulemused ei mõjuta koefitsiente, seega peab koefitsient olema ikkagi 50/50.  Paks Tony ütleb, et tõenäosus, et münt tuleb 99 korda järjest üles, on nii madal (vähem kui 1:6,33 × 1029), et esialgne oletus, et mündil oli 50/50 tõenäosus, et mündil oli päid, on tõenäoliselt vale.*",
+      "explanation": "Võite ette kujutada end mündiviskamist vaatamas.  Teades kõike *[mänguri eksimusest](https://www.logicallyfallacious.com/logicalfallacies/Gamblers-Fallacy)*, jääksite vastu palju kauem kui keegi nagu Paks Tony, kui jõuate punkti, kus ütlete: „Hea küll, siin toimub midagi mündiga”.  Millisel hetkel muutub ekslik arutluskäik, kui jätkate väitmist, et olete lihtsalt \"tõenäosuse vältimatu tulemuse\" tunnistajaks?  Kindlat vastust pole – teie otsust tuleb argumenteerida ja põhjendada.",
+      "original_example": "The best example of this fallacy is presented by the person who coined this term, Nassim Nicholas Taleb in his 2007 book, *The Black Swan*.  There are two people:\n\n*Dr. John, who is regarded as a man of science and logical thinking.*\n\n*Fat Tony, who is regarded as a man who lives by his wits.*\n\n*A third party asks them, \"assume a fair coin is flipped 99 times, and each time it comes up heads. What are the odds that the 100th flip would also come up heads?\"  Dr. John says that the odds are not affected by the previous outcomes so the odds must still be 50/50.  Fat Tony says that the odds of the coin coming up heads 99 times in a row are so low (less than 1 in 6.33 × 1029) that the initial assumption that the coin had a 50/50 chance of coming up heads is most likely incorrect.*",
+      "original_explanation": "You can imagine yourself watching a coin flip.  Knowing all about the *[gambler’s fallacy](https://www.logicallyfallacious.com/logicalfallacies/Gamblers-Fallacy)*, you would hold out much longer than someone like Fat Tony when you get to the point where you say, “All right, something’s going on here with the coin”.  At what point does it become fallacious reasoning to continue to insist that you are just witnessing the “inevitable result of probability”?  There is no definite answer -- your decision will need to be argued and supported by solid reasons."
+    },
+    {
+      "number": 2,
+      "example": "*Lolita: Kuna umbes pooled maailma inimestest on naised, on tõenäosus, et järgmine inimene, kes sellest uksest välja astub, on naissoost umbes 50/50.*\n\n*Celina: Kas sa mõistad, et see on uks günekoloogi dr Vulvasteini juurde?*",
+      "explanation": "Lolita keskendub puhtale statistikale, ignoreerides samas tegelikku põhjust.",
+      "original_example": "*Lolita: Since about half the people in the world are female, the chances of the next person to walk out that door being female is about 50/50.*\n\n*Celina: Do you realize that is the door to Dr. Vulvastein, the gynecologist?*",
+      "original_explanation": "Lolita is focusing on pure statistics while ignoring actual reason."
+    }
+  ],
+  "translated_at": "2026-08-30T22:58:47.514Z"
+}

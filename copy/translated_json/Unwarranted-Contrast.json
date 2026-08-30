@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Unwarranted-Contrast",
+  "title": "Unwarranted Contrast",
+  "latin_name": "",
+  "also_known_as": [
+    "some are/some are not"
+  ],
+  "description": "Assuming that *implicature* means *implication*, when it logically does not.  *Implicature* is a relation between the fact that someone makes a statement and a proposition.  *Implication* is a relation between propositions, that is, the meanings of statements.",
+  "logical_form": "",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Some atheists are human.\n\nTherefore, some atheists are not human.",
+      "explanation": "This might be the case, but we cannot logically *imply* that this is the case because the use of “some” does not logically imply that it does not mean “all”.  In everyday use, “some” does *implicate* “not all”, that is why this is fallacious and could be used to deceive without technically lying."
+    },
+    {
+      "number": 2,
+      "example": "Some Christians are not Jews.\n\nTherefore, some Christians are Jews.",
+      "explanation": "Just because we stated that some Christians are not  Jews, does not mean we can logically conclude that some Christians are Jews.  While we may *implicate* it, the statement does not *imply* it.\n\n**Fun Fact:** This is another of those odd fallacies that are included for completeness sake. People don’t typically use “some” in place of “all” or “none.”"
+    }
+  ],
+  "exceptions": "",
+  "tips": "",
+  "references": [
+    "Hansen, H. V., & Pinto, R. C. (1995). *Fallacies: Classical and Contemporary Readings*. Penn State Press."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Unwarranted_Contrast.jpg",
+  "slug": "Unwarranted-Contrast",
+  "letter": "U",
+  "title_et": "Põhjendamatu kontrast",
+  "description_et": "Eeldades, et *implicatuur* tähendab *implikatsiooni*, kui see loogiliselt nii ei ole.  *Implicatuur* on seos selle fakti, et keegi teeb avalduse, ja ettepaneku vahel.  *Implikatsioon* on suhe propositsioonide, st väidete tähenduste vahel.",
+  "logical_form_et": "",
+  "exceptions_et": "",
+  "tips_et": "",
+  "also_known_as_et": [
+    "mõned on / mõned ei ole"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Mõned ateistid on inimesed.\n\nSeetõttu pole mõned ateistid inimesed.",
+      "explanation": "See võib nii olla, kuid me ei saa loogiliselt *viidata*, et see nii on, sest sõna „mõned” kasutamine ei tähenda loogiliselt, et see ei tähenda „kõiki”.  Igapäevakasutuses tähendab \"mõned\" sõna \"mitte kõik\", mistõttu on see ekslik ja seda saab kasutada petmiseks ilma tehniliselt valetamata.",
+      "original_example": "Some atheists are human.\n\nTherefore, some atheists are not human.",
+      "original_explanation": "This might be the case, but we cannot logically *imply* that this is the case because the use of “some” does not logically imply that it does not mean “all”.  In everyday use, “some” does *implicate* “not all”, that is why this is fallacious and could be used to deceive without technically lying."
+    },
+    {
+      "number": 2,
+      "example": "Mõned kristlased ei ole juudid.\n\nSeetõttu on osa kristlasi juudid.",
+      "explanation": "See, et väitsime, et mõned kristlased ei ole juudid, ei tähenda, et saaksime loogiliselt järeldada, et mõned kristlased on juudid.  Kuigi me võime seda *kajastada*, ei *ta avaldus seda.\n\n**Lõbus fakt:** see on veel üks neist veidratest eksimustest, mis on lisatud täielikkuse huvides. Inimesed ei kasuta tavaliselt sõna \"kõik\" või \"mitte ühtegi\" asemel sõna \"mõned\".",
+      "original_example": "Some Christians are not Jews.\n\nTherefore, some Christians are Jews.",
+      "original_explanation": "Just because we stated that some Christians are not  Jews, does not mean we can logically conclude that some Christians are Jews.  While we may *implicate* it, the statement does not *imply* it.\n\n**Fun Fact:** This is another of those odd fallacies that are included for completeness sake. People don’t typically use “some” in place of “all” or “none.”"
+    }
+  ],
+  "translated_at": "2026-08-30T23:16:04.612Z"
+}

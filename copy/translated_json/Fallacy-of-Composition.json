@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Fallacy-of-Composition",
+  "title": "Fallacy of Composition",
+  "latin_name": "",
+  "also_known_as": [
+    "composition fallacy",
+    "exception fallacy",
+    "faulty induction"
+  ],
+  "description": "Inferring that something is true of the whole from the fact that it is true of some part of the whole.  This is the opposite of the *[fallacy of division](https://www.logicallyfallacious.com/logicalfallacies/Fallacy-of-Division)*.",
+  "logical_form": "A is part of B.\n\nA has property X.\n\nTherefore, B has property X.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Each brick in that building weighs less than a pound.  Therefore, the building weighs less than a pound.\n\n**Example #2:**\n\nHydrogen is not wet.  Oxygen is not wet.  Therefore, water (H2O) is not wet.\n\n**Example #3:**\n\nYour brain is made of molecules.  Molecules are not the source of consciousness.  Therefore, your brain cannot be the source of consciousness.",
+      "explanation": "I included three examples that demonstrate this fallacy from the very obvious to the less obvious, but equally as flawed.  In the first example, it is obvious because weight is cumulative.  In the second example, we know that water is wet, but we only experience the property of wetness when the molecules are combined and in large scale.  This introduces the concept of *emergent properties*, which when ignored, tends to promote *[magical thinking](https://www.logicallyfallacious.com/logicalfallacies/Magical-Thinking)*.  The final example is a common argument made for a supernatural explanation for consciousness.  On the surface, it is difficult to imagine a collection of molecules resulting in something like consciousness because we are focusing on the properties of the parts (molecules) and not the whole system, which incorporates emergence, motion, the use of energy, temperature (vibration), order, and other *relational properties*."
+    }
+  ],
+  "exceptions": "If the whole is very close to the similarity of the parts, then more assumptions can be made from the parts to the whole.  For example, if we open a small bag of potato chips and discover that the first one is delicious, it is not fallacious to conclude that the whole snack (all the chips, minus the bag) will be just as delicious, but we cannot say the same for one of those giant family size bags because most of us would be hurling after about 10 minutes of our chip-eating frenzy.",
+  "tips": "It is worth a few minutes of your time to research the topic of “emergence.”",
+  "references": [
+    "Goodman, M. F. (1993). *First Logic*. University Press of America."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Fallacy_of_Composition.jpg",
+  "slug": "Fallacy-of-Composition",
+  "letter": "F",
+  "title_et": "Kompositsiooni eksitus",
+  "description_et": "Järeldades, et miski on terviku kohta tõsi, sellest, et see kehtib terviku mõne osa kohta.  See on *[jaotuse vale](https://www.logicallyfallacious.com/logicalfallacies/Fallacy-of-Division)* vastand.",
+  "logical_form_et": "A on osa B-st.\n\nA-l on omadus X.\n\nSeetõttu on B-l omadus X.",
+  "exceptions_et": "Kui tervik on osade sarnasusele väga lähedane, siis saab osadest terviku suhtes teha rohkem oletusi.  Näiteks kui avastame väikese koti kartulikrõpsudega ja avastame, et esimene on maitsev, ei ole ekslik järeldada, et kogu suupiste (kõik krõpsud, miinus kott) on sama maitsev, kuid me ei saa sama öelda ühe nende hiiglaslike peresuuruste kottide kohta, sest enamik meist hakkaks pärast umbes 10-minutilist krõpsusöömishullust loopima.",
+  "tips_et": "Tasub paar minutit oma aega, et uurida teemat \"tekkimine\".",
+  "also_known_as_et": [
+    "kompositsiooni eksitus",
+    "erandlik eksitus",
+    "vigane induktsioon"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Iga tellis selles hoones kaalub alla naela.  Seetõttu kaalub hoone alla naela.\n\n**Näide #2:**\n\nVesinik ei ole märg.  Hapnik ei ole märg.  Seetõttu ei ole vesi (H2O) märg.\n\n**Näide nr 3:**\n\nTeie aju koosneb molekulidest.  Molekulid ei ole teadvuse allikad.  Seetõttu ei saa teie aju olla teadvuse allikas.",
+      "explanation": "Lisasin kolm näidet, mis demonstreerivad seda ekslikkust väga ilmselgetest vähem ilmsetele, kuid samaväärselt vigastele.  Esimeses näites on see ilmne, kuna kaal on kumulatiivne.  Teises näites teame, et vesi on märg, kuid me kogeme niiskuse omadust ainult siis, kui molekulid on kombineeritud ja suures mahus.  See tutvustab *kerkivate omaduste* kontseptsiooni, mida ignoreerides kipub see edendama *[maagilist mõtlemist](https://www.logicallyfallacious.com/logicalfallacies/Magical-Thinking)*.  Viimane näide on levinud argument teadvuse üleloomuliku seletuse jaoks.  Pealtnäha on raske ette kujutada molekulide kogumit, mille tulemuseks on midagi teadvuse sarnast, kuna keskendume osade (molekulide) omadustele, mitte kogu süsteemile, mis hõlmab tekkimist, liikumist, energiakasutust, temperatuuri (vibratsiooni), korda ja muid *relatsiooniomadusi*.",
+      "original_example": "Each brick in that building weighs less than a pound.  Therefore, the building weighs less than a pound.\n\n**Example #2:**\n\nHydrogen is not wet.  Oxygen is not wet.  Therefore, water (H2O) is not wet.\n\n**Example #3:**\n\nYour brain is made of molecules.  Molecules are not the source of consciousness.  Therefore, your brain cannot be the source of consciousness.",
+      "original_explanation": "I included three examples that demonstrate this fallacy from the very obvious to the less obvious, but equally as flawed.  In the first example, it is obvious because weight is cumulative.  In the second example, we know that water is wet, but we only experience the property of wetness when the molecules are combined and in large scale.  This introduces the concept of *emergent properties*, which when ignored, tends to promote *[magical thinking](https://www.logicallyfallacious.com/logicalfallacies/Magical-Thinking)*.  The final example is a common argument made for a supernatural explanation for consciousness.  On the surface, it is difficult to imagine a collection of molecules resulting in something like consciousness because we are focusing on the properties of the parts (molecules) and not the whole system, which incorporates emergence, motion, the use of energy, temperature (vibration), order, and other *relational properties*."
+    }
+  ],
+  "translated_at": "2026-08-30T22:46:45.577Z"
+}

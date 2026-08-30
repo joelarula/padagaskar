@@ -1,0 +1,77 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization",
+  "title": "Hasty Generalization",
+  "latin_name": "",
+  "also_known_as": [
+    "argument from small numbers",
+    "statistics of small numbers",
+    "insufficient statistics",
+    "argument by generalization",
+    "faulty generalization",
+    "hasty induction",
+    "inductive generalization",
+    "insufficient sample",
+    "lonely fact fallacy",
+    "over generality",
+    "overgeneralization",
+    "unrepresentative sample"
+  ],
+  "description": "Drawing a conclusion based on a small sample size, rather than looking at statistics that are much more in line with the typical or average situation.",
+  "logical_form": "Sample S is taken from population P.\n\nSample S is a very small part of population P.\n\nConclusion C is drawn from sample S and applied to population P.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "My father smoked four packs of cigarettes a day since age fourteen and lived until age sixty-nine.  Therefore, smoking really can’t be that bad for you.",
+      "explanation": "It is extremely unreasonable (and dangerous) to draw a universal conclusion about the health risks of smoking by the case study of one man."
+    },
+    {
+      "number": 2,
+      "example": "Four out of five dentists recommend Happy Glossy Smiley toothpaste brand.  Therefore, it must be great.",
+      "explanation": "It turns out that only five dentists were actually asked.  When a random sampling of 1000 dentists was polled, only 20% actually recommended the brand.  The four out of five result was not necessarily a *[biased sample](https://www.logicallyfallacious.com/logicalfallacies/Biased-Sample-Fallacy)* or a dishonest survey; it just happened to be a statistical anomaly common among small samples."
+    }
+  ],
+  "exceptions": "When statistics of a larger population are not available, and a decision must be made or opinion formed if the small sample size is all you have to work with, then it is better than nothing.  For example, if you are strolling in the desert with a friend, and he goes to pet a cute snake, gets bitten, then dies instantly, it would not be fallacious to assume the snake is poisonous.",
+  "tips": "Don’t base decisions on small sample sizes when much more reliable data exists.",
+  "references": [
+    "Hurley, P. J. (2011). *A Concise Introduction to Logic*. Cengage Learning."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Hasty_Generalization.jpg",
+  "slug": "Hasty-Generalization",
+  "letter": "H",
+  "title_et": "Kiire üldistus",
+  "description_et": "Järelduste tegemine väikese valimi põhjal, selle asemel, et vaadata statistikat, mis on palju rohkem kooskõlas tüüpilise või keskmise olukorraga.",
+  "logical_form_et": "Proov S on võetud populatsioonist P.\n\nValim S on väga väike osa populatsioonist P.\n\nJäreldus C tehakse proovist S ja rakendatakse populatsioonile P.",
+  "exceptions_et": "Kui suurema populatsiooni statistika pole kättesaadav ja tuleb teha otsus või kujundada arvamus, kui teha tuleb vaid väikese valimiga, siis on see parem kui mitte midagi.  Näiteks kui jalutate sõbraga kõrbes ja ta läheb armsat madu silitama, saab hammustada ja sureb siis silmapilkselt, poleks ekslik arvata, et madu on mürgine.",
+  "tips_et": "Ärge tehke otsuseid väikese valimi põhjal, kui on olemas palju usaldusväärsemad andmed.",
+  "also_known_as_et": [
+    "argument väikestest numbritest",
+    "väikeste arvude statistika",
+    "ebapiisav statistika",
+    "argumentatsioon üldistamisega",
+    "vigane üldistus",
+    "rutakas induktsioon",
+    "induktiivne üldistus",
+    "ebapiisav valim",
+    "üksildane fakti eksitus",
+    "üle üldsõnalisuse",
+    "liigne üldistamine",
+    "mitteesinduslik valim"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Mu isa suitsetas neli pakki sigarette päevas alates neljateistkümnendast eluaastast ja elas kuni kuuekümne üheksa aastani.  Seetõttu ei saa suitsetamine teile nii halb olla.",
+      "explanation": "On äärmiselt ebamõistlik (ja ohtlik) ühe mehe juhtumiuuringu põhjal teha universaalset järeldust suitsetamise terviseriskide kohta.",
+      "original_example": "My father smoked four packs of cigarettes a day since age fourteen and lived until age sixty-nine.  Therefore, smoking really can’t be that bad for you.",
+      "original_explanation": "It is extremely unreasonable (and dangerous) to draw a universal conclusion about the health risks of smoking by the case study of one man."
+    },
+    {
+      "number": 2,
+      "example": "Neli viiest hambaarstist soovitavad Happy Glossy Smiley hambapastat.  Seetõttu peab see olema suurepärane.",
+      "explanation": "Selgub, et tegelikult küsiti vaid viielt hambaarsti.  Kui küsitleti juhuslikult 1000 hambaarsti, siis ainult 20% soovitas seda kaubamärki.  Neli tulemust viiest ei pruugi olla *[kallutatud valim](https://www.logicallyfallacious.com/logicalfallacies/Biased-Sample-Fallacy)* või ebaaus küsitlus; see lihtsalt juhtus olema väikeste valimite seas levinud statistiline anomaalia.",
+      "original_example": "Four out of five dentists recommend Happy Glossy Smiley toothpaste brand.  Therefore, it must be great.",
+      "original_explanation": "It turns out that only five dentists were actually asked.  When a random sampling of 1000 dentists was polled, only 20% actually recommended the brand.  The four out of five result was not necessarily a *[biased sample](https://www.logicallyfallacious.com/logicalfallacies/Biased-Sample-Fallacy)* or a dishonest survey; it just happened to be a statistical anomaly common among small samples."
+    }
+  ],
+  "translated_at": "2026-08-30T22:51:32.600Z"
+}

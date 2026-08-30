@@ -5,43 +5,47 @@ ingliskeelne_nimi: "Appeal to False Authority"
 keel: "eesti"
 ---
 
-# Vale autoriteedile viitamise eksitus
+# Vale autoriteedile viitamise eksitus (Appeal to False Authority)
 
-Loogikaviga, mis seisneb asjakohatu autoriteedi kasutamises tõendusmaterjalina. See tekib siis, kui väite toetuseks tuuakse isik, kes on küll autoriteet mingis valdkonnas, kuid kellel puudub asjatundlikkus konkreetses arutatavas küsimuses. Publiku poolelt on see eksitus lubada asjakohatul autoriteedil lisada väitele põhjendamatut usaldusväärsust.
+(tuntud ka kui: ebakompetentsele autoriteedile viitamine, kohatu autoriteet, asjakohatu autoriteet)
 
-Tuntud ka kui: *väärautoriteedi argument*, *asjakohatu autoriteet*, *argumentum ad verecundiam* (teatud kontekstis).
+inglise (also known as: appeal to doubtful authority, appeal to dubious authority, appeal to improper authority, appeal to inappropriate authority, appeal to irrelevant authority, appeal to misplaced authority, appeal to unqualified authority, argument from false authority)
 
-### Loogilised vormid
+**Kirjeldus:**
+Väite tõestuseks kasutatakse väidetavat autoriteeti, kes tegelikult ei ole argumendi seisukohalt asjakohane ekspert. Kuulajana lubatakse asjakohatul autoriteedil lisada väitele usaldusväärsust. Vaata ka [autoriteedile viitamise eksitust](autoriteedile-viitamise-eksitus.md).
 
-**Vorm A:**
-Isiku 1 (kellel puudub pädevus valdkonnas Y) kohaselt on Y tõene.
-Seetõttu on Y tõene.
+**Loogiline vorm:**
 
-**Vorm B:**
-Isiku 1 (kellel puudub pädevus valdkonnas Y) kohaselt on Y tõene.
-Seetõttu on Y tõenäolisemalt tõene.
+* Isiku 1 (kellel puudub pädevus valdkonnas Y) kohaselt on väide Y tõene.
+* Järelikult on Y tõene (või tõenäoliselt tõene).
 
-### Näide #1
-"Minu viienda klassi õpetaja ütles kunagi, et tüdrukud lähevad poiste järele lolliks, kui nad õpivad tantsima. Seega, kui sa tahad naistele muljet avaldada, õpi tantsima."
+**Näide 1:**
 
-**Selgitus:** Isegi kui õpetaja oli tantsuekspert, ei muuda see teda eksperdiks külgetõmbe psühholoogia vallas. Tema arvamus on pigem spekulatiivne ja põhineb isiklikul tähelepanekul, mitte teaduslikul pädevusel.
+> "Minu viienda klassi õpetaja ütles kunagi, et tüdrukud lähevad poiste järele lolliks, kui nad õpivad tantsima. Seega, kui sa tahad naistele muljet avaldada, õpi tantsima."
 
-### Näide #2
-"Paavst ütles mulle, et preestrid suudavad muuta leiva ja veini Jeesuse ihuks ja vereks. Paavst ei ole valetaja. Seega suudavad preestrid seda tõesti teha."
+**Selgitus:** Isegi kui õpetaja oli tantsuõpetuse ekspert, on tema arvamus suhete ja ligitõmbavuse psühholoogia kohta spekulatiivne. Õpetaja pädevus on tantsusammudes, mitte külgetõmbe psühholoogias.
 
-**Selgitus:** Paavst võib siiralt uskuda seda, mida ta ütleb, ja ta ei pruugi olla valetaja, kuid ta ei ole teaduslik autoriteet füüsilise transformatsiooni küsimustes. See on usuküsimus, mitte loogiline tõestus faktiväite kohta.
+**Näide 2:**
 
-### Näide #3
-"Dr. Tamm, kes on tuntud psühholoog, väidab, et kohviklistiir on 'nooruse allikas'. Ma pean seda proovima!"
+> "Paavst ütles mulle, et preestrid suudavad muuta leiva ja veini Jeesuse ihuks ja vereks. Paavst ei ole valetaja. Seega suudavad preestrid seda tõesti teha."
 
-**Selgitus:** Psühholoogi litsents ei anna pädevust anda nõu seedesüsteemi tervise kohta. Tema eksperteasutuse laiendamine valdkonda, kus tal puudub vastav väljaõpe, on eksitav.
+**Selgitus:** Paavst võib siiralt uskuda seda, mida ta ütleb, ja ta ei pruugi olla valetaja, kuid paavst ei ole teaduslik autoriteet füüsilise mateeria transformeerumise faktiküsimustes.
 
-### Erand
-Inimest ei tohi "lahtritesse suruda". Arst võib olla ka ekspert õmblemises või õigusteaduses. Patentiametnik võib olla ka kvantmehaanika ekspert (nagu Einstein). Viga tekib siis, kui eeldame autoriteeti *ainult* asjakohatu tiitli põhjal.
+**Näide 3:**
 
-### Nõuanne
-Ole tähelepanelik oma kinnituskallutatuse (*confirmation bias*) suhtes. Me võime soovida, et keegi oleks autoriteet teemal, mis meile meeldib, ja see soov paneb meid eirama asjaolu, et tema tegelik pädevus asub mujal.
+> "Dr. Dean, televisiooni uusim staarpsühholoog, väidab, et kohviklistiir on 'nooruse allikas'. Too mulle kohe see kohviklistiir!"
+
+**Selgitus:** Isegi kui Dr. Dean on litsentseeritud psühholoog, ei tee see teda eksperdiks seedetrakti ja sisehaiguste alal. Psühholoogiaalase pädevuse laiendamine jämesoole füsioloogiale on loogikaviga.
+
+**Näide 4:**
+
+> "Minu raamatupidaja ütles, et järgmise 90 päeva jooksul algatatakse presidendi suhtes tagandamine! Nii et me peaksime seda väidet kindlasti tõsiselt võtma!"
+
+**Selgitus:** Välja arvatud juhul, kui raamatupidajal on presidendi kantselei siseinfot, on tema teadmised raamatupidamises vähe seotud põhiseadusliku õiguse ja riikliku poliitikaga.
+
+**Erand:** Inimesi ei tohiks liigselt lahtritesse suruda. Arst võib olla ka ekspert õmblemises või kalamees ekspert õigusteaduses. Patentiametnik võib olla ka kvantmehaanika ekspert (nagu Einstein). Viga tekib siis, kui eeldame autoriteeti *ainult* asjakohatu tiitli põhjal.
+
+**Nipp:** Ole tähelepanelik oma kinnituskalduvuse (*confirmation bias*) suhtes. Me soovime sageli, et meile sümpaatne inimene oleks autoriteet igal teemal, ja see soov paneb meid eirama asjaolu, et tema tegelik pädevus asub mujal.
 
 **Viited:**
-- Bennett, Bo. *Logically Fallacious: The Ultimate Collection of Over 300 Logical Fallacies*. eBookIt.com, 2012.
-- Logically Fallacious. "Appeal to False Authority." https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-False-Authority
+- Hume, D. (2004). *An Enquiry Concerning Human Understanding*. Courier Corporation.

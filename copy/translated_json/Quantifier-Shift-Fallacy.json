@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Quantifier-Shift-Fallacy",
+  "title": "Quantifier-Shift Fallacy",
+  "latin_name": "",
+  "also_known_as": [
+    "illicit quantifier shift"
+  ],
+  "description": "A fallacy of reversing the order of two quantifiers.",
+  "logical_form": "Every X has a related Y.\n\nTherefore, there is some Y related to every X.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Everybody has a mother.\n\nTherefore, there is some woman out there who is the mother of us all.",
+      "explanation": "While it is true that everyone has (or had) a mother, the term “mother” is not a singular term that is shared -- it is implied that it is a category in which many mothers reside.  The conclusion is asserting the opposite of the meaning -- that there is actually just one mother shared by everyone.  This form of reasoning is invalid; therefore, fallacious."
+    },
+    {
+      "number": 2,
+      "example": "Everybody has a brain.\n\nTherefore, there is a single brain we all share.",
+      "explanation": "Everybody has *his or her own* brain, not one we all share.  Although I have met many people who seem not to have their own brain.  This form of reasoning is invalid; therefore, fallacious."
+    }
+  ],
+  "exceptions": "",
+  "tips": "Remember that a quantifier is an expression (e.g. all, some) that indicates the scope of a term to which it is attached.",
+  "references": [
+    "Cook, R. T. (2009). *A Dictionary of Philosophical Logic*. Edinburgh University Press."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Quantifier_Shift_Fallacy.jpg",
+  "slug": "Quantifier-Shift-Fallacy",
+  "letter": "Q",
+  "title_et": "Quantifier-Shift Fallacy",
+  "description_et": "Kahe kvantori järjekorra ümberpööramise eksitus.",
+  "logical_form_et": "Igal X-l on seotud Y.\n\nSeetõttu on iga X-ga seotud mingi Y.",
+  "exceptions_et": "",
+  "tips_et": "Pidage meeles, et kvantor on avaldis (nt kõik, mõned), mis näitab selle termini ulatust, millega see on seotud.",
+  "also_known_as_et": [
+    "ebaseaduslik kvantori nihe"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Kõigil on ema.\n\nSeetõttu on seal mõni naine, kes on meie kõigi ema.",
+      "explanation": "Kuigi on tõsi, et igaühel on (või oli) ema, ei ole mõiste \"ema\" ainsus, mida jagatakse – see on kategooria, milles elavad paljud emad.  Järeldus kinnitab tähenduse vastupidist - et tegelikult on kõigil ainult üks ema.  Selline arutlusviis on kehtetu; seega ekslik.",
+      "original_example": "Everybody has a mother.\n\nTherefore, there is some woman out there who is the mother of us all.",
+      "original_explanation": "While it is true that everyone has (or had) a mother, the term “mother” is not a singular term that is shared -- it is implied that it is a category in which many mothers reside.  The conclusion is asserting the opposite of the meaning -- that there is actually just one mother shared by everyone.  This form of reasoning is invalid; therefore, fallacious."
+    },
+    {
+      "number": 2,
+      "example": "Kõigil on aju.\n\nSeetõttu on meil kõigil üks aju.",
+      "explanation": "Kõigil on *oma* aju, mitte aju, mida me kõik jagame.  Kuigi olen kohanud paljusid inimesi, kellel ei paista oma aju olevat.  Selline arutlusviis on kehtetu; seega ekslik.",
+      "original_example": "Everybody has a brain.\n\nTherefore, there is a single brain we all share.",
+      "original_explanation": "Everybody has *his or her own* brain, not one we all share.  Although I have met many people who seem not to have their own brain.  This form of reasoning is invalid; therefore, fallacious."
+    }
+  ],
+  "translated_at": "2026-08-30T23:06:23.130Z"
+}

@@ -1,0 +1,59 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Sunk-Cost-Fallacy",
+  "title": "Sunk-Cost Fallacy",
+  "latin_name": "",
+  "also_known_as": [
+    "argument from inertia",
+    "concorde fallacy",
+    "finish the job fallacy"
+  ],
+  "description": "Reasoning that further investment is warranted on the fact that the resources already invested will be lost otherwise, not taking into consideration the overall losses involved in the further investment.",
+  "logical_form": "X has already been invested in project Y.\n\nZ more investment would be needed to complete project Y, otherwise X will be lost.\n\nTherefore, Z is justified.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "I have already paid a consultant $1000 to look into the pros and cons of starting that new business division.  He advised that I shouldn’t move forward with it because it is a declining market.  However, if I don’t move forward, that $1000 would have been wasted, so I better move forward anyway.",
+      "explanation": "What this person does not realize is that moving forward will most likely result in the loss of much more time and money.  This person is thinking short-term, not long-term, and is simply trying to avoid the loss of the $1000, which is fallacious thinking."
+    },
+    {
+      "number": 2,
+      "example": "There are ministers, priests, pastors, and other clergy all around the world who have invested a significant portion of their lives in theology, who can no longer manage to hold supernatural beliefs -- who have moved beyond faith.  Hundreds of them recognize those sunk costs and are searching for the best way to move on (see [http://www.clergyproject.org](http://www.clergyproject.org/)) whereas many others cannot accept the loss of their religious investment, and continue to practice a profession inconsistent with their beliefs.",
+      "explanation": "Of course, the clergy who have not moved beyond faith and are living consistently with their beliefs have not committed this fallacy."
+    }
+  ],
+  "exceptions": "If a careful evaluation of the hypothetical outcomes of continued investment versus accepting current losses and ceasing all further investment have been made, then choosing the former would not be fallacious.",
+  "tips": "Is there any part of your life where you continue to make bad investments because you fear to lose what was already invested? Do something about it.",
+  "references": [
+    "Besanko, D., & Braeutigam, R. (2010). *Microeconomics*. John Wiley & Sons."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Sunk_Cost_Fallacy.jpg",
+  "slug": "Sunk-Cost-Fallacy",
+  "letter": "S",
+  "title_et": "Uppunud kulude eksitus",
+  "description_et": "Põhjendus, et edasine investeerimine on põhjendatud sellega, et muidu lähevad juba investeeritud ressursid kaotsi, arvestamata edasise investeeringuga kaasnevaid üldkahjusid.",
+  "logical_form_et": "X on juba projekti Y investeeritud.\n\nProjekti Y lõpetamiseks oleks vaja Z rohkem investeeringuid, vastasel juhul läheb X kaotsi.\n\nSeetõttu on Z õigustatud.",
+  "exceptions_et": "Kui on tehtud hoolikas hindamine jätkuva investeerimise hüpoteetiliste tulemuste ja praeguste kahjumite aktsepteerimise ja kõigi edasiste investeeringute lõpetamise suhtes, ei oleks esimese valimine ekslik.",
+  "tips_et": "Kas teie elus on mõni osa, kus jätkate halbade investeeringute tegemist, kuna kardate juba investeeritu kaotada? Tehke sellega midagi.",
+  "also_known_as_et": [
+    "argument inertsist",
+    "concorde eksitus",
+    "lõpetage töö viga"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Olen juba maksnud konsultandile 1000 dollarit, et ta uuriks selle uue äriüksuse asutamise plusse ja miinuseid.  Ta soovitas, et ma ei peaks sellega edasi liikuma, sest tegemist on kahaneva turuga.  Kui ma aga edasi ei liiguks, oleks see 1000 dollarit raisatud, nii et parem liigun ikkagi edasi.",
+      "explanation": "Mida see inimene ei mõista, on see, et edasi liikudes kaotate tõenäoliselt palju rohkem aega ja raha.  See inimene mõtleb lühiajaliselt, mitte pikaajaliselt ja püüab lihtsalt vältida 1000 dollari kaotamist, mis on ekslik mõtlemine.",
+      "original_example": "I have already paid a consultant $1000 to look into the pros and cons of starting that new business division.  He advised that I shouldn’t move forward with it because it is a declining market.  However, if I don’t move forward, that $1000 would have been wasted, so I better move forward anyway.",
+      "original_explanation": "What this person does not realize is that moving forward will most likely result in the loss of much more time and money.  This person is thinking short-term, not long-term, and is simply trying to avoid the loss of the $1000, which is fallacious thinking."
+    },
+    {
+      "number": 2,
+      "example": "Üle maailma on ministrid, preestrid, pastorid ja teised vaimulikud, kes on panustanud olulise osa oma elust teoloogiasse ja kes ei suuda enam omada üleloomulikke tõekspidamisi – kes on usust kaugemale jõudnud.  Sajad neist tunnistavad neid pöördumatuid kulusid ja otsivad parimat viisi edasiliikumiseks (vt [http://www.clergyproject.org](http://www.clergyproject.org/)), samas kui paljud teised ei saa leppida oma usuliste investeeringute kaotamisega ja jätkavad oma uskumustega vastuolus oleva elukutse praktiseerimist.",
+      "explanation": "Muidugi ei ole vaimulikud, kes pole usust kaugemale jõudnud ja elavad järjekindlalt oma tõekspidamistega, seda eksimust toime pannud.",
+      "original_example": "There are ministers, priests, pastors, and other clergy all around the world who have invested a significant portion of their lives in theology, who can no longer manage to hold supernatural beliefs -- who have moved beyond faith.  Hundreds of them recognize those sunk costs and are searching for the best way to move on (see [http://www.clergyproject.org](http://www.clergyproject.org/)) whereas many others cannot accept the loss of their religious investment, and continue to practice a profession inconsistent with their beliefs.",
+      "original_explanation": "Of course, the clergy who have not moved beyond faith and are living consistently with their beliefs have not committed this fallacy."
+    }
+  ],
+  "translated_at": "2026-08-30T23:13:54.569Z"
+}

@@ -1,0 +1,65 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Weak-Analogy",
+  "title": "Weak Analogy",
+  "latin_name": "",
+  "also_known_as": [
+    "bad analogy",
+    "false analogy",
+    "faulty analogy",
+    "questionable analogy",
+    "argument from spurious similarity",
+    "false metaphor"
+  ],
+  "description": "When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective, that is, it is unlike the argument more than it is like the argument.",
+  "logical_form": "X is like Y.\n\nY has property P.\n\nTherefore, X has property P.\n\n(but X really is not too much like Y)",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Not believing in the literal resurrection of Jesus because the Bible has errors and contradictions, is like denying that the Titanic sank because eye-witnesses did not agree if the ship broke in half before or after it sank.",
+      "explanation": "This is an actual analogy used by a Christian debater (one who usually appears to value reason and logic).  There are several problems with this analogy, including:\n\n* The Titanic sank in recent history\n\n* We know for a fact that the testimonies we have are of eye-witnesses\n\n* We have physical evidence of the sunken Titanic"
+    },
+    {
+      "number": 2,
+      "example": "Believing in the literal resurrection of Jesus is like believing in the literal existence of zombies.",
+      "explanation": "This is a common analogy used by some atheists who argue against Christianity.  It is a *weak analogy* because:\n\n* Jesus was said to be alive not just undead\n\n* If God is assumed, then God had a reason to bring Jesus (himself) back—no such reason exists for zombies\n\n* Zombies eat brains, Jesus did not (as far as we know)"
+    }
+  ],
+  "exceptions": "It is important to note that analogies cannot be “faulty” or “correct”, and even calling them “good” or “bad” is not as accurate as referring to them as either “weak” or “strong”.  The use of an analogy is an argument in itself, the strength of which is very subjective.  What is weak to one person, is strong to another.",
+  "tips": "Analogies are very useful, powerful, and persuasive ways to communicate ideas.  Use them -- just make them strong.",
+  "references": [
+    "Luckhardt, C. G., & Bechtel, W. (1994). *How to Do Things with Logic*. Psychology Press."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Weak_Analogy.jpg",
+  "slug": "Weak-Analogy",
+  "letter": "W",
+  "title_et": "Nõrk analoogia",
+  "description_et": "Kui argumendi tõestamiseks või ümberlükkamiseks kasutatakse analoogiat, kuid analoogia on liiga erinev, et olla tõhus, see tähendab, et see erineb argumendist rohkem kui argumendist.",
+  "logical_form_et": "X on nagu Y.\n\nY-l on vara P.\n\nSeetõttu on X-l omadus P.\n\n(aga X pole tegelikult liiga palju Y-ga sarnane)",
+  "exceptions_et": "Oluline on märkida, et analoogiad ei saa olla \"vigased\" või \"õiged\" ja isegi nende nimetamine \"headeks\" või \"halbadeks\" ei ole nii täpne, kui nimetada neid \"nõrgaks\" või \"tugevaks\".  Analoogia kasutamine on omaette argument, mille tugevus on väga subjektiivne.  Mis ühele on nõrk, on teise jaoks tugev.",
+  "tips_et": "Analoogiad on väga kasulikud, võimsad ja veenvad viisid ideede edastamiseks.  Kasutage neid – muutke need lihtsalt tugevaks.",
+  "also_known_as_et": [
+    "halb analoogia",
+    "vale analoogia",
+    "vigane analoogia",
+    "küsitav analoogia",
+    "väide valest sarnasusest",
+    "vale metafoor"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Jeesuse sõnasõnalises ülestõusmises mitte uskumine, sest Piiblis on vigu ja vastuolusid, on nagu eitamine, et Titanic uppus, kuna pealtnägijad ei nõustunud, kas laev murdus pooleks enne või pärast uppumist.",
+      "explanation": "See on tegelik analoogia, mida kasutab kristlik väitleja (kes tavaliselt näib hindavat mõistust ja loogikat).  Selle analoogiaga on mitmeid probleeme, sealhulgas:\n\n* Titanic uppus lähiajaloos\n\n* Teame kindlalt, et meie tunnistused on pealtnägijatelt\n\n* Meil ​​on füüsilised tõendid uppunud Titanicu kohta",
+      "original_example": "Not believing in the literal resurrection of Jesus because the Bible has errors and contradictions, is like denying that the Titanic sank because eye-witnesses did not agree if the ship broke in half before or after it sank.",
+      "original_explanation": "This is an actual analogy used by a Christian debater (one who usually appears to value reason and logic).  There are several problems with this analogy, including:\n\n* The Titanic sank in recent history\n\n* We know for a fact that the testimonies we have are of eye-witnesses\n\n* We have physical evidence of the sunken Titanic"
+    },
+    {
+      "number": 2,
+      "example": "Jeesuse sõnasõnalisse ülestõusmisse uskumine on sama, mis zombide otsesesse olemasolusse.",
+      "explanation": "See on levinud analoogia, mida kasutavad mõned ateistid, kes vaidlevad kristluse vastu.  See on *nõrk analoogia*, sest:\n\n* Jeesus oli väidetavalt elus, mitte ainult surnud\n\n* Kui oletada Jumalat, siis oli Jumalal põhjus Jeesus (iseennast) tagasi tuua – zombide puhul sellist põhjust pole\n\n* Zombid söövad ajusid, Jeesus mitte (meie teada)",
+      "original_example": "Believing in the literal resurrection of Jesus is like believing in the literal existence of zombies.",
+      "original_explanation": "This is a common analogy used by some atheists who argue against Christianity.  It is a *weak analogy* because:\n\n* Jesus was said to be alive not just undead\n\n* If God is assumed, then God had a reason to bring Jesus (himself) back—no such reason exists for zombies\n\n* Zombies eat brains, Jesus did not (as far as we know)"
+    }
+  ],
+  "translated_at": "2026-08-30T23:16:45.195Z"
+}

@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Double-Standard",
+  "title": "Double Standard",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Judging two situations by different standards when, in fact, you should be using the same standard. This is used in argumentation to unfairly support or reject an argument.",
+  "logical_form": "Person 1 makes claim X and gives reason Y.\n\nPerson 2 makes claim Z and gives reason Y.\n\nPerson 1 unfairly rejects reason Y, but only for claim Z and not claim X.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Husband: I forbid you to go to that male strip club! That is a completely inappropriate thing for a wife to do!\n\nWife: What about when you went to the female strip club last year?\n\nHusband: That was just for fun, and besides, that's different.",
+      "explanation": "The husband is holding his wife to a different standard without articulating the standard. Most people would also agree that the standard is unfair."
+    },
+    {
+      "number": 2,
+      "example": "Catholic: I know St. Peter answers prayers because when I pray to him, my prayers are sometimes answered. When they are not, it is because St. Peter knows what is best for me.\n\nProtestant: Do you realize how foolish that sounds? You can say the same thing about praying to a mailbox.\n\nCatholic: How do you know God answers prayers?\n\nProtestant: Well... I... that's different.",
+      "explanation": "It often occurs within religion where the standards applied to one religion or denomination to claim \"truth\" don't apply to arguments from other religions or denominations. In this example, the Protestant is demanding stronger \"evidence\" for the Catholic's claim than she would demand for herself explaining how God answers prayers."
+    }
+  ],
+  "exceptions": "The fallacy is in the fact that the standards **should** be the same, but sometimes there are legitimate different standards. For example, a president's remarks are held to a different standard than a reality television star’s remarks.\n\n**Fun Fact:** The default position is equal standards. One should not have to argue for this; the one claiming that standards are not equal has the *burden of proof*.",
+  "tips": "",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Double_Standard.jpg",
+  "slug": "Double-Standard",
+  "letter": "D",
+  "title_et": "Topeltstandard",
+  "description_et": "Kahe olukorra hindamine erinevate standardite järgi, kui tegelikult peaksite kasutama sama standardit. Seda kasutatakse argumentatsioonis argumendi ebaõiglaseks toetamiseks või tagasilükkamiseks.",
+  "logical_form_et": "Isik 1 esitab väite X ja põhjendab Y.\n\nIsik 2 esitab väite Z ja põhjendab Y.\n\nIsik 1 lükkab ebaõiglaselt tagasi põhjuse Y, kuid ainult nõude Z, mitte nõude X puhul.",
+  "exceptions_et": "Eksitus seisneb selles, et standardid **peaksid** olema samad, kuid mõnikord on seaduslikud erinevad standardid. Näiteks juhitakse presidendi märkusi teistsugustele standarditele kui tõsielutelevisiooni tähed.\n\n**Lõbus fakt:** Vaikeasend on võrdsed. Selle poolt ei tohiks vaielda; sellel, kes väidab, et standardid ei ole võrdsed, on *tõendamiskoormis*.",
+  "tips_et": "",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Abikaasa: Ma keelan sul sinna meeste stripiklubisse minna! See on naise jaoks täiesti kohatu!\n\nAbikaasa: Aga kui sa eelmisel aastal naiste striptiisiklubisse läksid?\n\nAbikaasa: See oli lihtsalt lõbu pärast ja pealegi on see erinev.",
+      "explanation": "Abikaasa hoiab oma naist teistsuguse standardi järgi, ilma et ta seda standardit sõnastaks. Enamik inimesi nõustub ka sellega, et standard on ebaõiglane.",
+      "original_example": "Husband: I forbid you to go to that male strip club! That is a completely inappropriate thing for a wife to do!\n\nWife: What about when you went to the female strip club last year?\n\nHusband: That was just for fun, and besides, that's different.",
+      "original_explanation": "The husband is holding his wife to a different standard without articulating the standard. Most people would also agree that the standard is unfair."
+    },
+    {
+      "number": 2,
+      "example": "Katoliiklane: Ma tean, et Püha Peetrus vastab palvetele, sest kui ma tema poole palvetan, siis mõnikord vastatakse mu palvetele. Kui neid ei ole, siis sellepärast, et Püha Peetrus teab, mis on minu jaoks parim.\n\nProtestant: Kas sa mõistad, kui rumal see kõlab? Sama võib öelda ka postkasti palvetamise kohta.\n\nKatoliiklane: Kuidas sa tead, et Jumal vastab palvetele?\n\nProtestant: Noh... ma... see on teistsugune.",
+      "explanation": "See esineb sageli religioonis, kus ühele religioonile või konfessioonile kehtivad standardid \"tõe\" väitmiseks ei kehti teiste religioonide või konfessioonide argumentide suhtes. Selles näites nõuab protestant katoliiklase väite kohta tugevamaid \"tõendeid\", kui ta nõuaks endalt selgitades, kuidas Jumal palvetele vastab.",
+      "original_example": "Catholic: I know St. Peter answers prayers because when I pray to him, my prayers are sometimes answered. When they are not, it is because St. Peter knows what is best for me.\n\nProtestant: Do you realize how foolish that sounds? You can say the same thing about praying to a mailbox.\n\nCatholic: How do you know God answers prayers?\n\nProtestant: Well... I... that's different.",
+      "original_explanation": "It often occurs within religion where the standards applied to one religion or denomination to claim \"truth\" don't apply to arguments from other religions or denominations. In this example, the Protestant is demanding stronger \"evidence\" for the Catholic's claim than she would demand for herself explaining how God answers prayers."
+    }
+  ],
+  "translated_at": "2026-08-30T22:44:14.915Z"
+}

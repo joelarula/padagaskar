@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Existential-Fallacy",
+  "title": "Existential Fallacy",
+  "latin_name": "",
+  "also_known_as": [
+    "existential instantiation"
+  ],
+  "description": "A formal logical fallacy, which is committed when a categorical syllogism employs two universal premises (“all”) to arrive at a particular (“some”) conclusion.\n\nIn a valid categorical syllogism, if the two premises are universal, then the conclusion *must* be universal, as well.\n\nThe reasoning behind this fallacy becomes clear when you use classes without any members, and the conclusion states that there are members of this class -- which is wrong.",
+  "logical_form": "All X are Y.\n\nAll Z are X.\n\nTherefore, some Z are Y.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "All babysitters have pimples.\n\nAll babysitter club members are babysitters.\n\nTherefore, some babysitter club members have pimples.\n\n**Example #2: **\n\nAll forest creatures live in the woods.\n\nAll leprechauns are forest creatures.\n\nTherefore, some leprechauns live in the woods.",
+      "explanation": "In both examples, the fallacy is committed because we have two universal premises and a particular conclusion, but our example #1 conclusion makes sense, no?  **Just because the conclusion *might* be true, does not mean the logic used to produce it, was valid.  **This is how tests like SAT’s and GRE’s screw us over and, technically, in the above example, *all* babysitter club members have pimples, not just* some*.\n\nNow, look at the second example.  Same form, but when we use classes that obviously (to most people) have no members (leprechauns), we can see that it results in a conclusion that is false."
+    }
+  ],
+  "exceptions": "There actually *is* an exception to this formal fallacy -- if we are strictly using Aristotelian logic, then it is permissible because apparently, Aristotle did not see a problem with presupposing that classes have members even when we are not explicitly told that they do.",
+  "tips": "When making a claim, be as precise as possible in the scope of the claim. Don’t just say “men are bastards,” say “some men are bastards,” or better yet, “12.62% of men are bastards.”",
+  "references": [
+    "Goodman, M. F. (1993). *First Logic*. University Press of America."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Existential_Fallacy.jpg",
+  "slug": "Existential-Fallacy",
+  "letter": "E",
+  "title_et": "Eksistentsiaalne eksitus",
+  "description_et": "Formaalne loogiline eksitus, mis tehakse siis, kui kategooriline süllogism kasutab konkreetse (“mõned”) järelduseni jõudmiseks kahte universaalset eeldust (“kõik”).\n\nKehtivas kategoorilises süllogismis, kui need kaks eeldust on universaalsed, siis ka järeldus *peab* olema universaalne.\n\nSelle eksituse põhjendus saab selgeks, kui kasutate ilma ühegi liikmeta klasse, ja järeldus ütleb, et selles klassis on liikmeid – mis on vale.",
+  "logical_form_et": "Kõik X on Y.\n\nKõik Z on X.\n\nSeetõttu on mõned Z-d Y.",
+  "exceptions_et": "Tegelikult *on* erand sellest formaalsest eksimusest – kui me kasutame rangelt Aristoteleslikku loogikat, siis on see lubatud, sest ilmselt ei näinud Aristoteles probleemi eeldada, et klassidel on liikmeid isegi siis, kui meile seda otseselt ei öelda.",
+  "tips_et": "Pretensiooni esitamisel olge pretensiooni ulatuses võimalikult täpne. Ärge öelge lihtsalt \"mehed on pätid\", öelge \"mõned mehed on pätid\" või veel parem: \"12,62% meestest on pätid\".",
+  "also_known_as_et": [
+    "eksistentsiaalne instantsatsioon"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Kõigil lapsehoidjatel on vistrikud.\n\nKõik lapsehoidjaklubi liikmed on lapsehoidjad.\n\nSeetõttu on mõnel lapsehoidjaklubi liikmel vistrikud.\n\n**Näide nr 2: **\n\nKõik metsaelukad elavad metsas.\n\nKõik leprechaunid on metsaelukad.\n\nSeetõttu elavad mõned leprechaunid metsas.",
+      "explanation": "Mõlemas näites on eksitus tehtud, kuna meil on kaks universaalset eeldust ja konkreetne järeldus, kuid meie näite nr 1 järeldus on mõttekas, kas pole?  **See, et järeldus *võib* olla tõsi, ei tähenda, et selle tegemiseks kasutatud loogika kehtis.  **Nii ajavad sellised testid nagu SAT ja GRE meid üle ja tehniliselt on ülaltoodud näites vistrikud *kõigil* lapsehoidjaklubi liikmetel, mitte ainult* mõnel*.\n\nNüüd vaadake teist näidet.  Sama vorm, kuid kui kasutame klasse, millel (enamiku inimeste jaoks) ilmselgelt pole liikmeid (leprechauns), näeme, et selle tulemuseks on vale järeldus.",
+      "original_example": "All babysitters have pimples.\n\nAll babysitter club members are babysitters.\n\nTherefore, some babysitter club members have pimples.\n\n**Example #2: **\n\nAll forest creatures live in the woods.\n\nAll leprechauns are forest creatures.\n\nTherefore, some leprechauns live in the woods.",
+      "original_explanation": "In both examples, the fallacy is committed because we have two universal premises and a particular conclusion, but our example #1 conclusion makes sense, no?  **Just because the conclusion *might* be true, does not mean the logic used to produce it, was valid.  **This is how tests like SAT’s and GRE’s screw us over and, technically, in the above example, *all* babysitter club members have pimples, not just* some*.\n\nNow, look at the second example.  Same form, but when we use classes that obviously (to most people) have no members (leprechauns), we can see that it results in a conclusion that is false."
+    }
+  ],
+  "translated_at": "2026-08-30T22:45:21.627Z"
+}

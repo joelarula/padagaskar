@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Package-Deal-Fallacy",
+  "title": "Package-Deal Fallacy",
+  "latin_name": "",
+  "also_known_as": [
+    "false conjunction"
+  ],
+  "description": "Assuming things that are often grouped together must always be grouped together, or the assumption that the ungrouping will have significantly more severe effects than anticipated.",
+  "logical_form": "X and Y usually go together.\n\nTherefore, X or Y cannot be separated.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Michael is part of the Jackson Five.  Without Tito and company, he will never make it.",
+      "explanation": "Michael Jackson was sure great in the *Jackson Five*, but as history proves, he was legendary on his own.  Assuming he would not make it on his own is a judgment call not founded on evidence or reason."
+    },
+    {
+      "number": 2,
+      "example": "If indoor smoking laws are passed for bars, the bars will go out of business since people who drink, smoke while they drink.",
+      "explanation": "This was a common argument against the banning of indoor smoking for bars and other drinking establishments.  The fear of separating smoking and drinking arose from the fear of going out of business, not from statistical data or any other evidence that would normally be deemed reasonable.  Many years later, it appears that the smoking ban had no significant impact on these kinds of establishments.[[1]](#_ftn1)"
+    }
+  ],
+  "exceptions": "An exception can be made for personal tastes.\n\nI can’t even imagine eating just a peanut-butter sandwich without jelly (or Fluff).",
+  "tips": "Never underestimate the human ability to adapt and prosper.",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found.",
+    "[[1]](#_ftnref) Mark Engelen, Matthew Farrelly & Andrew Hyland: The Health and Economic Impact of New York's Clean Indoor Air Act. July 2006, p. 21"
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Package_Deal_Fallacy.jpg",
+  "slug": "Package-Deal-Fallacy",
+  "letter": "P",
+  "title_et": "Pakettide eksitus",
+  "description_et": "Eeldades, et asjad, mida sageli rühmitatakse, tuleb alati kokku rühmitada, või eeldusel, et rühmituse lahtivõtmisel on oodatust oluliselt raskemad tagajärjed.",
+  "logical_form_et": "X ja Y käivad tavaliselt koos.\n\nSeetõttu ei saa X või Y eraldada.",
+  "exceptions_et": "Isikliku maitse puhul võib teha erandi.\n\nMa ei suuda isegi ette kujutada, et söön lihtsalt maapähklivõi võileiba ilma tarretise (või Fluffita).",
+  "tips_et": "Ärge kunagi alahinnake inimese võimet kohaneda ja õitseda.",
+  "also_known_as_et": [
+    "vale side"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Michael on osa Jackson Five'ist.  Ilma Tito ja seltskonnata ei saa ta kunagi hakkama.",
+      "explanation": "Michael Jackson oli *Jackson Five*'is kindlasti suurepärane, kuid nagu ajalugu tõestab, oli ta üksinda legendaarne.  Eeldades, et ta ei jõuaks üksi, on kohtuotsus, mis ei põhine tõenditel ega põhjustel.",
+      "original_example": "Michael is part of the Jackson Five.  Without Tito and company, he will never make it.",
+      "original_explanation": "Michael Jackson was sure great in the *Jackson Five*, but as history proves, he was legendary on his own.  Assuming he would not make it on his own is a judgment call not founded on evidence or reason."
+    },
+    {
+      "number": 2,
+      "example": "Kui baaride jaoks võetakse vastu siseruumides suitsetamise seadused, kaovad baarid tegevusest, kuna joovad inimesed suitsetavad joomise ajal.",
+      "explanation": "See oli levinud argument siseruumides suitsetamise keelustamise vastu baarides ja muudes joogikohtades.  Hirm suitsetamise ja joomise lahutamise ees tulenes hirmust äritegevuse lõpetamise ees, mitte statistiliste andmete või muude tõendite tõttu, mida tavaliselt peetakse mõistlikuks.  Palju aastaid hiljem näib, et suitsetamiskeeld ei avaldanud seda tüüpi asutustele märkimisväärset mõju.[[1]](#_ftn1)",
+      "original_example": "If indoor smoking laws are passed for bars, the bars will go out of business since people who drink, smoke while they drink.",
+      "original_explanation": "This was a common argument against the banning of indoor smoking for bars and other drinking establishments.  The fear of separating smoking and drinking arose from the fear of going out of business, not from statistical data or any other evidence that would normally be deemed reasonable.  Many years later, it appears that the smoking ban had no significant impact on these kinds of establishments.[[1]](#_ftn1)"
+    }
+  ],
+  "translated_at": "2026-08-30T23:03:47.988Z"
+}

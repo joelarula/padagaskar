@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Strawman-Fallacy",
+  "title": "Strawman Fallacy",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Substituting a person’s actual position or argument with a distorted, exaggerated, or misrepresented version of the position of the argument.",
+  "logical_form": "*Person 1 makes claim Y.*\n\n*Person 2 restates person 1’s claim (in a distorted way).*\n\n*Person 2 attacks the distorted version of the claim.*\n\n*Therefore, claim Y is false.*",
+  "examples": [
+    {
+      "number": 1,
+      "example": "*Ted: Biological evolution is both a theory and a fact.*\n\n*Edwin: That is ridiculous!  How can you possibly be absolutely certain that we evolved from pond scum!*\n\n*Ted: Actually, that is a gross misrepresentation of my assertion.  I never claimed we evolved from pond scum.  Unlike math and logic, science is based on empirical evidence and, therefore, a scientific fact is something that is confirmed to such a degree that it would be perverse to withhold provisional consent.  The empirical evidence for the fact that biological evolution does occur falls into this category.*",
+      "explanation": "Edwin has ignorantly mischaracterized the argument by a) assuming we evolved from pond scum (whatever that is exactly), and b) assuming “fact” means “certainty”."
+    },
+    {
+      "number": 2,
+      "example": "*Zebedee: What is your view on the Christian God?*\n\n*Mike: I don’t believe in any gods, including the Christian one.*\n\n*Zebedee: So you think that we are here by accident, and all this design in nature is pure chance, and the universe just created itself?*\n\n*Mike: You got all that from me stating that I just don’t believe in any gods?*",
+      "explanation": "Mike made one claim: that he does not believe in any gods.  From that, we can deduce a few things, like he is not a theist, he is not a practicing Christian, Catholic, Jew, or a member of any other religion that requires the belief in a god, but we cannot deduce that he believes we are all here by accident, nature is chance, and the universe created itself.  Mike might have no beliefs about these things whatsoever.  Perhaps he distinguishes between “accident” and natural selection, perhaps he thinks the concept of design is something we model after the universe, perhaps he has some detailed explanation based on known physics as to how the universe might have first appeared, or perhaps he believes in some other supernatural explanation.  Regardless, this was a gross mischaracterization of Mike’s argument."
+    }
+  ],
+  "exceptions": "At times, an opponent might not want to expand on the implications of his or her position, so making assumptions might be the only way to get the opponent to point out that your interpretation is not accurate, then they will be forced to clarify.",
+  "tips": "Get in the habit of *steelmanning* the argument. The opposite of the *strawman* is referred to as the *steelman*, which is a productive technique in argumentation where the one evaluating the argument makes the strongest case for the argument, assuming the best intentions of the interlocutor. This technique prevents pointless, time-wasting bickering and demonstrates respect for both the interlocutor and the process of critical argumentation. Consider the following dialog:\n\n*Johan: The progressive left is making it more difficult for me to vote blue this coming election.*\n*Sebastian: Why is that?*\n*Johan: It primarily has to do with the endorsement of the riots.*\n*Sebastian: So if I understand you correctly, you are saying that the democratic establishment appears to be supporting riots rather than condemning them?*\n*Johan: Yes, that is exactly it.*\n\nAt this point, Sebastian can present a case for why Johan’s argument fails—his actual argument. Sebastian will also likely be taken more seriously by Johan since he demonstrated goodwill in his attempt to accurately portray Johan’s argument.",
+  "references": [
+    "Hurley, P. J. (2011). A Concise Introduction to Logic. Cengage Learning."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/strawman_fallacy.jpg",
+  "slug": "Strawman-Fallacy",
+  "letter": "S",
+  "title_et": "Strawmani eksitus",
+  "description_et": "Isiku tegeliku seisukoha või argumendi asendamine argumendi positsiooni moonutatud, liialdatud või valesti esitatud versiooniga.",
+  "logical_form_et": "*Isik 1 esitab nõude Y.*\n\n*Isik 2 kordab isiku 1 väidet (moonutatult).*\n\n*Isik 2 ründab nõude moonutatud versiooni.*\n\n*Seetõttu on väide Y vale.*",
+  "exceptions_et": "Mõnikord ei pruugi vastane soovida oma positsiooni tagajärgi laiendada, seega võib oletuste tegemine olla ainus viis, kuidas vastast juhtida tähelepanu sellele, et teie tõlgendus pole täpne, ja siis on nad sunnitud selgitama.",
+  "tips_et": "Harjutage vaidlust *terastama*. *Põlemehe* vastandit nimetatakse *terameheks*, mis on produktiivne argumentatsioonitehnika, kus argumenti hindav inimene esitab argumendile kõige tugevama põhjenduse, eeldades vestluspartneri parimaid kavatsusi. See tehnika hoiab ära mõttetu ja aega raiskava nääklemise ning näitab lugupidamist nii vestluskaaslase kui ka kriitilise argumenteerimise protsessi vastu. Kaaluge järgmist dialoogi:\n\n*Johan: Progressiivsed vasakpoolsed muudavad minu jaoks tulevastel valimistel sinise hääletamise keerulisemaks.*\n*Sebastian: Miks see nii on?*\n*Johan: See on peamiselt seotud rahutuste toetamisega.*\n*Sebastian: Nii et kui ma teist õigesti mõistan, siis väidate, et demokraatlik institutsioon näib pigem rahutusi toetavat kui hukka mõistvat?*\n*Johan: Jah, täpselt nii.*\n\nSiinkohal saab Sebastian esitada põhjenduse, miks Johani argument ebaõnnestub – tema tegelik argument. Tõenäoliselt võtab Johan Sebastianit ka tõsisemalt, kuna ta näitas üles head tahet püüdes Johani argumente täpselt kujutada.",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "*Ted: Bioloogiline evolutsioon on nii teooria kui ka fakt.*\n\n*Edwin: See on naeruväärne!  Kuidas saate olla täiesti kindel, et me arenesime välja tiigisaast!*\n\n*Ted: Tegelikult on see minu väite räige vale esitus.  Ma pole kunagi väitnud, et oleme tiigisaast arenenud.  Erinevalt matemaatikast ja loogikast põhineb teadus empiirilistel tõenditel ja seetõttu on teaduslik fakt midagi, mida kinnitatakse sellisel määral, et esialgse nõusoleku andmisest keeldumine oleks väär.  Sellesse kategooriasse kuuluvad empiirilised tõendid selle kohta, et bioloogiline evolutsioon toimub.*",
+      "explanation": "Edwin on seda argumenti asjatundmatult valesti iseloomustanud, a) eeldades, et oleme arenenud tiigisaast (mis iganes see täpselt on) ja b) oletades, et „fakt” tähendab „kindlust”.",
+      "original_example": "*Ted: Biological evolution is both a theory and a fact.*\n\n*Edwin: That is ridiculous!  How can you possibly be absolutely certain that we evolved from pond scum!*\n\n*Ted: Actually, that is a gross misrepresentation of my assertion.  I never claimed we evolved from pond scum.  Unlike math and logic, science is based on empirical evidence and, therefore, a scientific fact is something that is confirmed to such a degree that it would be perverse to withhold provisional consent.  The empirical evidence for the fact that biological evolution does occur falls into this category.*",
+      "original_explanation": "Edwin has ignorantly mischaracterized the argument by a) assuming we evolved from pond scum (whatever that is exactly), and b) assuming “fact” means “certainty”."
+    },
+    {
+      "number": 2,
+      "example": "*Sebedeus: Milline on teie arusaam kristlikust jumalast?*\n\n*Mike: Ma ei usu ühtegi jumalat, sealhulgas kristlikku.*\n\n*Sebedeus: Nii et sa arvad, et me oleme siin kogemata ja kogu see kujundus looduses on puhas juhus ja universum lõi iseennast?*\n\n*Mike: Sa said kõik selle minult, et ma lihtsalt ei usu ühtegi jumalat?*",
+      "explanation": "Mike väitis ühe väite: ta ei usu ühtegi jumalat.  Sellest saame järeldada mõningaid asju, näiteks ta ei ole teist, ta ei ole praktiseeriv kristlane, katoliiklane, juut ega mõne muu religiooni liige, mis eeldab jumalasse uskumist, kuid me ei saa järeldada, et ta usub, et oleme siin kõik juhuslikult, loodus on juhus ja universum on ise loodud.  Mike’il ei pruugi nendesse asjadesse üldse uskuda.  Võib-olla teeb ta vahet „õnnetuse” ja loodusliku valiku vahel, võib-olla arvab ta, et disaini kontseptsioon on midagi, mida me modelleerime universumi järgi, võib-olla on tal teadaoleval füüsikal põhinev üksikasjalik selgitus selle kohta, kuidas universum võis esmakordselt tekkida, või võib-olla usub ta mõnda muud üleloomulikku seletust.  Sellest hoolimata oli see Mike'i argumendi jäme vale iseloomustus.",
+      "original_example": "*Zebedee: What is your view on the Christian God?*\n\n*Mike: I don’t believe in any gods, including the Christian one.*\n\n*Zebedee: So you think that we are here by accident, and all this design in nature is pure chance, and the universe just created itself?*\n\n*Mike: You got all that from me stating that I just don’t believe in any gods?*",
+      "original_explanation": "Mike made one claim: that he does not believe in any gods.  From that, we can deduce a few things, like he is not a theist, he is not a practicing Christian, Catholic, Jew, or a member of any other religion that requires the belief in a god, but we cannot deduce that he believes we are all here by accident, nature is chance, and the universe created itself.  Mike might have no beliefs about these things whatsoever.  Perhaps he distinguishes between “accident” and natural selection, perhaps he thinks the concept of design is something we model after the universe, perhaps he has some detailed explanation based on known physics as to how the universe might have first appeared, or perhaps he believes in some other supernatural explanation.  Regardless, this was a gross mischaracterization of Mike’s argument."
+    }
+  ],
+  "translated_at": "2026-08-30T23:12:48.383Z"
+}

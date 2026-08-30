@@ -1,0 +1,39 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Selective-Attention",
+  "title": "Selective Attention",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Focusing your attention on certain aspects of the argument while completely ignoring or missing other parts.  This usually results in irrelevant rebuttals, *[strawman fallacy](https://www.logicallyfallacious.com/logicalfallacies/Strawman-Fallacy)*, and unnecessarily drawn-out arguments.",
+  "logical_form": "*Information is presented.*\n*Response addresses only some of the information, completely ignoring the rest.*",
+  "examples": [
+    {
+      "number": 1,
+      "example": "*News Anchor on TV: The Dow Jones was up 200 points today, NASDAQ closed up 120 points, unemployment is and has been declining steadily, but foreclosures have not budged.\n**Jimbo: Did you hear that?  Our economy is in the crapper!*",
+      "explanation": "While there are many problems with the reasoning of Jimbo, due to his *selective attention*, and possible pessimism when it comes to the economy, he did not let the good news register and/or did not take that information into consideration before concluding that our economy is still in the “crapper”, based on that one piece of news on foreclosures."
+    }
+  ],
+  "exceptions": "Ignoring irrelevant information is a good thing when evaluating arguments.  The key is to know what is irrelevant.****\n\n**Fun Fact:** *Selective attention* is mostly a cognitive bias in that it happens subconsciously. It becomes a fallacy when it shows up in argumentation.",
+  "tips": "",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Selective_Attention.jpg",
+  "slug": "Selective-Attention",
+  "letter": "S",
+  "title_et": "Valikuline tähelepanu",
+  "description_et": "Keskenduge oma tähelepanu argumendi teatud aspektidele, jättes samal ajal täielikult tähelepanuta või jättes tähelepanuta muud osad.  Selle tulemuseks on tavaliselt asjakohatud ümberlükkamised, *[kõrremehe eksitus](https://www.logicallyfallacious.com/logicalfallacies/Strawman-Fallacy)* ja tarbetult venitatud argumendid.",
+  "logical_form_et": "*Teave esitatakse.*\n*Vastuses käsitletakse ainult osa teabest, ülejäänud ignoreeritakse täielikult.*",
+  "exceptions_et": "Ebaolulise teabe ignoreerimine on argumentide hindamisel hea asi.  Peaasi on teada, mis on ebaoluline.****\n\n**Lõbus fakt:** *Selektiivne tähelepanu* on enamasti kognitiivne eelarvamus, kuna see toimub alateadlikult. See muutub eksituseks, kui see ilmneb argumentatsioonis.",
+  "tips_et": "",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "* Uudisteankur televisioonis: Dow Jones tõusis täna 200 punkti võrra, NASDAQ sulgus 120 punkti võrra, tööpuudus väheneb ja on pidevalt vähenenud, kuid sunniraha sulgemine ei ole langenud.\n**Jimbo: Kas sa kuulsid seda?  Meie majandus on jamas!*",
+      "explanation": "Ehkki Jimbo arutluskäiguga on palju probleeme, ei lasknud ta tema *valikulise tähelepanu* ja võimaliku pessimismi tõttu majanduse osas headel uudistel registreerida ja/või ei võtnud seda teavet arvesse, enne kui jõudis selle ühe arestimise uudise põhjal järeldusele, et meie majandus on endiselt \"kraperis\".",
+      "original_example": "*News Anchor on TV: The Dow Jones was up 200 points today, NASDAQ closed up 120 points, unemployment is and has been declining steadily, but foreclosures have not budged.\n**Jimbo: Did you hear that?  Our economy is in the crapper!*",
+      "original_explanation": "While there are many problems with the reasoning of Jimbo, due to his *selective attention*, and possible pessimism when it comes to the economy, he did not let the good news register and/or did not take that information into consideration before concluding that our economy is still in the “crapper”, based on that one piece of news on foreclosures."
+    }
+  ],
+  "translated_at": "2026-08-30T23:09:52.449Z"
+}

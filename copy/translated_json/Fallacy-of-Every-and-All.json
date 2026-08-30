@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Fallacy-of-Every-and-All",
+  "title": "Fallacy of Every and All",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "When an argument contains both universal quantifiers and existential quantifiers (all, some, none, every) with different meanings, and the order of the quantifiers is reversed. This is a specific form of* [equivocation](https://www.logicallyfallacious.com/logicalfallacies/Equivocation)*.",
+  "logical_form": "*Quantifier X then quantifier Y.*\n*Therefore, quantifier Y then quantifier X.*",
+  "examples": [
+    {
+      "number": 1,
+      "example": "*Everyone should do something nice for someone. I am someone, so everyone should do something nice for me!*",
+      "explanation": "We have a reversal of the quantifiers.\n**\n\n*Everyone (quantifier X) should do something nice for someone (quantifier Y). I am someone (quantifier Y), so everyone (quantifier X) should do something nice for me!*\n\nAssuming one accepts the premise that \"everyone should do something nice for someone,\" the word \"someone\" in that sentence means \"some person or another\" whereas in the second sentence it means \"a specific person.\" By equivocating the meanings of \"someone,\" we appear to be making a strong argument when in fact we are not."
+    },
+    {
+      "number": 2,
+      "example": "Everyone loves someone.\nI am someone.\nTherefore, everyone loves me!",
+      "explanation": "“Someone” (quantifier X) referred to “any given person” in the first premise. In the second premise, “someone” is referring specifically to me. In the conclusion, we have a reversal of the quantifiers as they were presented in the premises."
+    }
+  ],
+  "exceptions": "No exceptions.",
+  "tips": "It really is a good idea to do something nice for someone.",
+  "references": [
+    "Salmon, M. H. (2012). *Introduction to Logic and Critical Thinking*. Cengage Learning."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Fallacy_of_Every_and_All.jpg",
+  "slug": "Fallacy-of-Every-and-All",
+  "letter": "F",
+  "title_et": "Kõigi ja kõigi eksitus",
+  "description_et": "Kui argument sisaldab nii universaalseid kvantoreid kui ka eksistentsiaalseid kvantoreid (kõik, mõned, mitte ühtegi, igaüks), millel on erinev tähendus, ja kvantorite järjekord on vastupidine. See on* [equivocation](https://www.logicallyfallacious.com/logicalfallacies/Equivocation)* spetsiifiline vorm.",
+  "logical_form_et": "*Kvantori X ja siis kvantor Y.*\n*Seetõttu kvantor Y ja seejärel kvantor X.*",
+  "exceptions_et": "Ei mingeid erandeid.",
+  "tips_et": "See on tõesti hea mõte kellegi jaoks midagi toredat teha.",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "*Igaüks peaks kellegi jaoks midagi toredat tegema. Ma olen keegi, nii et kõik peaksid minu jaoks midagi toredat tegema!*",
+      "explanation": "Meil on kvantorid ümber pööratud.\n**\n\n*Igaüks (kvantori X) peaks kellegi jaoks midagi toredat tegema (kvantori Y). Ma olen keegi (kvantori Y), seega peaksid kõik (kvantori X) minu jaoks midagi toredat tegema!*\n\nEeldades, et nõustutakse eeldusega, et \"igaüks peaks kellegi jaoks midagi toredat tegema\", tähendab sõna \"keegi\" selles lauses \"mõnda või teist inimest\", samas kui teises lauses tähendab see \"konkreetset inimest\". Seoses \"keegi\" tähendusi kaheldades näime, et esitame tugeva argumendi, kuigi tegelikult me ​​seda ei tee.",
+      "original_example": "*Everyone should do something nice for someone. I am someone, so everyone should do something nice for me!*",
+      "original_explanation": "We have a reversal of the quantifiers.\n**\n\n*Everyone (quantifier X) should do something nice for someone (quantifier Y). I am someone (quantifier Y), so everyone (quantifier X) should do something nice for me!*\n\nAssuming one accepts the premise that \"everyone should do something nice for someone,\" the word \"someone\" in that sentence means \"some person or another\" whereas in the second sentence it means \"a specific person.\" By equivocating the meanings of \"someone,\" we appear to be making a strong argument when in fact we are not."
+    },
+    {
+      "number": 2,
+      "example": "Igaüks armastab kedagi.\nma olen keegi.\nJärelikult kõik armastavad mind!",
+      "explanation": "\"Keegi\" (kvantifikaator X) viitas esimeses eelduses \"mis tahes isikule\". Teises eelduses viitab \"keegi\" konkreetselt mulle. Kokkuvõttes on meil kvantorid ümber pööratud nii, nagu need ruumides esitati.",
+      "original_example": "Everyone loves someone.\nI am someone.\nTherefore, everyone loves me!",
+      "original_explanation": "“Someone” (quantifier X) referred to “any given person” in the first premise. In the second premise, “someone” is referring specifically to me. In the conclusion, we have a reversal of the quantifiers as they were presented in the premises."
+    }
+  ],
+  "translated_at": "2026-08-30T22:47:11.288Z"
+}

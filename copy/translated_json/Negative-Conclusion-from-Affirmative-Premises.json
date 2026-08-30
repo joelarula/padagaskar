@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Negative-Conclusion-from-Affirmative-Premises",
+  "title": "Negative Conclusion from Affirmative Premises",
+  "latin_name": "",
+  "also_known_as": [
+    "illicit affirmative"
+  ],
+  "description": "The conclusion of a standard form categorical syllogism is negative, but both of the premises are positive.  Any valid forms of categorical syllogisms that assert a negative conclusion must have at least one negative premise.",
+  "logical_form": "If A is a subset of B, and B is a subset of C, then A is not a subset of C.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "All cats are animals.\n\nSome pets are cats.\n\nTherefore, some pets are not animals.",
+      "explanation": "The conclusion might be true -- I had a pet rock growing up, but the argument still does not logically support that.  Think of sets and subsets.  All cats are animals: we have a set of animals and a subset of cats.  “Some” pets are cats: so all we know is that there is a part of our set, “pets” that intersects with the subset, “cats”, but we don’t have the information we need to conclude logically that some pets are not animals.  This argument is invalid, thus as a formal argument, it is fallacious."
+    },
+    {
+      "number": 2,
+      "example": "All boys are sports fans.\n\nSome bakers are boys.\n\nTherefore, some bakers are not sports fans.",
+      "explanation": "The conclusion might be true -- but the argument still does not logically support that for the same reasons in the first example.  This argument is invalid, thus as a formal argument, it is fallacious.\n\n**Fun Fact:** I taught my pet rock how to play dead. It was its only trick."
+    }
+  ],
+  "exceptions": "",
+  "tips": "",
+  "references": [
+    "Goodman, M. F. (1993). *First Logic*. University Press of America."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Negative_Conclusion_from_Affirmative_Premises.jpg",
+  "slug": "Negative-Conclusion-from-Affirmative-Premises",
+  "letter": "N",
+  "title_et": "Jaatavate eelduste negatiivne järeldus",
+  "description_et": "Tüüpvormi kategoorilise süllogismi järeldus on negatiivne, kuid mõlemad eeldused on positiivsed.  Kõikidel kategooriliste süllogismide vormidel, mis väidavad negatiivset järeldust, peab olema vähemalt üks negatiivne eeldus.",
+  "logical_form_et": "Kui A on B alamhulk ja B on C alamhulk, siis A ei ole C alamhulk.",
+  "exceptions_et": "",
+  "tips_et": "",
+  "also_known_as_et": [
+    "lubamatult jaatav"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Kõik kassid on loomad.\n\nMõned lemmikloomad on kassid.\n\nSeetõttu ei ole mõned lemmikloomad loomad.",
+      "explanation": "Järeldus võib olla tõsi – mul kasvas lemmikloomakivi, kuid argument ei toeta seda ikkagi loogiliselt.  Mõelge hulkadele ja alamhulkadele.  Kõik kassid on loomad: meil on hulk loomi ja kasside alamhulk.  \"Mõned\" lemmikloomad on kassid: seega teame ainult seda, et meie komplektist on osa, \"lemmikloomad\", mis lõikub alamhulgaga \"kassid\", kuid meil pole teavet, mida vajame, et järeldada loogiliselt, et mõned lemmikloomad ei ole loomad.  See argument on kehtetu, seega on see formaalse argumendina ekslik.",
+      "original_example": "All cats are animals.\n\nSome pets are cats.\n\nTherefore, some pets are not animals.",
+      "original_explanation": "The conclusion might be true -- I had a pet rock growing up, but the argument still does not logically support that.  Think of sets and subsets.  All cats are animals: we have a set of animals and a subset of cats.  “Some” pets are cats: so all we know is that there is a part of our set, “pets” that intersects with the subset, “cats”, but we don’t have the information we need to conclude logically that some pets are not animals.  This argument is invalid, thus as a formal argument, it is fallacious."
+    },
+    {
+      "number": 2,
+      "example": "Kõik poisid on spordifännid.\n\nMõned pagarid on poisid.\n\nSeetõttu ei ole mõned pagarid spordisõbrad.",
+      "explanation": "Järeldus võib olla tõsi, kuid argument ei toeta seda loogiliselt samadel põhjustel esimeses näites.  See argument on kehtetu, seega on see formaalse argumendina ekslik.\n\n**Lõbus fakt:** Ma õpetasin oma lemmikrokkile surnut mängima. See oli tema ainus trikk.",
+      "original_example": "All boys are sports fans.\n\nSome bakers are boys.\n\nTherefore, some bakers are not sports fans.",
+      "original_explanation": "The conclusion might be true -- but the argument still does not logically support that for the same reasons in the first example.  This argument is invalid, thus as a formal argument, it is fallacious.\n\n**Fun Fact:** I taught my pet rock how to play dead. It was its only trick."
+    }
+  ],
+  "translated_at": "2026-08-30T23:01:49.169Z"
+}

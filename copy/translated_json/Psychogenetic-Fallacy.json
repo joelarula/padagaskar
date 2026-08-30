@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Psychogenetic-Fallacy",
+  "title": "Psychogenetic Fallacy",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Inferring some psychological reason why an argument is made then assuming it is invalid, as a result.",
+  "logical_form": "Person 1 makes argument X.\n\nPerson 1 made argument X because of the psychological reason Y.\n\nTherefore, X is not true.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "George: Man, those girls are smokin' hot!\n\nDerek: No, they're not. You're a victim of the cheerleader effect. When girls are together in a group, each girl looks a lot better than if you were to see her without the other girls.",
+      "explanation": "Besides the fact that \"smokin' hot\" is a subjective evaluation, meaning that the girls could be hot to George but not Derek, Derek is assuming George's evaluation is wrong because of the psychological effect known as the *[cheerleader effect](https://en.wikipedia.org/wiki/Cheerleader_effect)*."
+    },
+    {
+      "number": 2,
+      "example": "Lucas: I remember when I was about three years old my mother saved me from almost being eaten by a shark.\n\nKatie: I doubt that. What you are experiencing is what cognitive psychologists refer to as a \"false memory.\"",
+      "explanation": "There are two problems here that make Katie guilty of fallacious reasoning. First, she is assuming Lucas' story is not true because of a false memory. Second, she is phrasing this objection with unwarranted confidence."
+    }
+  ],
+  "exceptions": "The more extraordinary the argument or claim, the more reasonable it is to assume a psychological effect is involved. However, even in the most extraordinary of claims, the effect should only be proposed, not assumed.\n\nMarge: Last night in bed, aliens visited me. They paralyzed me for about 30 seconds while they stood over me, then they disappeared right in front of my eyes while I regained the ability to move and speak.\n\nKristine: That sounds like a classic case of what is called a hypnogogic hallucination with sleep paralysis. It is a dream-like state where you are not quite sleeping or awake. Your brain shuts down your ability to move and talk while you are unconscious during a normal sleep cycle, but in the case of sleep paralysis, you retain consciousness—but only for a brief time. So the odds are, you weren't really visited by aliens.\n\n**Fun Fact: **As video recorders on cell phones became more ubiquitous, reports of alien encounters have dropped considerably.",
+  "tips": "",
+  "references": [
+    "Segal, R. A. (1980). The social sciences and the truth of religious belief. *Journal of the American Academy of Religion*, 403–413."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Psychogenetic_Fallacy.jpg",
+  "slug": "Psychogenetic-Fallacy",
+  "letter": "P",
+  "title_et": "Psühhogeneetiline eksitus",
+  "description_et": "Järeldades mõnda psühholoogilist põhjust, miks argument esitatakse, siis eeldades, et see on kehtetu.",
+  "logical_form_et": "Isik 1 esitab argumendi X.\n\nIsik 1 väitis X psühholoogilise põhjuse Y tõttu.\n\nSeega X ei vasta tõele.",
+  "exceptions_et": "Mida erakordsem on argument või väide, seda mõistlikum on eeldada, et tegemist on psühholoogilise mõjuga. Kuid isegi kõige erakordsemate väidete puhul tuleks mõju ainult välja pakkuda, mitte eeldada.\n\nMarge: Eile õhtul voodis külastasid mind tulnukad. Nad halvasid mind umbes 30 sekundit, kui nad minu kohal seisid, siis kadusid otse mu silme eest, samal ajal kui sain tagasi liikumis- ja kõnevõime.\n\nKristine: See kõlab nagu klassikaline juhtum, mida nimetatakse hüpnogoogilisteks hallutsinatsioonideks koos unehalvatusega. See on unenäolaadne seisund, kus te ei maga ega ärkvel. Teie aju lülitab teie võime liikuda ja rääkida, kui olete tavalise unetsükli ajal teadvuseta, kuid unehalvatuse korral säilitate teadvuse, kuid ainult lühikeseks ajaks. Tõenäoliselt ei külastanud teid tegelikult tulnukad.\n\n**Lõbus tõsiasi: **Mobiiltelefonide videosalvestite leviku tõttu on teated tulnukate kohtumistest märkimisväärselt vähenenud.",
+  "tips_et": "",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "George: Mees, need tüdrukud suitsetavad kuumalt!\n\nDerek: Ei, nad ei ole. Olete cheerleader-efekti ohver. Kui tüdrukud on rühmas koos, näeb iga tüdruk palju parem välja kui siis, kui näeksite teda ilma teiste tüdrukuteta.",
+      "explanation": "Lisaks asjaolule, et \"kuum suitsetamine\" on subjektiivne hinnang, mis tähendab, et tüdrukud võivad George'i, kuid mitte Dereki jaoks kuumad olla, oletab Derek, et George'i hinnang on vale psühholoogilise efekti tõttu, mida tuntakse *[cheerleader-efektina](https://en.wikipedia.org/wiki/Cheerleader_effect)*.",
+      "original_example": "George: Man, those girls are smokin' hot!\n\nDerek: No, they're not. You're a victim of the cheerleader effect. When girls are together in a group, each girl looks a lot better than if you were to see her without the other girls.",
+      "original_explanation": "Besides the fact that \"smokin' hot\" is a subjective evaluation, meaning that the girls could be hot to George but not Derek, Derek is assuming George's evaluation is wrong because of the psychological effect known as the *[cheerleader effect](https://en.wikipedia.org/wiki/Cheerleader_effect)*."
+    },
+    {
+      "number": 2,
+      "example": "Lucas: Mäletan, et kui ma olin umbes kolmeaastane, päästis mu ema mind sellest, et hai oleks peaaegu ära söönud.\n\nKatie: Ma kahtlen selles. See, mida te kogete, on see, mida kognitiivpsühholoogid nimetavad \"valemäluks\".",
+      "explanation": "Siin on kaks probleemi, mis panevad Katie süüdi ekslikes arutlustes. Esiteks eeldab ta, et Lucase jutt ei vasta valemälestuse tõttu tõele. Teiseks sõnastab ta selle vastuväite põhjendamatu enesekindlusega.",
+      "original_example": "Lucas: I remember when I was about three years old my mother saved me from almost being eaten by a shark.\n\nKatie: I doubt that. What you are experiencing is what cognitive psychologists refer to as a \"false memory.\"",
+      "original_explanation": "There are two problems here that make Katie guilty of fallacious reasoning. First, she is assuming Lucas' story is not true because of a false memory. Second, she is phrasing this objection with unwarranted confidence."
+    }
+  ],
+  "translated_at": "2026-08-30T23:06:10.502Z"
+}

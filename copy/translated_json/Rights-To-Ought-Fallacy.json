@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Rights-To-Ought-Fallacy",
+  "title": "Rights To Ought Fallacy",
+  "latin_name": "",
+  "also_known_as": [
+    "constitutional rights fallacy"
+  ],
+  "description": "When one conflates a reason for one's rights (constitutional or other) with what one *should* do.  This is common among staunch defenders of \"rights\" who fail to see that rights are not the same as optimal courses of action.  It can be a way of attempting to hide the fact that the \"should\" is based on one's subjective moral values (or at least values that are not shared by the opponent) rather than a more objective law to which virtually everyone acknowledges.",
+  "logical_form": "Person A should not have done X.\n\nPerson A had every right to do X; therefore, person A should have done X.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Carl: Hi Billy, it is great to meet you! I think you will be happy here at Friendly Manufacturing, Inc.\n\nBilly: Hey, you're Irish!  Irish people make great factory workers—that is where they are happiest.  I am surprised to see you in management.\n\nCarl: Excuse me??\n\nBilly: Don't mind me.  I am just expressing my constitutional right to freedom of speech.  Do you have a problem with our Constitution?  Do you hate America?",
+      "explanation": "Billy is clearly ignorant when it comes to the realities of cultural differences, and he seriously lacks social skills.  He is correct that he has every right to express his opinions, but he does not seem to mind offending and hurting others by making his opinions known.  Constitutional rights do not exist in a vacuum—they are part of the larger system that includes social conventions such as tact, appropriate behavior, and kindness."
+    },
+    {
+      "number": 2,
+      "example": "A top reality TV superstar from the hit show \"Goose Galaxy\" recently did an interview with GM magazine (Geese Monthly).  In this interview, he told the interviewer that, according to his beliefs, the Galactic Emperor has decreed that all MAC users are \"sinful\" and MAC use leads to having sex with computers.  When many MAC users and non-MAC users alike expressed their outrage at what they felt was an offensive and demonstrably false proposition, defenders of \"Goose Galaxy\" screamed that the TV superstar had every right to say those things as his speech is protected by the First Amendment.",
+      "explanation": "The claim made was that the comments were offensive and demonstrably false (as no research has been able to demonstrate that MAC use leads to having sex with computers), and the reality TV star *should not* have said those things, yet the \"Goose Galaxy\" supporters countered with the fact that the reality TV star had the right to say those things; therefore, he *should have*.  Notice that no claim was made about rights—this is a *strawman*.  The fallacy extends beyond the strawman because the defenders of \"Goose Galaxy\" are conflating the reality TV star's constitutional rights with the claim that he *should* have said those things."
+    }
+  ],
+  "exceptions": "When one's values are in line with the rights, then claiming one \"should\" exercise his or her rights is not fallacious—as long as the reason given does not have to do with rights:**\n**\n\nI feel that it is morally wrong to use a MAC; therefore, I *should* speak out against MAC users; and yes, it is my constitutional right to do so.",
+  "tips": "Just because you have the right to be a galactic jackass, doesn’t mean you should.",
+  "references": [
+    "This is an original logical fallacy named by the author."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Rights_To_Ought_Fallacy.jpg",
+  "slug": "Rights-To-Ought-Fallacy",
+  "letter": "R",
+  "title_et": "Õigused eksimisele",
+  "description_et": "Kui segatakse oma õiguste põhjus (põhiseaduslik või muu) sellega, mida ta *peaks* tegema.  See on tavaline \"õiguste\" veendunud kaitsjate seas, kes ei mõista, et õigused ei ole samad, mis optimaalsed tegevussuunad.  See võib olla viis, kuidas püüda varjata tõsiasja, et \"peaks\" põhineb pigem inimese subjektiivsetel moraaliväärtustel (või vähemalt väärtustel, mida vastane ei jaga), mitte objektiivsemas seaduses, mida praktiliselt kõik tunnistavad.",
+  "logical_form_et": "Isik A ei oleks tohtinud teha X-i.\n\nIsikul A oli täielik õigus teha X; seetõttu oleks isik A pidanud tegema X.",
+  "exceptions_et": "Kui inimese väärtushinnangud on õigustega kooskõlas, ei ole väide, et ta \"peaks\" oma õigusi kasutama, ekslik – seni, kuni antud põhjus ei ole õigustega seotud:**\n**\n\nArvan, et MAC-i kasutamine on moraalselt vale; seetõttu *peaksin* sõna võtma MAC-i kasutajate vastu; ja jah, see on minu põhiseaduslik õigus seda teha.",
+  "tips_et": "See, et teil on õigus olla galaktiline jõmpsikas, ei tähenda, et peaksite seda tegema.",
+  "also_known_as_et": [
+    "põhiseaduslike õiguste eksitus"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Carl: Tere Billy, tore on sinuga kohtuda! Arvan, et olete siin ettevõttes Friendly Manufacturing, Inc. rahul.\n\nBilly: Hei, sa oled iirlane!  Iirlased on suurepärased tehasetöölised – seal on nad kõige õnnelikumad.  Olen üllatunud teid juhtkonnas nähes.\n\nCarl: Vabandust??\n\nBilly: Ära pane mind pahaks.  Ma lihtsalt väljendan oma põhiseaduslikku õigust sõnavabadusele.  Kas teil on meie põhiseadusega probleeme?  Kas sa vihkad Ameerikat?",
+      "explanation": "Billy on kultuuriliste erinevuste tegelikkuses selgelt võhiklik ja tal puuduvad tõsiselt sotsiaalsed oskused.  Tal on õigus, et tal on täielik õigus oma arvamust avaldada, kuid ta ei paista tahtvat oma arvamust avaldades teisi solvata ja haiget teha.  Põhiseaduslikud õigused ei eksisteeri vaakumis – need on osa suuremast süsteemist, mis hõlmab selliseid sotsiaalseid konventsioone nagu taktitunne, sobiv käitumine ja lahkus.",
+      "original_example": "Carl: Hi Billy, it is great to meet you! I think you will be happy here at Friendly Manufacturing, Inc.\n\nBilly: Hey, you're Irish!  Irish people make great factory workers—that is where they are happiest.  I am surprised to see you in management.\n\nCarl: Excuse me??\n\nBilly: Don't mind me.  I am just expressing my constitutional right to freedom of speech.  Do you have a problem with our Constitution?  Do you hate America?",
+      "original_explanation": "Billy is clearly ignorant when it comes to the realities of cultural differences, and he seriously lacks social skills.  He is correct that he has every right to express his opinions, but he does not seem to mind offending and hurting others by making his opinions known.  Constitutional rights do not exist in a vacuum—they are part of the larger system that includes social conventions such as tact, appropriate behavior, and kindness."
+    },
+    {
+      "number": 2,
+      "example": "Hittsaate \"Goose Galaxy\" tõsielusaate tippsuperstaar andis hiljuti intervjuu ajakirjale GM (Geese Monthly).  Selles intervjuus ütles ta intervjueerijale, et tema veendumuste kohaselt on Galactic Emperor otsustanud, et kõik MAC-i kasutajad on \"patused\" ja MAC-i kasutamine viib arvutiga seksimiseni.  Kui paljud MAC-i kasutajad ja mitte-MAC-kasutajad väljendasid oma nördimust nende arvates solvava ja ilmselgelt vale ettepaneku üle, karjusid \"Goose Galaxy\" kaitsjad, et telesuperstaaril on täielik õigus neid asju öelda, kuna tema kõne on kaitstud esimese muudatusega.",
+      "explanation": "Väideti, et kommentaarid olid solvavad ja ilmselgelt valed (kuna ükski uurimus ei ole suutnud tõestada, et MAC-i kasutamine viib arvutiga seksimiseni) ja tõsielusaadete staar *ei tohtinud* seda öelda, kuid \"Goose Galaxy\" toetajad vaidlesid vastu tõsiasjale, et tõsielusaatel oli õigus neid asju öelda; seepärast oleks ta *pidannud*.  Pange tähele, et õiguste kohta ei esitatud ühtegi väidet – see on *kõrremees*.  Eksitus ulatub õlekõrrest kaugemale, sest \"Goose Galaxy\" kaitsjad ajavad tõsielusaaduste staari põhiseaduslikud õigused kokku väitega, et ta oleks *pidanuks* neid asju ütlema.",
+      "original_example": "A top reality TV superstar from the hit show \"Goose Galaxy\" recently did an interview with GM magazine (Geese Monthly).  In this interview, he told the interviewer that, according to his beliefs, the Galactic Emperor has decreed that all MAC users are \"sinful\" and MAC use leads to having sex with computers.  When many MAC users and non-MAC users alike expressed their outrage at what they felt was an offensive and demonstrably false proposition, defenders of \"Goose Galaxy\" screamed that the TV superstar had every right to say those things as his speech is protected by the First Amendment.",
+      "original_explanation": "The claim made was that the comments were offensive and demonstrably false (as no research has been able to demonstrate that MAC use leads to having sex with computers), and the reality TV star *should not* have said those things, yet the \"Goose Galaxy\" supporters countered with the fact that the reality TV star had the right to say those things; therefore, he *should have*.  Notice that no claim was made about rights—this is a *strawman*.  The fallacy extends beyond the strawman because the defenders of \"Goose Galaxy\" are conflating the reality TV star's constitutional rights with the claim that he *should* have said those things."
+    }
+  ],
+  "translated_at": "2026-08-30T23:09:36.548Z"
+}

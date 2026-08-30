@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Subjectivist-Fallacy",
+  "title": "Subjectivist Fallacy",
+  "latin_name": "",
+  "also_known_as": [
+    "relativist fallacy"
+  ],
+  "description": "Claiming something is true for one person, but not for someone else when, in fact, it is true for everyone (objective) as demonstrated by empirical evidence.",
+  "logical_form": "Person 1 claims that Y is true.\n\nPerson 2 claims that Y is true for some people, but not for everyone (even though empirical evidence demonstrates otherwise).",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Jane: You know, smoking might not be the most healthy habit to start.\n\nTerry: Smoking is unhealthy for most people, but not for me.",
+      "explanation": "Sorry Terry, smoking is unhealthy for everyone -- you are no different."
+    },
+    {
+      "number": 2,
+      "example": "Jack: Sorry, your argument is full of contradictions.\n\nTed: Contradictions only apply to the carnal mind, not the spiritual one.",
+      "explanation": "Besides being a case of the *subjectivist fallacy*, Ted is also moving outside the realm of reason and logic."
+    }
+  ],
+  "exceptions": "Many things are actually true or false, depending on the person to which the rule may or may not apply.\n\nWhile Twinkies may be horrible to you, I find them delicious—baked, spongy sunshine with a white, creamy, cloud-like center, with the power to make any problem go away—even if just for a brief, magical moment.",
+  "tips": "Stay away from Twinkies.",
+  "references": [
+    "Peacocke, C. (2005). *The Realm of Reason*. Clarendon Press."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Subjectivist_Fallacy.jpg",
+  "slug": "Subjectivist-Fallacy",
+  "letter": "S",
+  "title_et": "Subjektivistlik eksitus",
+  "description_et": "Millegi väide kehtib ühe inimese jaoks, kuid mitte kellegi teise kohta, kuigi tegelikult kehtib see kõigi kohta (objektiivne), nagu näitavad empiirilised tõendid.",
+  "logical_form_et": "Isik 1 väidab, et Y on tõsi.\n\nIsik 2 väidab, et Y kehtib mõne inimese, kuid mitte kõigi kohta (kuigi empiirilised tõendid näitavad vastupidist).",
+  "exceptions_et": "Paljud asjad on tegelikult tõesed või valed, olenevalt inimesest, kelle suhtes reegel võib kehtida või mitte.\n\nKuigi Twinkies võib teile kohutavalt mõjuda, leian, et need on maitsvad – küpsetatud, käsnjas päikesepaiste valge, kreemja, pilvetaolise keskmega, millel on võim kõik probleemid ära kaotada – isegi kui vaid põgusaks maagiliseks hetkeks.",
+  "tips_et": "Hoia Twinkiesist eemale.",
+  "also_known_as_et": [
+    "relativistlik eksitus"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Jane: Tead, suitsetamine ei pruugi olla kõige tervislikum harjumus.\n\nTerry: Suitsetamine on enamiku inimeste jaoks ebatervislik, kuid mitte minu jaoks.",
+      "explanation": "Vabandust Terry, suitsetamine on kõigile ebatervislik – sa ei erine.",
+      "original_example": "Jane: You know, smoking might not be the most healthy habit to start.\n\nTerry: Smoking is unhealthy for most people, but not for me.",
+      "original_explanation": "Sorry Terry, smoking is unhealthy for everyone -- you are no different."
+    },
+    {
+      "number": 2,
+      "example": "Jack: Vabandust, teie argument on täis vastuolusid.\n\nTed: Vastuolud puudutavad ainult lihalikku meelt, mitte vaimset.",
+      "explanation": "Lisaks sellele, et Ted on *subjektivistliku eksituse* juhtum, liigub ta ka mõistuse ja loogika valdkonnast välja.",
+      "original_example": "Jack: Sorry, your argument is full of contradictions.\n\nTed: Contradictions only apply to the carnal mind, not the spiritual one.",
+      "original_explanation": "Besides being a case of the *subjectivist fallacy*, Ted is also moving outside the realm of reason and logic."
+    }
+  ],
+  "translated_at": "2026-08-30T23:13:28.562Z"
+}

@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Disjunction-Fallacy",
+  "title": "Disjunction Fallacy",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Similar to the* *[conjunction fallacy](https://www.logicallyfallacious.com/logicalfallacies/Conjunction-Fallacy)**, the *disjunction fallacy* occurs when one estimates a disjunctive statement (this *or* that) to be less probable than at least one of its component statements.",
+  "logical_form": "",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Mr. Pius goes to church every Sunday.  He gets most of his information about religion from church and does not really read the Bible too much.  Mr. Pius has a figurine of St. Mary at home.  Last year, when he went to Rome, he toured the Vatican.  From this information, Mr. Pius is more likely to be Catholic than a Catholic or a Muslim.",
+      "explanation": "This is incorrect.  While it is very likely that Mr. Pius is Catholic based on the information, it is more likely that he is Catholic or Muslim."
+    },
+    {
+      "number": 2,
+      "example": "Bill is 6’11” tall, thin, but muscular.  We know he either is a pro basketball player or a jockey.  We conclude that it is more probable that he is a pro basketball player than a pro basketball player or a jockey.",
+      "explanation": "This is incorrect.  While it is very likely that Bill plays the B-ball, given that he would probably crush a horse, it is statistically more likely that he is either a pro basketball player or a jockey since that option includes the option of him being just a pro basketball player.  Don’t let what seems like common sense fool you."
+    }
+  ],
+  "exceptions": "No exceptions due to basic probability.",
+  "tips": "Go back and read the entry for the *[conjunction fallacy](https://www.logicallyfallacious.com/logicalfallacies/Conjunction-Fallacy)* again and make sure you know the difference.",
+  "references": [
+    "Gilovich, T., Griffin, D., & Kahneman, D. (2002). *Heuristics and Biases: The Psychology of Intuitive Judgment*. Cambridge University Press."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Disjunction_Fallacy.jpg",
+  "slug": "Disjunction-Fallacy",
+  "letter": "D",
+  "title_et": "Disjunktsiooni eksitus",
+  "description_et": "Sarnaselt * *[konjunktsiooni valele](https://www.logicallyfallacious.com/logicalfallacies/Conjunction-Fallacy)** ilmneb *disjunktiivse lause (see *või*) vähem tõenäoliseks kui vähemalt üks selle komponentlausetest.",
+  "logical_form_et": "",
+  "exceptions_et": "Põhitõenäosuse tõttu erandeid pole.",
+  "tips_et": "Minge tagasi ja lugege uuesti kirje *[konjunktsiooni vale](https://www.logicallyfallacious.com/logicalfallacies/Conjunction-Fallacy)* kohta ning veenduge, et teate erinevust.",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Härra Pius käib igal pühapäeval kirikus.  Ta saab suurema osa oma teabest religiooni kohta kirikust ega loe tegelikult Piiblit liiga palju.  Härra Piusel on kodus Maarja kujuke.  Eelmisel aastal, kui ta Roomas käis, tuuritas ta Vatikanis.  Selle teabe põhjal on härra Pius tõenäolisemalt katoliiklane kui katoliiklane või moslem.",
+      "explanation": "See on vale.  Kuigi on väga tõenäoline, et härra Pius on teabe põhjal katoliiklane, on tõenäolisem, et ta on katoliiklane või moslem.",
+      "original_example": "Mr. Pius goes to church every Sunday.  He gets most of his information about religion from church and does not really read the Bible too much.  Mr. Pius has a figurine of St. Mary at home.  Last year, when he went to Rome, he toured the Vatican.  From this information, Mr. Pius is more likely to be Catholic than a Catholic or a Muslim.",
+      "original_explanation": "This is incorrect.  While it is very likely that Mr. Pius is Catholic based on the information, it is more likely that he is Catholic or Muslim."
+    },
+    {
+      "number": 2,
+      "example": "Bill on 6’11 tolli pikk, kõhn, kuid lihaseline. Teame, et ta on kas profikorvpallur või džoki. Järeldame, et tõenäolisem on, et ta on prokorvpallur kui prokorvpallur või džoki.",
+      "explanation": "See on vale.  Kuigi on väga tõenäoline, et Bill mängib B-palli, arvestades, et ta tõenäoliselt purustaks hobuse, on statistiliselt tõenäolisem, et ta on kas profikorvpallur või džoki, kuna see valik hõlmab võimalust, et ta on lihtsalt prokorvpallur.  Ärge laske sellel, mis näib terve mõistusena, end petta.",
+      "original_example": "Bill is 6’11” tall, thin, but muscular.  We know he either is a pro basketball player or a jockey.  We conclude that it is more probable that he is a pro basketball player than a pro basketball player or a jockey.",
+      "original_explanation": "This is incorrect.  While it is very likely that Bill plays the B-ball, given that he would probably crush a horse, it is statistically more likely that he is either a pro basketball player or a jockey since that option includes the option of him being just a pro basketball player.  Don’t let what seems like common sense fool you."
+    }
+  ],
+  "translated_at": "2026-08-30T22:43:41.642Z"
+}

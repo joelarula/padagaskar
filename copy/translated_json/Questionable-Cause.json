@@ -1,0 +1,73 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Questionable-Cause",
+  "title": "Questionable Cause",
+  "latin_name": "cum hoc ergo propter hoc",
+  "also_known_as": [
+    "butterfly logic",
+    "ignoring a common cause",
+    "neglecting a common cause",
+    "confusing correlation and causation",
+    "confusing cause and effect",
+    "false cause",
+    "third cause",
+    "third-cause fallacy",
+    "juxtaposition [form of]",
+    "reversing causality/wrong direction [form of]"
+  ],
+  "description": "Concluding that one thing caused another, simply because they are regularly associated.",
+  "logical_form": "A is regularly associated with B; therefore, A causes B.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Every time I go to sleep, the sun goes down.  Therefore, my going to sleep causes the sun to set.",
+      "explanation": "I hope the fallacious reasoning here is very clear and needs no explanation."
+    },
+    {
+      "number": 2,
+      "example": "Many homosexuals have AIDS. Therefore, homosexuality causes AIDS.",
+      "explanation": "While AIDS is found in a much larger percentage of the homosexual population than in the heterosexual population, we cannot conclude that homosexuality is the cause of AIDS, any more than we can conclude that heterosexuality is the cause of pregnancy."
+    }
+  ],
+  "exceptions": "When strong evidence is provided for causation, it is not a fallacy.\n\n**Variation:** The *juxtaposition fallacy* is putting two items/ideas together, implying a causal connection, but never actually stating that one exists.\n\nIt’s funny how whenever you are around, the room smells bad.\n\n*Reversing causality* or *wrong direction *is just what is sounds like -- it is still a false cause, but the specific case where one claims something like the sun sets because night time is coming.\n\n**Fun Fact:** To establish causality you need to show three things: 1) that X came before Y, 2) that the observed relationship between X and Y didn't happen by chance alone, and 3) that there is nothing else that accounts for the X then Y relationship.",
+  "tips": "",
+  "references": [
+    "Johnson, R. H., & Blair, J. A. (2006). *Logical Self-defense*. IDEA."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Questionable_Cause.jpg",
+  "slug": "Questionable-Cause",
+  "letter": "Q",
+  "title_et": "Küsitav põhjus",
+  "description_et": "Järeldades, et üks asi põhjustas teise, lihtsalt sellepärast, et neid seostatakse regulaarselt.",
+  "logical_form_et": "A on regulaarselt seotud B-ga; seetõttu põhjustab A B.",
+  "exceptions_et": "Kui põhjusliku seose kohta esitatakse kindlad tõendid, ei ole see eksitus.\n\n**Variatsioon:** *kõrvutamise eksitus* on kahe elemendi/idee kokkupanek, mis viitab põhjuslikule seosele, kuid ei kinnita kunagi, et see on olemas.\n\nSee on naljakas, kuidas alati, kui olete läheduses, haiseb tuba halvasti.\n\n*Põhjuslikkuse ümberpööramine* või *vale suund *on just see, mis kõlab – see on ikkagi vale põhjus, kuid konkreetne juhtum, kus väidetakse, et midagi päikeseloojangut loojub, sest on tulemas öö.\n\n**Lõbus fakt:** Põhjusliku seose kindlakstegemiseks peate näitama kolme asja: 1) et X tuli enne Y-d, 2) et vaadeldud seos X ja Y vahel ei tekkinud juhuslikult ja 3) et X ja Y seose põhjuseks pole midagi muud.",
+  "tips_et": "",
+  "also_known_as_et": [
+    "liblika loogika",
+    "ühise põhjuse ignoreerimine",
+    "ühise põhjuse tähelepanuta jätmine",
+    "segane korrelatsioon ja põhjuslik seos",
+    "põhjuse ja tagajärje segi ajamine",
+    "vale põhjus",
+    "kolmas põhjus",
+    "kolmanda põhjuse eksitus",
+    "kõrvutamine [vorm]",
+    "põhjuslikkuse/vale suuna muutmine [vorm]"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Iga kord kui magama lähen, loojub päike.  Seetõttu paneb minu magama jäämine päikese loojuma.",
+      "explanation": "Loodan, et ekslik arutluskäik on siin väga selge ega vaja selgitust.",
+      "original_example": "Every time I go to sleep, the sun goes down.  Therefore, my going to sleep causes the sun to set.",
+      "original_explanation": "I hope the fallacious reasoning here is very clear and needs no explanation."
+    },
+    {
+      "number": 2,
+      "example": "Paljudel homoseksuaalidel on AIDS. Seetõttu põhjustab homoseksuaalsus AIDS-i.",
+      "explanation": "Kuigi AIDSi leidub palju suuremal protsendil homoseksuaalsest elanikkonnast kui heteroseksuaalsest elanikkonnast, ei saa me järeldada, et homoseksuaalsus on AIDSi põhjus, nagu ka seda, et heteroseksuaalsus on raseduse põhjuseks.",
+      "original_example": "Many homosexuals have AIDS. Therefore, homosexuality causes AIDS.",
+      "original_explanation": "While AIDS is found in a much larger percentage of the homosexual population than in the heterosexual population, we cannot conclude that homosexuality is the cause of AIDS, any more than we can conclude that heterosexuality is the cause of pregnancy."
+    }
+  ],
+  "translated_at": "2026-08-30T23:07:01.177Z"
+}

@@ -1,0 +1,69 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Non-Sequitur",
+  "title": "Non Sequitur",
+  "latin_name": "",
+  "also_known_as": [
+    "derailment",
+    "“that does not follow”",
+    "irrelevant reason",
+    "invalid inference",
+    "non-support",
+    "argument by scenario [form of]",
+    "false premise [form of]",
+    "questionable premise [form of]"
+  ],
+  "description": "When the conclusion does not follow from the premises.  In more informal reasoning, it can be when what is presented as evidence or reason is irrelevant or adds very little support to the conclusion.",
+  "logical_form": "Claim A is made.\n\nEvidence is presented for claim A.\n\nTherefore, claim C is true.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "People generally like to walk on the beach.  Beaches have sand.  Therefore, having sand floors in homes would be a great idea!",
+      "explanation": "As cool as the idea of sand floors might sound, the conclusion does not follow from the premises.  The fact that people generally like to walk on sand does not mean that they want sand in their homes, just like because people generally like to swim, they shouldn’t flood their houses."
+    },
+    {
+      "number": 2,
+      "example": "Buddy Burger has the greatest food in town.  Buddy Burger was voted #1 by the local paper.  Therefore, Phil, the owner of Buddy Burger, should run for president of the United States.",
+      "explanation": "I bet Phil makes one heck of a burger, but it does not follow that he should be president."
+    }
+  ],
+  "exceptions": "There really are no exceptions to this rule. Any good argument must have a conclusion that follows from the premises.",
+  "tips": "One of the best ways to expose non sequiturs is by constructing a valid analogy that exposes the absurdity in the argument.\n\n**Variations:** There are many forms of non sequiturs including *argument by scenario*, where an irrelevant scenario is given in an attempt to support the conclusion.  Other forms use different rhetorical devices that are irrelevant to the conclusion.\n\n*False* or *questionable premises* could be seen as errors in facts, but they can also lead to the conclusion not following, so just keep that in mind, as well.",
+  "references": [
+    "Hyslop, J. H. (1892). *The Elements of Logic, Theoretical and Practical*. C. Scribner’s Sons."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Non_Sequitur.jpg",
+  "slug": "Non-Sequitur",
+  "letter": "N",
+  "title_et": "Mitte Sequitur",
+  "description_et": "Kui järeldust ruumidest ei järeldu.  Mitteametlikuma arutluse puhul võib see juhtuda siis, kui tõendi või põhjusena esitatu on ebaoluline või annab järeldusele väga vähe tuge.",
+  "logical_form_et": "Nõue A on esitatud.\n\nNõude A kohta esitatakse tõendid.\n\nSeetõttu on väide C tõene.",
+  "exceptions_et": "Sellest reeglist pole tõesti erandeid. Igal heal argumendil peab olema järeldus, mis tuleneb eeldustest.",
+  "tips_et": "Üks parimaid viise mittesequituride paljastamiseks on luua kehtiv analoogia, mis paljastab argumendi absurdsuse.\n\n**Variatsioonid:** on palju vorme, mis ei ole sequiturs, sealhulgas *argument stsenaariumi järgi*, mille puhul esitatakse järelduse toetamiseks ebaoluline stsenaarium.  Teised vormid kasutavad erinevaid retoorilisi vahendeid, mis ei oma järeldust.\n\n*Valed* või *küsitavad eeldused* võivad olla faktide vead, kuid need võivad viia ka selleni, et järeldus ei järgne, nii et pidage ka seda meeles.",
+  "also_known_as_et": [
+    "rööbastelt mahasõit",
+    "\"see ei järgne\"",
+    "ebaoluline põhjus",
+    "kehtetu järeldus",
+    "mittetoetamine",
+    "argument stsenaariumi järgi [vorm]",
+    "vale eeldus [vorm]",
+    "küsitav eeldus [vorm]"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Üldiselt meeldib inimestele rannas jalutada.  Rannad on liivaga.  Seetõttu oleks kodudes liivapõrandate olemasolu suurepärane idee!",
+      "explanation": "Nii lahedalt kui idee liivapõrandatest ka ei kõla, järeldust ruumidest ei järeldu.  See, et inimestele üldiselt meeldib liival kõndida, ei tähenda, et nad tahaksid oma kodudesse liiva, nagu ka seetõttu, et inimestele üldiselt meeldib ujuda, ei tohiks nad oma maju üle ujutada.",
+      "original_example": "People generally like to walk on the beach.  Beaches have sand.  Therefore, having sand floors in homes would be a great idea!",
+      "original_explanation": "As cool as the idea of sand floors might sound, the conclusion does not follow from the premises.  The fact that people generally like to walk on sand does not mean that they want sand in their homes, just like because people generally like to swim, they shouldn’t flood their houses."
+    },
+    {
+      "number": 2,
+      "example": "Buddy Burgeril on linna parim toit.  Buddy Burger valiti kohalikus ajalehes esikohale.  Seetõttu peaks Buddy Burgeri omanik Phil USA presidendiks kandideerima.",
+      "explanation": "Vean kihla, et Phil teeb ühe pagana burgeri, kuid see ei tähenda, et ta peaks olema president.",
+      "original_example": "Buddy Burger has the greatest food in town.  Buddy Burger was voted #1 by the local paper.  Therefore, Phil, the owner of Buddy Burger, should run for president of the United States.",
+      "original_explanation": "I bet Phil makes one heck of a burger, but it does not follow that he should be president."
+    }
+  ],
+  "translated_at": "2026-08-30T23:02:45.011Z"
+}

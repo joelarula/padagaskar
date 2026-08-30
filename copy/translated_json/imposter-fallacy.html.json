@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/imposter-fallacy.html",
+  "title": "Imposter Fallacy",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "When one suggests or claims, with insufficient evidence, that the group outliers who are viewed as damaging to the group are primarily made up of infiltrators of another group with the purpose of making the infiltrated group look bad.\n\nThis is similar to the* *[nutpicking fallacy](https://www.logicallyfallacious.com/logicalfallacies/nutpicking-fallacy.html)* *in that the group outliers and the “nuts” are equally as embarrassing or damaging to the group, but with the *imposter fallacy*, the outliers are claimed to be actors or imposters. This is also similar to the *no true Scotsman fallacy* in that a foundational claim is that no “true” group member would act in this way, so they must be an imposter.",
+  "logical_form": "*Group A comprises members X,Y, and Z who act in a way that damages group A’s reputation.*\n*Person 1 suggests or claims, with insufficient evidence, that members X,Y, and Z are actually part of Group B who are there to make Group A look bad.*",
+  "examples": [
+    {
+      "number": 1,
+      "example": "*Frieda Freestuff: I can’t believe you support Trump. Didn’t you see the Trump rally with the group of supporters holding up signs for “White Power?” Do you really want to be associated with that message?*\n*Garry Godznguns: Those aren’t Trump supporters; they are liberals pretending to be Trump supporters just to make Trump supporters look bad.*\n*Frieda Freestuff: It’s working.*",
+      "explanation": "There is no question that imposters exist. It is not uncommon that political rivals will pretend to be the worst of the other group with the goal of damaging the other group’s reputation. The problem here is that Garry Godznguns has no evidence to back up his claim, and there is plenty of evidence to the contrary that white supremacists and white nationalists overwhelmingly support Trump."
+    },
+    {
+      "number": 2,
+      "example": "*Peter Procops: I can’t believe you support these protests. People are being injured and killed. Property is being destroyed. Stores are being looted. Our city looks like a war zone!*\n*Patricia Defunddapopo: The protesters are peaceful and lawful. It was just on the news that a guy they arrested for vandalism was a white nationalist who admitted vandalizing to make the protesters look bad.*\n*Peter Procops: It’s working.*",
+      "explanation": "While it is true that the guy arrested was a white nationalist who admitted vandalizing to make the protesters look bad, this was one case out of thousands. There is video documentation of known activists advocating for looting, vandalism, and even arson. The evidence strongly suggests the majority of destruction is not due to the imposters."
+    }
+  ],
+  "exceptions": "This is a fallacy contingent upon evidence. If enough evidence exists that the majority of the group outliers in question are imposters, then there is no fallacy.\n\n**Fun Fact:** The imposter fallacy is often committed with the deceptive sharing fallacy when one shares a one-off story about an actual imposter.",
+  "tips": "",
+  "references": [
+    "This is an original logical fallacy named by the author."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Imposter_Fallacy.jpg",
+  "slug": "imposter-fallacy.html",
+  "letter": "I",
+  "title_et": "Petturlik eksitus",
+  "description_et": "Kui soovitatakse või väidetakse ebapiisavate tõenditega, et grupi kõrvalekaldujad, keda peetakse rühmale kahjulikuks, koosnevad peamiselt teise rühma sissetungijatest, mille eesmärk on muuta sissetunginud rühm halvaks.\n\nSee sarnaneb* *[pähklivalimise veaga](https://www.logicallyfallacious.com/logicalfallacies/nutpicking-fallacy.html)* *selle poolest, et grupi kõrvalekalded ja \"pähklid\" on grupile sama häbiväärsed või kahjustavad, kuid *petturi eksituse* puhul peetakse kõrvalekaldeid valedeks või petturiteks. See sarnaneb ka *pole tõelise šotlase eksitusega*, kuna põhiväide on, et ükski \"tõeline\" rühmaliige ei käituks sel viisil, seega peab ta olema petis.",
+  "logical_form_et": "*Rühma A kuuluvad liikmed X, Y ja Z, kes tegutsevad viisil, mis kahjustab A-rühma mainet.*\n*Isik 1 viitab või väidab ebapiisavate tõenditega, et liikmed X, Y ja Z kuuluvad tegelikult rühma B, kelle eesmärk on muuta A-rühm halvaks.*",
+  "exceptions_et": "See on tõenditest sõltuv eksitus. Kui on piisavalt tõendeid selle kohta, et suurem osa kõnealustest rühmadest on petturid, siis pole ekslikkust.\n\n**Lõbus tõsiasi.** Petturi eksitus pannakse sageli toime petliku jagamise eksimusega, kui jagatakse ühekordset lugu tegelikust petisest.",
+  "tips_et": "",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "*Frieda Freestuff: Ma ei suuda uskuda, et toetate Trumpi. Kas te ei näinud Trumpi miitingut, kus toetajate rühm hoidis silte \"Valge jõu\" eest? Kas soovite tõesti olla selle sõnumiga seotud?*\n*Garry Godznguns: need ei ole Trumpi toetajad; nad on liberaalid, kes teesklevad Trumpi toetajaid lihtsalt selleks, et Trumpi toetajatel halb välja näha.*\n*Frieda Freestuff: see töötab.*",
+      "explanation": "Petturite olemasolus pole kahtlustki. Pole haruldane, et poliitilised rivaalid teesklevad teise rühma halvimaid, eesmärgiga kahjustada teise rühma mainet. Probleem on selles, et Garry Godzngunsil pole oma väite toetuseks tõendeid, ja on palju tõendeid vastupidise kohta, et valged ülemvõimu pooldajad ja valged natsionalistid toetavad ülekaalukalt Trumpi.",
+      "original_example": "*Frieda Freestuff: I can’t believe you support Trump. Didn’t you see the Trump rally with the group of supporters holding up signs for “White Power?” Do you really want to be associated with that message?*\n*Garry Godznguns: Those aren’t Trump supporters; they are liberals pretending to be Trump supporters just to make Trump supporters look bad.*\n*Frieda Freestuff: It’s working.*",
+      "original_explanation": "There is no question that imposters exist. It is not uncommon that political rivals will pretend to be the worst of the other group with the goal of damaging the other group’s reputation. The problem here is that Garry Godznguns has no evidence to back up his claim, and there is plenty of evidence to the contrary that white supremacists and white nationalists overwhelmingly support Trump."
+    },
+    {
+      "number": 2,
+      "example": "*Peter Procops: Ma ei suuda uskuda, et te neid proteste toetate. Inimesed saavad vigastada ja hukkuvad. Vara hävitatakse. Kauplusi rüüstatakse. Meie linn näeb välja nagu sõjatsoon!*\n*Patricia Defunddapopo: protestijad on rahumeelsed ja seaduslikud. See oli just uudis, et mees, kelle nad vandalismi eest vahistasid, oli valge natsionalist, kes tunnistas vandaalitsemist, et meeleavaldajaid halvasti näha.*\n*Peter Procops: See töötab.*",
+      "explanation": "Kuigi on tõsi, et arreteeritud tüüp oli valge natsionalist, kes tunnistas vandaalitsemist, et meeleavaldajaid halvasti näha, oli see üks juhtum tuhandetest. Seal on videodokumentatsiooni tuntud aktivistidest, kes propageerivad rüüstamist, vandalismi ja isegi süütamist. Tõendid viitavad tugevalt sellele, et suurem osa hävingust ei ole tingitud petistest.",
+      "original_example": "*Peter Procops: I can’t believe you support these protests. People are being injured and killed. Property is being destroyed. Stores are being looted. Our city looks like a war zone!*\n*Patricia Defunddapopo: The protesters are peaceful and lawful. It was just on the news that a guy they arrested for vandalism was a white nationalist who admitted vandalizing to make the protesters look bad.*\n*Peter Procops: It’s working.*",
+      "original_explanation": "While it is true that the guy arrested was a white nationalist who admitted vandalizing to make the protesters look bad, this was one case out of thousands. There is video documentation of known activists advocating for looting, vandalism, and even arson. The evidence strongly suggests the majority of destruction is not due to the imposters."
+    }
+  ],
+  "translated_at": "2026-08-30T22:55:41.320Z"
+}

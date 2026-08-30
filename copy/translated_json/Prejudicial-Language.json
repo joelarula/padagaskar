@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Prejudicial-Language",
+  "title": "Prejudicial Language",
+  "latin_name": "",
+  "also_known_as": [
+    "variant imagization"
+  ],
+  "description": "Loaded or emotive terms used to attach value or moral goodness to believing the proposition.",
+  "logical_form": "Claim A is made using loaded or emotive terms.\n\nTherefore, claim A is true.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "All good Catholics know that impure thoughts are the work of the devil, and should be resisted at all costs.",
+      "explanation": "The phrase “all good Catholics” is the loaded or prejudicial language being used.  The implication is that Catholics who *don’t* resist impure thoughts are “bad Catholics”, which is not fair -- they may just not be as strong willed, or perhaps they don’t agree with the Church's views on sex."
+    },
+    {
+      "number": 2,
+      "example": "Students who want to succeed in life will do their homework each and every night.",
+      "explanation": "The assertion is that students who* don’t* do their homework every night *don’t* want to succeed in life, which is bad reasoning.  Perhaps the student is sick one night, tired, doesn’t understand the work, or was busy making out with his father’s secretary in the office supply closet next to the memo pads.  The point is, dad, you cannot assume that just because I skipped homework a few nights that it means I didn’t want to succeed in life!"
+    }
+  ],
+  "exceptions": "This is often used for motivation, but even if the intent is honorable, it is still fallacious.",
+  "tips": "*Prejudicial language* can be a powerful and effective persuasion tool. Use it in addition to a well-reasoned argument, not in place of one.",
+  "references": [
+    "Damer, T. E. (2008). *Attacking Faulty Reasoning: A Practical Guide to Fallacy-Free Arguments*. Cengage Learning."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Prejudicial_Language.jpg",
+  "slug": "Prejudicial-Language",
+  "letter": "P",
+  "title_et": "Eelarvamuslik keel",
+  "description_et": "Koormatud või emotsionaalsed terminid, mida kasutatakse ettepaneku uskumisele väärtuse või moraalse headuse omistamiseks.",
+  "logical_form_et": "Nõue A on tehtud laaditud või emotsionaalseid termineid kasutades.\n\nSeetõttu on väide A tõene.",
+  "exceptions_et": "Seda kasutatakse sageli motiveerimiseks, kuid isegi kui kavatsus on auväärne, on see siiski ekslik.",
+  "tips_et": "*Eelarvamuslik keel* võib olla võimas ja tõhus veenmisvahend. Kasutage seda lisaks hästi põhjendatud argumendile, mitte ühe asemel.",
+  "also_known_as_et": [
+    "variandi kujutlusvõime"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Kõik head katoliiklased teavad, et ebapuhtad mõtted on kuradi töö ja neile tuleks iga hinna eest vastu seista.",
+      "explanation": "Fraas \"kõik head katoliiklased\" on koormatud või eelarvamuslik keel, mida kasutatakse.  Sellest järeldub, et katoliiklased, kes *ei seisa vastu ebapuhtatele mõtetele, on \"halvad katoliiklased\", mis pole õiglane – nad ei pruugi lihtsalt olla nii tugeva tahtega või võib-olla ei nõustu nad kiriku seisukohtadega seksi kohta.",
+      "original_example": "All good Catholics know that impure thoughts are the work of the devil, and should be resisted at all costs.",
+      "original_explanation": "The phrase “all good Catholics” is the loaded or prejudicial language being used.  The implication is that Catholics who *don’t* resist impure thoughts are “bad Catholics”, which is not fair -- they may just not be as strong willed, or perhaps they don’t agree with the Church's views on sex."
+    },
+    {
+      "number": 2,
+      "example": "Õpilased, kes tahavad elus edu saavutada, teevad oma kodutööd igal õhtul.",
+      "explanation": "Väide on, et õpilased, kes* ei tee* igal õhtul kodutöid, *ei taha* elus edu saavutada, mis on halb põhjendus.  Võib-olla on õpilane ühel õhtul haige, väsinud, ei saa tööst aru või oli kontoritarvete kapis memoblokkide kõrval hõivatud isa sekretäriga.  Asi on selles, isa, et sa ei saa eeldada, et see, et jätsin mõnel õhtul kodutöö vahele, tähendab, et ma ei tahtnud elus edu saavutada!",
+      "original_example": "Students who want to succeed in life will do their homework each and every night.",
+      "original_explanation": "The assertion is that students who* don’t* do their homework every night *don’t* want to succeed in life, which is bad reasoning.  Perhaps the student is sick one night, tired, doesn’t understand the work, or was busy making out with his father’s secretary in the office supply closet next to the memo pads.  The point is, dad, you cannot assume that just because I skipped homework a few nights that it means I didn’t want to succeed in life!"
+    }
+  ],
+  "translated_at": "2026-08-30T23:05:09.916Z"
+}

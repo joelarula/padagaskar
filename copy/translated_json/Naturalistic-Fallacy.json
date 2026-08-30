@@ -1,0 +1,60 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Naturalistic-Fallacy",
+  "title": "Naturalistic Fallacy",
+  "latin_name": "",
+  "also_known_as": [
+    "is-ought fallacy",
+    "arguing from is to ought",
+    "is-should fallacy"
+  ],
+  "description": "When the conclusion expresses what ought to be, based only on what is, or what ought not to be, based on what is not. This is very common, and most people never see the problem with these kinds of assertions due to accepted social and moral norms. This bypasses reason and we fail to ask why something that is,* ought* to be that way.\n\nThis is the opposite of the *[moralistic fallacy](https://www.logicallyfallacious.com/logicalfallacies/Moralistic-Fallacy)*.\n\nA more traditional use of the *naturalistic fallacy* is committed when one attempts to define “good” as anything other than itself. The philosopher G. E. Moore (1873-1958) argued that it is a mistake to try to define the concept “good” in terms of some natural property (thus, the name “naturalistic”). Defining the concept “good,” Moore argued, is impossible since it is a simple concept; a concept that cannot be defined in terms of any other concept. Not all philosophers agree that this is a fallacy. Some have argued that ethical terms, such as “good” can be defined in nonethical natural terms. They believe that ethical judgments directly follow from facts, i.e., it is possible to argue from a fact to a value.",
+  "logical_form": "",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Homosexuality is / ought to be morally wrong (moral property) because it is not normal (natural property).\nor\nHomosexuality is not normal (natural property); therefore, it is / ought to be morally wrong (moral property).",
+      "explanation": "If we break this down, we can say the claim is that homosexuality (X) is not normal (X is not). We are arguing that homosexuality is morally wrong (X ought not to be) because it is not normal (X is not). The claim that homosexuality is not normal is based on defining normality as “commonly occurring.” We can see the flaw in this argumentation through a simple analogy: lying, cheating, and stealing are normal (in that most people do it at some time in their lives), but this doesn’t make those actions morally good."
+    },
+    {
+      "number": 2,
+      "example": "Nature gives people diseases and sickness; therefore, it is morally wrong to interfere with nature and treat sick people with medicine.",
+      "explanation": "If we break this down, we can say that the claim that nature gives people diseases and sickness is a declaration of what is (i.e., a natural property of the world). From this, we are deriving an ought (i.e., we ought not interfere...). The wording and order of these arguments can be confusing, but remember that the underlying fallacy here is the deduction of an ought from an is.\n\nWe go against nature (or what is) all the time. We cannot sometimes use nature as a moral baseline and at other times condemn her for her careless attitude and indifference toward the human race."
+    }
+  ],
+  "exceptions": "At times, our morality will be in line with what is—but if we are justifying a moral action, we need to use something besides simply what is.\n\n**Fun Fact:** The *naturalistic* and the *moralistic* fallacies are often confused with the appeal to nature fallacy. One reason, perhaps, is because what is “natural” is another way of saying what is, is. But with the *naturalistic* and the *moralistic* fallacies, the conclusion does not have to be based on what is “natural;” it just has to be based on what is. For example,\n\nSince wars have taken place since the beginning of recorded history, then they can’t be morally wrong.\n\nThis is another example of the *naturalistic fallacy* but not an *[appeal to nature](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Nature)*.****\n\n**Social Media Share Image:** Drag and drop this to your desktop to use freely in social media or just share this page.",
+  "tips": "",
+  "references": [
+    "Pinker, S. (2003). *The Blank Slate: The Modern Denial of Human Nature*. Penguin.",
+    "Tanner, J. (2006). The naturalistic fallacy. The Richmond Journal of Philosophy, 13, 1–6."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Naturalistic_Fallacy.jpg",
+  "slug": "Naturalistic-Fallacy",
+  "letter": "N",
+  "title_et": "Naturalistlik eksitus",
+  "description_et": "Kui järeldus väljendab seda, mis peaks olema, tuginedes ainult sellele, mis on või mis ei tohiks olla, põhineb sellel, mis ei ole. See on väga levinud ja enamik inimesi ei näe seda tüüpi väidetes kunagi probleemi, mis on tingitud aktsepteeritud sotsiaalsetest ja moraalinormidest. See läheb mõistusest mööda ja me ei suuda küsida, miks miski, mis on,* peaks nii olema.\n\nSee on *[moralistliku eksituse](https://www.logicallyfallacious.com/logicalfallacies/Moralistic-Fallacy)* vastand.\n\nTraditsioonilisem *naturalistliku eksituse* kasutamine on toime pandud siis, kui püütakse määratleda \"head\" kui midagi muud peale iseenda. Filosoof G. E. Moore (1873-1958) väitis, et on viga püüda defineerida mõistet “hea” mõne loodusliku omaduse (seega nimetuse “naturalistiline”) kaudu. Moore väitis, et mõiste \"hea\" määratlemine on võimatu, kuna see on lihtne mõiste; mõiste, mida ei saa defineerida ühegi teise mõistega. Mitte kõik filosoofid ei nõustu, et see on eksitus. Mõned on väitnud, et eetilisi termineid, nagu \"hea\", saab määratleda mitteeetiliselt loomulike terminitena. Nad usuvad, et eetilised hinnangud tulenevad otseselt faktidest, st faktilt on võimalik vaielda väärtuseni.",
+  "logical_form_et": "",
+  "exceptions_et": "Mõnikord on meie moraal kooskõlas sellega, mis on, kuid kui me õigustame moraalset tegevust, peame kasutama midagi peale lihtsalt selle, mis on.\n\n**Lõbus tõsiasi:** *naturalistlikud* ja *moralistlikud* eksimused aetakse sageli segi pöördumisega looduse ekslikkusele. Üks põhjus võib olla selles, et see, mis on \"loomulik\", on teine ​​viis öelda, mis on, on. Kuid *naturalistlike* ja *moralistlike* eksimuste puhul ei pea järeldus põhinema sellel, mis on „loomulik”; see lihtsalt peab põhinema sellel, mis on. Näiteks\n\nKuna sõdu on toimunud salvestatud ajaloo algusest peale, siis ei saa need olla moraalselt valed.\n\nSee on veel üks näide *naturalistlikust eksimusest*, kuid mitte *[looduse poole pöördumine](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Nature)*.****\n\n**Jaga pilti sotsiaalmeedias:** pukseerige see oma töölauale, et seda sotsiaalmeedias vabalt kasutada või lihtsalt seda lehte jagada.",
+  "tips_et": "",
+  "also_known_as_et": [
+    "on-peaks eksitus",
+    "vaidlemine peab olema",
+    "on-peaks eksitus"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Homoseksuaalsus on/peaks olema moraalselt vale (moraalne omand), sest see ei ole normaalne (looduslik omand).\nvõi\nHomoseksuaalsus ei ole normaalne (looduslik omand); seetõttu on/peaks see olema moraalselt vale (moraalne omadus).",
+      "explanation": "Kui me selle jaotame, võime öelda, et homoseksuaalsus (X) ei ole normaalne (X ei ole). Me vaidleme, et homoseksuaalsus on moraalselt vale (X ei tohiks olla), sest see ei ole normaalne (X ei ole). Väide, et homoseksuaalsus ei ole normaalne, põhineb normaalsuse määratlemisel kui \"tavaliselt esinev\". Selle argumendi viga näeme lihtsa analoogia kaudu: valetamine, petmine ja varastamine on normaalsed (selles mõttes, et enamik inimesi teeb seda mingil eluperioodil), kuid see ei muuda neid tegusid moraalselt heaks.",
+      "original_example": "Homosexuality is / ought to be morally wrong (moral property) because it is not normal (natural property).\nor\nHomosexuality is not normal (natural property); therefore, it is / ought to be morally wrong (moral property).",
+      "original_explanation": "If we break this down, we can say the claim is that homosexuality (X) is not normal (X is not). We are arguing that homosexuality is morally wrong (X ought not to be) because it is not normal (X is not). The claim that homosexuality is not normal is based on defining normality as “commonly occurring.” We can see the flaw in this argumentation through a simple analogy: lying, cheating, and stealing are normal (in that most people do it at some time in their lives), but this doesn’t make those actions morally good."
+    },
+    {
+      "number": 2,
+      "example": "Loodus annab inimestele haigusi ja haigusi; seetõttu on moraalselt vale sekkuda loodusesse ja ravida haigeid ravimeid.",
+      "explanation": "Kui me seda jaotame, võime öelda, et väide, et loodus annab inimestele haigusi ja haigusi, on deklaratsioon selle kohta, mis on (st maailma loomulik omadus). Sellest tuletame me (st me ei tohiks sekkuda...). Nende argumentide sõnastus ja järjekord võivad olla segadusttekitavad, kuid pidage meeles, et siin on aluseks eksiarvamus, milleks on ’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’ mahaarvamine.\n\nMe läheme looduse (või selle, mis on) vastu kogu aeg. Me ei saa mõnikord kasutada loodust moraalse lähtealusena ja mõnikord mõista teda hukka tema hoolimatu suhtumise ja ükskõiksuse pärast inimkonna suhtes.",
+      "original_example": "Nature gives people diseases and sickness; therefore, it is morally wrong to interfere with nature and treat sick people with medicine.",
+      "original_explanation": "If we break this down, we can say that the claim that nature gives people diseases and sickness is a declaration of what is (i.e., a natural property of the world). From this, we are deriving an ought (i.e., we ought not interfere...). The wording and order of these arguments can be confusing, but remember that the underlying fallacy here is the deduction of an ought from an is.\n\nWe go against nature (or what is) all the time. We cannot sometimes use nature as a moral baseline and at other times condemn her for her careless attitude and indifference toward the human race."
+    }
+  ],
+  "translated_at": "2026-08-30T23:01:24.139Z"
+}

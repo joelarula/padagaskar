@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Exclusive-Premises",
+  "title": "Exclusive Premises",
+  "latin_name": "",
+  "also_known_as": [
+    "fallacy of exclusive premises"
+  ],
+  "description": "",
+  "logical_form": "",
+  "examples": [
+    {
+      "number": 1,
+      "example": "No kangaroos are MMA fighters.\n\nSome MMA fighters are not Mormons.\n\nTherefore, some Mormons are not kangaroos.\n\n**Example #2:**\n\nNo animals are insects.\n\nSome insects are not dogs.\n\nTherefore, some dogs are not animals.\n\n**Example #3:**\n\nNo animals are insects.\n\nNo insects are dogs.\n\nTherefore, no dogs are animals.",
+      "explanation": "Remember why fallacies are so dangerous: because they appear to be good reasoning.  The conclusion in example #1 makes sense, but it does not follow logically -- it is an invalid argument.  Based on the first two premises, there is no way logically to deduce that conclusion.  Now, look at examples #2 and #3.  We use the same logical form of the argument, committing the same fallacy, but by changing the terms it is much more clear that something went wrong somewhere, and it did.  This kind of argument, the *categorical syllogism*, cannot have two negative premises and still be valid.\n\nJust because the conclusion appears true, it does not mean the argument is valid (or strong, in the case of an informal argument)."
+    }
+  ],
+  "exceptions": "No exceptions.",
+  "tips": "Learn to recognize the forms of formal fallacies, and you will easily spot invalid formal arguments.",
+  "references": [
+    "Goodman, M. F. (1993). *First Logic*. University Press of America."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Exclusive_Premises.jpg",
+  "slug": "Exclusive-Premises",
+  "letter": "E",
+  "title_et": "Eksklusiivsed ruumid",
+  "description_et": "",
+  "logical_form_et": "",
+  "exceptions_et": "Ei mingeid erandeid.",
+  "tips_et": "Õppige ära tundma formaalsete eksimuste vorme ja märkate kergesti kehtetuid formaalseid argumente.",
+  "also_known_as_et": [
+    "eksklusiivsete ruumide eksitus"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Ükski kängur pole MMA-võitleja.\n\nMõned MMA-võitlejad pole mormoonid.\n\nSeetõttu ei ole mõned mormoonid kängurud.\n\n**Näide #2:**\n\nÜkski loom pole putukas.\n\nMõned putukad ei ole koerad.\n\nSeetõttu ei ole mõned koerad loomad.\n\n**Näide nr 3:**\n\nÜkski loom pole putukas.\n\nÜkski putukas pole koer.\n\nSeetõttu pole ükski koer loom.",
+      "explanation": "Pidage meeles, miks eksitused on nii ohtlikud: kuna need näivad olevat hea põhjendus.  Näite nr 1 järeldus on mõttekas, kuid see ei järgne loogiliselt – see on kehtetu argument.  Kahe esimese eelduse põhjal ei saa seda järeldust loogiliselt järeldada.  Nüüd vaadake näiteid 2 ja 3.  Kasutame sama argumendi loogilist vormi, sooritades sama eksituse, kuid termineid muutes on palju selgem, et kuskil läks midagi valesti ja nii läks.  Seda tüüpi argumendil, *kategoorilisel süllogismil*, ei saa olla kahte negatiivset eeldust ja see võib siiski kehtida.\n\nSee, et järeldus näib tõene, ei tähenda, et argument oleks kehtiv (või mitteametliku argumendi puhul tugev).",
+      "original_example": "No kangaroos are MMA fighters.\n\nSome MMA fighters are not Mormons.\n\nTherefore, some Mormons are not kangaroos.\n\n**Example #2:**\n\nNo animals are insects.\n\nSome insects are not dogs.\n\nTherefore, some dogs are not animals.\n\n**Example #3:**\n\nNo animals are insects.\n\nNo insects are dogs.\n\nTherefore, no dogs are animals.",
+      "original_explanation": "Remember why fallacies are so dangerous: because they appear to be good reasoning.  The conclusion in example #1 makes sense, but it does not follow logically -- it is an invalid argument.  Based on the first two premises, there is no way logically to deduce that conclusion.  Now, look at examples #2 and #3.  We use the same logical form of the argument, committing the same fallacy, but by changing the terms it is much more clear that something went wrong somewhere, and it did.  This kind of argument, the *categorical syllogism*, cannot have two negative premises and still be valid.\n\nJust because the conclusion appears true, it does not mean the argument is valid (or strong, in the case of an informal argument)."
+    }
+  ],
+  "translated_at": "2026-08-30T22:45:05.973Z"
+}

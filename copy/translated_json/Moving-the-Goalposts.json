@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Moving-the-Goalposts",
+  "title": "Moving the Goalposts",
+  "latin_name": "",
+  "also_known_as": [
+    "gravity game",
+    "raising the bar",
+    "argument by demanding impossible perfection [form of]"
+  ],
+  "description": "Demanding from an opponent that he or she address more and more points after the initial counter-argument has been satisfied refusing to concede or accept the opponent’s argument.",
+  "logical_form": "Issue A has been raised, and adequately answered.\n\nIssue B is then raised, and adequately answered.\n\n.....\n\nIssue Z is then raised, and adequately answered.\n\n(despite all issues adequately answered, the opponent refuses to conceded or accept the argument.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Ken: There has to be an objective morality because otherwise terms like “right” and “wrong” would be meaningless since they have no foundation for comparison.\n\nRob: The terms “right” and “wrong” are based on cultural norms, which do have a subjective foundation -- one that changes as the moral sphere of the culture changes.  The term “heavy” does not have an objective standard, yet we have no problem using that term in a meaningful way.  In fact, very few relational terms have any kind of objective foundation.\n\nKen: But without an objective morality, we would all be lost morally as a race.\n\nRob: Many would say that we are.\n\nKen: But how can you say that torturing children for fun is morally acceptable in any situation?\n\nRob: Personally, I wouldn’t, but you are implying that anything that is not objective must necessarily be seen in all possible ways. A feather may not be seen as “heavy” to anyone, but that doesn’t mean its “lightness” is still not relative to other objects.\n\nKen: But God is the standard of objective morality.  Prove that wrong!\n\nRob: That I cannot do.",
+      "explanation": "Ken starts with a statement explaining why he thinks there* has to be* an objective morality -- a statement based on a reasonable argument that can be pursued with reason and logic.  Rob adequately answers that objection, as indicated by Ken’s move away from that objection to a new objection.  This pattern continues until we arrive at an impossible request.  Despite all the objections being adequately answered, at no time does Ken concede any points or abandon the argument."
+    }
+  ],
+  "exceptions": "This fallacy should not be confused with an argument or set of arguments, with multiple propositions inherent in the argument.  The reason for the difference between this kind of argument and the *moving the goalposts fallacy*, is a subtle one, but indicated by a strong initial claim (“has to be”, “must”, “required for”, etc.) that gets answered and/or what appears to be *[ad hoc](https://www.logicallyfallacious.com/logicalfallacies/Ad-Hoc-Rescue)* objections that follow eventually leading to an impossible request for proof.\n\n**Fun Fact:** The name “moving the goalposts” comes from the analogy of kicking a perfect field goal in American football, only to have the goalposts be moved on you. This would be very unfair.",
+  "tips": "",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Moving_the_Goalposts.jpg",
+  "slug": "Moving-the-Goalposts",
+  "letter": "M",
+  "title_et": "Väravapostide liigutamine",
+  "description_et": "Nõuda oponendilt, et ta käsitleks üha rohkem punkte pärast esialgse vastuargumendi rahuldamist, keeldudes vastase argumenti möönmast või aktsepteerimast.",
+  "logical_form_et": "Küsimus A on tõstatatud ja sellele on adekvaatselt vastatud.\n\nSeejärel tõstatatakse küsimus B ja sellele vastatakse adekvaatselt.\n\n.....\n\nSeejärel tõstatatakse probleem Z ja sellele vastatakse adekvaatselt.\n\n(Vaatamata kõigile adekvaatselt vastatud küsimustele, keeldub oponent argumenti möönmast või aktsepteerimast.",
+  "exceptions_et": "Seda ekslikkust ei tohiks segi ajada argumendi või argumentide kogumiga, kuna argumendile on omane mitu propositsiooni.  Seda tüüpi argumendi ja *väravapostide liigutamise vale* erinevuse põhjus on peen, kuid sellele viitab tugev esialgne väide (\"peab olema\", \"peab\", \"nõutav\" jne), millele vastatakse ja/või mis näib olevat *[ad hoc](https://www.logicallyfallacious.com/logicalfallacies*, mis viib vastulauseteni/ tõestuseks.\n\n**Lõbus tõsiasi:** nimi \"väravapostide liigutamine\" tuleneb analoogiast, mille kohaselt lüüakse Ameerika jalgpallis ideaalset väljakuväravat, kuid väravapostid liigutatakse teie peale. See oleks väga ebaõiglane.",
+  "tips_et": "",
+  "also_known_as_et": [
+    "gravitatsiooni mäng",
+    "lati tõstmine",
+    "argument võimatut täiuslikkust nõudes [vorm]"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Ken: Peab olema objektiivne moraal, sest vastasel juhul oleksid sellised terminid nagu \"õige\" ja \"vale\" mõttetud, kuna neil pole võrdluse alust.\n\nRob: Mõisted \"õige\" ja \"vale\" põhinevad kultuurinormidel, millel on subjektiivne alus – see, mis muutub kultuuri moraalse sfääri muutudes.  Mõistel \"raske\" ei ole objektiivset standardit, kuid meil pole probleeme selle mõiste tähendusliku kasutamisega.  Tegelikult on väga vähestel relatsiooniterminitel mingisugune objektiivne alus.\n\nKen: Aga ilma objektiivse moraalita oleksime rassina moraalselt kadunud.\n\nRob: Paljud ütleksid, et oleme.\n\nKen: Aga kuidas saab öelda, et laste lõbu pärast piinamine on igas olukorras moraalselt aktsepteeritav?\n\nRob: Mina isiklikult ei teeks, aga sa annad mõista, et kõike, mis pole objektiivne, tuleb tingimata näha igal võimalikul viisil. Sulge ei pruugita kellegi jaoks \"raskeks\" pidada, kuid see ei tähenda, et selle \"kergus\" ei oleks ikka veel võrreldes teiste objektidega.\n\nKen: Kuid Jumal on objektiivse moraali standard.  Tõesta, et see on vale!\n\nRob: Ma ei saa seda teha.",
+      "explanation": "Ken alustab avaldusega, mis selgitab, miks tema arvates peab* olema objektiivne moraal – väide, mis põhineb mõistlikul argumendil, mida saab mõistuse ja loogikaga järgida.  Rob vastab sellele vastuväitele adekvaatselt, nagu näitab Keni liikumine selle vastulause asemel uuele vastulausele.  See muster jätkub seni, kuni jõuame võimatu nõudmiseni.  Vaatamata sellele, et kõikidele vastuväidetele vastati adekvaatselt, ei tunnista Ken kunagi ühtegi punkti ega loobu argumendist.",
+      "original_example": "Ken: There has to be an objective morality because otherwise terms like “right” and “wrong” would be meaningless since they have no foundation for comparison.\n\nRob: The terms “right” and “wrong” are based on cultural norms, which do have a subjective foundation -- one that changes as the moral sphere of the culture changes.  The term “heavy” does not have an objective standard, yet we have no problem using that term in a meaningful way.  In fact, very few relational terms have any kind of objective foundation.\n\nKen: But without an objective morality, we would all be lost morally as a race.\n\nRob: Many would say that we are.\n\nKen: But how can you say that torturing children for fun is morally acceptable in any situation?\n\nRob: Personally, I wouldn’t, but you are implying that anything that is not objective must necessarily be seen in all possible ways. A feather may not be seen as “heavy” to anyone, but that doesn’t mean its “lightness” is still not relative to other objects.\n\nKen: But God is the standard of objective morality.  Prove that wrong!\n\nRob: That I cannot do.",
+      "original_explanation": "Ken starts with a statement explaining why he thinks there* has to be* an objective morality -- a statement based on a reasonable argument that can be pursued with reason and logic.  Rob adequately answers that objection, as indicated by Ken’s move away from that objection to a new objection.  This pattern continues until we arrive at an impossible request.  Despite all the objections being adequately answered, at no time does Ken concede any points or abandon the argument."
+    }
+  ],
+  "translated_at": "2026-08-30T23:00:53.447Z"
+}

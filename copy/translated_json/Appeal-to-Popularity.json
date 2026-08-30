@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity",
+  "title": "Appeal to Popularity",
+  "latin_name": "argumentum ad numeram",
+  "also_known_as": [],
+  "description": "Using the popularity of a premise or proposition as evidence for its truthfulness.  This is a fallacy which is very difficult to spot because our “common sense” tells us that if something is popular, it must be good/true/valid, but this is not so, especially in a society where clever marketing, social and political weight, and money can buy popularity.",
+  "logical_form": "Everybody is doing X.\n\nTherefore, X must be the right thing to do.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Mormonism is one of the fastest growing sects of Christianity today so that whole story about Joseph Smith getting the golden plates that, unfortunately, disappeared back into heaven, must be true!",
+      "explanation": "Mormonism is indeed rapidly growing, but that fact does not prove the truth claims made by Mormonism in any way."
+    },
+    {
+      "number": 2,
+      "example": "A 2005 Gallup Poll found that an estimated 25% of Americans over the age of 18 believe in astrology—or that the position of the stars and planets can affect people's lives.  That is roughly 75,000,000 people.  Therefore, there must be some truth to astrology!",
+      "explanation": "No, the popularity of the belief in astrology is not related to the truthfulness of astrological claims.  Beliefs are often *cultural memes* that get passed on from person to person based on many factors other than truth."
+    }
+  ],
+  "exceptions": "When the claim being made is about the popularity or some related attribute that is a direct result of its popularity.\n\nPeople seem to love the movie, *The Shawshank Redemption*.  In fact, it is currently ranked #1 at IMDB.com, based on viewer ratings.",
+  "tips": "Avoid this fallacy like you avoid a kiss from your great aunt with the big cold sore on her lip.",
+  "references": [
+    "Walton, D. N. (1999). *Appeal to Popular Opinion*. Penn State Press."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Appeal_to_Popularity.jpg",
+  "slug": "Appeal-to-Popularity",
+  "letter": "A",
+  "title_et": "Populaarsuse poole pöördumine",
+  "description_et": "Eelduse või ettepaneku populaarsuse kasutamine selle tõesuse tõestuseks.  See on eksitus, mida on väga raske märgata, sest meie \"terve mõistus\" ütleb meile, et kui miski on populaarne, peab see olema hea/tõene/kehtiv, kuid see pole nii, eriti ühiskonnas, kus nutikas turundus, sotsiaalne ja poliitiline kaal ning raha saab populaarsust osta.",
+  "logical_form_et": "Kõik teevad X-i.\n\nSeetõttu peab X olema õige asi.",
+  "exceptions_et": "Kui väide puudutab populaarsust või mõnda sellega seotud atribuuti, mis on selle populaarsuse otsene tulemus.\n\nNäib, et inimestele meeldib film *The Shawshank Redemption*.  Tegelikult on see praegu vaatajate hinnangute põhjal IMDB.com-is 1. kohal.",
+  "tips_et": "Vältige seda ekslikkust, nagu väldite oma vanatädi suudlust, kellel on huultel suur külmavill.",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Mormonism on tänapäeval üks kiiremini kasvavaid kristluse sekte, nii et kogu lugu Joseph Smithi kuldplaatide hankimisest, mis kahjuks kadusid tagasi taevasse, peab olema tõsi!",
+      "explanation": "Mormonism kasvab tõepoolest kiiresti, kuid see fakt ei kinnita mormonismi tõeväiteid mingil moel.",
+      "original_example": "Mormonism is one of the fastest growing sects of Christianity today so that whole story about Joseph Smith getting the golden plates that, unfortunately, disappeared back into heaven, must be true!",
+      "original_explanation": "Mormonism is indeed rapidly growing, but that fact does not prove the truth claims made by Mormonism in any way."
+    },
+    {
+      "number": 2,
+      "example": "2005. aasta Gallupi küsitlusest selgus, et hinnanguliselt 25% üle 18-aastastest ameeriklastest usub astroloogiasse või sellesse, et tähtede ja planeetide asend võib mõjutada inimeste elusid.  See on ligikaudu 75 000 000 inimest.  Seetõttu peab astroloogias olema tõde!",
+      "explanation": "Ei, astroloogiausu populaarsus ei ole seotud astroloogiliste väidete tõesusega.  Uskumused on sageli *kultuurilised meemid*, mis kanduvad inimeselt inimesele edasi paljude muude tegurite kui tõe põhjal.",
+      "original_example": "A 2005 Gallup Poll found that an estimated 25% of Americans over the age of 18 believe in astrology—or that the position of the stars and planets can affect people's lives.  That is roughly 75,000,000 people.  Therefore, there must be some truth to astrology!",
+      "original_explanation": "No, the popularity of the belief in astrology is not related to the truthfulness of astrological claims.  Beliefs are often *cultural memes* that get passed on from person to person based on many factors other than truth."
+    }
+  ],
+  "translated_at": "2026-08-30T22:41:59.354Z"
+}

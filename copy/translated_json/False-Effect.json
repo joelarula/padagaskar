@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/False-Effect",
+  "title": "False Effect",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Claiming that the cause is true or false based on what we know about the effect in a claim of causality that has not been properly established. The cause is often an implied claim, and it is this claim that is being deemed true or false, right or wrong.",
+  "logical_form": "",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Mom: Watching TV that close will make you go blind, so move back!\nJonny: That is B.S., Mom. Sorry, I am not moving.",
+      "explanation": "The *false effect* of watching TV too closely is going blind. For the most part, the threat that you will “ruin” your eyesight is an old wives’ tale. Almost certainly, nobody is going blind from sitting too close unless they ram their eyes into the protruding knobs. Regardless of the *false effect* (i.e., blindness), watching TV too closely (the cause) has been shown to have some adverse effects on vision, so concluding that one shouldn’t “move back” from sitting too close is fallacious."
+    },
+    {
+      "number": 2,
+      "example": "The Church used to claim that giving 10% of your income to the Church will free a child’s soul from Limbo into Heaven, so clearly giving money to the Church is a scam!",
+      "explanation": "Centuries ago, the Church did accept “contributions” to get loved ones out of “Limbo,” and it wasn’t until 2007 when the Church made it clear that Limbo was a theory and not an official doctrine of the Church, separating the Church from that belief. As for the argument, the false effect of “freeing a child’s soul from Limbo” does not warrant the conclusion that giving your money to the Church is a scam."
+    }
+  ],
+  "exceptions": "It can be difficult to parse the claim that is being said to be wrong or right, in which case the causal link might be what is really being rejected. In our first example, it is fallacious to conclude that there is no reason we shouldn’t watch TV close up. We parsed this from “Watching TV that close will make you go blind.” If one is claiming that the causal claim is what is false after showing the effect to be false, then there is no fallacy.\n\n*Mom: Watching TV that close will make you go blind, so move back!*\n*Jonny: That is B.S., Mom. Watching TV too close does NOT make someone go blind.*\n\n**Fun Fact:** This fallacy is different from the *false cause* fallacy (listed under *questionable cause*).",
+  "tips": "",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/False_Effect.jpg",
+  "slug": "False-Effect",
+  "letter": "F",
+  "title_et": "Vale efekt",
+  "description_et": "Väide, et põhjus on tõene või vale, tuginedes sellele, mida me põhjusliku seose väite tagajärje kohta teame, mis ei ole korralikult kindlaks tehtud. Põhjuseks on sageli kaudne väide ja just seda väidet peetakse õigeks või valeks, õigeks või valeks.",
+  "logical_form_et": "",
+  "exceptions_et": "Väidet, mille kohta väidetakse olevat vale või õige, võib olla keeruline sõeluda. Sel juhul võib põhjuslik seos olla see, mis tegelikult tagasi lükatakse. Meie esimeses näites on ekslik järeldada, et pole põhjust, miks me ei peaks televiisorit lähedalt vaatama. Sõelusime selle välja jaotisest „Lähedalt telerit vaadates jääd pimedaks”. Kui väidetakse, et põhjuslik väide on see, mis on vale pärast mõju valeks näitamist, siis pole ekslikkust.\n\n*Ema: Kui vaatad nii lähedalt televiisorit, jääd pimedaks, nii et liigu tagasi!*\n*Jonny: See on B.S., ema. Liiga lähedalt televiisori vaatamine EI tee kedagi pimedaks.*\n\n**Lõbus fakt:** see eksitus erineb *valepõhjusest* (loetletud jaotises *küsitav põhjus*).",
+  "tips_et": "",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Ema: Kui vaatad nii lähedalt televiisorit, jääd pimedaks, nii et liigu tagasi!\nJonny: See on B.S., ema. Vabandust, ma ei liigu.",
+      "explanation": "Liiga lähedalt teleri vaatamise *valeefekt* muutub pimedaks. Enamasti on oht, et te \"rikute\" oma nägemise, vananaiste jutt. Peaaegu kindlasti ei jää keegi liiga lähedal istudes pimedaks, kui ta just silmad väljaulatuvatesse nuppudesse ei suru. Olenemata *valest mõjust* (st pimedaks jäämisest), on liiga lähedalt teleri vaatamisel (põhjusel) ilmnenud mõned negatiivsed mõjud nägemisele, nii et järeldus, et liiga lähedal istumisest ei tohiks \"tagasi liikuda\", on ekslik.",
+      "original_example": "Mom: Watching TV that close will make you go blind, so move back!\nJonny: That is B.S., Mom. Sorry, I am not moving.",
+      "original_explanation": "The *false effect* of watching TV too closely is going blind. For the most part, the threat that you will “ruin” your eyesight is an old wives’ tale. Almost certainly, nobody is going blind from sitting too close unless they ram their eyes into the protruding knobs. Regardless of the *false effect* (i.e., blindness), watching TV too closely (the cause) has been shown to have some adverse effects on vision, so concluding that one shouldn’t “move back” from sitting too close is fallacious."
+    },
+    {
+      "number": 2,
+      "example": "Kirik väitis, et 10% oma sissetulekust Kirikule vabastamine vabastab lapse hinge vaoshoitust taevasse, seega on kirikule raha andmine ilmselgelt pettus!",
+      "explanation": "Sajandeid tagasi võttis kirik vastu „panuseid”, et saada oma lähedased „limbost” välja, ja alles 2007. aastal tegi kirik selgeks, et Limbo on teooria, mitte ametlik kiriku õpetus, mis eraldab kiriku sellest veendumusest. Mis puudutab argumenti, siis „lapse hinge vaesusest vabastamise” vale mõju ei õigusta järeldust, et oma raha kirikule andmine on pettus.",
+      "original_example": "The Church used to claim that giving 10% of your income to the Church will free a child’s soul from Limbo into Heaven, so clearly giving money to the Church is a scam!",
+      "original_explanation": "Centuries ago, the Church did accept “contributions” to get loved ones out of “Limbo,” and it wasn’t until 2007 when the Church made it clear that Limbo was a theory and not an official doctrine of the Church, separating the Church from that belief. As for the argument, the false effect of “freeing a child’s soul from Limbo” does not warrant the conclusion that giving your money to the Church is a scam."
+    }
+  ],
+  "translated_at": "2026-08-30T22:49:10.519Z"
+}

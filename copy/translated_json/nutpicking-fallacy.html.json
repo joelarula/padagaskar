@@ -1,0 +1,25 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/nutpicking-fallacy.html",
+  "title": "Nutpicking Fallacy",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "When someone presents an atypical or weak member of a group as if they are a typical or strong representative.",
+  "logical_form": "Person X is presented as a typical or strong representative of group Y.\nPerson X is actually an atypical or weak member of group Y.\nTherefore, Person X is seen as a typical or strong representative of group Y.",
+  "examples": [],
+  "exceptions": "As Stephen Woodford points out in his video in the reference, sometimes “nuts” permeate the group to the extent that the “nut” is typical of the group. An example is flat-earthers. I say that unapologetically.\n\n**Variation:** A variation of this fallacy is *[overextended outrage](https://www.logicallyfallacious.com/logicalfallacies/Overextended-Outrage)*. Essentially, this is like picking the nuts for the purpose of expressing or inciting outrage toward an entire group.\n\n**Fun Fact:** I have heard a couple of people refer to the *cherry picking fallacy* as the *nutpicking fallacy*. Review the *cherry picking fallacy* and you will see that there are notable differences.",
+  "tips": "",
+  "references": [
+    "Rationality Rules: [https://www.youtube.com/watch?v=CVHvdjUZAzI](https://www.youtube.com/watch?v=CVHvdjUZAzI)"
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Nutpicking_Fallacy.jpg",
+  "slug": "nutpicking-fallacy.html",
+  "letter": "N",
+  "title_et": "Pähklivale eksitus",
+  "description_et": "Kui keegi esitleb ebatüüpilist või nõrka rühma liiget justkui tüüpilise või tugeva esindajana.",
+  "logical_form_et": "Isik X esitatakse kui grupi Y tüüpiline või tugev esindaja.\nIsik X on tegelikult Y rühma ebatüüpiline või nõrk liige.\nSeetõttu nähakse isikut X kui tüüpilist või tugevat rühma Y esindajat.",
+  "exceptions_et": "Nagu Stephen Woodford oma viites olevas videos osutab, tungivad mõnikord \"pähklid\" rühma nii palju, kui \"pähklid\" on rühmale tüüpilised. Näiteks on tasapinnalised maad. Ma ütlen seda vabandamata.\n\n**Variatsioon:** selle eksimuse variatsioon on *[üleulatuv pahameel](https://www.logicallyfallacious.com/logicalfallacies/Overextended-Outrage)*. Sisuliselt on see nagu pähklite korjamine, et väljendada või õhutada pahameelt terve rühma vastu.\n\n**Lõbus tõsiasi:** olen kuulnud, et paar inimest viitavad *kirsikorjamise valele* kui *pähklikorjamise valele*. Vaadake üle *kirsikorjamise eksitus* ja näete, et seal on märkimisväärseid erinevusi.",
+  "tips_et": "",
+  "also_known_as_et": [],
+  "examples_et": [],
+  "translated_at": "2026-08-30T23:03:03.068Z"
+}

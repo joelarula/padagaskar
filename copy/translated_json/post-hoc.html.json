@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/post-hoc.html",
+  "title": "Post Hoc",
+  "latin_name": "post hoc ergo propter hoc",
+  "also_known_as": [
+    "after this",
+    "therefore because of this",
+    "post hoc rationalization"
+  ],
+  "description": "Claiming that because event Y followed event X, event Y must have been caused by event X, without properly establishing causality.",
+  "logical_form": "Y occurred, then X occurred.\n\nTherefore, Y caused X.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Doug is convinced he has lucky underwear. One time when he forgot to put on his lucky underwear, he got a parking ticket. Doug concludes that because he forgot to wear his lucky underwear, he got the ticket. Doug doesn't wash his lucky underwear often. This part isn't relevant to the example, but it is disturbing nonetheless.",
+      "explanation": "Doug is not making any attempts to determine the most probabilistic causal factors for getting the parking ticket. Instead, largely because of the *confirmation bias*, he is making a claim of causality based on the order of events (first he forgot his lucky underwear, then he got the ticket.)****"
+    }
+  ],
+  "exceptions": "If one claims that Y caused X by adding additional details that properly establish causality, this fallacy would not apply.\n\n**Fun Fact:** There is some non-mystical truth to the law of attraction. That which you obsess over you are more likely to adjust your behaviors in a way that will help make your obsession a reality. For example, if you want to graduate college more than anything, you will most likely study harder, ask for extra help, and blow off fewer classes. No magic required.****",
+  "tips": "",
+  "references": [
+    "Post Hoc, Ergo Propter Hoc on JSTOR. (n.d.). Retrieved July 16, 2020, from [https://www.jstor.org/stable/20126985?seq=1](https://www.jstor.org/stable/20126985?seq=1)"
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Post_Hoc.jpg",
+  "slug": "post-hoc.html",
+  "letter": "P",
+  "title_et": "Post Hoc",
+  "description_et": "Väide, et kuna sündmus Y järgnes sündmusele X, pidi sündmus Y olema põhjustatud sündmusest X, ilma põhjuslikku seost korralikult kindlaks tegemata.",
+  "logical_form_et": "Esines Y, siis tekkis X.\n\nSeetõttu põhjustas Y X.",
+  "exceptions_et": "Kui väidetakse, et Y põhjustas X, lisades täiendavaid üksikasju, mis tuvastavad põhjusliku seose, siis see eksitus ei kehti.\n\n**Lõbus fakt:** külgetõmbeseaduses on mõni mittemüstiline tõde. See, mis teile meeldib, kohandab teie käitumist tõenäolisemalt viisil, mis aitab teie kinnisidee reaalsuseks muuta. Näiteks kui soovite rohkem kui midagi ülikooli lõpetada, õpite tõenäoliselt rohkem, küsite lisaabi ja saate vähem tunde. Maagiat pole vaja.****",
+  "tips_et": "",
+  "also_known_as_et": [
+    "peale seda",
+    "seega sellepärast",
+    "post hoc ratsionaliseerimine"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Doug on veendunud, et tal on õnnelik aluspesu. Ühel korral, kui ta unustas oma õnnepesu selga panna, sai ta parkimistrahvi. Doug järeldab, et kuna ta unustas oma õnnepesu kandma, sai ta pileti. Doug ei pese oma õnnepesu sageli. See osa ei ole näite puhul asjakohane, kuid häirib sellegipoolest.",
+      "explanation": "Doug ei püüa välja selgitada kõige tõenäolisemaid põhjuslikke tegureid parkimispileti saamiseks. Selle asemel, suuresti *kinnituskallutatuse* tõttu, esitab ta põhjusliku seose väite sündmuste järjekorra alusel (kõigepealt unustas ta õnneliku aluspesu, siis sai pileti.)****",
+      "original_example": "Doug is convinced he has lucky underwear. One time when he forgot to put on his lucky underwear, he got a parking ticket. Doug concludes that because he forgot to wear his lucky underwear, he got the ticket. Doug doesn't wash his lucky underwear often. This part isn't relevant to the example, but it is disturbing nonetheless.",
+      "original_explanation": "Doug is not making any attempts to determine the most probabilistic causal factors for getting the parking ticket. Instead, largely because of the *confirmation bias*, he is making a claim of causality based on the order of events (first he forgot his lucky underwear, then he got the ticket.)****"
+    }
+  ],
+  "translated_at": "2026-08-30T23:04:47.817Z"
+}

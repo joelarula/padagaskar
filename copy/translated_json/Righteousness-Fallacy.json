@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Righteousness-Fallacy",
+  "title": "Righteousness Fallacy",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Assuming that just because a person's intentions are good, they have the truth or facts on their side. Also see *[self-righteousness fallacy](https://www.logicallyfallacious.com/logicalfallacies/Self-Righteousness-Fallacy)*.",
+  "logical_form": "Person 1 made claim X.\n\nPerson 1 has good intentions.\n\nTherefore, X is true.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Ricki: Do you think aborted fetuses have feelings?\n\nJenni: I follow the lead of my grandmother who is the most honorable and kind person I know. She says they do have feelings.",
+      "explanation": "Jenni's grandmother might be the queen of honor with kindness oozing from her orthopedic shoes, but these qualities are independent of one's ability to know facts or come to an accurate conclusion based on available data."
+    },
+    {
+      "number": 2,
+      "example": "The president wants to bomb that country because he thinks they are preparing to launch a nuclear attack against us. I know the president wants to do the right thing for the good of the American people, so if he says there have nukes, they have nukes!",
+      "explanation": "The good intentions of the president are separate from the president's ability to get solid intelligence on foreign affairs. If we are convinced of the president's good intentions, the best we can do is claim that we believe that the president believes he is doing the right thing."
+    }
+  ],
+  "exceptions": "This relates to facts, not subjective truth. We can use the idea of righteousness to conclude how we feel about a person.\n\n**Fun Fact:** This is related to the cognitive bias, the *halo effect*.",
+  "tips": "",
+  "references": [
+    "This is an original logical fallacy named by the author."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Righteousness_Fallacy.jpg",
+  "slug": "Righteousness-Fallacy",
+  "letter": "R",
+  "title_et": "Õigemeelsuse eksitus",
+  "description_et": "Eeldusel, et just sellepärast, et inimese kavatsused on head, on tal tõde või faktid tema poolel. Vaadake ka *[self-righteousness falacy](https://www.logicallyfallacious.com/logicalfallacies/Self-Righteousness-Fallacy)*.",
+  "logical_form_et": "Isik 1 esitas nõude X.\n\nIsikul 1 on head kavatsused.\n\nSeetõttu on X tõene.",
+  "exceptions_et": "See on seotud faktidega, mitte subjektiivse tõega. Me saame kasutada õigluse ideed, et teha järeldusi, kuidas me inimese suhtes tunneme.\n\n**Lõbus fakt:** see on seotud kognitiivse eelarvamusega, *haloefektiga*.",
+  "tips_et": "",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Ricki: Kas sa arvad, et aborteeritud lootel on tundeid?\n\nJenni: Järgin oma vanaema eeskuju, kes on kõige auväärsem ja lahkem inimene, keda tean. Ta ütleb, et neil on tunded.",
+      "explanation": "Jenni vanaema võib olla aukuninganna, kelle ortopeedilistest kingadest õhkub lahkust, kuid need omadused ei sõltu inimese võimest teada fakte või teha olemasolevate andmete põhjal täpseid järeldusi.",
+      "original_example": "Ricki: Do you think aborted fetuses have feelings?\n\nJenni: I follow the lead of my grandmother who is the most honorable and kind person I know. She says they do have feelings.",
+      "original_explanation": "Jenni's grandmother might be the queen of honor with kindness oozing from her orthopedic shoes, but these qualities are independent of one's ability to know facts or come to an accurate conclusion based on available data."
+    },
+    {
+      "number": 2,
+      "example": "President tahab seda riiki pommitada, sest arvab, et nad valmistuvad meie vastu tuumarünnakut korraldama. Ma tean, et president tahab Ameerika rahva heaks teha õiget asja, nii et kui ta ütleb, et tuumarelvad on olemas, siis neil on tuumarelvad!",
+      "explanation": "Presidendi head kavatsused on lahus presidendi võimest saada välisasjade kohta kindlat luureteavet. Kui oleme presidendi heades kavatsustes veendunud, on parim, mida saame teha, väita, et me usume, et president usub, et teeb õiget asja.",
+      "original_example": "The president wants to bomb that country because he thinks they are preparing to launch a nuclear attack against us. I know the president wants to do the right thing for the good of the American people, so if he says there have nukes, they have nukes!",
+      "original_explanation": "The good intentions of the president are separate from the president's ability to get solid intelligence on foreign affairs. If we are convinced of the president's good intentions, the best we can do is claim that we believe that the president believes he is doing the right thing."
+    }
+  ],
+  "translated_at": "2026-08-30T23:09:20.119Z"
+}

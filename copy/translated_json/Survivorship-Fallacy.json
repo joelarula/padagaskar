@@ -1,0 +1,29 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Survivorship-Fallacy",
+  "title": "Survivorship Fallacy",
+  "latin_name": "",
+  "also_known_as": [
+    "survivorship bias"
+  ],
+  "description": "This is best summed up as \"dead men don't tell tales.\" In its general form, the survivorship fallacy is basing a conclusion on a limited number of \"winner\" testimonies due to the fact we cannot or do not hear the testimonies of the losers. This is based on the cognitive bias called the *survivorship bias*.",
+  "logical_form": "There are X winners and Y losers.\n\nWe only hear the testimonies of the winners.\n\nTherefore, our conclusion is based on X winners.",
+  "examples": [],
+  "exceptions": "",
+  "tips": "Whether someone is selling you investment services or a religion, think about the survivorship bias and how you might be jumping to an inaccurate conclusion.",
+  "references": [
+    "Swedroe, L. E. (2005). *The Only Guide to a Winning Investment Strategy You’ll Ever Need: The Way Smart Money Preserves Wealth Today*. St. Martin’s Press."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Survivorship_Fallacy.jpg",
+  "slug": "Survivorship-Fallacy",
+  "letter": "S",
+  "title_et": "Ellujäämise eksitus",
+  "description_et": "Seda saab kõige paremini kokku võtta sõnadega \"surnud mehed ei räägi lugusid\". Oma üldisel kujul põhineb ellujäämise eksitus järelduse tegemisel piiratud arvul \"võitjate\" tunnistustel, kuna me ei saa või ei kuule kaotajate tunnistusi. See põhineb kognitiivsel eelarvamusel, mida nimetatakse *ellujäämise eelarvamuseks*.",
+  "logical_form_et": "On X võitjat ja Y kaotajat.\n\nKuulame ainult võitjate tunnistusi.\n\nSeetõttu põhineb meie järeldus X võitjal.",
+  "exceptions_et": "",
+  "tips_et": "Ükskõik, kas keegi müüb teile investeerimisteenuseid või religiooni, mõelge ellujäämise eelarvamusele ja sellele, kuidas võite teha ebatäpseid järeldusi.",
+  "also_known_as_et": [
+    "ellujäämise eelarvamus"
+  ],
+  "examples_et": [],
+  "translated_at": "2026-08-30T23:14:21.478Z"
+}

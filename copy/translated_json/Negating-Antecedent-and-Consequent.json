@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Negating-Antecedent-and-Consequent",
+  "title": "Negating Antecedent and Consequent",
+  "latin_name": "",
+  "also_known_as": [
+    "improper transposition"
+  ],
+  "description": "A formal fallacy where in the valid transpositional form of an argument, we fail to switch the antecedent and consequent.  The valid form of this argument is as follows:\n\nIf P then Q.\n\nTherefore, if not-Q then not-P.\n\nNotice we switch (transpose) the P and the Q, then negate them both.  We commit the fallacy when we fail to transpose (switch) them.",
+  "logical_form": "",
+  "examples": [
+    {
+      "number": 1,
+      "example": "If Barry Manilow sings love songs, then he is gay.\n\nTherefore, if Barry Manilow does not sing love songs, then he is not gay.",
+      "explanation": "Besides the wildly incorrect premise that if Barry sings love songs he is gay, the conclusion fails to switch the antecedent (Barry Manilow sings love songs) with the consequent (he is gay); therefore, it is fallacious.  However, if we did transpose the antecedent and the consequent in the conclusion, it would be a perfectly valid formal argument, even though the premise might not be a reasonable assumption.  Remember, a valid, non-fallacious formal argument does not have to have a true conclusion, it just needs to be truth-preserving -- in the case that the premises are all true.\n\nIf Barry Manilow sings love songs, then he is gay.\n\nTherefore, if Barry Manilow is not gay, then he does not sing love songs."
+    },
+    {
+      "number": 2,
+      "example": "If Tom thinks that all people who sing love songs are gay, then he is an idiot.\n\nTherefore, if Tom doesn’t think that all people who sing love songs are gay, then he is not an idiot.",
+      "explanation": "We have the same problem with the failure to transpose the antecedent (Tom thinks that all people who sing love songs are gay) with the consequent (he is an idiot) in the conclusion, although we did negate them both.  I hope you can see that just because Tom does not think all people who sing love songs are gay, does not mean that Tom is not an idiot for some other reason.  This argument is invalid, thus fallacious.\n\n**Fun Fact:** Barry Manilow was born “Barry Alan Pincus.”"
+    }
+  ],
+  "exceptions": "",
+  "tips": "",
+  "references": [
+    "Carlsen-Jones, M. T. (1983). *Introduction to Logic*. McGraw-Hill."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Negating_Antecedent_and_Consequent.jpg",
+  "slug": "Negating-Antecedent-and-Consequent",
+  "letter": "N",
+  "title_et": "Eelduse ja tagajärje eitamine",
+  "description_et": "Formaalne eksitus, kus argumendi kehtivas transpositsioonilises vormis me ei suuda vahetada eel- ja järelmõju.  Selle argumendi kehtiv vorm on järgmine:\n\nKui P, siis Q.\n\nSeega, kui mitte-Q, siis mitte-P.\n\nPange tähele, et me vahetame (transponeerime) P ja Q, seejärel eitame need mõlemad.  Me teeme eksituse, kui me ei suuda neid üle võtta (vahetada).",
+  "logical_form_et": "",
+  "exceptions_et": "",
+  "tips_et": "",
+  "also_known_as_et": [
+    "ebaõige ülevõtmine"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Kui Barry Manilow laulab armastuslaule, siis on ta gei.\n\nSeega, kui Barry Manilow ei laula armastuslaule, siis pole ta gei.",
+      "explanation": "Lisaks metsikult väärale eeldusele, et kui Barry laulab armastuslaule, et ta on gei, ei suuda järeldus eellugu (Barry Manilow laulab armastuslaule) tagajärjega (ta on gei) vahetada; seetõttu on see ekslik.  Kui me siiski järelduses eel- ja järelsõna üle võtaksime, oleks see täiesti kehtiv formaalne argument, kuigi eeldus ei pruugi olla mõistlik eeldus.  Pidage meeles, et kehtival, mitte-eksitaval formaalsel argumendil ei pea olema tõest järeldust, see peab lihtsalt olema tõde säilitav – juhul, kui kõik eeldused on tõesed.\n\nKui Barry Manilow laulab armastuslaule, siis on ta gei.\n\nSeega, kui Barry Manilow ei ole gei, siis ta ei laula armastuslaule.",
+      "original_example": "If Barry Manilow sings love songs, then he is gay.\n\nTherefore, if Barry Manilow does not sing love songs, then he is not gay.",
+      "original_explanation": "Besides the wildly incorrect premise that if Barry sings love songs he is gay, the conclusion fails to switch the antecedent (Barry Manilow sings love songs) with the consequent (he is gay); therefore, it is fallacious.  However, if we did transpose the antecedent and the consequent in the conclusion, it would be a perfectly valid formal argument, even though the premise might not be a reasonable assumption.  Remember, a valid, non-fallacious formal argument does not have to have a true conclusion, it just needs to be truth-preserving -- in the case that the premises are all true.\n\nIf Barry Manilow sings love songs, then he is gay.\n\nTherefore, if Barry Manilow is not gay, then he does not sing love songs."
+    },
+    {
+      "number": 2,
+      "example": "Kui Tom arvab, et kõik inimesed, kes laulavad armastuslaule, on geid, siis on ta idioot.\n\nSeega, kui Tom ei arva, et kõik inimesed, kes laulavad armastuslaule, on geid, pole ta idioot.",
+      "explanation": "Meil on sama probleem eelkäija (Tom arvab, et kõik inimesed, kes laulavad armastuslaule, on geid) ülevõtmisega, mille järelsõna (ta on idioot) kokkuvõttes, kuigi me eitasime need mõlemad.  Loodan, et näete, et see, et Tom ei arva, et kõik inimesed, kes laulavad armastuslaule, on geid, ei tähenda, et Tom poleks idioot mingil muul põhjusel.  See argument on kehtetu ja seega ekslik.\n\n**Lõbus fakt:** Barry Manilow sündis \"Barry Alan Pincus\".",
+      "original_example": "If Tom thinks that all people who sing love songs are gay, then he is an idiot.\n\nTherefore, if Tom doesn’t think that all people who sing love songs are gay, then he is not an idiot.",
+      "original_explanation": "We have the same problem with the failure to transpose the antecedent (Tom thinks that all people who sing love songs are gay) with the consequent (he is an idiot) in the conclusion, although we did negate them both.  I hope you can see that just because Tom does not think all people who sing love songs are gay, does not mean that Tom is not an idiot for some other reason.  This argument is invalid, thus fallacious.\n\n**Fun Fact:** Barry Manilow was born “Barry Alan Pincus.”"
+    }
+  ],
+  "translated_at": "2026-08-30T23:01:37.828Z"
+}

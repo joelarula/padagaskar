@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/pragmatic-fallacy.html",
+  "title": "Pragmatic Fallacy",
+  "latin_name": "",
+  "also_known_as": [
+    "appeal to practicality"
+  ],
+  "description": "Claiming that something is true because the person making the claim has experienced, or is referring to someone who has experienced, some practical benefit from believing the thing to be true. The practical benefit is often summarized as “it works.” The person is confusing the truth-value of the claim with the results from believing the claim to be true.",
+  "logical_form": "I believe X is true.\nBelieving in X results in practical benefit Y.\nTherefore, X is true.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Starbeam: Of course, astrology is true!\nNate: How do you know this?\nStarbeam: Because on the days I forget to consult my horoscope, things always go wrong.",
+      "explanation": "Astrology is a pseudoscience that claims divine information about human affairs and terrestrial events by studying the movements and relative positions of celestial objects. Starbeam is almost certainly experiencing a host of cognitive biases, including the *confirmation bias*, where she notices the things that go wrong and ignores all that goes right on the days she forgets to read her horoscope. There is also likely some s*elf-fulfilling prophecy* going on where she interprets things that happen to her in a negative light, allowing her to maintain the belief in the power of horoscopes. Starbeam is committing the pragmatic fallacy because she is claiming astrology is true due to her “evidence” that horoscopes work for her."
+    },
+    {
+      "number": 2,
+      "example": "People all over the world under different religions that believe in all kinds of gods claim that their particular religion is true because of how believing in their religion makes them feel, the practical benefits they get from being a member of that religion (e.g., community support, social programs, etc.), their belief that they are loved, and more.",
+      "explanation": "All of these reasons as to why religion “works” might be sufficient for why believing in a religion can be good  but these reasons do not address the truth-claims the religion makes about the existence of gods, angels, an afterlife, a soul, and similar claims of existence."
+    }
+  ],
+  "exceptions": "This is not a fallacy when what is claimed to be true is the fact that something “works,” and works is defined subjectively (i.e., works for the person and not for everyone). For example, it is fair to say that prayer “works” when “works” is defined as giving (some) people a sense of peace and comfort.\n\nSeth: Prayer works!\nTina: What do you mean by “works” and how do you know this?\nSeth: I mean that it gives me a sense of peace and comfort.\nTina: Will it work for me?\nSeth: I don’t know.",
+  "tips": "",
+  "references": [
+    "[http://skepdic.com/pragmatic.html](http://skepdic.com/pragmatic.html)"
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Pragmatic_Fallacy.jpg",
+  "slug": "pragmatic-fallacy.html",
+  "letter": "P",
+  "title_et": "Pragmaatiline eksitus",
+  "description_et": "Väide, et miski on tõsi, kuna väite esitaja on kogenud või viitab kellelegi, kes on kogenud, asja tõeks uskumisest praktilist kasu. Praktiline kasu on sageli kokku võetud sõnadega \"see töötab\". Isik ajab väite tõeväärtuse segi väite tõeks uskumise tulemustega.",
+  "logical_form_et": "Usun, et X on tõsi.\nX-i uskumine toob kaasa praktilise kasu Y.\nSeetõttu on X tõene.",
+  "exceptions_et": "See ei ole eksitus, kui väidetavalt on tõsiasi, et miski \"töötab\" ja toimib, on määratletud subjektiivselt (st töötab inimese ja mitte kõigi jaoks). Näiteks on õiglane öelda, et palve \"töötab\", kui \"töötab\" määratletakse kui (mõnedele) inimestele rahu- ja mugavustunde andmist.\n\nSeth: Palve töötab!\nTina: Mida sa mõtled \"teoste\" all ja kuidas sa seda tead?\nSeth: Ma mõtlen, et see annab mulle rahu ja mugavuse tunde.\nTina: Kas see töötab minu jaoks?\nSeth: Ma ei tea.",
+  "tips_et": "",
+  "also_known_as_et": [
+    "apelleerida praktilisusele"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Starbeam: Muidugi on astroloogia tõsi!\nNate: Kust sa seda tead?\nStarbeam: Kuna päevadel, mil ma unustan oma horoskoobiga tutvuda, lähevad asjad alati viltu.",
+      "explanation": "Astroloogia on pseudoteadus, mis taotleb jumalikku teavet inimeste asjade ja maapealsete sündmuste kohta, uurides taevaobjektide liikumist ja suhtelist asukohta. Starbeam kogeb peaaegu kindlasti mitmeid kognitiivseid eelarvamusi, sealhulgas *kinnituskallutatust*, mille puhul ta märkab asju, mis lähevad valesti, ja ignoreerib kõike, mis läheb õigesti päevadel, mil ta unustab oma horoskoopi lugeda. Tõenäoliselt toimub ka mõni enesetäitev ennustus*, kus ta tõlgendab temaga juhtuvaid asju negatiivses valguses, võimaldades tal säilitada usku horoskoopide jõusse. Starbeam teeb pragmaatilise eksituse, sest ta väidab, et astroloogia on tõene, kuna tema \"tõendid\", et horoskoobid tema jaoks töötavad.",
+      "original_example": "Starbeam: Of course, astrology is true!\nNate: How do you know this?\nStarbeam: Because on the days I forget to consult my horoscope, things always go wrong.",
+      "original_explanation": "Astrology is a pseudoscience that claims divine information about human affairs and terrestrial events by studying the movements and relative positions of celestial objects. Starbeam is almost certainly experiencing a host of cognitive biases, including the *confirmation bias*, where she notices the things that go wrong and ignores all that goes right on the days she forgets to read her horoscope. There is also likely some s*elf-fulfilling prophecy* going on where she interprets things that happen to her in a negative light, allowing her to maintain the belief in the power of horoscopes. Starbeam is committing the pragmatic fallacy because she is claiming astrology is true due to her “evidence” that horoscopes work for her."
+    },
+    {
+      "number": 2,
+      "example": "Inimesed üle kogu maailma, kes usuvad erinevatesse religioonidesse, kes usuvad igasugustesse jumalatesse, väidavad, et nende konkreetne religioon on tõsi, kuna nende religiooni uskumine tekitab neis tunde, praktilise kasu, mida nad saavad selle religiooni liikmeks olemisest (nt kogukonna toetus, sotsiaalprogrammid jne), nende veendumust, et neid armastatakse ja palju muud.",
+      "explanation": "Kõik need põhjused, miks religioon \"töötab\", võivad olla piisavad, miks religiooni uskumine võib olla hea, kuid need põhjused ei käsitle tõeväiteid, mida religioon esitab jumalate, inglite, hauataguse elu, hinge ja sarnaste väidete olemasolu kohta.",
+      "original_example": "People all over the world under different religions that believe in all kinds of gods claim that their particular religion is true because of how believing in their religion makes them feel, the practical benefits they get from being a member of that religion (e.g., community support, social programs, etc.), their belief that they are loved, and more.",
+      "original_explanation": "All of these reasons as to why religion “works” might be sufficient for why believing in a religion can be good  but these reasons do not address the truth-claims the religion makes about the existence of gods, angels, an afterlife, a soul, and similar claims of existence."
+    }
+  ],
+  "translated_at": "2026-08-30T23:04:59.213Z"
+}

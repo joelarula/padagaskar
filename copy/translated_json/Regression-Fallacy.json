@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Regression-Fallacy",
+  "title": "Regression Fallacy",
+  "latin_name": "",
+  "also_known_as": [
+    "regressive fallacy"
+  ],
+  "description": "Ascribing a cause where none exists in situations where natural fluctuations exist while failing to account for these natural fluctuations.",
+  "logical_form": "B occurred after A (although B naturally fluctuates).\n\nTherefore, A caused B.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "I had a real bad headache, then saw my doctor.  Just by talking with him, my headache started to subside, and I was all better the next day.  It was well worth the $200 visit fee.",
+      "explanation": "Headaches are a part of life, and naturally come and go on their own with varying degrees of pain. They regress to the mean on their own, the “mean” being a normal state of no pain, with or without medical or chemical intervention. Had the person seen a gynecologist instead, the headache would have still subsided, and it would have been a much more interesting visit—especially if he were a man."
+    },
+    {
+      "number": 2,
+      "example": "After surgery, my wife was not doing too well -- she was in a lot of pain.  I bought these magnetic wristbands that align with the body's natural vibrations to reduce the pain, and sure enough, a few days later the pain subsided!  Thank you magic wristbands!",
+      "explanation": "It is normal to be in pain after any significant surgery.  It is also normal for the pain to subside as the body heals -- this is the body *regressing to the mean*.  Assuming the magic wristbands caused the pain relief and ignoring the regression back to the mean, is fallacious."
+    }
+  ],
+  "exceptions": "Of course, if the “cause” is explained as the natural regression to the mean, then in a way it is not fallacious.\n\nMy headache went away because that’s what headaches eventually do -- they are a temporary disruption in the normal function of a brain.\n\n**Fun Fact: **Seeing a doctor can have a real effect on pain relief, even if the doctor does nothing but provide a sympathetic ear. This is known as the *psychosocial context of the therapeutic intervention* and is often considered part of the *placebo effect*.",
+  "tips": "",
+  "references": [
+    "Poulton, E. C. (1994). *Behavioral Decision Theory: A New Approach*. Cambridge University Press."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Regression_Fallacy.jpg",
+  "slug": "Regression-Fallacy",
+  "letter": "R",
+  "title_et": "Regressiooniviga",
+  "description_et": "Põhjuse määramine, kus seda ei eksisteeri olukordades, kus esinevad loomulikud kõikumised, jättes need loomulikud kõikumised arvesse võtmata.",
+  "logical_form_et": "B tekkis pärast A (kuigi B loomulikult kõigub).\n\nSeetõttu põhjustas A B.",
+  "exceptions_et": "Muidugi, kui \"põhjust\" seletada loomuliku taandarenguna keskmisele, siis teatud mõttes pole see ekslik.\n\nMu peavalu kadus, sest see on see, mida peavalud lõpuks teevad – see on ajutine häire aju normaalses funktsioonis.\n\n**Lõbus tõsiasi: **Arsti poole pöördumisel võib olla tõeline mõju valu vaigistamisele, isegi kui arst ei tee midagi peale mõistva kõrva kuulamise. Seda nimetatakse *terapeutilise sekkumise psühhosotsiaalseks kontekstiks* ja seda peetakse sageli *platseeboefekti* osaks.",
+  "tips_et": "",
+  "also_known_as_et": [
+    "regressiivne eksitus"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Mul oli tõsine peavalu, siis pöördusin oma arsti poole.  Juba ainuüksi temaga rääkides hakkas mu peavalu taanduma ja järgmisel päeval oli mul kõik parem.  200$ visiiditasu oli igati väärt.",
+      "explanation": "Peavalud on osa elust ja loomulikult tulevad ja kaovad erineva raskusastmega valudega iseenesest. Nad taanduvad iseseisvalt keskmisele, \"keskmine\" on normaalne seisund ilma valuta, meditsiinilise või keemilise sekkumisega või ilma. Oleks inimene hoopis günekoloogi juurde pöördunud, oleks peavalu ikkagi taandunud ja külastus oleks olnud palju huvitavam – eriti kui ta oleks olnud mees.",
+      "original_example": "I had a real bad headache, then saw my doctor.  Just by talking with him, my headache started to subside, and I was all better the next day.  It was well worth the $200 visit fee.",
+      "original_explanation": "Headaches are a part of life, and naturally come and go on their own with varying degrees of pain. They regress to the mean on their own, the “mean” being a normal state of no pain, with or without medical or chemical intervention. Had the person seen a gynecologist instead, the headache would have still subsided, and it would have been a much more interesting visit—especially if he were a man."
+    },
+    {
+      "number": 2,
+      "example": "Pärast operatsiooni ei läinud mu naisel kuigi hästi – tal oli väga valus.  Ostsin need magnetilised randmepaelad, mis joonduvad keha loomuliku vibratsiooniga, et valu vähendada, ja kindlasti, paar päeva hiljem valu taandus!  Aitäh maagilised käepaelad!",
+      "explanation": "On normaalne, et pärast mis tahes olulist operatsiooni on valus.  Samuti on normaalne, et valu taandub keha paranedes – see on keha *taandumine keskmisele*.  Eeldada, et maagilised randmepaelad põhjustasid valu leevendust ja eirates tagasiminekut keskmisele, on ekslik.",
+      "original_example": "After surgery, my wife was not doing too well -- she was in a lot of pain.  I bought these magnetic wristbands that align with the body's natural vibrations to reduce the pain, and sure enough, a few days later the pain subsided!  Thank you magic wristbands!",
+      "original_explanation": "It is normal to be in pain after any significant surgery.  It is also normal for the pain to subside as the body heals -- this is the body *regressing to the mean*.  Assuming the magic wristbands caused the pain relief and ignoring the regression back to the mean, is fallacious."
+    }
+  ],
+  "translated_at": "2026-08-30T23:08:23.123Z"
+}

@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Nirvana-Fallacy",
+  "title": "Nirvana Fallacy",
+  "latin_name": "",
+  "also_known_as": [
+    "perfect solution fallacy",
+    "perfectionist fallacy"
+  ],
+  "description": "Comparing a realistic solution with an idealized one, and discounting or even dismissing the realistic solution as a result of comparing to a “perfect world” or impossible standard, ignoring the fact that improvements are often good enough reason.",
+  "logical_form": "X is what we have.\n\nY is the perfect situation.\n\nTherefore, X is not good enough.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "What’s the point of making drinking illegal under the age of 21?  Kids still manage to get alcohol.",
+      "explanation": "The goal in setting a minimum age for drinking is to deter underage drinking, not abolish it completely.  Suggesting the law is fruitless based on its failure to abolish underage drinking completely, is fallacious."
+    },
+    {
+      "number": 2,
+      "example": "What’s the point of living?  We’re all going to die anyway.",
+      "explanation": "There is an implication that the goal of life is not dying.  While that is certainly a worthwhile goal, many would argue that it is a bit empty on its own, creating this fallacy where one does not really exist."
+    }
+  ],
+  "exceptions": "Striving for perfection is not the same as the *nirvana fallacy*.  Having a goal of perfection or near perfection, and working towards that goal, is admirable.  However, giving up on the goal because perfection is not attained, despite major improvements being attained, is fallacious.",
+  "tips": "Sometimes good enough is really good enough.",
+  "references": [
+    "George Mason University law review*. (1991)."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Nirvana_Fallacy.jpg",
+  "slug": "Nirvana-Fallacy",
+  "letter": "N",
+  "title_et": "Nirvana eksitus",
+  "description_et": "Realistliku lahenduse võrdlemine idealiseeritud lahendusega ning realistliku lahenduse mahaarvamine või isegi kõrvalejätmine „täiusliku maailma“ või võimatu standardiga võrdlemise tulemusel, ignoreerides tõsiasja, et parandused on sageli piisav põhjus.",
+  "logical_form_et": "X on see, mis meil on.\n\nY on ideaalne olukord.\n\nSeetõttu ei ole X piisavalt hea.",
+  "exceptions_et": "Täiuslikkuse poole püüdlemine ei ole sama mis *nirvaana eksitus*.  Täiuslikkuse või peaaegu täiuslikkuse eesmärgi omamine ja selle eesmärgi nimel töötamine on imetlusväärne.  Siiski on eesmärgist loobumine, kuna täiuslikkust ei saavutata, hoolimata saavutatud olulistest täiustustest, ekslik.",
+  "tips_et": "Mõnikord on piisavalt hea tõesti piisavalt hea.",
+  "also_known_as_et": [
+    "ideaalne lahendus eksitus",
+    "perfektsionistlik eksitus"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Mis mõtet on teha alla 21-aastastel joomine ebaseaduslikuks?  Lapsed saavad ikka alkoholi kätte.",
+      "explanation": "Joomise vanuse alammäära kehtestamise eesmärk on alaealiste joomist ära hoida, mitte seda täielikult kaotada.  Seaduse soovitamine on viljatu, kuna see ei suuda alaealiste joomist täielikult kaotada, on ekslik.",
+      "original_example": "What’s the point of making drinking illegal under the age of 21?  Kids still manage to get alcohol.",
+      "original_explanation": "The goal in setting a minimum age for drinking is to deter underage drinking, not abolish it completely.  Suggesting the law is fruitless based on its failure to abolish underage drinking completely, is fallacious."
+    },
+    {
+      "number": 2,
+      "example": "Mis on elamise mõte?  Me kõik sureme niikuinii.",
+      "explanation": "See annab mõista, et elu eesmärk ei ole surra.  Kuigi see on kindlasti väärt eesmärk, väidavad paljud, et see on iseenesest pisut tühi, luues selle eksituse, kus seda tegelikult ei eksisteeri.",
+      "original_example": "What’s the point of living?  We’re all going to die anyway.",
+      "original_explanation": "There is an implication that the goal of life is not dying.  While that is certainly a worthwhile goal, many would argue that it is a bit empty on its own, creating this fallacy where one does not really exist."
+    }
+  ],
+  "translated_at": "2026-08-30T23:02:01.156Z"
+}

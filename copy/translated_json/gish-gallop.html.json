@@ -1,0 +1,25 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/gish-gallop.html",
+  "title": "Gish Gallop",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Overwhelming an interlocutor with as many arguments as possible, without regard for accuracy or strength of the arguments. This is especially disingenuous when the interlocutor is not allowed to interrupt and address the arguments, as in formal debate or in writing. To the spectator unfamiliar with this strategy, the interlocutor’s inability to accurately respond to all the claims in the given time is fallaciously seen as a “win” for the Gish Galloper or appears to lend credibility to the arguments made when in fact it does not.",
+  "logical_form": "Person 1 presents weak arguments A, B, C, D, E... without Person 2 being given the opportunity to address each argument.",
+  "examples": [],
+  "exceptions": "The two key characteristics of the Gish Gallop are 1) the number of arguments in uninterrupted succession and 2) the lack of strength of the arguments presented. The number of arguments presented is problematic when the interlocutor doesn’t have a reasonable amount of time (or space if in writing and limited by characters) to respond. The strength of the arguments is debatable, so in the case of Romney and Obama, it can be argued that Romney was making strong arguments, in which case Romney’s crime was simply presenting too many of these arguments at once.\n\n**Fun Fact:** A thousand bad arguments don’t add up to a single good argument, although many people interpret numerous bad arguments as “strong evidence” (e.g., “they can’t all be wrong” - Yes, they can all be wrong.)",
+  "tips": "",
+  "references": [
+    "[https://rationalwiki.org/wiki/Gish_Gallop](https://rationalwiki.org/wiki/Gish_Gallop)"
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Gish_Gallop.jpg",
+  "slug": "gish-gallop.html",
+  "letter": "G",
+  "title_et": "Gish Gallop",
+  "description_et": "Vestluspartneri ülekoormamine võimalikult paljude argumentidega, arvestamata argumentide täpsust või tugevust. See on eriti ebaviisakas siis, kui vestluspartneril ei ole lubatud argumente katkestada ja nendega arutleda, näiteks ametlikus arutelus või kirjalikult. Vaatajale, kes seda strateegiat ei tunne, peetakse vestluspartneri suutmatust kõikidele väidetele antud aja jooksul täpselt vastata Gish Galloperi \"võiduna\" või näib, et see annab esitatud argumentidele usaldusväärsuse, kuigi tegelikult see nii ei ole.",
+  "logical_form_et": "Isik 1 esitab nõrgad argumendid A, B, C, D, E..., ilma et isikule 2 antaks võimalus iga argumenti käsitleda.",
+  "exceptions_et": "Gish Gallopi kaks peamist omadust on 1) argumentide arv katkematus järjestuses ja 2) esitatud argumentide tugevuse puudumine. Esitatud argumentide arv on problemaatiline, kui vestluspartneril ei ole vastamiseks piisavalt aega (või ruumi, kui see on kirjalikult ja tähemärkidega piiratud). Argumentide tugevus on vaieldav, nii et Romney ja Obama puhul võib väita, et Romney esitas tugevaid argumente, mille puhul Romney kuritegu esitas lihtsalt liiga palju neid argumente korraga.\n\n**Lõbus tõsiasi:** tuhat halba argumenti ei anna ühtki head argumenti, kuigi paljud inimesed tõlgendavad paljusid halbu argumente kui \"tugevaid tõendeid\" (nt \"need kõik ei saa eksida\" – jah, nad kõik võivad eksida).",
+  "tips_et": "",
+  "also_known_as_et": [],
+  "examples_et": [],
+  "translated_at": "2026-08-30T22:51:07.717Z"
+}

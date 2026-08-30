@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Reductio-ad-Absurdum",
+  "title": "Reductio ad Absurdum",
+  "latin_name": "reductio ad absurdum",
+  "also_known_as": [
+    "reduce to absurdity"
+  ],
+  "description": "A mode of argumentation or a form of argument in which a proposition is disproven by following its implications logically to an absurd conclusion.  Arguments that use universals such as, “always”, “never”, “everyone”, “nobody”, etc., are prone to being reduced to absurd conclusions.  **The fallacy is in the argument that could be reduced to absurdity -- so in essence, *reductio ad absurdum* is a technique to expose the fallacy.**",
+  "logical_form": "Assume P is true.\n\nFrom this assumption, deduce that Q is true.\n\nAlso, deduce that Q is false.\n\nThus, P implies both Q and not Q (a contradiction, which is necessarily false).\n\nTherefore, P itself must be false.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "I am going into surgery tomorrow so please pray for me.  If enough people pray for me, God will protect me from harm and see to it that I have a successful surgery and speedy recovery.",
+      "explanation": "We first assume the premise is true: if “enough” people prayed to God for the patient's successful surgery and speedy recovery, then God would make it so.  From this, we can deduce that God responds to popular opinion.  However, if God simply granted prayers based on popularity contests, that would be both unjust and absurd.  Since God cannot be unjust, then he cannot both respond to popularity and not respond to popularity, the claim is absurd, and thus false."
+    },
+    {
+      "number": 2,
+      "example": "If everyone lived his or her life exactly like Jesus lived his life, the world would be a beautiful place!",
+      "explanation": "We first assume the premise is true: if everyone lived his or her life *exactly* like Jesus lived his, the world would be a beautiful place.  If this were true, we would have 7 billion people on this earth roaming from town to town, living off the charity of others, preaching about God (with nobody listening). Without anyone creating wealth, there would be nobody to get charity from -- there would just be 7 billion people all trying to tell each other about God.  After a few weeks, everyone would eventually starve and die.  This world might be a beautiful place for the vultures and maggots feeding on all the Jesus wannabes, but far from a beautiful world from a human perspective.  Since the world cannot be both a beautiful place and a horrible place, the proposition is false."
+    }
+  ],
+  "exceptions": "Be sure to see the *[appeal to extremes](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Extremes)* fallacy.",
+  "tips": "",
+  "references": [
+    "Eemeren, F. H. van, Garssen, B., & Meuffels, B. (2009). *Fallacies and Judgments of Reasonableness: Empirical Research Concerning the Pragma-Dialectical Discussion Rules*. Springer Science & Business Media."
+  ],
+  "image_url": "",
+  "slug": "Reductio-ad-Absurdum",
+  "letter": "R",
+  "title_et": "Reductio ad Absurdum",
+  "description_et": "Argumenteerimisviis või argumendi vorm, mille puhul väide lükatakse ümber, järgides selle implikatsioone loogiliselt absurdse järelduseni.  Argumendid, mis kasutavad universaale nagu \"alati\", \"mitte kunagi\", \"kõik\", \"keegi\" jne, taanduvad absurdseteks järeldusteks.  **Eksus peitub argumendis, mille võib taandada absurdiks – nii et sisuliselt on *reductio ad absurdum* tehnika eksimuse paljastamiseks.**",
+  "logical_form_et": "Oletame, et P on tõsi.\n\nSellest eeldusest järeldage, et Q on tõene.\n\nSamuti järeldage, et Q on vale.\n\nSeega tähendab P nii Q-d kui ka mitte Q-d (vastuolu, mis on tingimata vale).\n\nSeetõttu peab P ise olema väär.",
+  "exceptions_et": "Vaadake kindlasti *[apell to äärmustele](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Extremes)*.",
+  "tips_et": "",
+  "also_known_as_et": [
+    "absurdiks viia"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Ma lähen homme operatsioonile, nii et palun palvetage minu eest.  Kui piisavalt inimesi minu eest palvetab, kaitseb Jumal mind kahjude eest ja hoolitseb selle eest, et mul oleks edukas operatsioon ja kiire paranemine.",
+      "explanation": "Esmalt eeldame, et eeldus on tõsi: kui \"piisavalt\" inimesi palvetaks Jumala poole patsiendi eduka operatsiooni ja kiire paranemise eest, siis Jumal teeks selle nii.  Sellest võime järeldada, et Jumal vastab üldlevinud arvamusele.  Kui aga Jumal täidaks lihtsalt populaarsusvõistlustel põhinevad palved, oleks see nii ülekohtune kui ka absurdne.  Kuna Jumal ei saa olla ebaõiglane, ei saa ta nii vastata populaarsusele kui ka mitte vastata populaarsusele, on väide absurdne ja seega vale.",
+      "original_example": "I am going into surgery tomorrow so please pray for me.  If enough people pray for me, God will protect me from harm and see to it that I have a successful surgery and speedy recovery.",
+      "original_explanation": "We first assume the premise is true: if “enough” people prayed to God for the patient's successful surgery and speedy recovery, then God would make it so.  From this, we can deduce that God responds to popular opinion.  However, if God simply granted prayers based on popularity contests, that would be both unjust and absurd.  Since God cannot be unjust, then he cannot both respond to popularity and not respond to popularity, the claim is absurd, and thus false."
+    },
+    {
+      "number": 2,
+      "example": "Kui kõik elaksid oma elu täpselt nii, nagu elas Jeesus, oleks maailm ilus paik!",
+      "explanation": "Esmalt eeldame, et eeldus on tõsi: kui igaüks elaks oma elu *täpselt* nagu Jeesus elas, oleks maailm ilus paik.  Kui see oleks tõsi, oleks meil siin maa peal 7 miljardit inimest, kes rändaksid linnast linna, elaksid teiste heategevusest ja kuulutaksid Jumalast (keegi ei kuulaks). Kui keegi ei loo rikkust, poleks kelleltki heategevust saada – oleks lihtsalt 7 miljardit inimest, kes kõik püüaksid üksteisele Jumalast rääkida.  Mõne nädala pärast nälgivad kõik lõpuks ja surevad.  See maailm võib olla ilus paik raisakotkastele ja tõugudele, kes toituvad kõigist Jeesus-inimestest, kuid inimlikust vaatenurgast pole see kaugeltki ilus maailm.  Kuna maailm ei saa olla nii ilus paik kui ka õudne paik, on väide vale.",
+      "original_example": "If everyone lived his or her life exactly like Jesus lived his life, the world would be a beautiful place!",
+      "original_explanation": "We first assume the premise is true: if everyone lived his or her life *exactly* like Jesus lived his, the world would be a beautiful place.  If this were true, we would have 7 billion people on this earth roaming from town to town, living off the charity of others, preaching about God (with nobody listening). Without anyone creating wealth, there would be nobody to get charity from -- there would just be 7 billion people all trying to tell each other about God.  After a few weeks, everyone would eventually starve and die.  This world might be a beautiful place for the vultures and maggots feeding on all the Jesus wannabes, but far from a beautiful world from a human perspective.  Since the world cannot be both a beautiful place and a horrible place, the proposition is false."
+    }
+  ],
+  "translated_at": "2026-08-30T23:07:51.298Z"
+}

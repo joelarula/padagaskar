@@ -1,0 +1,15 @@
+# Dependency directories
+node_modules/
+**/node_modules/
+mcp/node_modules/
+
+
+# Raw HTML scraped backups
+copy/raw_html/
+*.html
+
+# Build and log artifacts
+*.log
+dist/
+build/
+coverage/

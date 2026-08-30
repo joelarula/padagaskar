@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Willed-Ignorance",
+  "title": "Willed Ignorance",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Refusing to change one’s mind or consider conflicting information based on a desire to maintain one's existing beliefs.",
+  "logical_form": "I believe X.\n\nYou have evidence for Y.\n\nI don’t want to see it because I don't want to stop believing in X, so X is still true.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "I don’t want anything coming in the way of me and my beliefs; therefore, I will only socialize with people who share my beliefs.",
+      "explanation": "This is a common form of the fallacy -- excluding oneself from society as a whole to smaller subgroups where the same general opinions are shared."
+    },
+    {
+      "number": 2,
+      "example": "*Carl: Exercise causes cancer.*\n*Janet: That is not true. I have mountains of evidence I can show you that demonstrates the opposite.*\n*Carl: You keep your exercise propaganda to yourself. I know what I know. Now if you will excuse me, I have to binge watch Baywatch.*",
+      "explanation": "Carl is blissfully ignorant in his belief that allows him to avoid the wonderful pain of exercise. Perhaps Carl does suspect that he is wrong, but feels he does not have to change his belief until he is proven wrong. Thus, he will not allow Janet the opportunity to prove him wrong.\n****"
+    }
+  ],
+  "exceptions": "There may be circumstances where ignorance is truly bliss, and it is better to maintain a positive illusion than to be exposed to a hard truth that one is not psychologically prepared to accept.\n\n**Fun Fact:** This fallacy is similar to the *confirmation bias*, but as a fallacy, it is used in argumentation.",
+  "tips": "",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Willed_Ignorance.jpg",
+  "slug": "Willed-Ignorance",
+  "letter": "W",
+  "title_et": "Tahtmatu teadmatus",
+  "description_et": "Keeldumine meelt muutmast või vastuolulise teabe kaalumisest, mis põhineb soovil säilitada oma olemasolevad tõekspidamised.",
+  "logical_form_et": "Usun, et X.\n\nSul on tõendid Y kohta.\n\nMa ei taha seda näha, sest ma ei taha lõpetada X-i uskumist, seega on X endiselt tõsi.",
+  "exceptions_et": "Võib esineda olukordi, kus teadmatus on tõeline õndsus ja parem on säilitada positiivne illusioon, kui puutuda kokku karmi tõega, mida pole psühholoogiliselt valmis aktsepteerima.\n\n**Lõbus tõsiasi:** see eksitus sarnaneb *kinnituskallutatusega*, kuid ekslikuna kasutatakse seda argumentatsioonis.",
+  "tips_et": "",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Ma ei taha, et minu ja mu uskumuste teele jääks midagi; seetõttu suhtlen ainult inimestega, kes jagavad minu tõekspidamisi.",
+      "explanation": "See on levinud eksituse vorm – tõrjutakse end ühiskonnast tervikuna välja väiksematesse alarühmadesse, kus jagatakse samu üldisi arvamusi.",
+      "original_example": "I don’t want anything coming in the way of me and my beliefs; therefore, I will only socialize with people who share my beliefs.",
+      "original_explanation": "This is a common form of the fallacy -- excluding oneself from society as a whole to smaller subgroups where the same general opinions are shared."
+    },
+    {
+      "number": 2,
+      "example": "*Carl: Treening põhjustab vähki.*\n*Janet: See pole tõsi. Mul on teile näidata mägesid tõendeid, mis näitavad vastupidist.*\n*Carl: Sa hoiad oma harjutuste propagandat endale. Ma tean, mida ma tean. Nüüd, kui te vabandate, pean ma Baywatchit vaatama.*",
+      "explanation": "Carl on õndsalt teadmatuses oma veendumuses, mis võimaldab tal vältida treeninguga kaasnevat imelist valu. Võib-olla kahtlustab Carl, et ta eksib, kuid tunneb, et ta ei pea oma uskumusi muutma enne, kui ta eksib. Seega ei luba ta Janetil võimalust tõestada, et ta eksis.\n****",
+      "original_example": "*Carl: Exercise causes cancer.*\n*Janet: That is not true. I have mountains of evidence I can show you that demonstrates the opposite.*\n*Carl: You keep your exercise propaganda to yourself. I know what I know. Now if you will excuse me, I have to binge watch Baywatch.*",
+      "original_explanation": "Carl is blissfully ignorant in his belief that allows him to avoid the wonderful pain of exercise. Perhaps Carl does suspect that he is wrong, but feels he does not have to change his belief until he is proven wrong. Thus, he will not allow Janet the opportunity to prove him wrong.\n****"
+    }
+  ],
+  "translated_at": "2026-08-30T23:16:57.206Z"
+}

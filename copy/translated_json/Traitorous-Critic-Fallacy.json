@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Traitorous-Critic-Fallacy",
+  "title": "Traitorous Critic Fallacy",
+  "latin_name": "ergo decedo",
+  "also_known_as": [],
+  "description": "Responding to criticism by attacking a person's perceived favorability to an out-group or dislike to the in-group as the underlying reason for the criticism rather than addressing the criticism itself, and suggesting that they stay away from the issue and/or leave the in-group. This is usually done by saying something such as, \"Well, if you don't like it, then get out!\"",
+  "logical_form": "Person 1 offers criticism against group 1.\n\nPerson 2 responds to the criticism by disingenuously asking them why they don't leave group 1.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Gertrude: I am tired of having to fill out these forms all day. Can't we find a more efficient system?\n\nCindy-Lou: If you're not happy with the way we do things, we can find someone who is!",
+      "explanation": "Cindy-Lou did not address the concern, but essentially threatened Gertrude to shut up or lose her job. This example might also be seen as *[appeal to force](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Force)* ."
+    },
+    {
+      "number": 2,
+      "example": "Steve: In Sweden, college is free for citizens. How come we can't do that here?\n\nEd: If you like Sweden so much, move there. The USA would be glad to be rid of your liberal ass!",
+      "explanation": "Besides *[begging the question](https://www.logicallyfallacious.com/logicalfallacies/Begging-the-Question)* (Steve did not say he liked Sweden), Ed refused to address the question asked and deflected with a disingenuous question on why Steve does not move to Sweden."
+    }
+  ],
+  "exceptions": "Repeated expressions of favoritism for the out-group and dislike of the in-group could justify a why-don't-you-join-the-out-group type of response.",
+  "tips": "Remember the old saying about the grass being greener on the other side.",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Traitorous_Critic_Fallacy.jpg",
+  "slug": "Traitorous-Critic-Fallacy",
+  "letter": "T",
+  "title_et": "Reeturlik kriitiku eksitus",
+  "description_et": "Kriitikale vastamine, rünnates kriitika põhjusena inimese tajutavat suhtumist rühmavälisesse gruppi või grupisisese vastumeelsust kui kriitikat, mitte tegeleda kriitikaga endaga ning soovitada neil teemast eemale hoida ja/või grupisisesest rühmast lahkuda. Tavaliselt tehakse seda nii, et öeldakse näiteks: \"No kui sulle ei meeldi, siis minge välja!\"",
+  "logical_form_et": "Isik 1 kritiseerib rühma 1.\n\nIsik 2 vastab kriitikale, küsides neilt sihikindlalt, miks nad rühmast 1 ei lahku.",
+  "exceptions_et": "Korduvad grupiväliste pooldajate ja grupisisese mittemeeldimise väljendused võivad õigustada miks-ei-liitu-grupiga-tüüpi vastust.",
+  "tips_et": "Pidage meeles vana ütlust, et rohi on teisel pool rohelisem.",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Gertrude: Olen väsinud sellest, et pean terve päev neid vorme täitma. Kas me ei leia tõhusamat süsteemi?\n\nCindy-Lou: Kui te ei ole rahul sellega, kuidas me asju teeme, võime leida kellegi, kes seda teeb!",
+      "explanation": "Cindy-Lou ei käsitlenud muret, kuid sisuliselt ähvardas Gertrude'i suu kinni panna või töö kaotada. Seda näidet võidakse käsitleda ka kui *[apell to force](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Force)*.",
+      "original_example": "Gertrude: I am tired of having to fill out these forms all day. Can't we find a more efficient system?\n\nCindy-Lou: If you're not happy with the way we do things, we can find someone who is!",
+      "original_explanation": "Cindy-Lou did not address the concern, but essentially threatened Gertrude to shut up or lose her job. This example might also be seen as *[appeal to force](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Force)* ."
+    },
+    {
+      "number": 2,
+      "example": "Steve: Rootsis on kolledž kodanikele tasuta. Miks me ei saa seda siin teha?\n\nEd: Kui sulle Rootsi nii väga meeldib, koli sinna. USA-l oleks hea meel teie liberaalsest tagumikust lahti saada!",
+      "explanation": "Peale selle, et *[küsimuse esitamine](https://www.logicallyfallacious.com/logicalfallacies/Begging-the-Question)* (Steve ei öelnud, et talle Rootsi meeldib), keeldus Ed esitatud küsimusele vastamast ja kaldus kõrvale ebaviisakast küsimusest, miks Steve ei koli Rootsi.",
+      "original_example": "Steve: In Sweden, college is free for citizens. How come we can't do that here?\n\nEd: If you like Sweden so much, move there. The USA would be glad to be rid of your liberal ass!",
+      "original_explanation": "Besides *[begging the question](https://www.logicallyfallacious.com/logicalfallacies/Begging-the-Question)* (Steve did not say he liked Sweden), Ed refused to address the question asked and deflected with a disingenuous question on why Steve does not move to Sweden."
+    }
+  ],
+  "translated_at": "2026-08-30T23:15:02.603Z"
+}

@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Overwhelming-Exception",
+  "title": "Overwhelming Exception",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "A generalization that is technically accurate, but has one or more qualifications which eliminate so many cases that the resulting argument is significantly weaker than the arguer implies.  In many cases, the listed exceptions are given in place of evidence or support for the claim, not in addition to evidence or support for the claim.",
+  "logical_form": "Claim A is made.\n\nNumerous exceptions to claim A are made.\n\nTherefore, claim A is true.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Besides charities, comfort, community cohesion, rehabilitation, and helping children learn values, religion poisons everything.",
+      "explanation": "Besides being a *self-refuting statement*, the listing of the ways religion does not poison everything, is a clear indicator that the claim is false, or at best, very weak."
+    },
+    {
+      "number": 2,
+      "example": "Our country is certainly in terrible shape.  Sure, we still have all kinds of freedoms, cultural diversity, emergency rooms and trauma care, agencies like the FDA out to protect us, the entertainment industry, a free market, national parks, we are considered the most powerful nation in the world, have amazing opportunities, and free public education, but still...",
+      "explanation": "We have many reasons supporting the opposite claim -- that this country is in great shape still, or at least that it is not in *terrible* shape.  By the time all the reasons are listed, the original claim of our country being in terrible shape is a lot less agreeable."
+    }
+  ],
+  "exceptions": "The fewer exceptions, the less overwhelming, the less likely the fallacy.\n\n**Fun Fact:** This fallacy is usually made by people who are well on their way to seeing the reasonable conclusion in the argument, but can’t quite let go of their unreasonable belief or claim.",
+  "tips": "",
+  "references": [
+    "Lindgren, J. (1983). More Blackmail Ink: A Critique of Blackmail, Inc., Epstein’s Theory of Blackmail. *Connecticut Law Review*, *16*, 909."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Overwhelming_Exception.jpg",
+  "slug": "Overwhelming-Exception",
+  "letter": "O",
+  "title_et": "Valdav erand",
+  "description_et": "Üldistus, mis on tehniliselt täpne, kuid millel on üks või mitu kvalifikatsiooni, mis välistavad nii palju juhtumeid, et tulemuseks olev argument on oluliselt nõrgem, kui väitja eeldab.  Paljudel juhtudel esitatakse loetletud erandid tõendite või nõude toetuse asemel, mitte lisaks tõenditele või nõude toetusele.",
+  "logical_form_et": "Nõue A on esitatud.\n\nNõude A suhtes tehakse arvukalt erandeid.\n\nSeetõttu on väide A tõene.",
+  "exceptions_et": "Mida vähem erandeid, seda vähem ülekaalukas, seda väiksem on eksitus.\n\n**Lõbus tõsiasi:** selle eksituse teevad tavaliselt inimesed, kes on jõudmas vaidluse mõistliku järelduseni, kuid ei suuda oma põhjendamatust veendumusest või väitest päris lahti lasta.",
+  "tips_et": "",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Peale heategevuse, mugavuse, kogukonna ühtekuuluvuse, rehabilitatsiooni ja laste väärtuste õppimise aitamise mürgitab religioon kõike.",
+      "explanation": "Lisaks sellele, et see on *iseennast ümberlükkav väide*, on loetelu viisidest, kuidas religioon kõike ei mürgita, selge näitaja, et väide on vale või parimal juhul väga nõrk.",
+      "original_example": "Besides charities, comfort, community cohesion, rehabilitation, and helping children learn values, religion poisons everything.",
+      "original_explanation": "Besides being a *self-refuting statement*, the listing of the ways religion does not poison everything, is a clear indicator that the claim is false, or at best, very weak."
+    },
+    {
+      "number": 2,
+      "example": "Meie riik on kindlasti kohutavas seisus.  Muidugi, meil on endiselt igasuguseid vabadusi, kultuurilist mitmekesisust, kiirabi ja traumaabi, agentuurid nagu FDA, kes meid kaitsevad, meelelahutustööstus, vaba turg, rahvuspargid, meid peetakse maailma võimsaimaks riigiks, meil on suurepärased võimalused ja tasuta avalik haridus, kuid siiski...",
+      "explanation": "Meil on palju põhjuseid, mis toetavad vastupidist väidet – et see riik on endiselt suurepärases vormis või vähemalt pole see *kohutavas* seisus.  Selleks ajaks, kui kõik põhjused on loetletud, on esialgne väide, et meie riik on kohutavas seisus, palju vähem meeldiv.",
+      "original_example": "Our country is certainly in terrible shape.  Sure, we still have all kinds of freedoms, cultural diversity, emergency rooms and trauma care, agencies like the FDA out to protect us, the entertainment industry, a free market, national parks, we are considered the most powerful nation in the world, have amazing opportunities, and free public education, but still...",
+      "original_explanation": "We have many reasons supporting the opposite claim -- that this country is in great shape still, or at least that it is not in *terrible* shape.  By the time all the reasons are listed, the original claim of our country being in terrible shape is a lot less agreeable."
+    }
+  ],
+  "translated_at": "2026-08-30T23:03:32.928Z"
+}

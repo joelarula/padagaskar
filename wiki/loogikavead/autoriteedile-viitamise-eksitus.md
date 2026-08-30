@@ -37,17 +37,12 @@ See loogikaviga seisneb selles, et väidet peetakse tõeseks üksnes seetõttu, 
 
 **Viited:**
 - Hume, D. (2004). An Enquiry Concerning Human Understanding. Courier Corporation.
-alternatiivsed_nimed:
-  - "autoriteedi eksitus"
-  - "autoriteedile tuginemine"
+
 ---
 
-# Autoriteedile viitamise eksitus
+## Eestikeelsed ja täiendavad lisanäited
 
-See loogikaviga seisneb selles, et väite tõesust põhjendatakse ainult sellega, et mõni autoriteet on seda öelnud, ilma et toodaks muid tõendeid või loogilisi põhjendusi. Argument muutub nõrgaks, kui autoriteedi arvamust kasutatakse ainsa alusena.
-
-**Näide:**
+### Lisanäide
 > "See peab tõsi olema, sest professor ütles nii."
 
-**Selgitus:**
-Kuigi autoriteet võib olla oma valdkonnas pädev, ei tee tema arvamus väidet automaatselt tõeseks. Oluline on hinnata argumenti sisu ja esitatud tõendeid, mitte ainult autoriteedi seisukohta.
+**Selgitus:** Kuigi autoriteet võib olla oma valdkonnas pädev, ei tee tema arvamus väidet automaatselt tõeseks. Oluline on hinnata argumendi sisu ja esitatud tõendeid, mitte ainult autoriteedi seisukohta.

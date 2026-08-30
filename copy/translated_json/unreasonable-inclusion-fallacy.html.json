@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/fallacies/unreasonable-inclusion-fallacy.html",
+  "title": "Unreasonable Inclusion Fallacy",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Attempting to broaden the criteria for inclusion in an ill-famed group or associated with a negative label to the point where the term's definition is changed substantially to condemn or criminalize a far less malicious or deleterious behavior.",
+  "logical_form": "Person A is accused of bad behavior X.\n\nGroup Y traditionally does not include individuals with bad behavior X\n\nPerson A is said to be a part of group Y for bad behavior X.\n\nPerson A is accused of bad behavior X.\n\nLabel Y traditionally does not include bad behavior X\n\nPerson A is given label Y for bad behavior X.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Tony does not agree that every black person in America should be compensated financially for the history of slavery. Therefore, Tony is a racist.",
+      "explanation": "The term \"racist\" is an extremely pejorative term that has traditionally been associated with those holding beliefs of racial supremacy—the belief that one's race is superior to other races. By expanding the definition to include \"those who don't agree with policies that benefit another race,\" we fallaciously equate the behavior with the label's or the group's far more malicious roots. Not only does this unreasonably characterize the person who is against the policy, but it also waters down the meaning of \"racist\" to the point where traditional racists are unreasonably seen more favorably because the term \"racism\" has been expanded to include a spectrum of far less malicious behaviors."
+    },
+    {
+      "number": 2,
+      "example": "Suzie and Patty went on a date. Patty told herself and her friends that she was not going to have sex on the first date, but she did anyway because she was caught up in the moment. The next day, Patty said that Suzie was very seductive, and Patty couldn't resist her advances. Patty's friends convince her that she was raped.\n\n**Explanation: **Patty's friends' goal was to show sympathy to Patty. They did this by giving her victim status and criminalizing Suzie's behavior by unreasonably viewing Suzie as a \"rapist.\" Universally, if Suzie's behavior is accepted as \"rape,\" the definition has radically changed, which not only demeans victims of \"traditional\" rape by associating them with those who were seduced by their date but conflates actual rapists with those who are just seductive.\n\n**Example #3: **Ricardo had a hamburger for lunch. Antonio, Ricardo's vegan friend, argues that he is a murderer.",
+      "explanation": "\"Murder\" is traditionally defined as the unlawful killing of another human being. A cow isn't a human being, killing a cow isn't unlawful, and Ricardo didn't kill the cow he ate. It is unreasonable to put Ricardo, a guy who at a hamburger, in the same category as Jeffrey Dahmer, a guy who ate his human victims he killed. Antonio is using the term \"murderer\" in a fallacious attempt to associate a similar level of malice with Ricardo's behavior."
+    }
+  ],
+  "exceptions": "",
+  "tips": "",
+  "references": [
+    "This is an original logical fallacy named by the author."
+  ],
+  "image_url": "",
+  "slug": "unreasonable-inclusion-fallacy.html",
+  "letter": "U",
+  "title_et": "Ebamõistlik kaasamisviga",
+  "description_et": "Katse laiendada halvakuulsasse gruppi või negatiivse märgistusega seostamise kriteeriume nii kaugele, et termini määratlust muudetakse oluliselt, et mõista hukka või kriminaliseerida palju vähem pahatahtlik või kahjulik käitumine.",
+  "logical_form_et": "Isik A süüdistatakse halvas käitumises X.\n\nRühma Y ei kuulu traditsiooniliselt halva käitumisega isikud X\n\nVäidetavalt kuulub isik A rühma Y halva käitumise X tõttu.\n\nIsik A süüdistatakse halvas käitumises X.\n\nSilt Y ei sisalda traditsiooniliselt halba käitumist X\n\nIsikule A antakse silt Y halva käitumise X eest.",
+  "exceptions_et": "",
+  "tips_et": "",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Tony ei nõustu sellega, et igale mustanahalisele inimesele Ameerikas tuleks orjuse ajaloo eest rahaliselt kompenseerida. Seetõttu on Tony rassist.",
+      "explanation": "Mõiste \"rassist\" on äärmiselt halvustav termin, mida on traditsiooniliselt seostatud rassilise ülemvõimu uskujatega - veendumusega, et kellegi rass on teistest rassidest parem. Laiendades määratlust nii, et see hõlmaks \"neid, kes ei nõustu poliitikaga, mis toob kasu teisele rassile\", võrdsustame ekslikult käitumise sildi või grupi palju pahatahtlikumate juurtega. See mitte ainult ei iseloomusta põhjendamatult isikut, kes on poliitika vastu, vaid kahandab ka sõna \"rassist\" tähendust nii kaugele, et traditsioonilisi rassiste nähakse põhjendamatult soodsamalt, kuna mõistet \"rassism\" on laiendatud nii, et see hõlmaks palju vähem pahatahtlikku käitumist.",
+      "original_example": "Tony does not agree that every black person in America should be compensated financially for the history of slavery. Therefore, Tony is a racist.",
+      "original_explanation": "The term \"racist\" is an extremely pejorative term that has traditionally been associated with those holding beliefs of racial supremacy—the belief that one's race is superior to other races. By expanding the definition to include \"those who don't agree with policies that benefit another race,\" we fallaciously equate the behavior with the label's or the group's far more malicious roots. Not only does this unreasonably characterize the person who is against the policy, but it also waters down the meaning of \"racist\" to the point where traditional racists are unreasonably seen more favorably because the term \"racism\" has been expanded to include a spectrum of far less malicious behaviors."
+    },
+    {
+      "number": 2,
+      "example": "Suzie ja Patty läksid kohtingule. Patty ütles endale ja oma sõpradele, et ta ei kavatse esimesel kohtingul seksida, kuid tegi seda siiski, sest ta oli hetkest kinni haaratud. Järgmisel päeval ütles Patty, et Suzie oli väga võrgutav ja Patty ei suutnud tema edusammudele vastu panna. Patty sõbrad veenavad teda, et teda vägistati.\n\n**Selgitus: **Patty sõprade eesmärk oli Pattyle kaastunnet avaldada. Nad tegid seda, andes talle ohvri staatuse ja kriminaliseerides Suzie käitumise, pidades Suziet põhjendamatult \"vägistajaks\". Üldiselt, kui Suzie käitumist aktsepteeritakse kui \"vägistamist\", on määratlus radikaalselt muutunud, mis mitte ainult ei alaväärista \"traditsioonilise\" vägistamise ohvreid, seostades neid nendega, keda nende kohting võrgutas, vaid seob tegelikud vägistajad lihtsalt võrgutavatega.\n\n**Näide nr 3: **Ricardo sõi lõunaks hamburgeri. Antonio, Ricardo veganist sõber, vaidleb vastu, et ta on mõrvar.",
+      "explanation": "\"Mõrva\" määratletakse traditsiooniliselt kui teise inimese ebaseaduslikku tapmist. Lehm ei ole inimene, lehma tapmine ei ole seadusevastane ja Ricardo ei tapnud lehma, mille ta sõi. Ei ole mõistlik panna Ricardot, meest, kes hamburgerit söömas, samasse kategooriasse Jeffrey Dahmeriga, mehega, kes sõi ära oma tapetud inimohvrid. Antonio kasutab mõistet \"mõrvar\" ekslikul katsel seostada samalaadset pahatahtlikkust Ricardo käitumisega.",
+      "original_example": "Suzie and Patty went on a date. Patty told herself and her friends that she was not going to have sex on the first date, but she did anyway because she was caught up in the moment. The next day, Patty said that Suzie was very seductive, and Patty couldn't resist her advances. Patty's friends convince her that she was raped.\n\n**Explanation: **Patty's friends' goal was to show sympathy to Patty. They did this by giving her victim status and criminalizing Suzie's behavior by unreasonably viewing Suzie as a \"rapist.\" Universally, if Suzie's behavior is accepted as \"rape,\" the definition has radically changed, which not only demeans victims of \"traditional\" rape by associating them with those who were seduced by their date but conflates actual rapists with those who are just seductive.\n\n**Example #3: **Ricardo had a hamburger for lunch. Antonio, Ricardo's vegan friend, argues that he is a murderer.",
+      "original_explanation": "\"Murder\" is traditionally defined as the unlawful killing of another human being. A cow isn't a human being, killing a cow isn't unlawful, and Ricardo didn't kill the cow he ate. It is unreasonable to put Ricardo, a guy who at a hamburger, in the same category as Jeffrey Dahmer, a guy who ate his human victims he killed. Antonio is using the term \"murderer\" in a fallacious attempt to associate a similar level of malice with Ricardo's behavior."
+    }
+  ],
+  "translated_at": "2026-08-30T23:15:52.686Z"
+}

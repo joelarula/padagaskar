@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Illicit-Minor",
+  "title": "Illicit Minor",
+  "latin_name": "",
+  "also_known_as": [
+    "illicit process of the minor term"
+  ],
+  "description": "Any form of a *categorical syllogism* in which the minor term is distributed in the conclusion, but not in the minor premise.",
+  "logical_form": "All A are B.\n\nAll B are C.\n\nTherefore, all C are A.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "All Catholics are Christian.\n\nAll Christians are Jesus lovers.\n\nTherefore, all Jesus lovers are Catholic.",
+      "explanation": "In our example, the minor term is “Jesus lovers” because it is the term that appears in the minor premise (second premise) as the predicate and in the conclusion.  As such, in this position, it is “undistributed”."
+    },
+    {
+      "number": 2,
+      "example": "All Paul Newman movies are great.\n\nAll great movies are Oscar winners.\n\nTherefore, all Oscar winners are Paul Newman movies.",
+      "explanation": "In our example, the minor term is “Oscar winners” because it is the term that appears in the minor premise (second premise) as the predicate and in the conclusion.  As such, in this position, it is “undistributed”."
+    }
+  ],
+  "exceptions": "None.\n\n**Fun Fact:** The Catholic bible has 73 books, the Protestant bible only has 66.",
+  "tips": "",
+  "references": [
+    "Neil, S. (1853). *The Art of Reasoning: A Popular Exposition of the Principles of Logic*. Walton & Maberly."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Illicit_Minor.jpg",
+  "slug": "Illicit-Minor",
+  "letter": "I",
+  "title_et": "Ebaseaduslik alaealine",
+  "description_et": "*Kategoorilise süllogismi* mis tahes vorm, milles minoorset terminit jaotatakse järelduses, kuid mitte minoorses eelduses.",
+  "logical_form_et": "Kõik A on B.\n\nKõik B on C.\n\nSeetõttu on kõik C A.",
+  "exceptions_et": "Mitte ühtegi.\n\n**Lõbus fakt:** Katoliku piiblis on 73 raamatut, protestantlikus piiblis vaid 66.",
+  "tips_et": "",
+  "also_known_as_et": [
+    "vähemtähtsa mõiste ebaseaduslik protsess"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Kõik katoliiklased on kristlased.\n\nKõik kristlased on Jeesuse armastajad.\n\nSeetõttu on kõik Jeesuse armastajad katoliiklased.",
+      "explanation": "Meie näites on minoorseks terminiks \"Jeesusarmastajad\", kuna see on termin, mis esineb minoorses eelduses (teises eelduses) predikaadina ja järelduses.  Sellisena on see selles positsioonis \"jaotamata\".",
+      "original_example": "All Catholics are Christian.\n\nAll Christians are Jesus lovers.\n\nTherefore, all Jesus lovers are Catholic.",
+      "original_explanation": "In our example, the minor term is “Jesus lovers” because it is the term that appears in the minor premise (second premise) as the predicate and in the conclusion.  As such, in this position, it is “undistributed”."
+    },
+    {
+      "number": 2,
+      "example": "Kõik Paul Newmani filmid on suurepärased.\n\nKõik suurepärased filmid on Oscari võitjad.\n\nSeetõttu on kõik Oscari võitjad Paul Newmani filmid.",
+      "explanation": "Meie näites on minoorseks terminiks \"Oscari võitjad\", kuna see on termin, mis esineb minoorses eelduses (teises eelduses) predikaadina ja järelduses.  Sellisena on see selles positsioonis \"jaotamata\".",
+      "original_example": "All Paul Newman movies are great.\n\nAll great movies are Oscar winners.\n\nTherefore, all Oscar winners are Paul Newman movies.",
+      "original_explanation": "In our example, the minor term is “Oscar winners” because it is the term that appears in the minor premise (second premise) as the predicate and in the conclusion.  As such, in this position, it is “undistributed”."
+    }
+  ],
+  "translated_at": "2026-08-30T22:55:04.039Z"
+}

@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Limited-Scope",
+  "title": "Limited Scope",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "The theory doesn't explain anything other than the phenomenon it explains (that one thing), and at best, is likely to be incomplete.  This is often done by just redefining a term or phrase rather than explaining it.",
+  "logical_form": "*Theory X is proposed to explain Y.*\n*Theory X explains nothing else but Y.*",
+  "examples": [
+    {
+      "number": 1,
+      "example": "*My car broke down because it is no longer working.*",
+      "explanation": "“It isn’t working” is just another way of saying “broke down”, and fails to explain *why* it broke down."
+    },
+    {
+      "number": 2,
+      "example": "*People often make hasty decisions because they don’t take enough time to consider their choices.*",
+      "explanation": "Not taking enough time to consider choices is precisely what a hasty decision is.  Again, no explanation is offered, just a definition in place of an explanation."
+    }
+  ],
+  "exceptions": "If “because” is replaced with a phrase like, “in other words”, then it is a deliberate clarification and not a fallacy.\n\n**Fun Fact:** **[Limited depth](https://www.logicallyfallacious.com/logicalfallacies/Limited-Depth)** and *limited scope* fallacies are sometimes known as *fallacies of explanation*.",
+  "tips": "",
+  "references": [
+    "Farha, B. (2013). *Pseudoscience and Deception: The Smoke and Mirrors of Paranormal Claims*. University Press of America."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Limited_Scope.jpg",
+  "slug": "Limited-Scope",
+  "letter": "L",
+  "title_et": "Piiratud ulatus",
+  "description_et": "Teooria ei selgita midagi muud peale nähtuse, mida ta seletab (see üks asi), ja parimal juhul on see tõenäoliselt puudulik.  Seda tehakse sageli lihtsalt termini või fraasi ümberdefineerimisega, mitte selle selgitamisega.",
+  "logical_form_et": "*Teooria X on mõeldud Y selgitamiseks.*\n*X teooria ei seleta midagi muud kui Y.*",
+  "exceptions_et": "Kui \"sest\" asendatakse fraasiga nagu \"teisisõnu\", siis on see tahtlik selgitus, mitte eksitus.\n\n**Lõbus tõsiasi:** **[Piiratud sügavus](https://www.logicallyfallacious.com/logicalfallacies/Limited-Depth)** ja *piiratud ulatusega* eksimusi nimetatakse mõnikord *seletusvigadeks*.",
+  "tips_et": "",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "*Minu auto läks katki, kuna see enam ei tööta.*",
+      "explanation": "\"See ei tööta\" on lihtsalt üks viis öelda \"katki läks\" ja ei suuda selgitada, *miks* see katki läks.",
+      "original_example": "*My car broke down because it is no longer working.*",
+      "original_explanation": "“It isn’t working” is just another way of saying “broke down”, and fails to explain *why* it broke down."
+    },
+    {
+      "number": 2,
+      "example": "*Inimesed teevad sageli rutakaid otsuseid, kuna neil ei ole piisavalt aega oma valikute kaalumiseks.*",
+      "explanation": "See, et valikute kaalumiseks ei võta piisavalt aega, on just kiirustav otsus.  Jällegi ei pakuta selgitust, vaid seletuse asemel definitsioon.",
+      "original_example": "*People often make hasty decisions because they don’t take enough time to consider their choices.*",
+      "original_explanation": "Not taking enough time to consider choices is precisely what a hasty decision is.  Again, no explanation is offered, just a definition in place of an explanation."
+    }
+  ],
+  "translated_at": "2026-08-30T22:58:03.679Z"
+}

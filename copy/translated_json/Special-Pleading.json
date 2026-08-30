@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Special-Pleading",
+  "title": "Special Pleading",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Applying standards, principles, and/or rules to other people or circumstances, while making oneself or certain circumstances exempt from the same critical criteria, without providing adequate justification.  Special pleading is often a result of strong emotional beliefs that interfere with reason.",
+  "logical_form": "*If X then Y, but not when it hurts my position.*",
+  "examples": [
+    {
+      "number": 1,
+      "example": "*Yes, I do think that all drunk drivers should go to prison, but your honor, he is my son!  He is a good boy who just made a mistake!*",
+      "explanation": "The mother in this example has applied the rule that all drunk drivers should go to prison.  However, due to her emotional attachment to her son, she is fallaciously reasoning that he should be exempt from this rule, because, “he is a good boy who just made a mistake”, which would hardly be considered adequate justification for exclusion from the rule."
+    },
+    {
+      "number": 2,
+      "example": "*Superstition is a belief or practice resulting from ignorance, fear of the unknown, trust in magic or chance, or a false conception of causation -- unless it is astrology.*",
+      "explanation": "It has been said that one’s superstition is another’s faith.  The standard of superstition has been defined by the person and violated by astrology.  However, while the person in the example rejects all other sources of superstition using certain criteria, the superstitious belief of their preference is exempt from these criteria."
+    }
+  ],
+  "exceptions": "“Adequate justification” is subjective, and can be argued.",
+  "tips": "If you are accused of special pleading, take the time to consider honestly if the accusation is warranted.  This is a fallacy that is easy to spot when others make it yet difficult to spot when we make it.",
+  "references": [
+    "Walton, D. (1999). *One-Sided Arguments: A Dialectical Analysis of Bias*. SUNY Press."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Special_Pleading.jpg",
+  "slug": "Special-Pleading",
+  "letter": "S",
+  "title_et": "Eriline palve",
+  "description_et": "Standardite, põhimõtete ja/või reeglite rakendamine teistele inimestele või asjaoludele, vabastades end või teatud asjaolusid samadest kriitilistest kriteeriumidest ilma piisavat põhjendust esitamata.  Eripalve on sageli tugevate emotsionaalsete uskumuste tagajärg, mis segavad mõistust.",
+  "logical_form_et": "*Kui X, siis Y, aga mitte siis, kui see kahjustab minu positsiooni.*",
+  "exceptions_et": "\"Piisav põhjendus\" on subjektiivne ja selle üle võib vaielda.",
+  "tips_et": "Kui teid süüdistatakse erilises pöördumises, võtke aega ja kaaluge ausalt, kas süüdistus on õigustatud.  See on eksitus, mida on lihtne märgata, kui teised teevad seda raskesti märgatavaks, kui meie seda teeme.",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "*Jah, ma arvan küll, et kõik joobes juhid peaksid vangi minema, aga teie au, ta on minu poeg!  Ta on hea poiss, kes tegi lihtsalt vea!*",
+      "explanation": "Selle näite ema on rakendanud reeglit, et kõik joobes juhid peaksid vangi minema.  Emotsionaalse kiindumuse tõttu pojaga arutleb ta aga ekslikult, et ta tuleks sellest reeglist vabastada, sest \"ta on hea poiss, kes just tegi vea\", mida vaevalt peetaks piisavaks õigustuseks reeglist väljajätmiseks.",
+      "original_example": "*Yes, I do think that all drunk drivers should go to prison, but your honor, he is my son!  He is a good boy who just made a mistake!*",
+      "original_explanation": "The mother in this example has applied the rule that all drunk drivers should go to prison.  However, due to her emotional attachment to her son, she is fallaciously reasoning that he should be exempt from this rule, because, “he is a good boy who just made a mistake”, which would hardly be considered adequate justification for exclusion from the rule."
+    },
+    {
+      "number": 2,
+      "example": "*Ebausk on usk või tava, mis tuleneb teadmatusest, hirmust tundmatu ees, usaldusest maagia või juhuse vastu või valest põhjuslikust arusaamast – välja arvatud juhul, kui tegemist on astroloogiaga.*",
+      "explanation": "On öeldud, et ühe ebausk on teise usk.  Ebausu standardi on määratlenud inimene ja astroloogia on seda rikkunud.  Kuigi näites olev isik lükkab teatud kriteeriume kasutades tagasi kõik muud ebausu allikad, on ebausklik usk tema eelistusse nendest kriteeriumidest vabastatud.",
+      "original_example": "*Superstition is a belief or practice resulting from ignorance, fear of the unknown, trust in magic or chance, or a false conception of causation -- unless it is astrology.*",
+      "original_explanation": "It has been said that one’s superstition is another’s faith.  The standard of superstition has been defined by the person and violated by astrology.  However, while the person in the example rejects all other sources of superstition using certain criteria, the superstitious belief of their preference is exempt from these criteria."
+    }
+  ],
+  "translated_at": "2026-08-30T23:11:19.002Z"
+}

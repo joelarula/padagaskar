@@ -1,0 +1,39 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Hypnotic-Bait-and-Switch",
+  "title": "Hypnotic Bait and Switch",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Stating several uncontroversially true statements in succession, followed by a claim that the arguer wants the audience to accept as true.  This is a propaganda technique, but also a fallacy when the audience lends more credibility to the last claim because it was preceded by true statements.  The negative can also be used in the same way.\n\nThis is a classic sales technique often referred to as, “getting the customer used to saying ‘yes’!”",
+  "logical_form": "",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Do you love your country?\n\nDo you love your family?\n\nDo you care about their wellbeing?\n\nThen you would love Eatme ice-cream!\n\n**Example #2:**\n\nIs it right that such a small percentage of Americans control the vast majority of wealth?\n\nIs it right that you have to work overtime just to make ends meet?\n\nIs it right that you can’t even afford to leave the state for vacation?\n\nDo you really want to vote for Reggie Lipshitz?",
+      "explanation": "As you read through the examples, you can see from where the word “hypnotic” comes.  Your subconscious mind starts to take over, and it seems almost reactionary that you start chanting “yes” or “no” (as in the second example) while not really considering with what you are agreeing or disagreeing.  These kinds of techniques work best in rallies where those doing the rallying count on you to act with emotion at the expense of your reason."
+    }
+  ],
+  "exceptions": "It’s an effective persuasion technique, so if you're trying to convince your kids to stay off drugs, then manipulate away.  However, if you are trying to get someone to buy a vacuum cleaner, then take your *[hypnotic bait and switch](https://www.logicallyfallacious.com/logicalfallacies/Hypnotic-Bait-and-Switch)* and shove it up your reusable, hypoallergenic, dust bag.",
+  "tips": "Become a human fallacy detector.  Look for these kinds of techniques everywhere you go.  As a result, your reasonable self will become conditioned to resist taking a back seat to emotional propaganda.",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Hypnotic_Bait_and_Switch.jpg",
+  "slug": "Hypnotic-Bait-and-Switch",
+  "letter": "H",
+  "title_et": "Hüpnootiline sööt ja lüliti",
+  "description_et": "Mitme vaieldamatult tõese väite esitamine järjest, millele järgneb väide, mida vaidleja soovib, et publik tunnistaks tõeks.  See on propagandatehnika, aga ka eksitus, kui publik annab viimasele väitele rohkem usaldusväärsust, kuna sellele eelnesid tõesed väited.  Samamoodi saab kasutada ka negatiivset.\n\nSee on klassikaline müügitehnika, mida sageli nimetatakse \"kliendi harjumiseks ütlema \"jah\"!",
+  "logical_form_et": "",
+  "exceptions_et": "See on tõhus veenmistehnika, nii et kui proovite veenda oma lapsi uimastitest loobuma, siis manipuleerige eemale.  Kui aga proovite kedagi tolmuimejat ostma panna, võtke oma *[hüpnootiline sööt ja lüliti](https://www.logicallyfallacious.com/logicalfallacies/Hypnotic-Bait-and-Switch)* ja lükake see oma korduvkasutatavasse hüpoallergeensesse tolmukotti.",
+  "tips_et": "Hakka inimese eksimuste detektoriks.  Otsige selliseid tehnikaid kõikjal, kuhu lähete.  Selle tulemusena muutub teie mõistlik mina tinglikuks, et seista vastu emotsionaalse propaganda tagaplaanile jäämisele.",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Kas sa armastad oma riiki?\n\nKas sa armastad oma perekonda?\n\nKas sa hoolid nende heaolust?\n\nSiis meeldiks sulle Eatme jäätis!\n\n**Näide #2:**\n\nKas on õige, et nii väike protsent ameeriklasi kontrollib valdavat enamust rikkusest?\n\nKas on õige, et tuleb ületunde teha, et ots otsaga kokku tulla?\n\nKas on õige, et te ei saa endale lubada isegi osariigist puhkusele lahkumist?\n\nKas soovite tõesti hääletada Reggie Lipshitzi poolt?",
+      "explanation": "Näiteid lugedes näete, kust tuleb sõna \"hüpnootiline\".  Teie alateadvus hakkab võimust võtma ja tundub peaaegu reaktsiooniline, et hakkate skandeerima \"jah\" või \"ei\" (nagu teises näites), kuid ei mõtle tegelikult sellele, millega nõustute või millega ei nõustu.  Sellised tehnikad toimivad kõige paremini rallidel, kus rallitajad loodavad, et tegutsete emotsioonidega oma mõistuse arvelt.",
+      "original_example": "Do you love your country?\n\nDo you love your family?\n\nDo you care about their wellbeing?\n\nThen you would love Eatme ice-cream!\n\n**Example #2:**\n\nIs it right that such a small percentage of Americans control the vast majority of wealth?\n\nIs it right that you have to work overtime just to make ends meet?\n\nIs it right that you can’t even afford to leave the state for vacation?\n\nDo you really want to vote for Reggie Lipshitz?",
+      "original_explanation": "As you read through the examples, you can see from where the word “hypnotic” comes.  Your subconscious mind starts to take over, and it seems almost reactionary that you start chanting “yes” or “no” (as in the second example) while not really considering with what you are agreeing or disagreeing.  These kinds of techniques work best in rallies where those doing the rallying count on you to act with emotion at the expense of your reason."
+    }
+  ],
+  "translated_at": "2026-08-30T22:53:23.267Z"
+}

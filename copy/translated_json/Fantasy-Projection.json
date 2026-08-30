@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Fantasy-Projection",
+  "title": "Fantasy Projection",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Confusing subjective experiences, usually very emotionally charged, with objective reality, then suggesting or demanding that others accept the subjective experience as objective reality.\n\n**New Terminology:** In this context, *subjective experience* is the way one interprets some external stimuli. *Objective reality* is independent of our interpretations; it is a collection of facts about the world we all share.",
+  "logical_form": "*Person 1 has subjective experience X.*\n*Person 1 incorrectly believes that experience X represents objective reality.*\n*Therefore, person 1 insists that others accept that X represents objective reality.*",
+  "examples": [
+    {
+      "number": 1,
+      "example": "*Freddie: People are mean to me wherever I go. It is clear that we live in a cruel world with people who are mostly nasty. If you don’t see that, something is wrong with you!*",
+      "explanation": "Perhaps people are mean to Freddie because Freddie is mean to others, and it’s Freddie’s behavior that is resulting in the “mean” behaviors of others (this is known as a *self-fulfilling prophecy*). Freddie is projecting his experience, which is unique to him, onto the world at large. He is insisting that other people see humanity the way he does. We don’t deny that Freddie is experiencing the world in the way he is; we just don’t accept that Freddie’s experience represents objective reality. To accurately determine if the world is, indeed, made up of “people who are mostly nasty,” we would need to conduct research using the scientific method."
+    },
+    {
+      "number": 2,
+      "example": "*I feel that we are all surrounded by Narggles. These are spiritual beings who help us through life. We know they exist because they are the ones that give us the confidence to move forward in a decision.*",
+      "explanation": "Ignoring the circular reasoning (how we \"know\" Narggles exist), one person's fantasy might be their own reality, but not everyone else's."
+    }
+  ],
+  "exceptions": "One can argue that one's subjective experience is part of objective reality as long as they don’t insist that you interpret the stimuli the same way they did.\n\n*Freddie: It is a fact that this world consists of people who feel like most people they interact with are mean to them.*\n\n**Fun Fact:** Everyone knows Kerplunkers, not Narggles, are spiritual beings who help us through life.",
+  "tips": "",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Fantasy_Projection.jpg",
+  "slug": "Fantasy-Projection",
+  "letter": "F",
+  "title_et": "Fantaasia projektsioon",
+  "description_et": "Subjektiivsete, tavaliselt väga emotsionaalselt laetud kogemuste segamine objektiivse reaalsusega, seejärel soovitades või nõudes, et teised aktsepteeriksid subjektiivset kogemust objektiivse reaalsusena.\n\n**Uus terminoloogia:** selles kontekstis on *subjektiivne kogemus* viis, kuidas tõlgendatakse mõningaid väliseid stiimuleid. *Objektiivne reaalsus* on sõltumatu meie tõlgendustest; see on faktide kogum maailma kohta, mida me kõik jagame.",
+  "logical_form_et": "*Inimesel 1 on subjektiivne kogemus X.*\n*Isik 1 usub ekslikult, et kogemus X esindab objektiivset reaalsust.*\n*Seetõttu nõuab isik 1, et teised aktsepteeriksid, et X esindab objektiivset reaalsust.*",
+  "exceptions_et": "Võib väita, et tema subjektiivne kogemus on osa objektiivsest reaalsusest seni, kuni nad ei nõua, et tõlgendaksite stiimuleid samamoodi nagu nemad.\n\n*Freddie: See on tõsiasi, et see maailm koosneb inimestest, kes tunnevad, et enamik inimesi, kellega nad suhtlevad, on nende vastu õelad.*\n\n**Lõbus fakt:** Kõik teavad, et Kerplunkerid, mitte Narggles, on vaimsed olendid, kes aitavad meid läbi elu.",
+  "tips_et": "",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "*Freddie: Inimesed on minu vastu kurjad kõikjal, kus ma lähen. On selge, et me elame julmas maailmas inimestega, kes on enamasti vastikud. Kui sa seda ei näe, on sinuga midagi valesti!*",
+      "explanation": "Võib-olla on inimesed Freddie vastu õelad, sest Freddie on teiste suhtes kuri ja Freddie käitumine põhjustab teiste \"alatu\" käitumist (seda tuntakse *isetäituva ennustusena*). Freddie projitseerib oma kogemust, mis on talle ainulaadne, kogu maailmale. Ta nõuab, et teised inimesed näeksid inimkonda nii, nagu tema. Me ei eita, et Freddie kogeb maailma sellisena, nagu ta on; me lihtsalt ei nõustu sellega, et Freddie kogemus esindab objektiivset reaalsust. Et täpselt kindlaks teha, kas maailm koosneb tõepoolest \"inimestest, kes on enamasti vastikud\", peaksime läbi viima teadusuuringuid teadusliku meetodi abil.",
+      "original_example": "*Freddie: People are mean to me wherever I go. It is clear that we live in a cruel world with people who are mostly nasty. If you don’t see that, something is wrong with you!*",
+      "original_explanation": "Perhaps people are mean to Freddie because Freddie is mean to others, and it’s Freddie’s behavior that is resulting in the “mean” behaviors of others (this is known as a *self-fulfilling prophecy*). Freddie is projecting his experience, which is unique to him, onto the world at large. He is insisting that other people see humanity the way he does. We don’t deny that Freddie is experiencing the world in the way he is; we just don’t accept that Freddie’s experience represents objective reality. To accurately determine if the world is, indeed, made up of “people who are mostly nasty,” we would need to conduct research using the scientific method."
+    },
+    {
+      "number": 2,
+      "example": "*Ma tunnen, et meid kõiki ümbritsevad Narggles. Need on vaimsed olendid, kes aitavad meid läbi elu. Teame, et need on olemas, sest just need annavad meile enesekindlust otsuse tegemisel edasi liikuda.*",
+      "explanation": "Ignoreerides ringikujulist arutluskäiku (kuidas me narggle'ide olemasolu \"teame\"), võib ühe inimese fantaasia olla tema enda reaalsus, kuid mitte kõigi teiste oma.",
+      "original_example": "*I feel that we are all surrounded by Narggles. These are spiritual beings who help us through life. We know they exist because they are the ones that give us the confidence to move forward in a decision.*",
+      "original_explanation": "Ignoring the circular reasoning (how we \"know\" Narggles exist), one person's fantasy might be their own reality, but not everyone else's."
+    }
+  ],
+  "translated_at": "2026-08-30T22:49:35.437Z"
+}

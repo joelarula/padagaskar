@@ -1,0 +1,967 @@
+[
+  {
+    "file": "aarmustesse-viimise-eksitus.md",
+    "title_ee": "Äärmustesse viimise eksitus",
+    "title_en": "Appeal to Extremes",
+    "slug": "Appeal-to-Extremes",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "ad-hominem-olukorrast-tingitud.md",
+    "title_ee": "Ad hominem olukorrast tingitud",
+    "title_en": "Ad Hominem (Circumstantial)",
+    "slug": "Ad-Hominem-Circumstantial",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "ad-hominem-sina-ise-ka.md",
+    "title_ee": "Ad hominem (sina ise ka)",
+    "title_en": "Ad Hominem (Tu quoque)",
+    "slug": "Ad-Hominem-Tu-quoque",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "ad-hominem-solvav.md",
+    "title_ee": "Ad hominem (solvav)",
+    "title_en": "Ad Hominem (Abusive)",
+    "slug": "Ad-Hominem-Abusive",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "ad-hominem-suu-labi-seotuse.md",
+    "title_ee": "Ad hominem (süü läbi seotuse)",
+    "title_en": "Ad Hominem (Guilt by Association)",
+    "slug": "Ad-Hominem-Guilt-by-Association",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 3,
+    "originalExamplesCount": 3,
+    "issues": []
+  },
+  {
+    "file": "akronuumisupp.md",
+    "title_ee": "Akronüümisupp",
+    "title_en": "Alphabet Soup",
+    "slug": "Alphabet-Soup",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "anonyymse-autoriteedi-eksitus.md",
+    "title_ee": "Anonyümse autoriteedi eksitus",
+    "title_en": "Anonymous Authority",
+    "slug": "Anonymous-Authority",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "antropomorfism.md",
+    "title_ee": "antropomorfism.md",
+    "title_en": "Anthropomorphism",
+    "slug": "Anthropomorphism",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "autoriteedile-viitamise-eksitus.md",
+    "title_ee": "Autoriteedile viitamise eksitus",
+    "title_en": "Appeal to Authority",
+    "slug": "Appeal-to-Authority",
+    "status": "DIFFERENCES_FOUND",
+    "wikiExamplesCount": 3,
+    "originalExamplesCount": 2,
+    "issues": [
+      "EXTRA_EXAMPLES (Wiki has 3, Original has 2)"
+    ]
+  },
+  {
+    "file": "baassageduse-eksitus.md",
+    "title_ee": "Baassageduse eksitus",
+    "title_en": "Base Rate Fallacy",
+    "slug": "Base-Rate-Fallacy",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "bulverism.md",
+    "title_ee": "Bulverism",
+    "title_en": "Bulverism",
+    "slug": "Bulverism",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "definitsioonile-viitamise-eksitus.md",
+    "title_ee": "Definitsioonile viitamise eksitus",
+    "title_en": "Appeal to Definition",
+    "slug": "Appeal-to-Definition",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "ebakindusele-rõhumine.md",
+    "title_ee": "Ebakindlusele rõhumine",
+    "title_en": "Ad Fidentia",
+    "slug": "Ad-Fidentia",
+    "status": "DIFFERENCES_FOUND",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": [
+      "MISSING_REFERENCES"
+    ]
+  },
+  {
+    "file": "eksitav-jagamine.md",
+    "title_ee": "Eksitav jagamine",
+    "title_en": "Deceptive Sharing",
+    "slug": "deceptive-sharing.html",
+    "status": "DIFFERENCES_FOUND",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 0,
+    "issues": [
+      "EXTRA_EXAMPLES (Wiki has 2, Original has 0)",
+      "MISSING_REFERENCES"
+    ]
+  },
+  {
+    "file": "emotsioonidele-rohumise-eksitus.md",
+    "title_ee": "Emotsioonidele rõhumise eksitus",
+    "title_en": "Appeal to Emotion",
+    "slug": "Appeal-to-Emotion",
+    "status": "DIFFERENCES_FOUND",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": [
+      "MISSING_EXCEPTION"
+    ]
+  },
+  {
+    "file": "enamuse-arvamusele-viitamise-eksitus.md",
+    "title_ee": "Enamuse arvamusele viitamise eksitus",
+    "title_en": "Appeal to Common Belief",
+    "slug": "Appeal-to-Common-Belief",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "erandipimedus.md",
+    "title_ee": "Erandipimedus",
+    "title_en": "Accident Fallacy",
+    "slug": "Accident-Fallacy",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "eriargument.md",
+    "title_ee": "Eriargument",
+    "title_en": "Ad Hoc Rescue",
+    "slug": "Ad-Hoc-Rescue",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "habeme-argument.md",
+    "title_ee": "Habeme argument",
+    "title_en": "Argument of the Beard",
+    "slug": "Argument-of-the-Beard",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "hirmutamine.md",
+    "title_ee": "Hirmutamine",
+    "title_en": "Appeal to Fear",
+    "slug": "Appeal-to-Fear",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "imeline-koigeteadja.md",
+    "title_ee": "Imeline kõigeteadja",
+    "title_en": "Amazing Familiarity",
+    "slug": "Amazing-Familiarity",
+    "status": "DIFFERENCES_FOUND",
+    "wikiExamplesCount": 4,
+    "originalExamplesCount": 2,
+    "issues": [
+      "EXTRA_EXAMPLES (Wiki has 4, Original has 2)"
+    ]
+  },
+  {
+    "file": "intuitsioonile-viitamise-eksitus.md",
+    "title_ee": "Intuitsioonile viitamise eksitus",
+    "title_en": "Appeal to Intuition",
+    "slug": "Appeal-to-Intuition",
+    "status": "DIFFERENCES_FOUND",
+    "wikiExamplesCount": 3,
+    "originalExamplesCount": 2,
+    "issues": [
+      "EXTRA_EXAMPLES (Wiki has 3, Original has 2)"
+    ]
+  },
+  {
+    "file": "iseenesestmoistetavusele-viitamise-eksitus.md",
+    "title_ee": "Iseenesestmõistetavusele viitamise eksitus",
+    "title_en": "Appeal to Self-evident Truth",
+    "slug": "Appeal-to-Self-evident-Truth",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "isikliku-sarmi-eksitus.md",
+    "title_ee": "Isikliku sarmi eksitus",
+    "title_en": "Argument by Personal Charm",
+    "slug": "Argument-by-Personal-Charm",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "jaatav-jareldus-eitavast-eelvaite.md",
+    "title_ee": "Jaatav järeldus eitavast eelväitest",
+    "title_en": "Affirmative Conclusion from a Negative Premise",
+    "slug": "Affirmative-Conclusion-from-a-Negative-Premise",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "jonnakuse-eksitus.md",
+    "title_ee": "Jonnakuse eksitus",
+    "title_en": "Argument by Pigheadedness",
+    "slug": "Argument-by-Pigheadedness",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "jouga-ahvardamise-eksitus.md",
+    "title_ee": "Jõuga ähvardamise eksitus",
+    "title_en": "Appeal to Force",
+    "slug": "Appeal-to-Force",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "kaastundele-rohumise-eksitus.md",
+    "title_ee": "Kaastundele rõhumise eksitus",
+    "title_en": "Appeal to Pity",
+    "slug": "Appeal-to-Pity",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "kas-see-voi-teine-eksitus.md",
+    "title_ee": "Kas see või teine\" eksitus",
+    "title_en": "Affirming a Disjunct",
+    "slug": "Affirming-a-Disjunct",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "katkise-akna-eksitus.md",
+    "title_ee": "Katkise akna eksitus",
+    "title_en": "Broken Window Fallacy",
+    "slug": "Broken-Window-Fallacy",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "keeruka-kusimuse-eksitus.md",
+    "title_ee": "Keeruka küsimuse eksitus",
+    "title_en": "Complex Question Fallacy",
+    "slug": "Complex-Question-Fallacy",
+    "status": "DIFFERENCES_FOUND",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": [
+      "MISSING_REFERENCES"
+    ]
+  },
+  {
+    "file": "kiire-kone-eksitus.md",
+    "title_ee": "Kiire kõne eksitus",
+    "title_en": "Argument by Fast Talking",
+    "slug": "Argument-by-Fast-Talking",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "kindluse-teesklus.md",
+    "title_ee": "Kindluse teesklus",
+    "title_en": "Alleged Certainty",
+    "slug": "Alleged-Certainty",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 3,
+    "originalExamplesCount": 3,
+    "issues": []
+  },
+  {
+    "file": "kirsinoppimine.md",
+    "title_ee": "Kirsinoppimine",
+    "title_en": "Cherry Picking",
+    "slug": "Cherry-Picking",
+    "status": "DIFFERENCES_FOUND",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": [
+      "MISSING_REFERENCES"
+    ]
+  },
+  {
+    "file": "kokkusattumusele-viitamise-eksitus.md",
+    "title_ee": "Kokkusattumusele viitamise eksitus",
+    "title_en": "Appeal to Coincidence",
+    "slug": "Appeal-to-Coincidence",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "konjunktsiooniviga.md",
+    "title_ee": "Konjunktsiooniviga",
+    "title_en": "Conjunction Fallacy",
+    "slug": "Conjunction-Fallacy",
+    "status": "DIFFERENCES_FOUND",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": [
+      "MISSING_REFERENCES"
+    ]
+  },
+  {
+    "file": "kontekstist-valjarebimine.md",
+    "title_ee": "Kontekstist väljarebimine",
+    "title_en": "Contextomy",
+    "slug": "Contextomy",
+    "status": "DIFFERENCES_FOUND",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": [
+      "MISSING_REFERENCES"
+    ]
+  },
+  {
+    "file": "kordamise-eksitus.md",
+    "title_ee": "Kordamise eksitus",
+    "title_en": "Argument by Repetition",
+    "slug": "Argument-by-Repetition",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "kusimuse-eeldamine.md",
+    "title_ee": "Küsimuse eeldamine",
+    "title_en": "Begging the Question",
+    "slug": "Begging-the-Question",
+    "status": "DIFFERENCES_FOUND",
+    "wikiExamplesCount": 3,
+    "originalExamplesCount": 2,
+    "issues": [
+      "EXTRA_EXAMPLES (Wiki has 3, Original has 2)"
+    ]
+  },
+  {
+    "file": "kuu-argument.md",
+    "title_ee": "Kuu-argument",
+    "title_en": "Appeal to the Moon",
+    "slug": "Appeal-to-the-Moon",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "kuuldustele-viitamise-eksitus.md",
+    "title_ee": "Kuuldustele viitamise eksitus",
+    "title_en": "Argument from Hearsay",
+    "slug": "Argument-from-Hearsay",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "kuulsusele-viitamise-eksitus.md",
+    "title_ee": "Kuulsusele viitamise eksitus",
+    "title_en": "Appeal to Celebrity",
+    "slug": "Appeal-to-Celebrity",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "liigselt-keerukaks-pidamise-eksitus.md",
+    "title_ee": "Liigselt keerukaks pidamise eksitus",
+    "title_en": "Appeal to Complexity",
+    "slug": "Appeal-to-Complexity",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "lojalsusele-viitamise-eksitus.md",
+    "title_ee": "Lojalsusele viitamise eksitus",
+    "title_en": "Appeal to Loyalty",
+    "slug": "appeal-to-loyalty.html",
+    "status": "DIFFERENCES_FOUND",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 1,
+    "issues": [
+      "EXTRA_EXAMPLES (Wiki has 2, Original has 1)"
+    ]
+  },
+  {
+    "file": "looduslikkusele-viitamise-eksitus.md",
+    "title_ee": "Looduslikkusele viitamise eksitus",
+    "title_en": "Appeal to Nature",
+    "slug": "Appeal-to-Nature",
+    "status": "DIFFERENCES_FOUND",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 1,
+    "issues": [
+      "EXTRA_EXAMPLES (Wiki has 2, Original has 1)"
+    ]
+  },
+  {
+    "file": "loogikaveale-viitamise-eksitus.md",
+    "title_ee": "Loogikaveale viitamise eksitus",
+    "title_en": "Argument from Fallacy",
+    "slug": "Argument-from-Fallacy",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "meeleheite-eksitus.md",
+    "title_ee": "Meeleheite eksitus",
+    "title_en": "Appeal to Desperation",
+    "slug": "Appeal-to-Desperation",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "meelitamise-eksitus.md",
+    "title_ee": "Meelitamise eksitus",
+    "title_en": "Appeal to Flattery",
+    "slug": "Appeal-to-Flattery",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "moodukuse-eksitus.md",
+    "title_ee": "Mõõdukuse eksitus",
+    "title_en": "Argument to Moderation",
+    "slug": "Argument-to-Moderation",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "naeruvaaristamise-eksitus.md",
+    "title_ee": "Naeruvääristamise eksitus",
+    "title_en": "Appeal to Ridicule",
+    "slug": "Appeal-to-Ridicule",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "normaalsusele-viitamise-eksitus.md",
+    "title_ee": "Normaalsusele viitamise eksitus",
+    "title_en": "Appeal to Normality",
+    "slug": "Appeal-to-Normality",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "otsad-kokku-argument.md",
+    "title_ee": "Otsad kokku argument",
+    "title_en": "Appeal to Closure",
+    "slug": "Appeal-to-Closure",
+    "status": "DIFFERENCES_FOUND",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 1,
+    "issues": [
+      "EXTRA_EXAMPLES (Wiki has 2, Original has 1)"
+    ]
+  },
+  {
+    "file": "pahameelele-rohumise-eksitus.md",
+    "title_ee": "Pahameelele rõhumise eksitus",
+    "title_en": "Appeal to Spite",
+    "slug": "Appeal-to-Spite",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "pealiskaudne-argument.md",
+    "title_ee": "Pealiskaudne argument",
+    "title_en": "Argument from Ignorance",
+    "slug": "Argument-from-Ignorance",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "pohjus-tagajärje-eksitus.md",
+    "title_ee": "Põhjus-tagajärje eksitus",
+    "title_en": "Affirming the Consequent",
+    "slug": "Affirming-the-Consequent",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "pohjuslik-reduktsionism.md",
+    "title_ee": "Põhjuslik reduktsionism",
+    "title_en": "Causal Reductionism",
+    "slug": "Causal-Reductionism",
+    "status": "DIFFERENCES_FOUND",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": [
+      "MISSING_REFERENCES"
+    ]
+  },
+  {
+    "file": "praegu-selgitamatu-ja-selgitamatu-segiaajamine.md",
+    "title_ee": "Praegu selgitamatu ja selgitamatu segiaajamine",
+    "title_en": "Confusing Currently Unexplained with Unexplainable",
+    "slug": "Confusing-Currently-Unexplained-with-Unexplainable",
+    "status": "DIFFERENCES_FOUND",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": [
+      "MISSING_REFERENCES"
+    ]
+  },
+  {
+    "file": "rahakoti-argument.md",
+    "title_ee": "Rahakoti argument",
+    "title_en": "Argument to the Purse",
+    "slug": "Argument-to-the-Purse",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "ringdefinitsioon.md",
+    "title_ee": "Ringdefinitsioon",
+    "title_en": "Circular Definition",
+    "slug": "Circular-Definition",
+    "status": "DIFFERENCES_FOUND",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": [
+      "MISSING_REFERENCES"
+    ]
+  },
+  {
+    "file": "ringtoestus.md",
+    "title_ee": "Ringtõestus",
+    "title_en": "Circular Reasoning",
+    "slug": "Circular-Reasoning",
+    "status": "DIFFERENCES_FOUND",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": [
+      "MISSING_REFERENCES"
+    ]
+  },
+  {
+    "file": "rumalusele-rohumise-eksitus.md",
+    "title_ee": "Rumalusele rõhumise eksitus",
+    "title_en": "Appeal to Stupidity",
+    "slug": "Appeal-to-Stupidity",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "saavutustele-viitamise-eksitus.md",
+    "title_ee": "Saavutustele viitamise eksitus",
+    "title_en": "Appeal to Accomplishment",
+    "slug": "Appeal-to-Accomplishment",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "seadusele-viitamise-eksitus.md",
+    "title_ee": "Seadusele viitamise eksitus",
+    "title_en": "Appeal to the Law",
+    "slug": "Appeal-to-the-Law",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "segase-jutu-eksitus.md",
+    "title_ee": "Segase jutu eksitus",
+    "title_en": "Argument by Gibberish",
+    "slug": "Argument-by-Gibberish",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "selgituse-ja-vabanduse-segiaajamine.md",
+    "title_ee": "Selgituse ja vabanduse segiaajamine",
+    "title_en": "Confusing an Explanation with an Excuse",
+    "slug": "Confusing-an-Explanation-with-an-Excuse",
+    "status": "DIFFERENCES_FOUND",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 1,
+    "issues": [
+      "EXTRA_EXAMPLES (Wiki has 2, Original has 1)",
+      "MISSING_REFERENCES"
+    ]
+  },
+  {
+    "file": "taevaga-oigustamise-eksitus.md",
+    "title_ee": "Taevaga õigustamise eksitus",
+    "title_en": "Appeal to Heaven",
+    "slug": "Appeal-to-Heaven",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "tagajargedele-viitamise-eksitus.md",
+    "title_ee": "Tagajärgedele viitamise eksitus",
+    "title_en": "Appeal to Consequences",
+    "slug": "Appeal-to-Consequences",
+    "status": "DIFFERENCES_FOUND",
+    "wikiExamplesCount": 3,
+    "originalExamplesCount": 1,
+    "issues": [
+      "EXTRA_EXAMPLES (Wiki has 3, Original has 1)"
+    ]
+  },
+  {
+    "file": "tavalise-inimesele-viitamise-eksitus.md",
+    "title_ee": "Tavalisele inimesele viitamise eksitus",
+    "title_en": "Appeal to Common Folk",
+    "slug": "Appeal-to-Common-Folk",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "teemast-moodaraakimise-eksitus.md",
+    "title_ee": "Teemast möödarääkimise eksitus",
+    "title_en": "Avoiding the Issue",
+    "slug": "Avoiding-the-Issue",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "tervele-moistusele-viitamise-eksitus.md",
+    "title_ee": "Tervele mõistusele viitamise eksitus",
+    "title_en": "Appeal to Common Sense",
+    "slug": "Appeal-to-Common-Sense",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 3,
+    "originalExamplesCount": 3,
+    "issues": []
+  },
+  {
+    "file": "tingimuslausete-aravahetamine.md",
+    "title_ee": "Tingimuslausete äravahetamine",
+    "title_en": "Commutation of Conditionals",
+    "slug": "Commutation-of-Conditionals",
+    "status": "DIFFERENCES_FOUND",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": [
+      "MISSING_REFERENCES"
+    ]
+  },
+  {
+    "file": "traditsioonile-viitamise-eksitus.md",
+    "title_ee": "Traditsioonile viitamise eksitus",
+    "title_en": "Appeal to Tradition",
+    "slug": "Appeal-to-Tradition",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "udujutt.md",
+    "title_ee": "Udujutt",
+    "title_en": "Ambiguity Fallacy",
+    "slug": "Ambiguity-Fallacy",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 3,
+    "originalExamplesCount": 3,
+    "issues": []
+  },
+  {
+    "file": "usaldusele-viitamise-eksitus.md",
+    "title_ee": "Usaldusele viitamise eksitus",
+    "title_en": "Appeal to Trust",
+    "slug": "Appeal-to-Trust",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "uskumatuse-eksitus.md",
+    "title_ee": "Uskumatuse eksitus",
+    "title_en": "Argument from Incredulity",
+    "slug": "Argument-from-Incredulity",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "usule-viitamise-eksitus.md",
+    "title_ee": "Usule viitamise eksitus",
+    "title_en": "Appeal to Faith",
+    "slug": "Appeal-to-Faith",
+    "status": "DIFFERENCES_FOUND",
+    "wikiExamplesCount": 3,
+    "originalExamplesCount": 2,
+    "issues": [
+      "EXTRA_EXAMPLES (Wiki has 3, Original has 2)"
+    ]
+  },
+  {
+    "file": "uudsusele-viitamise-eksitus.md",
+    "title_ee": "Uudsusele viitamise eksitus",
+    "title_en": "Appeal to Novelty",
+    "slug": "Appeal-to-Novelty",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "vaidluse-eksitus.md",
+    "title_ee": "Argumendi olemuse vääriti mõistmine",
+    "title_en": "Arguments",
+    "slug": "Arguments",
+    "status": "DIFFERENCES_FOUND",
+    "wikiExamplesCount": 1,
+    "originalExamplesCount": 0,
+    "issues": [
+      "EXTRA_EXAMPLES (Wiki has 1, Original has 0)"
+    ]
+  },
+  {
+    "file": "vaikuse-eksitus.md",
+    "title_ee": "Vaikuse eksitus",
+    "title_en": "Argument from Silence",
+    "slug": "Argument-from-Silence",
+    "status": "DIFFERENCES_FOUND",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": [
+      "MISSING_LOGICAL_FORM"
+    ]
+  },
+  {
+    "file": "vale-aksent.md",
+    "title_ee": "Vale aksent",
+    "title_en": "Accent Fallacy",
+    "slug": "Accent-Fallacy",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "vale-autoriteedi-eksitus.md",
+    "title_ee": "Vale autoriteedi eksitus",
+    "title_en": "Argument from False Authority",
+    "slug": "Argument-from-False-Authority",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "vale-autoriteedile-viitamise-eksitus.md",
+    "title_ee": "Vale autoriteedile viitamise eksitus",
+    "title_en": "Appeal to False Authority",
+    "slug": "Appeal-to-False-Authority",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 4,
+    "originalExamplesCount": 4,
+    "issues": []
+  },
+  {
+    "file": "valiku-eksitus.md",
+    "title_ee": "Valiku eksitus",
+    "title_en": "Alternative Advance",
+    "slug": "Alternative-Advance",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "valikuline-lugemine.md",
+    "title_ee": "Valikuline lugemine",
+    "title_en": "Argument by Selective Reading",
+    "slug": "Argument-by-Selective-Reading",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "vandenouteooria.md",
+    "title_ee": "Vandenõuteooria",
+    "title_en": "Conspiracy Theory",
+    "slug": "Conspiracy-Theory",
+    "status": "DIFFERENCES_FOUND",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 1,
+    "issues": [
+      "EXTRA_EXAMPLES (Wiki has 2, Original has 1)",
+      "MISSING_REFERENCES"
+    ]
+  },
+  {
+    "file": "vanusele-viitamise-eksitus.md",
+    "title_ee": "Vanusele viitamise eksitus",
+    "title_en": "Argument from Age",
+    "slug": "Argument-from-Age",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "vastandlikud-tingimused.md",
+    "title_ee": "Vastandlikud tingimused",
+    "title_en": "Conflicting Conditions",
+    "slug": "Conflicting-Conditions",
+    "status": "DIFFERENCES_FOUND",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": [
+      "MISSING_REFERENCES"
+    ]
+  },
+  {
+    "file": "viha-peale-mangimine.md",
+    "title_ee": "Viha peale mängimine",
+    "title_en": "Appeal to Anger",
+    "slug": "Appeal-to-Anger",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "viltune-valim.md",
+    "title_ee": "Viltune valim",
+    "title_en": "Biased Sample Fallacy",
+    "slug": "Biased-Sample-Fallacy",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "voimalikkusele-viitamise-eksitus.md",
+    "title_ee": "Võimalikkusele viitamise eksitus",
+    "title_en": "Appeal to Possibility",
+    "slug": "Appeal-to-Possibility",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 2,
+    "originalExamplesCount": 2,
+    "issues": []
+  },
+  {
+    "file": "vordsusele-viitamise-eksitus.md",
+    "title_ee": "Võrdsusele viitamise eksitus",
+    "title_en": "Appeal to Equality",
+    "slug": "Appeal-to-Equality",
+    "status": "FAITHFUL",
+    "wikiExamplesCount": 3,
+    "originalExamplesCount": 3,
+    "issues": []
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Just-Because-Fallacy",
+  "title": "Just Because Fallacy",
+  "latin_name": "",
+  "also_known_as": [
+    "trust me",
+    "mother knows best fallacy",
+    "because I said so",
+    "you’ll see"
+  ],
+  "description": "Refusing to respond to give reasons or evidence for a claim by stating yourself as the ultimate authority on the matter.  This is usually indicated by the phrases, “just trust me”, “because I said so”, “you’ll see”, or “just because”.  The *just because fallacy* is not conducive to the goal of argumentation -- that is coming to a mutually agreeable solution.  Nor is it helpful in helping the other person understand why you are firm on your position. “Just because” is not a reason that speaks to the question itself; it is simply a deflection to authority (legitimate or not).",
+  "logical_form": "X is true because I said so.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Trebor: Mom, can David sleepover tonight?\n\nMom: No.\n\nTrebor:  Why not?\n\nMom: Because.\n\nTrebor: Because why?\n\nMom: Because I said so!  End of discussion!",
+      "explanation": "“Because I said so” is not a valid reason for why a friend can’t sleep over.  Maybe the real reason is that sleepovers give mom a headache.  Maybe mom wants Trebor to go to bed early because he is cranky the next day if he doesn’t, or perhaps David is just a little brat that drives mom crazy."
+    },
+    {
+      "number": 2,
+      "example": "Slick Rick: The best I can do for ya is $25,000.\n\nProspect: Why can’t you do any better?\n\nSlick Rick: Just because that is the lowest I can go.\n\nProspect: But why.\n\nSlick Rick: Because.",
+      "explanation": "In this case, it is clear that there is some underlying reason about which Slick Rick does not want the prospect to know.  This reason, almost certainly, has something to do with the fact that Slick Rick can go lower if needed."
+    }
+  ],
+  "exceptions": "There is really no exception to this rule in argumentation or serious discussion.  Perhaps this is acceptable in situations where you have the authority to choose not to make an argument out of a command, like in a parent-child relationship—or perhaps your significant other has planned a surprise for you, and the “you’ll see” is meant to deflect your inquiry for your own benefit.",
+  "tips": "Don’t let yourself off the hook with “just because” excuses.  Keep asking yourself, “what is the real reason?”  The answer could uncover an issue that needs your attention.",
+  "references": [
+    "This is an original logical fallacy named by the author."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Just_Because_Fallacy.jpg",
+  "slug": "Just-Because-Fallacy",
+  "letter": "J",
+  "title_et": "Lihtsalt sellepärast, et eksitus",
+  "description_et": "Keeldumine vastamast, et esitada nõude põhjendusi või tõendeid, nimetades end selles küsimuses ülimaks autoriteediks.  Tavaliselt viitavad sellele fraasid \"lihtsalt usalda mind\", \"sest ma ütlesin nii\", \"sa näed\" või \"lihtsalt sellepärast\".  *lihtsalt sellepärast, et eksitus* ei soosi argumenteerimise eesmärki – see on mõlemale poolele sobiva lahenduseni jõudmine.  Samuti ei aita see teisel inimesel mõista, miks olete oma positsioonil kindel. \"Lihtsalt sellepärast\" ei ole põhjus, mis kõneleb küsimusest endast; see on lihtsalt kõrvalekalle autoriteedist (õigustatud või mitte).",
+  "logical_form_et": "X on tõsi, sest ma ütlesin nii.",
+  "exceptions_et": "Sellest reeglist pole tegelikult vaidluses ega tõsises arutelus erandit.  Võib-olla on see vastuvõetav olukordades, kus teil on õigus otsustada mitte vaidlema käsu peale, nagu näiteks vanema ja lapse suhetes – või võib-olla on teie kaaslane teile üllatuse kavandanud ja \"näete\" on mõeldud teie päringu suunamiseks teie enda kasuks.",
+  "tips_et": "Ärge laske end vabandustega \"lihtsalt sellepärast\" konksust lahti.  Küsige endalt pidevalt: \"mis on tegelik põhjus?\"  Vastus võib paljastada probleemi, mis vajab teie tähelepanu.",
+  "also_known_as_et": [
+    "usalda mind",
+    "ema teab kõige paremini eksitust",
+    "sest ma ütlesin nii",
+    "sa näed"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Trebor: Ema, kas David saab täna öösel magada?\n\nEma: Ei.\n\nTrebor: Miks mitte?\n\nEma: Sest.\n\nTrebor: Sest miks?\n\nEma: Sest ma ütlesin nii!  Arutelu lõpp!",
+      "explanation": "\"Sest ma ütlesin nii\" ei ole õige põhjus, miks sõber ei saa magada.  Võib-olla on tegelik põhjus see, et uneaeg valmistab emale peavalu.  Võib-olla tahab ema, et Trebor läheks vara magama, sest kui ta seda ei tee, on ta järgmisel päeval pahur, või võib-olla on David lihtsalt väike jõmpsikas, kes ajab ema hulluks.",
+      "original_example": "Trebor: Mom, can David sleepover tonight?\n\nMom: No.\n\nTrebor:  Why not?\n\nMom: Because.\n\nTrebor: Because why?\n\nMom: Because I said so!  End of discussion!",
+      "original_explanation": "“Because I said so” is not a valid reason for why a friend can’t sleep over.  Maybe the real reason is that sleepovers give mom a headache.  Maybe mom wants Trebor to go to bed early because he is cranky the next day if he doesn’t, or perhaps David is just a little brat that drives mom crazy."
+    },
+    {
+      "number": 2,
+      "example": "Slick Rick: Parim, mida ma teie heaks teha saan, on 25 000 dollarit.\n\nVäljavaade: Miks te ei saaks paremini teha?\n\nSlick Rick: Lihtsalt sellepärast, et see on madalaim, mida ma saan.\n\nVäljavaade: aga miks.\n\nSlick Rick: Sest.",
+      "explanation": "Sel juhul on selge, et on mõni põhjus, millest Slick Rick ei taha, et potentsiaalsed kliendid teaksid.  See põhjus on peaaegu kindlasti seotud sellega, et Slick Rick võib vajadusel madalamale minna.",
+      "original_example": "Slick Rick: The best I can do for ya is $25,000.\n\nProspect: Why can’t you do any better?\n\nSlick Rick: Just because that is the lowest I can go.\n\nProspect: But why.\n\nSlick Rick: Because.",
+      "original_explanation": "In this case, it is clear that there is some underlying reason about which Slick Rick does not want the prospect to know.  This reason, almost certainly, has something to do with the fact that Slick Rick can go lower if needed."
+    }
+  ],
+  "translated_at": "2026-08-30T22:57:06.133Z"
+}

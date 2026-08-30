@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Incomplete-Comparison",
+  "title": "Incomplete Comparison",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "An incomplete assertion that cannot possibly be refuted. This is popular in advertising.",
+  "logical_form": "X is said to be superior, but to nothing specifically.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "One of my favorite candies, *Raisinets*, advertises on their package that the product contains 40% less fat. In fairness, they do have an asterisk then in much smaller writing, \"than the leading candy bar.\"",
+      "explanation": "The question is, \"40% less fat than what?\" The hope is that most people won't read the fine print and make their own assumptions. \"Oh, this candy bar has 40% less fat than this apple!\""
+    },
+    {
+      "number": 2,
+      "example": "Our widgets cost less and last longer!",
+      "explanation": "Cost less than what? Last longer than what? By not specifically saying \"our competition\" they cannot get in trouble when a competitor shows that their product actually costs less and last longer."
+    }
+  ],
+  "exceptions": "The terminology used has to be a comparison word or phrase. For example, saying \"Bo Rocks!\" is great. Not just because I do rock (not musically), but because \"rocks\" is not a comparison word. There is a complete assertion. Another exception is when the object of comparison is assumed. For example, \"Johnny, you need to better in school.\" Clearly, the implication here is that Johnny needs to *improve*, that is, do better than he did in the past.",
+  "tips": "When possible, read the fine print.",
+  "references": [
+    "Incomplete Comparisons. (n.d.). Retrieved from http://www.mhhe.com/mayfieldpub/tsw/comp-i.htm"
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Incomplete_Comparison.jpg",
+  "slug": "Incomplete-Comparison",
+  "letter": "I",
+  "title_et": "Mittetäielik võrdlus",
+  "description_et": "Mittetäielik väide, mida ei saa kuidagi ümber lükata. See on reklaamis populaarne.",
+  "logical_form_et": "Öeldakse, et X on parem, kuid konkreetselt mitte millestki.",
+  "exceptions_et": "Kasutatav terminoloogia peab olema võrdlussõna või -fraas. Näiteks öeldes \"Bo Rocks!\" on suurepärane. Mitte ainult sellepärast, et ma rokin (mitte muusikaliselt), vaid sellepärast, et \"rokid\" pole võrdlussõna. Seal on täielik väide. Teine erand on see, kui eeldatakse võrdlusobjekti. Näiteks: \"Johnny, sa pead koolis paremaks minema.\" Selge on see, et Johnny peab *paranema*, st tegema paremini kui varem.",
+  "tips_et": "Kui võimalik, lugege peenes kirjas kirja.",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Üks mu lemmikkommidest *Risinets* reklaamib oma pakendil, et toode sisaldab 40% vähem rasva. Ausalt öeldes on neil tärn siis palju väiksemas kirjas \"kui juhtival kommibatoonil\".",
+      "explanation": "Küsimus on: \"40% vähem rasva kui mis?\" Loodetavasti ei loe enamik inimesi peenes kirjas kirja ega tee oma oletusi. \"Oh, selles kompvekitahvlis on 40% vähem rasva kui selles õunas!\"",
+      "original_example": "One of my favorite candies, *Raisinets*, advertises on their package that the product contains 40% less fat. In fairness, they do have an asterisk then in much smaller writing, \"than the leading candy bar.\"",
+      "original_explanation": "The question is, \"40% less fat than what?\" The hope is that most people won't read the fine print and make their own assumptions. \"Oh, this candy bar has 40% less fat than this apple!\""
+    },
+    {
+      "number": 2,
+      "example": "Meie vidinad maksavad vähem ja kestavad kauem!",
+      "explanation": "Maksab vähem kui mis? Kestavad kauem kui mis? Konkreetselt \"meie konkurents\" ütlemata jättes ei saa nad hätta jääda, kui konkurent näitab, et nende toode maksab tegelikult vähem ja kestab kauem.",
+      "original_example": "Our widgets cost less and last longer!",
+      "original_explanation": "Cost less than what? Last longer than what? By not specifically saying \"our competition\" they cannot get in trouble when a competitor shows that their product actually costs less and last longer."
+    }
+  ],
+  "translated_at": "2026-08-30T22:55:52.143Z"
+}

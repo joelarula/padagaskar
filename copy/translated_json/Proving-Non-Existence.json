@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Proving-Non-Existence",
+  "title": "Proving Non-Existence",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Demanding that one proves the non-existence of something in place of providing adequate evidence for the existence of that something.  Although it may be possible to prove non-existence in special situations, such as showing that a container does not contain certain items, one cannot prove universal or absolute non-existence.",
+  "logical_form": "I cannot prove that X exists, so you prove that it doesn’t.\n\nIf you can’t, X exists.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "God exists.  Until you can prove otherwise, I will continue to believe that he does.",
+      "explanation": "There are decent reasons to believe in the existence of God, but, “because the existence of God cannot be disproven”, is not one of them."
+    },
+    {
+      "number": 2,
+      "example": "Sheila: I know Elvis’ ghost is visiting me in my dreams.\n\nRon: Yeah, I don’t think that really is his ghost.\n\nSheila: Prove that it’s not!",
+      "explanation": "Once again we are dealing with confusion of probability and possibility.  The inability to, “prove”, in any sense of the word, that the ghost of Elvis is not visiting Sheila in her dreams is an impossible request because there is no test that proves the existence and presence of a ghost, so no way to prove the negative or the non-existence.  It is up to Sheila to provide proof of this claim, or at least acknowledge that actually being visited by Elvis’ ghost is just a *possibility*, no matter how slim that possibility is."
+    }
+  ],
+  "exceptions": "If Ron were to say, “That is impossible”, “there is no way you are being visited”, or make some other claim that rules out any possibility no matter how remote (or crazy), then Sheila would be in the right to ask him for proof -- as long as she is making a point that he cannot know that for certain, and not actually expecting him to produce proof.",
+  "tips": "If you think you are being visited by aliens, gods, spirits, ghosts, or any other magical beings, just ask them for information that you can verify, specifically with a neutral third-party that would prove their existence.  This would be simple for any advanced alien race, any god or heavenly being.  Some ideas of things to ask for:\n\nfuture lottery numbers (of course you will give all your winnings to charity)\n\nanswers to scientific problems that do have scientific answers, but aren’t yet known\n\nexact details of major future events\n\nBut if these beings just tell you things such as:\n\npassages / ideas from the Bible\n\nwhether you should take that new job or not\n\nwhere you left your car keys\n\nthat they really exist, and others will continue to doubt you\n\nthat you should never question their existence\n\n...or anything else which is just as likely to come from your imagination that is untestable and *[unfalsifiable](https://www.logicallyfallacious.com/logicalfallacies/Unfalsifiability)* , then you might want to reconsider the fact that your being of choice is really paying you visits.",
+  "references": [
+    "You Can Prove a Negative. (n.d.). Retrieved from http://www.psychologytoday.com/blog/believing-bull/201109/you-can-prove-negative"
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Proving_Non_Existence.jpg",
+  "slug": "Proving-Non-Existence",
+  "letter": "P",
+  "title_et": "Olematuse tõestamine",
+  "description_et": "Nõue, et keegi tõestaks millegi mitteolemasolu selle asemel, et esitada piisavaid tõendeid selle millegi olemasolu kohta.  Kuigi eriolukordades võib olla võimalik tõestada mitteeksistentsi, näiteks näidata, et konteiner ei sisalda teatud esemeid, ei saa tõestada universaalset või absoluutset olematust.",
+  "logical_form_et": "Ma ei saa tõestada, et X on olemas, nii et teie tõestate, et seda pole.\n\nKui te ei saa, on X olemas.",
+  "exceptions_et": "Kui Ron ütleks: \"See on võimatu\", \"ei ole võimalik, et teid külastatakse\" või esitaks mõne muu väite, mis välistab igasuguse võimaluse, olenemata sellest, kui kauge (või hullumeelsus) on, siis on Sheilal õigus nõuda temalt tõendeid - seni, kuni ta väidab, et ta ei saa seda kindlalt teada, ja tegelikult ei oota, et ta esitaks tõendeid.",
+  "tips_et": "Kui arvate, et teid külastavad tulnukad, jumalad, vaimud, kummitused või muud maagilised olendid, küsige neilt teavet, mida saate kontrollida, eriti neutraalselt kolmandalt osapoolelt, kes tõestaks nende olemasolu.  See oleks lihtne iga arenenud tulnukate rassi, jumala või taevase olendi jaoks.  Mõned ideed asjade kohta, mida küsida:\n\ntulevased loteriinumbrid (loomulikult annate kõik oma võidud heategevuseks)\n\nvastused teaduslikele probleemidele, millel on teaduslikud vastused, kuid mida pole veel teada\n\ntäpsemate tulevaste sündmuste üksikasjad\n\nAga kui need olendid lihtsalt räägivad teile selliseid asju nagu:\n\nlõigud / ideed Piiblist\n\nkas peaksite selle uue töökoha vastu võtma või mitte\n\nkuhu autovõtmed jätsid\n\net need on tõesti olemas ja teised kahtlevad sinus jätkuvalt\n\net te ei tohiks kunagi nende olemasolu kahtluse alla seada\n\n...või midagi muud, mis tõenäoliselt pärineb teie kujutlusvõimest, mis on testimatu ja *[falsifitseerimatu](https://www.logicallyfallacious.com/logicalfallacies/Unfalsifiability)* , siis võiksite kaaluda tõsiasja, et teie valitud olemine on tõesti teie jaoks külastuste eest tasuv.",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Jumal on olemas.  Kuni te ei suuda tõestada vastupidist, usun ma jätkuvalt, et ta seda teeb.",
+      "explanation": "Jumala olemasolusse uskumiseks on korralikke põhjuseid, kuid \"kuna Jumala olemasolu ei saa ümber lükata\", ei kuulu nende hulka.",
+      "original_example": "God exists.  Until you can prove otherwise, I will continue to believe that he does.",
+      "original_explanation": "There are decent reasons to believe in the existence of God, but, “because the existence of God cannot be disproven”, is not one of them."
+    },
+    {
+      "number": 2,
+      "example": "Sheila: Ma tean, et Elvise vaim külastab mind unenägudes.\n\nRon: Jah, ma ei usu, et see on tema kummitus.\n\nSheila: Tõesta, et see pole nii!",
+      "explanation": "Taas on tegemist tõenäosuse ja võimalikkuse segamisega.  Suutmatus \"tõestada\" selle sõna mis tahes tähenduses, et Elvise vaim ei külasta tema unenägudes Sheilat, on võimatu taotlus, sest puudub test, mis tõestaks kummituse olemasolu ja olemasolu, seega pole mingit võimalust tõestada negatiivset või olematust.  Sheila peab selle väite kohta tõendeid esitama või vähemalt tunnistama, et Elvise kummituse külastamine on lihtsalt *võimalus*, hoolimata sellest, kui väike see võimalus on.",
+      "original_example": "Sheila: I know Elvis’ ghost is visiting me in my dreams.\n\nRon: Yeah, I don’t think that really is his ghost.\n\nSheila: Prove that it’s not!",
+      "original_explanation": "Once again we are dealing with confusion of probability and possibility.  The inability to, “prove”, in any sense of the word, that the ghost of Elvis is not visiting Sheila in her dreams is an impossible request because there is no test that proves the existence and presence of a ghost, so no way to prove the negative or the non-existence.  It is up to Sheila to provide proof of this claim, or at least acknowledge that actually being visited by Elvis’ ghost is just a *possibility*, no matter how slim that possibility is."
+    }
+  ],
+  "translated_at": "2026-08-30T23:05:54.952Z"
+}

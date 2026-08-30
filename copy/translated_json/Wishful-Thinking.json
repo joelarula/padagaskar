@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Wishful-Thinking",
+  "title": "Wishful Thinking",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "When the desire for something to be true is used in place of/or as evidence for the truthfulness of the claim.  Wishful thinking, more as a cognitive bias than a logical fallacy, can also cause one to evaluate evidence very differently based on the desired outcome.",
+  "logical_form": "I wish X were true.\n\nTherefore, X is true.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "I know in my heart of hearts that our home team will win the World Series.",
+      "explanation": "No, you don’t know that, and what the heck is your “heart of hearts” anyway?  This is classic *wishful thinking* -- wanting the home team to win so pretending that it is/has to be true."
+    },
+    {
+      "number": 2,
+      "example": "I believe that when we die, we are all given new, young, perfect bodies, and we spend eternity with those whom we love.  I can’t imagine the point of life if it all just ends when we die!",
+      "explanation": "The fact that one doesn’t like the idea of simply not existing is not evidence for the belief.  Besides, nobody seemed to mind the eternity they didn’t exist before they were born."
+    }
+  ],
+  "exceptions": "When *wishful thinking* is expressed as a hope, wish, or prayer and no belief is formed as a result, then it is not a fallacy because no direct or indirect argument is being made.\n\nI really hope that I don’t have to spend my eternity with my Aunt Edna, who really loved me, but she drove me nuts with her constant jabbering.",
+  "tips": "Wishing for something to be true is a powerful technique when and only when, a) you have influence on what it is you want to be true and b) you take action to make it come true -- not just wish for it to be true.",
+  "references": [
+    "Andolina, M. (2002). *Practical Guide to Critical Thinking*. Cengage Learning."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Wishful_Thinking.jpg",
+  "slug": "Wishful-Thinking",
+  "letter": "W",
+  "title_et": "Soovmõtlemine",
+  "description_et": "Kui soovi, et miski oleks tõsi, kasutatakse väite tõepärasuse asemel/või tõendina.  Soovmõtlemine, mis on pigem kognitiivne eelarvamus kui loogiline eksitus, võib samuti põhjustada tõendite väga erineva hindamise, lähtudes soovitud tulemusest.",
+  "logical_form_et": "Ma soovin, et X oleks tõsi.\n\nSeetõttu on X tõene.",
+  "exceptions_et": "Kui *soovimõtlemist* väljendatakse lootuse, soovi või palvena ja selle tulemusel usk ei kujune, ei ole see eksitus, kuna ei esitata otsest ega kaudset argumenti.\n\nMa väga loodan, et ma ei pea veetma oma igavikku oma tädi Ednaga, kes mind tõesti armastas, kuid ta ajas mind oma pideva jaburamisega hulluks.",
+  "tips_et": "Soovida, et miski oleks tõsi, on võimas tehnika siis ja ainult siis, kui a) teil on mõju sellele, mida soovite, et olla tõsi, ja b) te võtate midagi ette, et see tõeks saaks – mitte ainult ei soovi, et see oleks tõsi.",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Ma tean oma südames, et meie kodumeeskond võidab MM-sarja.",
+      "explanation": "Ei, te ei tea seda ja mis pagan on teie \"südame süda\"?  See on klassikaline *soovimõtlemine* – tahtmine, et kodumeeskond võidaks, teeseldes, et see on/peab olema tõsi.",
+      "original_example": "I know in my heart of hearts that our home team will win the World Series.",
+      "original_explanation": "No, you don’t know that, and what the heck is your “heart of hearts” anyway?  This is classic *wishful thinking* -- wanting the home team to win so pretending that it is/has to be true."
+    },
+    {
+      "number": 2,
+      "example": "Usun, et kui me sureme, antakse meile kõigile uus, noor, täiuslik keha ja me veedame igaviku nendega, keda armastame.  Ma ei kujuta ette elu mõtet, kui see kõik lihtsalt lõppeb, kui me sureme!",
+      "explanation": "Asjaolu, et inimesele ei meeldi idee lihtsalt mitte eksisteerimisest, ei tõenda seda usku.  Pealegi ei paistnud keegi hoolivat igavikust, mida nad enne sündi ei eksisteerinud.",
+      "original_example": "I believe that when we die, we are all given new, young, perfect bodies, and we spend eternity with those whom we love.  I can’t imagine the point of life if it all just ends when we die!",
+      "original_explanation": "The fact that one doesn’t like the idea of simply not existing is not evidence for the belief.  Besides, nobody seemed to mind the eternity they didn’t exist before they were born."
+    }
+  ],
+  "translated_at": "2026-08-30T23:17:09.040Z"
+}

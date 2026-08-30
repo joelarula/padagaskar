@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Ecological-Fallacy",
+  "title": "Ecological Fallacy",
+  "latin_name": "",
+  "also_known_as": [
+    "ecological inference fallacy"
+  ],
+  "description": "The interpretation of statistical data where inferences about the nature of individuals are deduced from inference for the group to which those individuals belong.",
+  "logical_form": "Group X has characteristic Y.\n\nPerson 1 is in group X.\n\nTherefore, person 1 has characteristic Y.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Men score better on math than women do. Jerry is a man. Therefore, Jerry is better at math than Sylvia, who is a woman.",
+      "explanation": "The fact that men score better on math than women is a group generalization. This does not mean that any individual man will score better than any individual woman on math. Educated guesses could be made if we knew more about the statistics. For example, if we just knew that men scored an average of 8% higher than women, we could not even say that any given man is likely to be better at math than any given woman. This is because there could be what is referred to as an uneven distribution, that is, there could be a small group of women who are really bad at math or a small group of men who are really good at math that throws off the curve."
+    },
+    {
+      "number": 2,
+      "example": "A study was done recently showing that church attendance was positively correlated with marriage longevity, that is, those couples who attended church together more often were more likely to stay married. This really should not be a surprise considering the general view of divorce within religion. **What this does not mean is that any given couple who does not attend church is more likely to get divorced than any given couple that does attend church.**",
+      "explanation": "To make this claim, we would need more information on the raw data used. Perhaps just religious fanatics who go to church daily have a practically non-existent divorce rate of say 2%. Then it is possible that those who never go to church have a lower divorce rate than those who do go to church every Sunday, but because of the fanatics, the distribution is not evenly distributed."
+    }
+  ],
+  "exceptions": "It is not unreasonable to make a probabilistic claim about any given member of a group if the data warrants such a claim. For example, if 999 jellybeans in a jar are red and one is green, we can say that any given jellybean in the jar is  99.9% likely to be red.\n\n**Fun Fact:** Although this is a statistical fallacy, it is commonly extended to everyday situations. If you don't mind getting into statistics a bit, understanding statistical fallacies could improve one's overall reasoning ability.",
+  "tips": "",
+  "references": [
+    "Babbie, E. R. (2016). *The Basics of Social Research*. Cengage Learning."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Ecological_Fallacy.jpg",
+  "slug": "Ecological-Fallacy",
+  "letter": "E",
+  "title_et": "Ökoloogiline eksitus",
+  "description_et": "Statistiliste andmete tõlgendamine, kus järeldused indiviidide olemuse kohta tuletatakse järeldustest selle rühma kohta, kuhu need indiviidid kuuluvad.",
+  "logical_form_et": "Rühmal X on iseloomulik Y.\n\nIsik 1 on rühmas X.\n\nSeetõttu on isikul 1 iseloomulik Y.",
+  "exceptions_et": "Kui andmed seda nõuet õigustavad, ei ole ebamõistlik esitada tõenäosuslik väide mõne konkreetse grupi liikme kohta. Näiteks kui 999 tarretist purgis on punased ja üks on roheline, võime öelda, et iga konkreetne tarretis on 99,9% tõenäosusega punane.\n\n**Lõbus fakt:** kuigi see on statistiline eksitus, laiendatakse seda tavaliselt igapäevastele olukordadele. Kui te ei pahanda natuke statistikasse süveneda, võib statistiliste vigade mõistmine parandada inimese üldist arutlusvõimet.",
+  "tips_et": "",
+  "also_known_as_et": [
+    "ökoloogilised järeldused"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Mehed saavutavad matemaatikas paremaid tulemusi kui naised. Jerry on mees. Seetõttu on Jerry matemaatikas parem kui Sylvia, kes on naine.",
+      "explanation": "Asjaolu, et mehed saavutavad matemaatikas paremad tulemused kui naised, on grupi üldistus. See ei tähenda, et ükski mees saavutaks matemaatikas parema tulemuse kui mõni üksik naine. Haritud oletusi saaks teha, kui teaksime statistikast rohkem. Näiteks kui me lihtsalt teaksime, et mehed saavutasid keskmiselt 8% kõrgemaid tulemusi kui naised, ei saaks me isegi öelda, et ükski mees on matemaatikas tõenäoliselt parem kui mõni naine. Selle põhjuseks on asjaolu, et seal võib esineda nn ebaühtlane jaotus, st võib olla väike rühm naisi, kes on matemaatikas väga halvad, või väike rühm mehi, kes on matemaatikas väga head, ja see viskab kõvera.",
+      "original_example": "Men score better on math than women do. Jerry is a man. Therefore, Jerry is better at math than Sylvia, who is a woman.",
+      "original_explanation": "The fact that men score better on math than women is a group generalization. This does not mean that any individual man will score better than any individual woman on math. Educated guesses could be made if we knew more about the statistics. For example, if we just knew that men scored an average of 8% higher than women, we could not even say that any given man is likely to be better at math than any given woman. This is because there could be what is referred to as an uneven distribution, that is, there could be a small group of women who are really bad at math or a small group of men who are really good at math that throws off the curve."
+    },
+    {
+      "number": 2,
+      "example": "Hiljuti viidi läbi uuring, mis näitas, et kirikuskäimine oli positiivses korrelatsioonis abielu pikaealisusega, st need paarid, kes käisid sagedamini koos kirikus, jäid suurema tõenäosusega abielusse. See ei tohiks olla üllatav, arvestades üldist arvamust lahutusest religioonis. **See ei tähenda, et iga paar, kes kirikus ei käi, lahutab tõenäolisemalt kui iga paar, kes kirikus käib.**",
+      "explanation": "Selle väite esitamiseks vajaksime rohkem teavet kasutatud algandmete kohta. Võib-olla on lihtsalt usufanaatikutel, kes käivad iga päev kirikus, praktiliselt olematu lahutusmäär, näiteks 2%. Siis on võimalik, et neil, kes kunagi kirikus ei käi, on lahutuste protsent väiksem kui neil, kes käivad kirikus igal pühapäeval, kuid fanaatikute tõttu pole jaotus ühtlaselt jaotunud.",
+      "original_example": "A study was done recently showing that church attendance was positively correlated with marriage longevity, that is, those couples who attended church together more often were more likely to stay married. This really should not be a surprise considering the general view of divorce within religion. **What this does not mean is that any given couple who does not attend church is more likely to get divorced than any given couple that does attend church.**",
+      "original_explanation": "To make this claim, we would need more information on the raw data used. Perhaps just religious fanatics who go to church daily have a practically non-existent divorce rate of say 2%. Then it is possible that those who never go to church have a lower divorce rate than those who do go to church every Sunday, but because of the fanatics, the distribution is not evenly distributed."
+    }
+  ],
+  "translated_at": "2026-08-30T22:44:29.545Z"
+}

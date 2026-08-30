@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/fact-to-fiction_fallacy.html",
+  "title": "Fact-to-fiction Fallacy",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Attempting to support a narrative or argument with facts that don't support the narrative or argument. The distinguishing characteristic of the fact-to-fiction fallacy is **the accusation that those who reject your conclusion are rejecting the facts.**",
+  "logical_form": "Facts are stated and made clear they are facts.\n\nTherefore, some conclusion is true that is not supported by the facts.\n\nIf you reject the conclusion, you are rejecting the facts.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "FACT: On average, 150,000 people die every day around the world. It is crazy to panic about a virus that, at its peak, was killing 8,000 people per day. But what else can be expected from a moron like you who rejects facts?",
+      "explanation": "It is a fact that, on average, 150,000 people die every day around the world. It is also a fact that at its peak in the spring of 2020, the Coronavirus was killing about 8,000 people per day. What hasn't been established is what justifies \"panic.\" \"Panic,\" or perhaps more accurately \"serious concern,\" can be justified in many other ways besides the total number of historical deaths. Given this, it doesn't follow that it is \"crazy to panic.\" Further, saying or writing \"FACT,\" followed by an accusation of rejecting the fact, makes this more fallacious than a standard non-sequitur."
+    },
+    {
+      "number": 2,
+      "example": "In May of 2020, it was common to hear accusations of \"anti-science\" hurled at people who wanted the country to reopen after being closed due to the Covid-19 pandemic.",
+      "explanation": "\"Anti-science\" is similar to \"anti-fact.\" There are many facts that point to ways the virus could spread, and reopening the country would unquestionably increase the odds that the virus would spread. Science doesn't make value judgments, however. For example, would an extra X number of deaths per week justify people getting back to work? Science *informs* political decisions such as these; it doesn't answer them. It can be perfectly consistent to agree with the science (facts) and still reject the argument that we are reopening the country \"too soon.\""
+    }
+  ],
+  "exceptions": "If there is no accusation of rejecting facts, we might have a non-sequitur, but not a fact-to-fiction fallacy. It is not unreasonable to state a fact such as the 150,000 deaths per day stat, then ask why we are taking the actions we are for just 8000 deaths? These kinds of questions are likely to lead to answers that expose the nuance of the arguments.",
+  "tips": "Be careful not to read too much into facts. Our minds tend to “connect the dots” in order to support the narratives we already accept.",
+  "references": [
+    "This is an original logical fallacy named by the author."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Fact_to_fiction_Fallacy.jpg",
+  "slug": "fact-to-fiction_fallacy.html",
+  "letter": "F",
+  "title_et": "Faktidest väljamõeldiseks vale",
+  "description_et": "Püüdes toetada narratiivi või argumenti faktidega, mis narratiivi või argumenti ei toeta. Faktidest väljamõeldisteks muutumise eksimuse eristav tunnus on **süüdistus, et need, kes teie järelduse ümber lükkavad, lükkavad ümber faktid.**",
+  "logical_form_et": "Faktid on välja öeldud ja selgeks tehtud, et need on faktid.\n\nSeetõttu vastab tõele mõni järeldus, mida faktid ei toeta.\n\nKui lükkate järelduse tagasi, lükkate ümber faktid.",
+  "exceptions_et": "Kui pole süüdistusi faktide ümberlükkamises, võib meil olla mitte-sequitur, kuid mitte faktidest väljamõeldud eksitus. Ei ole ebamõistlik väita sellist fakti nagu 150 000 surmajuhtumi statistika päevas, ja siis küsida, miks me võtame meetmeid vaid 8000 surma puhul? Seda tüüpi küsimused viivad tõenäoliselt vastusteni, mis paljastavad argumentide nüansid.",
+  "tips_et": "Olge ettevaatlik, et te ei loeks liiga palju fakte. Meie meel kipub \"punkte ühendama\", et toetada narratiive, mida me juba aktsepteerime.",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "FAKT: maailmas sureb iga päev keskmiselt 150 000 inimest. Hull on paanikasse sattuda viiruse pärast, mis oma haripunktis tappis 8000 inimest päevas. Aga mida muud on oodata sinusuguselt jaburalt, kes fakte ümber lükkab?",
+      "explanation": "On tõsiasi, et maailmas sureb iga päev keskmiselt 150 000 inimest. Fakt on ka see, et 2020. aasta kevadel tappis koroonaviirus oma haripunktis umbes 8000 inimest päevas. See, mida pole kindlaks tehtud, õigustab \"paanikat\". \"Paanikat\" või ehk täpsemalt \"tõsist muret\" saab õigustada mitmel muul viisil peale ajalooliste surmade koguarvu. Seda arvestades ei järeldu sellest, et \"paanikasse hull oleks\". Veelgi enam, sõna \"FAKT\" ütlemine või kirjutamine, millele järgneb fakti ümberlükkamise süüdistus, muudab selle ekslikuks kui tavaline mittesequitur.",
+      "original_example": "FACT: On average, 150,000 people die every day around the world. It is crazy to panic about a virus that, at its peak, was killing 8,000 people per day. But what else can be expected from a moron like you who rejects facts?",
+      "original_explanation": "It is a fact that, on average, 150,000 people die every day around the world. It is also a fact that at its peak in the spring of 2020, the Coronavirus was killing about 8,000 people per day. What hasn't been established is what justifies \"panic.\" \"Panic,\" or perhaps more accurately \"serious concern,\" can be justified in many other ways besides the total number of historical deaths. Given this, it doesn't follow that it is \"crazy to panic.\" Further, saying or writing \"FACT,\" followed by an accusation of rejecting the fact, makes this more fallacious than a standard non-sequitur."
+    },
+    {
+      "number": 2,
+      "example": "2020. aasta mais oli tavaline kuulda süüdistusi \"teadusevastases\" inimeste pihta, kes soovisid riigi taasavamist pärast selle sulgemist Covid-19 pandeemia tõttu.",
+      "explanation": "\"Antiteadus\" sarnaneb \"antifaktiga\". On palju fakte, mis viitavad viisidele, kuidas viirus võib levida, ja riigi taasavamine suurendaks vaieldamatult viiruse leviku tõenäosust. Teadus ei anna aga väärtushinnanguid. Näiteks kas X lisa surmajuhtumite arv nädalas õigustaks inimeste tööle naasmist? Teadus *teavitab* sellistest poliitilistest otsustest nagu need; see ei vasta neile. Võib olla täiesti järjekindel nõustuda teadusega (faktidega) ja siiski tagasi lükata argument, et me avame riigi uuesti \"liiga vara\".",
+      "original_example": "In May of 2020, it was common to hear accusations of \"anti-science\" hurled at people who wanted the country to reopen after being closed due to the Covid-19 pandemic.",
+      "original_explanation": "\"Anti-science\" is similar to \"anti-fact.\" There are many facts that point to ways the virus could spread, and reopening the country would unquestionably increase the odds that the virus would spread. Science doesn't make value judgments, however. For example, would an extra X number of deaths per week justify people getting back to work? Science *informs* political decisions such as these; it doesn't answer them. It can be perfectly consistent to agree with the science (facts) and still reject the argument that we are reopening the country \"too soon.\""
+    }
+  ],
+  "translated_at": "2026-08-30T22:45:56.273Z"
+}

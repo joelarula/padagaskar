@@ -1,0 +1,61 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Galileo-Fallacy",
+  "title": "Galileo Fallacy",
+  "latin_name": "",
+  "also_known_as": [
+    "Galileo argument",
+    "Galileo defense",
+    "Galileo gambit",
+    "Galileo wannabe"
+  ],
+  "description": "The claim that because an idea is forbidden, prosecuted, detested, or otherwise mocked, it must be true, or should be given more credibility. This originates from Galileo Galilei's famous persecution by the Roman Catholic Church for his defense of heliocentrism when the commonly accepted belief at the time was an earth-centered universe.",
+  "logical_form": "Claim X is made.\n\nClaim X is ridiculous.\n\nPerson A argues that claim Y was seen as ridiculous at the time, and it turned out to be right.\n\nTherefore, claim X is true (or should be given more credibility).",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Lindi and Jonah claim that Elvis is still alive and living on the planet Hounddogian, in the constellation Bluesuede. When questioned about their odd beliefs, Lindi and Jonah confidently reply, \"You know, people thought Galileo was nuts, too.\"",
+      "explanation": "Lindi and Jonah are making an extraordinary claim and offering no evidence to support their claim. They are using Galileo in an attempt to get the audience to doubt their skepticism about the claim."
+    },
+    {
+      "number": 2,
+      "example": "Sidney: I am mere weeks away from getting my time machine to work, at which time, I will go back to 1626 and buy Manhattan from the Native Americans before the Dutch West India Company gets their greedy hands on it. I'll be much more generous and give the Native Americans 70 guilders, not a measly 60.\n\nPete: Is this the time travel kit you bought online for $99.99?\n\nSidney: Go ahead and mock me. People mocked the Wright brothers too for wanting to fly like birds!",
+      "explanation": "Although Sidney did not use the exact example of Galileo, the fallacy is the same. Any reference to a similar story counts."
+    }
+  ],
+  "exceptions": "Using Galileo or similar success stories to serve as effective inspirational anecdotes to encourage people to reach outside their comfort zone is not fallacious. It does not mean, however, that because they succeeded, that everyone else will or even can.",
+  "tips": "Remember that for every Galileo, there are millions of cranks, quacks, and wackos, and statistically speaking, those who use the Galileo defense are one of the latter.",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Galileo_Fallacy.jpg",
+  "slug": "Galileo-Fallacy",
+  "letter": "G",
+  "title_et": "Galileo eksitus",
+  "description_et": "Väide, et kuna idee on keelatud, selle eest süüdistatakse, taunitakse või mõnitatakse muul viisil, peab see vastama tõele või sellele tuleks anda rohkem usaldusväärsust. See pärineb Galileo Galilei kuulsast tagakiusamisest roomakatoliku kiriku poolt heliotsentrismi kaitsmise eest, kui sel ajal üldtunnustatud arvamus oli maakeskne universum.",
+  "logical_form_et": "Väide X on esitatud.\n\nVäide X on naeruväärne.\n\nIsik A väidab, et väidet Y peeti tol ajal naeruväärseks ja see osutus õigeks.\n\nSeetõttu on väide X tõene (või tuleks sellele rohkem usaldusväärsust anda).",
+  "exceptions_et": "Galileo või sarnaste edulugude kasutamine tõhusate inspireerivate anekdootidena, et julgustada inimesi oma mugavustsoonist väljapoole jõudma, ei ole ekslik. See aga ei tähenda, et kuna neil õnnestus, siis kõik teised saavad või isegi saavad.",
+  "tips_et": "Pidage meeles, et iga Galileo jaoks on miljoneid väntasid, vutimeesid ja vingeid ning statistiliselt on need, kes kasutavad Galileo kaitset, ühed viimastest.",
+  "also_known_as_et": [
+    "Galileo argument",
+    "Galileo kaitse",
+    "Galileo gambiit",
+    "Galileo wannabe"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Lindi ja Jonah väidavad, et Elvis on endiselt elus ja elab planeedil Hounddogian Bluesuede tähtkujus. Kui neilt küsiti nende veidrate veendumuste kohta, vastavad Lindi ja Jonah enesekindlalt: \"Tead, inimesed arvasid, et Galileo on ka hull.\"",
+      "explanation": "Lindi ja Jonah esitavad erakordse nõude ega paku oma väite toetuseks ühtegi tõendit. Nad kasutavad Galileot, et panna publik kahtlema oma skepsises väite suhtes.",
+      "original_example": "Lindi and Jonah claim that Elvis is still alive and living on the planet Hounddogian, in the constellation Bluesuede. When questioned about their odd beliefs, Lindi and Jonah confidently reply, \"You know, people thought Galileo was nuts, too.\"",
+      "original_explanation": "Lindi and Jonah are making an extraordinary claim and offering no evidence to support their claim. They are using Galileo in an attempt to get the audience to doubt their skepticism about the claim."
+    },
+    {
+      "number": 2,
+      "example": "Sidney: Mul on vaid nädalad oma ajamasina tööle panemiseni. Sel ajal lähen tagasi aastasse 1626 ja ostan põlisameeriklastelt Manhattani, enne kui Hollandi Lääne-India ettevõte saab oma ahned käed. Olen palju heldem ja annan põlisameeriklastele 70 kuldnat, mitte 60.\n\nPete: Kas see on ajarännakute komplekt, mille ostsite veebist 99,99 dollari eest?\n\nSidney: Mine ja mõnita mind. Inimesed mõnitasid ka vendi Wrighte, et nad tahtsid lennata nagu linnud!",
+      "explanation": "Kuigi Sidney ei kasutanud täpset Galileo näidet, on eksitus sama. Iga viide sarnasele loole loeb.",
+      "original_example": "Sidney: I am mere weeks away from getting my time machine to work, at which time, I will go back to 1626 and buy Manhattan from the Native Americans before the Dutch West India Company gets their greedy hands on it. I'll be much more generous and give the Native Americans 70 guilders, not a measly 60.\n\nPete: Is this the time travel kit you bought online for $99.99?\n\nSidney: Go ahead and mock me. People mocked the Wright brothers too for wanting to fly like birds!",
+      "original_explanation": "Although Sidney did not use the exact example of Galileo, the fallacy is the same. Any reference to a similar story counts."
+    }
+  ],
+  "translated_at": "2026-08-30T22:50:30.705Z"
+}

@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Genetic-Fallacy",
+  "title": "Genetic Fallacy",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Basing the truth claim of an argument on the origin of its claims or premises.",
+  "logical_form": "The origin of the claim is presented.\n\nTherefore, the claim is true/false.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Lisa was brainwashed as a child into thinking that people are generally good.  Therefore, people are not generally good.",
+      "explanation": "That fact that Lisa may have been brainwashed as a child, is irrelevant to the claim that people are generally good."
+    },
+    {
+      "number": 2,
+      "example": "He was born to Catholic parents and raised as a Catholic until his confirmation in 8th grade.  Therefore, he is bound to want to defend some Catholic traditions and, therefore, cannot be taken seriously.",
+      "explanation": "I am referring to myself here.  While my upbringing was Catholic, and I have long since considered myself a Catholic, that is irrelevant to any defenses I make of Catholicism -- like the fact that many local churches do focus on helping the community through charity work.  If I make an argument defending anything Catholic, the argument should be evaluated on the argument itself, not on the history of the one making the argument or how I came to hold the claims as true or false."
+    }
+  ],
+  "exceptions": "At times, the origin of the claim is relevant to the truth of the claim.\n\nI believe in closet monsters because my big sister told me unless I do whatever she tells me, the closet monsters will eat me.",
+  "tips": "Remember that considering the source is often a useful heuristic in quickly assessing if the claim is probably true or not, but dismissing the claim or accepting it as true based on the source is fallacious.",
+  "references": [
+    "Engel, S. M., Soldan, A., & Durand, K. (2007). *The Study of Philosophy*. Rowman & Littlefield."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Genetic_Fallacy.jpg",
+  "slug": "Genetic-Fallacy",
+  "letter": "G",
+  "title_et": "Geneetiline eksitus",
+  "description_et": "Argumendi tõeväite põhjendamine selle väidete või eelduste päritoluga.",
+  "logical_form_et": "Esitatakse nõude päritolu.\n\nSeetõttu on väide tõene/vale.",
+  "exceptions_et": "Mõnikord on väite päritolu oluline väite tõesuse seisukohast.\n\nMa usun kapikoletistesse, sest mu suur õde ütles mulle, et kui ma ei tee seda, mida ta mulle ütleb, siis kapikoletised söövad mu ära.",
+  "tips_et": "Pidage meeles, et allika arvestamine on sageli kasulik heuristika, et kiiresti hinnata, kas väide on tõenäoliselt tõene või mitte, kuid väite tagasilükkamine või selle tõeseks tunnistamine allika põhjal on ekslik.",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Lisale tehti lapsena ajupesu, et nad arvasid, et inimesed on üldiselt head.  Seetõttu ei ole inimesed üldiselt head.",
+      "explanation": "See, et Lisa võidi lapsena ajupestud, ei oma tähtsust väite puhul, et inimesed on üldiselt head.",
+      "original_example": "Lisa was brainwashed as a child into thinking that people are generally good.  Therefore, people are not generally good.",
+      "original_explanation": "That fact that Lisa may have been brainwashed as a child, is irrelevant to the claim that people are generally good."
+    },
+    {
+      "number": 2,
+      "example": "Ta sündis katoliiklastest vanematele ja kasvas katoliiklasena kuni ametisse kinnitamiseni 8. klassis.  Seetõttu soovib ta kindlasti kaitsta mõningaid katoliku traditsioone ja seetõttu ei saa teda tõsiselt võtta.",
+      "explanation": "Pean siinkohal silmas iseennast.  Kuigi mu kasvatus oli katoliiklane ja ma olen end juba ammu katoliiklaseks pidanud, pole see minu katoliikluse kaitsmise seisukohast oluline – näiteks asjaolu, et paljud kohalikud kirikud keskenduvad kogukonna abistamisele heategevuse kaudu.  Kui ma esitan argumendi millegi katoliikliku kaitsmiseks, tuleks seda argumenti hinnata argumendi enda, mitte argumendi esitaja ajaloo või selle põhjal, kuidas ma väiteid õigeks või valeks pidasin.",
+      "original_example": "He was born to Catholic parents and raised as a Catholic until his confirmation in 8th grade.  Therefore, he is bound to want to defend some Catholic traditions and, therefore, cannot be taken seriously.",
+      "original_explanation": "I am referring to myself here.  While my upbringing was Catholic, and I have long since considered myself a Catholic, that is irrelevant to any defenses I make of Catholicism -- like the fact that many local churches do focus on helping the community through charity work.  If I make an argument defending anything Catholic, the argument should be evaluated on the argument itself, not on the history of the one making the argument or how I came to hold the claims as true or false."
+    }
+  ],
+  "translated_at": "2026-08-30T22:51:01.087Z"
+}

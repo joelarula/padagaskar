@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Stolen-Concept-Fallacy",
+  "title": "Stolen Concept Fallacy",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Requiring the truth of the something that you are simultaneously trying to disprove.",
+  "logical_form": "*Person 1 is attempting to disprove X.*\n*X is required to disprove X.*",
+  "examples": [
+    {
+      "number": 1,
+      "example": "*Reason and logic are not always reliable, so we should not count on it to help us find truth.*",
+      "explanation": "Here we are using reason to disprove the validity of reason, which is unreasonable -- reasonably speaking."
+    },
+    {
+      "number": 2,
+      "example": "*Science cannot be trusted.  It is a big conspiracy to cover up the truth of the Bible and the creation story.  Besides, I saw fossils in the creation museum with humans and dinosaurs together, which proves science is wrong!*",
+      "explanation": "Geology is a branch of science.  Using science (examining fossils through the science of geology) to disprove science is absurd, a contradiction and, therefore, a fallacy in reasoning."
+    }
+  ],
+  "exceptions": "Intentional irony.\n\n**Fun Fact:** The *nofallacies fallacy* is the belief that fallacies don't exist (not really).",
+  "tips": "",
+  "references": [
+    "Peikoff, L. (1993). *Objectivism: The Philosophy of Ayn Rand*. Penguin."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Stolen_Concept_Fallacy.jpg",
+  "slug": "Stolen-Concept-Fallacy",
+  "letter": "S",
+  "title_et": "Varastatud kontseptsiooni eksitus",
+  "description_et": "Nõuda tõesust selle kohta, mida proovite samal ajal ümber lükata.",
+  "logical_form_et": "*Isik 1 üritab X-i ümber lükata.*\n*X on vajalik X ümberlükkamiseks.*",
+  "exceptions_et": "Tahtlik iroonia.\n\n**Lõbus tõsiasi:** *nofalllacies-eksitus* on usk, et eksimusi ei eksisteeri (tegelikult mitte).",
+  "tips_et": "",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "*Põhjus ja loogika ei ole alati usaldusväärsed, seega ei tohiks me loota, et see aitab meil tõde leida.*",
+      "explanation": "Siin kasutame mõistust mõistuse paikapidavuse ümberlükkamiseks, mis on mõistlikult öeldes ebamõistlik.",
+      "original_example": "*Reason and logic are not always reliable, so we should not count on it to help us find truth.*",
+      "original_explanation": "Here we are using reason to disprove the validity of reason, which is unreasonable -- reasonably speaking."
+    },
+    {
+      "number": 2,
+      "example": "*Teadust ei saa usaldada.  See on suur vandenõu Piibli tõe ja loomisloo varjamiseks.  Pealegi nägin ma loomismuuseumis fossiile koos inimeste ja dinosaurustega, mis tõestab, et teadus eksib!*",
+      "explanation": "Geoloogia on teadusharu.  Teaduse kasutamine (fossiilide uurimine geoloogiateaduse kaudu) teaduse ümberlükkamiseks on absurdne, vastuoluline ja seega ka arutlusviga.",
+      "original_example": "*Science cannot be trusted.  It is a big conspiracy to cover up the truth of the Bible and the creation story.  Besides, I saw fossils in the creation museum with humans and dinosaurs together, which proves science is wrong!*",
+      "original_explanation": "Geology is a branch of science.  Using science (examining fossils through the science of geology) to disprove science is absurd, a contradiction and, therefore, a fallacy in reasoning."
+    }
+  ],
+  "translated_at": "2026-08-30T23:12:27.699Z"
+}

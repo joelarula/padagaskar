@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Self-Sealing-Argument",
+  "title": "Self-Sealing Argument",
+  "latin_name": "",
+  "also_known_as": [
+    "vacuous argument"
+  ],
+  "description": "",
+  "logical_form": "*Claim X is made.*\n*Reason Y is given for claim X.*\n*Reason Y can not possibly be refuted.*",
+  "examples": [
+    {
+      "number": 1,
+      "example": "*Wherever you go, there you are.*",
+      "explanation": "You can’t argue against that position, and as a result, it is *vacuous*, or meaningless."
+    },
+    {
+      "number": 2,
+      "example": "*Tina: My life is guided by destiny.*\n\n*Mary: How do you know that?*\n\n*Tina: Whatever comes my way is what was meant to be.*",
+      "explanation": "We have the same vacuity problem here, except this one is less obvious and protected by a philosophical belief system.  There is no possible way we can know what \"destiny may have in store for us,\" thus no way to argue against it.  As a result, it is meaningless -- it is the equivalent of saying everything happens because it happens."
+    }
+  ],
+  "exceptions": "Holding beliefs that are unfalsifiable is not fallacious, especially when stated as beliefs or opinions. This becomes fallacious when an unfalsifiable claim is presented as evidence in argumentation.",
+  "tips": "Realize that most superstitious beliefs are centered around self-sealing or vacuous arguments, that is why so many people refuse to let go of superstitious beliefs -- because they cannot be proven false.",
+  "references": [
+    "Blair, J. A. (2011). *Groundwork in the Theory of Argumentation: Selected Papers of J. Anthony Blair*. Springer Science & Business Media."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Self_Sealing_Argument.jpg",
+  "slug": "Self-Sealing-Argument",
+  "letter": "S",
+  "title_et": "Isesulgev argument",
+  "description_et": "",
+  "logical_form_et": "*Väide X on esitatud.*\n* Nõude X puhul on toodud põhjus Y.*\n*Põhjust Y ei saa kuidagi ümber lükata.*",
+  "exceptions_et": "Võltsimatute uskumuste omamine ei ole ekslik, eriti kui seda öeldakse uskumuste või arvamustena. See muutub ekslikuks, kui argumentatsioonis esitatakse tõendina vääramatu väide.",
+  "tips_et": "Mõistke, et enamik ebausklikke uskumusi on keskendunud enesesulgumisele või tühjadele argumentidele, mistõttu keelduvad paljud inimesed ebausklikest tõekspidamistest lahti laskmast, kuna neid ei saa tõestada, et need on väärad.",
+  "also_known_as_et": [
+    "tühine vaidlus"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "*Kuhu iganes sa lähed, seal sa oled.*",
+      "explanation": "Te ei saa sellele seisukohale vastu vaielda ja selle tulemusena on see *tühi* või mõttetu.",
+      "original_example": "*Wherever you go, there you are.*",
+      "original_explanation": "You can’t argue against that position, and as a result, it is *vacuous*, or meaningless."
+    },
+    {
+      "number": 2,
+      "example": "*Tina: Minu elu juhib saatus.*\n\n*Maarja: Kust sa seda tead?*\n\n*Tina: Mis iganes minu teele tuleb, on see, mis pidi olema.*",
+      "explanation": "Meil on siin sama tühisuse probleem, välja arvatud see, et see probleem on vähem ilmne ja seda kaitseb filosoofiline uskumuste süsteem.  Ei ole võimalik teada, mis \"saatus võib meile varuks olla\", seega pole ka võimalust sellele vastu vaielda.  Selle tulemusena on see mõttetu – see on samaväärne väitega, et kõik juhtub sellepärast, et see juhtub.",
+      "original_example": "*Tina: My life is guided by destiny.*\n\n*Mary: How do you know that?*\n\n*Tina: Whatever comes my way is what was meant to be.*",
+      "original_explanation": "We have the same vacuity problem here, except this one is less obvious and protected by a philosophical belief system.  There is no possible way we can know what \"destiny may have in store for us,\" thus no way to argue against it.  As a result, it is meaningless -- it is the equivalent of saying everything happens because it happens."
+    }
+  ],
+  "translated_at": "2026-08-30T23:10:16.539Z"
+}

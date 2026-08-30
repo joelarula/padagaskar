@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Unfalsifiability",
+  "title": "Unfalsifiability",
+  "latin_name": "",
+  "also_known_as": [
+    "untestability"
+  ],
+  "description": "Confidently asserting that a theory or hypothesis is true or false even though the theory or hypothesis cannot possibly be contradicted by an observation or the outcome of any physical experiment, usually without strong evidence or good reasons.\n\nMaking unfalsifiable claims is a way to leave the realm of rational discourse, since unfalsifiable claims are often faith-based, and not founded on evidence and reason.",
+  "logical_form": "*X is true (when X is cannot possibly be demonstrated to be false)*",
+  "examples": [
+    {
+      "number": 1,
+      "example": "*I have tiny, invisible unicorns living in my anus.  Unfortunately, these cannot be detected by any kind of scientific equipment.*",
+      "explanation": "While it may actually be a fact that tiny, invisible, mythological creatures are occupying this person’s opening at the lower end of the alimentary canal, it is a theory that is constructed so it cannot be falsified in any way; therefore, should not be seriously considered without significant evidence."
+    },
+    {
+      "number": 2,
+      "example": "*Priests can literally turn wine into the blood of Jesus.*",
+      "explanation": "Surely, we can examine the liquid and see if it at least changes chemically, can we not?  No.  Because transubstantiation is not about a physical or chemical change, but a change in “substance” -- which, of course, is not a material change and, therefore, impossible to falsify.  Furthermore, the claim is not that it “might be” happening, but it certainly is happening, adding to the fallaciousness of the claim.  The only evidence for this is some ambiguous verses in the Bible -- so ambiguous that over a billion Christians don’t subscribe to the belief that transubstantiation occurs.  So we have *unfalsifiability*, belief of certainty, and very weak evidence."
+    }
+  ],
+  "exceptions": "All unfalsifiable claims are not fallacious; they are just unfalsifiable.  As long as proper skepticism is retained and proper evidence is given, it could be a legitimate form of reasoning.",
+  "tips": "Never assume you must be right simply because you can’t be proven wrong.",
+  "references": [
+    "Flanagan, O. J. (1991). *The Science of the Mind*. MIT Press."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Unfalsifiability.jpg",
+  "slug": "Unfalsifiability",
+  "letter": "U",
+  "title_et": "Võltsimatus",
+  "description_et": "Enesekindlalt väitmine, et teooria või hüpotees on tõene või vale, kuigi teooria või hüpotees ei saa mingil juhul vastuollu minna ühegi vaatluse või füüsilise katse tulemusega, tavaliselt ilma tugevate tõendite või mõjuvate põhjusteta.\n\nVõltsimatute väidete esitamine on viis lahkuda ratsionaalse diskursuse valdkonnast, kuna vääramatud väited on sageli usupõhised ega põhine tõenditel ja põhjustel.",
+  "logical_form_et": "*X on tõene (kui X on, ei saa tõestada, et see on vale)*",
+  "exceptions_et": "Kõik võltsimatud väited ei ole ekslikud; need on lihtsalt võltsimatud.  Niikaua kui säilib õige skeptitsism ja esitatakse asjakohased tõendid, võib see olla õigustatud arutlusviis.",
+  "tips_et": "Ärge kunagi eeldage, et teil on õigus lihtsalt sellepärast, et teie eksid ei saa tõestada.",
+  "also_known_as_et": [
+    "testimatus"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "*Mu pärakus elavad pisikesed nähtamatud ükssarved.  Kahjuks ei saa neid ühegi teadusliku seadmega tuvastada.*",
+      "explanation": "Kuigi see võib tegelikult olla tõsiasi, et selle inimese seedekanali alumises otsas asuvad pisikesed nähtamatud mütoloogilised olendid, on see teooria konstrueeritud nii, et seda ei saa mingil viisil võltsida; seetõttu ei tohiks seda tõsiselt kaaluda ilma oluliste tõenditeta.",
+      "original_example": "*I have tiny, invisible unicorns living in my anus.  Unfortunately, these cannot be detected by any kind of scientific equipment.*",
+      "original_explanation": "While it may actually be a fact that tiny, invisible, mythological creatures are occupying this person’s opening at the lower end of the alimentary canal, it is a theory that is constructed so it cannot be falsified in any way; therefore, should not be seriously considered without significant evidence."
+    },
+    {
+      "number": 2,
+      "example": "*Preestrid võivad sõna otseses mõttes muuta veini Jeesuse vereks.*",
+      "explanation": "Kindlasti saame vedelikku uurida ja näha, kas see vähemalt keemiliselt muutub, kas pole?  Ei. Sest transsubstantiatsioon ei tähenda füüsikalist või keemilist muutust, vaid „aine” muutumist – mis muidugi ei ole materiaalne muutus ja seetõttu võimatu võltsida.  Veelgi enam, väide ei seisne selles, et see \"võib juhtuda\", vaid see kindlasti toimub, lisades väite ekslikkust.  Ainus tõend selle kohta on mõned mitmetähenduslikud piiblisalmid – nii mitmetähenduslikud, et üle miljardi kristlase ei nõustu veendumusega, et transsubstantiatsioon toimub.  Seega on meil *võltsimatus*, kindlustunne ja väga nõrgad tõendid.",
+      "original_example": "*Priests can literally turn wine into the blood of Jesus.*",
+      "original_explanation": "Surely, we can examine the liquid and see if it at least changes chemically, can we not?  No.  Because transubstantiation is not about a physical or chemical change, but a change in “substance” -- which, of course, is not a material change and, therefore, impossible to falsify.  Furthermore, the claim is not that it “might be” happening, but it certainly is happening, adding to the fallaciousness of the claim.  The only evidence for this is some ambiguous verses in the Bible -- so ambiguous that over a billion Christians don’t subscribe to the belief that transubstantiation occurs.  So we have *unfalsifiability*, belief of certainty, and very weak evidence."
+    }
+  ],
+  "translated_at": "2026-08-30T23:15:36.467Z"
+}

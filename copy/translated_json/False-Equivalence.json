@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/False-Equivalence",
+  "title": "False Equivalence",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "An argument or claim in which two completely opposing arguments appear to be logically equivalent when in fact they are not. The confusion is often due to one shared characteristic between two or more items of comparison in the argument that is way off in the order of magnitude, oversimplified, or just that important additional factors have been ignored.",
+  "logical_form": "Thing 1 and thing 2 both share characteristic A.\n\nTherefore, things 1 and 2 are equal.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "President Petutti ordered a military strike that killed many civilians. He is no different than any other mass murder and he belongs in prison!",
+      "explanation": "Both president Petutti and a mass murder share the characteristic that something they did resulted in the death of civilians. However, the circumstances, the level of responsibility, and the intent are significantly different for the president than the typical mass murder and ignoring these factors is unreasonable, thus makes the argument fallacious."
+    },
+    {
+      "number": 2,
+      "example": "Using the second amendment as justification to allow civilians to own nuclear submarines.",
+      "explanation": "In this case, the first \"thing\" is the weapon as understood at the time the second amendment was passed. The second \"thing\" of comparison is the nuclear submarine, also a weapon, but one of significantly different magnitude. This example also introduces the difference between a legal justification and an argumentative one (see *[appeal to the law](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-the-Law)*)."
+    }
+  ],
+  "exceptions": "Like most fallacies, this is one of degree rather than kind. The order of magnitude can be debated. Some may exaggerate this order of magnitude claiming a fallacy where it would be unreasonable to do so.",
+  "tips": "Listen and read carefully. Often, people will make analogies and others will interpret them as claims of equivalence.",
+  "references": [
+    "This is a logical fallacy frequently used on the Internet. No academic sources could be found."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/False_Equivalence.jpg",
+  "slug": "False-Equivalence",
+  "letter": "F",
+  "title_et": "Vale ekvivalentsus",
+  "description_et": "Argument või väide, milles kaks täiesti vastandlikku argumenti näivad olevat loogiliselt samaväärsed, kuigi tegelikult nad seda ei ole. Segadus on sageli tingitud ühest ühisest tunnusest kahe või enama argumendi võrdluselemendi vahel, mis on suurusjärgus kaugel, liiga lihtsustatud või lihtsalt olulised lisategurid on tähelepanuta jäetud.",
+  "logical_form_et": "Asjal 1 ja asjal 2 on mõlemad tunnused A.\n\nSeetõttu on asjad 1 ja 2 võrdsed.",
+  "exceptions_et": "Nagu enamik eksitusi, on see pigem astmeline kui lahke. Suurusjärgu üle võib vaielda. Mõned võivad seda suurusjärku liialdada, väites ekslikkust, kui seda pole mõistlik teha.",
+  "tips_et": "Kuulake ja lugege hoolikalt. Sageli loovad inimesed analoogiaid ja teised tõlgendavad neid samaväärsuse väidetena.",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "President Petutti andis käsu korraldada sõjaline rünnak, milles hukkus palju tsiviilelanikke. Ta ei erine mis tahes muust massimõrvast ja ta kuulub vanglasse!",
+      "explanation": "Nii president Petuttil kui ka massimõrval on iseloomulik, et midagi, mida nad tegid, põhjustas tsiviilisikute surma. Asjaolud, vastutuse tase ja kavatsused on presidendi jaoks aga tavapärasest massimõrvast oluliselt erinevad ning nende tegurite eiramine on ebamõistlik, mis muudab argumendi ekslikuks.",
+      "original_example": "President Petutti ordered a military strike that killed many civilians. He is no different than any other mass murder and he belongs in prison!",
+      "original_explanation": "Both president Petutti and a mass murder share the characteristic that something they did resulted in the death of civilians. However, the circumstances, the level of responsibility, and the intent are significantly different for the president than the typical mass murder and ignoring these factors is unreasonable, thus makes the argument fallacious."
+    },
+    {
+      "number": 2,
+      "example": "Kasutades teist muudatusettepanekut põhjendusena, et lubada tsiviilisikutel omada tuumaallveelaevu.",
+      "explanation": "Sel juhul on esimene \"asi\" relv, nagu seda mõisteti teise muudatuse vastuvõtmise ajal. Teine võrdlus \"asi\" on tuumaallveelaev, samuti relv, kuid oluliselt erineva suurusega. See näide tutvustab ka erinevust juriidilise ja argumenteeriva põhjenduse vahel (vt *[apell to the law](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-the-Law)*).",
+      "original_example": "Using the second amendment as justification to allow civilians to own nuclear submarines.",
+      "original_explanation": "In this case, the first \"thing\" is the weapon as understood at the time the second amendment was passed. The second \"thing\" of comparison is the nuclear submarine, also a weapon, but one of significantly different magnitude. This example also introduces the difference between a legal justification and an argumentative one (see *[appeal to the law](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-the-Law)*)."
+    }
+  ],
+  "translated_at": "2026-08-30T22:49:22.650Z"
+}

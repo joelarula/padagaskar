@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Kettle-Logic",
+  "title": "Kettle Logic",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Making (usually) multiple, contradicting arguments, in an attempt to support a single point or idea.",
+  "logical_form": "Statement 1 is made.\n\nStatement 2 is made and contradicts statement 1.\n\nStatement 3 is made and contradicts statement 1 or 2\n\n... etc.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "In an example used by Sigmund Freud in *The Interpretation of Dreams*, a man accused by his neighbor of having returned a kettle in a damaged condition offered three arguments:\n\nThat he had returned the kettle undamaged;\nThat it was already damaged when he borrowed it;\nThat he had never borrowed it in the first place.",
+      "explanation": "Each statement contradicts the one before. If it was already damaged, how did he return it undamaged? If he never borrowed it, how was it already damaged when he borrowed it?"
+    },
+    {
+      "number": 2,
+      "example": "I don't believe in God. One reason is that I think he is evil. And by the way, there is no such thing as \"evil;\" it is just our evaluation of what we believe is wrong.",
+      "explanation": "There are multiple statements here that all contradict, stemmed from the idea that the person does not believe in God. If he or she does not believe in God, how can he or she think God is evil? And if there is no such thing as evil, how can something be evil?"
+    }
+  ],
+  "exceptions": "If one acknowledges that their previous argument has been defeated (explicitly or implicitly), and they make a new argument, this would be more like moving the goalposts.",
+  "tips": "If you are trying to be funny, kettle logic can be a great tool. In the movie “Philomena,” Steve Coogan’s character, Martin Sixsmith, leaves a church ceremony early. When asked why he says, “I don’t believe in God, and I think he knows.”",
+  "references": [
+    "Freud, S. (1913). *The Interpretation of Dreams*. Macmillan."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Kettle_Logic.jpg",
+  "slug": "Kettle-Logic",
+  "letter": "K",
+  "title_et": "Veekeetja loogika",
+  "description_et": "Esitades (tavaliselt) mitut vastuolulist argumenti, püüdes toetada ühte seisukohta või ideed.",
+  "logical_form_et": "Väide 1 on tehtud.\n\nVäide 2 on tehtud ja on vastuolus väitega 1.\n\nVäide 3 on tehtud ja on vastuolus väitega 1 või 2\n\n... jne.",
+  "exceptions_et": "Kui keegi tunnistab, et tema eelmine argument on (otseselt või kaudselt) ümber lükatud, ja esitab uue argumendi, sarnaneks see pigem väravapostide liigutamisega.",
+  "tips_et": "Kui proovite olla naljakas, võib veekeetja loogika olla suurepärane tööriist. Filmis \"Philomena\" lahkub Steve Coogani tegelane Martin Sixsmith kirikutseremoonialt varakult. Kui temalt küsiti, miks ta ütleb: \"Ma ei usu Jumalasse ja ma arvan, et ta teab.\"",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Sigmund Freudi raamatus *Unenägude tõlgendamine* kasutatud näites esitas mees, keda tema naaber süüdistas kahjustatud seisukorras veekeetja tagastamises, kolm argumenti:\n\nEt ta oli tagastanud veekeetja kahjustamata;\nEt see oli juba laenamisel kahjustatud;\nEt ta polnud seda kunagi laenanud.",
+      "explanation": "Iga väide on eelmisega vastuolus. Kui see oli juba kahjustatud, siis kuidas ta selle kahjustamata tagastas? Kui ta seda kunagi ei laenanud, siis kuidas sai see juba laenamisel kahjustatud?",
+      "original_example": "In an example used by Sigmund Freud in *The Interpretation of Dreams*, a man accused by his neighbor of having returned a kettle in a damaged condition offered three arguments:\n\nThat he had returned the kettle undamaged;\nThat it was already damaged when he borrowed it;\nThat he had never borrowed it in the first place.",
+      "original_explanation": "Each statement contradicts the one before. If it was already damaged, how did he return it undamaged? If he never borrowed it, how was it already damaged when he borrowed it?"
+    },
+    {
+      "number": 2,
+      "example": "Ma ei usu jumalasse. Üks põhjus on see, et ma arvan, et ta on kuri. Ja muide, sellist asja nagu \"kurja\" pole olemas; see on lihtsalt meie hinnang sellele, mis meie arvates on vale.",
+      "explanation": "Siin on mitu väidet, mis kõik on vastuolus, tulenevad ideest, et inimene ei usu Jumalasse. Kui ta ei usu Jumalasse, kuidas saab ta siis arvata, et Jumal on kuri? Ja kui kurjust pole olemas, kuidas saab siis miski olla kuri?",
+      "original_example": "I don't believe in God. One reason is that I think he is evil. And by the way, there is no such thing as \"evil;\" it is just our evaluation of what we believe is wrong.",
+      "original_explanation": "There are multiple statements here that all contradict, stemmed from the idea that the person does not believe in God. If he or she does not believe in God, how can he or she think God is evil? And if there is no such thing as evil, how can something be evil?"
+    }
+  ],
+  "translated_at": "2026-08-30T22:57:32.092Z"
+}

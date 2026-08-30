@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Fallacy-of-Four-Terms",
+  "title": "Fallacy of Four Terms",
+  "latin_name": "quaternio terminorum",
+  "also_known_as": [
+    "ambiguous middle term"
+  ],
+  "description": "This fallacy occurs in a categorical syllogism when the syllogism has four terms rather than the requisite three (in a sense, it cannot be a categorical syllogism to begin with!)  If it takes on this form, it is invalid.  The *[equivocation](https://www.logicallyfallacious.com/logicalfallacies/Equivocation)* fallacy can also fit this fallacy because the same term is used in two different ways, making four distinct terms, although only appearing to be three.",
+  "logical_form": "",
+  "examples": [
+    {
+      "number": 1,
+      "example": "All cats are felines.\n\nAll dogs are canines.\n\nTherefore, all cats are canines.",
+      "explanation": "When you add in a fourth term to a categorical syllogism that can only have three terms to be logically valid, we get nonsense -- or at least an invalid argument."
+    },
+    {
+      "number": 2,
+      "example": "All Greek gods are mythical.\n\nAll modern day gods are real.\n\nTherefore, all Greek gods are real.",
+      "explanation": "Again, nonsense.  If we take away one of the terms, we end up with a valid syllogism:\n\nAll Greek gods are mythical.\n\nAll mythical gods don’t really exist.\n\nTherefore, all Greek gods don’t really exist."
+    }
+  ],
+  "exceptions": "No exceptions.**\n**\n\n**Fun Fact: **Greek gods may not exist, but Greek yogurt does.",
+  "tips": "",
+  "references": [
+    "Bunnin, N., & Yu, J. (2008). *The Blackwell Dictionary of Western Philosophy*. John Wiley & Sons."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Fallacy_of_Four_Terms.jpg",
+  "slug": "Fallacy-of-Four-Terms",
+  "letter": "F",
+  "title_et": "Nelja termini eksitus",
+  "description_et": "See eksitus esineb kategoorilises süllogismis, kui süllogismis on neli terminit, mitte nõutud kolm (teatud mõttes ei saa see olla algusest peale kategooriline süllogism!) Kui see võtab selle vormi, on see kehtetu.  Selle eksitusega sobib ka eksitus *[equivocation](https://www.logicallyfallacious.com/logicalfallacies/Equivocation)*, kuna sama terminit kasutatakse kahel erineval viisil, moodustades neli erinevat terminit, kuigi näib olevat vaid kolm.",
+  "logical_form_et": "",
+  "exceptions_et": "Pole erandeid.**\n**\n\n**Lõbus fakt: **Kreeka jumalaid ei pruugi eksisteerida, aga kreeka jogurtit on.",
+  "tips_et": "",
+  "also_known_as_et": [
+    "mitmetähenduslik keskpikk"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Kõik kassid on kassid.\n\nKõik koerad on kihvad.\n\nSeetõttu on kõik kassid kihvad.",
+      "explanation": "Kui lisate neljanda termini kategoorilisele süllogismile, millel võib loogiliselt kehtimiseks olla ainult kolm terminit, saame jama – või vähemalt kehtetu argumendi.",
+      "original_example": "All cats are felines.\n\nAll dogs are canines.\n\nTherefore, all cats are canines.",
+      "original_explanation": "When you add in a fourth term to a categorical syllogism that can only have three terms to be logically valid, we get nonsense -- or at least an invalid argument."
+    },
+    {
+      "number": 2,
+      "example": "Kõik Kreeka jumalad on müütilised.\n\nKõik tänapäeva jumalad on tõelised.\n\nSeetõttu on kõik Kreeka jumalad tõelised.",
+      "explanation": "Jälle jama.  Kui võtame ühe termini ära, saame õige süllogismi:\n\nKõik Kreeka jumalad on müütilised.\n\nKõik müütilised jumalad pole tegelikult olemas.\n\nSeetõttu pole kõiki kreeka jumalaid tegelikult olemas.",
+      "original_example": "All Greek gods are mythical.\n\nAll modern day gods are real.\n\nTherefore, all Greek gods are real.",
+      "original_explanation": "Again, nonsense.  If we take away one of the terms, we end up with a valid syllogism:\n\nAll Greek gods are mythical.\n\nAll mythical gods don’t really exist.\n\nTherefore, all Greek gods don’t really exist."
+    }
+  ],
+  "translated_at": "2026-08-30T22:47:28.798Z"
+}

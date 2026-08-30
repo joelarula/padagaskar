@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Inconsistency",
+  "title": "Inconsistency",
+  "latin_name": "",
+  "also_known_as": [
+    "internal contradiction",
+    "logical inconsistency"
+  ],
+  "description": "In terms of a fallacious argument, two or more propositions are asserted that cannot both possibly be true.  In a more general sense, holding two or more views/beliefs that cannot all be true together.  Quotes from Yogi Berra (even if apocryphal) are great examples of fallacies, especially inconsistencies.",
+  "logical_form": "*Proposition 1 is logically inconsistent with proposition 2.*\n*Proposition 1 and proposition 2 are both asserted or implied to be true.*",
+  "examples": [
+    {
+      "number": 1,
+      "example": "\"I never said most of the things I said.\" - *Yogi Berra*",
+      "explanation": "I know this requires no explanation, and I don't mean to insult your intelligence, but for consistency's sake, I will explain.  If he had said those things, then he said them, which is a contradiction to his claim that he never said them. This is both an *internal inconsistency* and a *logical inconsistency*. It is internal because the inconsistency is contained within the statement itself; it doesn't require any other premises or arguments."
+    },
+    {
+      "number": 2,
+      "example": "\"Nobody goes there anymore.  It's too crowded.\" - *Yogi Berra*",
+      "explanation": "Again, I apologize, but here it goes... If \"nobody\" went there, then it could not possibly be crowded, since \"crowded\" implies too many people are there. This is both an *internal inconsistency* and a *logical inconsistency*."
+    }
+  ],
+  "exceptions": "One needs to be able to explain how the beliefs are not inconsistent.",
+  "tips": "Think about your beliefs.  Are there any inconsistent with each other?  Any inconsistent with how you act and what you do?",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Inconsistency.jpg",
+  "slug": "Inconsistency",
+  "letter": "I",
+  "title_et": "Ebajärjekindlus",
+  "description_et": "Eksliku argumendi osas väidetakse kahte või enamat väidet, mis ei saa olla tõesed.  Üldisemas mõttes kahe või enama vaate/uskumuse omamine, mis ei saa kõik koos tõesed olla.  Yogi Berra tsitaadid (isegi kui apokrüüfilised) on suurepärased näited eksimustest, eriti ebakõladest.",
+  "logical_form_et": "*Väide 1 on loogiliselt vastuolus väitega 2.*\n*Väide 1 ja väide 2 on mõlemad väidetavalt või kaudselt tõesed.*",
+  "exceptions_et": "Tuleb osata selgitada, kuidas uskumused ei ole vastuolulised.",
+  "tips_et": "Mõelge oma uskumustele.  Kas on omavahel vastuolus?  Kas see on vastuolus sellega, kuidas te käitute ja mida teete?",
+  "also_known_as_et": [
+    "sisemine vastuolu",
+    "loogiline vastuolu"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "\"Ma pole kunagi öelnud enamikku asjadest, mida ütlesin.\" - *Yogi Berra*",
+      "explanation": "Ma tean, et see ei vaja selgitust ja ma ei taha solvata teie intelligentsust, kuid järjepidevuse huvides ma selgitan.  Kui ta oli neid asju öelnud, siis ta ütles neid, mis on vastuolus tema väitega, et ta pole neid kunagi öelnud. See on nii *sisemine vastuolu* kui ka *loogiline ebakõla*. See on sisemine, kuna vastuolu sisaldub väites endas; see ei nõua muid eeldusi ega argumente.",
+      "original_example": "\"I never said most of the things I said.\" - *Yogi Berra*",
+      "original_explanation": "I know this requires no explanation, and I don't mean to insult your intelligence, but for consistency's sake, I will explain.  If he had said those things, then he said them, which is a contradiction to his claim that he never said them. This is both an *internal inconsistency* and a *logical inconsistency*. It is internal because the inconsistency is contained within the statement itself; it doesn't require any other premises or arguments."
+    },
+    {
+      "number": 2,
+      "example": "\"Seal ei käi enam keegi. Seal on liiga palju rahvast.\" - *Yogi Berra*",
+      "explanation": "Veelkord, ma vabandan, aga siin see läheb... Kui \"keegi\" seal ei käinud, siis ei saanud see olla rahvarohke, sest \"rahvarohke\" tähendab, et seal on liiga palju inimesi. See on nii *sisemine vastuolu* kui ka *loogiline ebakõla*.",
+      "original_example": "\"Nobody goes there anymore.  It's too crowded.\" - *Yogi Berra*",
+      "original_explanation": "Again, I apologize, but here it goes... If \"nobody\" went there, then it could not possibly be crowded, since \"crowded\" implies too many people are there. This is both an *internal inconsistency* and a *logical inconsistency*."
+    }
+  ],
+  "translated_at": "2026-08-30T22:56:05.637Z"
+}

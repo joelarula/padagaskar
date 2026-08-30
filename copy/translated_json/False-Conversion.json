@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/False-Conversion",
+  "title": "False Conversion",
+  "latin_name": "",
+  "also_known_as": [
+    "illicit conversion",
+    "[illicit] inductive conversion"
+  ],
+  "description": "The formal fallacy where the subject and the predicate terms of the proposition are switched (*conversion*) in the conclusion, in a proposition that uses “all” in its premise (type “A” forms), or “some/not” (type “O” forms).",
+  "logical_form": "All P are Q.\n\nTherefore, all Q are P.\n\nSome P are not Q.\n\nTherefore, some Q are not P.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "All Hollywood Squares contestants are bad actors.\n\nTherefore, all bad actors are Hollywood Squares contestants.\n\n**Example #2:**\n\nSome people in the film industry do not win Oscars.\n\nTherefore, some Oscar winners are not people in the film industry.",
+      "explanation": "It does not follow logically that just because all *Hollywood Square*s contestants are bad actors that all bad actors actually make it on *Hollywood Squares*.  Same form problem with the second example -- but we used “some” and “are not”."
+    }
+  ],
+  "exceptions": "None, but remember that type “E” and type “I” forms can use conversion and remain valid.\n\nNo teachers are psychos.\n\nTherefore, no psychos are teachers.",
+  "tips": "Remember that formal fallacies are often obscured by unstructured rants. Creating a formal argument from such rants is both an art and a science.",
+  "references": [
+    "Welton, J. (1896). *A Manual of Logic*. W. B. Clive."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/False_Conversion.jpg",
+  "slug": "False-Conversion",
+  "letter": "F",
+  "title_et": "Vale teisendus",
+  "description_et": "Formaalne eksitus, kus propositsiooni subjekti ja predikaattermineid vahetatakse (*konversioon*) järelduses, propositsioonis, mis kasutab eelduses sõna \"kõik\" (tüüp \"A\" vormid) või \"mõned/mitte\" (tüüp \"O\" vormid).",
+  "logical_form_et": "Kõik P on Q.\n\nSeetõttu on kõik Q P.\n\nMõned P ei ole Q.\n\nSeetõttu ei ole mõned Q-d P.",
+  "exceptions_et": "Mitte ühtegi, kuid pidage meeles, et tüüpi \"E\" ja tüüpi \"I\" vormid võivad kasutada teisendamist ja jäävad kehtima.\n\nÜkski õpetaja pole psühhoos.\n\nSeetõttu ei ole ükski psühholoog õpetaja.",
+  "tips_et": "Pidage meeles, et vormilisi eksitusi varjavad sageli struktureerimata jonnid. Sellisest räuskamisest formaalse argumendi loomine on nii kunst kui ka teadus.",
+  "also_known_as_et": [
+    "ebaseaduslik konversioon",
+    "[ebaseaduslik] induktiivne muundamine"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Kõik Hollywoodi väljakute võistlejad on halvad näitlejad.\n\nSeetõttu on kõik halvad näitlejad Hollywoodi väljakute võistlejad.\n\n**Näide #2:**\n\nMõned filmitööstuse inimesed ei võida Oscareid.\n\nSeetõttu ei ole mõned Oscari võitjad filmitööstuse inimesed.",
+      "explanation": "Sellest ei järeldu loogiliselt, et lihtsalt sellepärast, et kõik *Hollywood Square'i* võistlejad on halvad näitlejad, pääsevad kõik halvad näitlejad tegelikult *Hollywood Squaresile*.  Sama vormiprobleem ka teise näitega, kuid kasutasime \"mõned\" ja \"ei ole\".",
+      "original_example": "All Hollywood Squares contestants are bad actors.\n\nTherefore, all bad actors are Hollywood Squares contestants.\n\n**Example #2:**\n\nSome people in the film industry do not win Oscars.\n\nTherefore, some Oscar winners are not people in the film industry.",
+      "original_explanation": "It does not follow logically that just because all *Hollywood Square*s contestants are bad actors that all bad actors actually make it on *Hollywood Squares*.  Same form problem with the second example -- but we used “some” and “are not”."
+    }
+  ],
+  "translated_at": "2026-08-30T22:48:31.116Z"
+}

@@ -1,0 +1,59 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Fallacy-of-Division",
+  "title": "Fallacy of Division",
+  "latin_name": "",
+  "also_known_as": [
+    "false division",
+    "faulty deduction",
+    "division fallacy"
+  ],
+  "description": "Inferring that something is true of one or more of the parts from the fact that it is true of the whole.  This is the opposite of the *[fallacy of composition](https://www.logicallyfallacious.com/logicalfallacies/Fallacy-of-Composition)*",
+  "logical_form": "A is part of B.\n\nB has property X.\n\nTherefore, A has property X.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "His house is about half the size of most houses in the neighborhood. Therefore, his doors must all be about 3 1/2 feet high.",
+      "explanation": "The size of one’s house almost certainly does not mean that the doors will be smaller, especially by the same proportions.  The size of the whole (the house) is not directly related to the size of every part of the house."
+    },
+    {
+      "number": 2,
+      "example": "I heard that the Catholic Church was involved in a sex scandal cover-up.  Therefore, my 102-year-old Catholic neighbor, who frequently attends Church, is guilty as well!",
+      "explanation": "While it is possible that the 102-year-old granny is guilty for some things, like being way too liberal with her perfume, she would not be guilty in any sex scandals just by her association with the Church alone. Granted, it can be argued that Granny’s financial support of the Church makes her morally complicit, but it is clear her “crimes” are in a different category than those behind the cover-ups."
+    }
+  ],
+  "exceptions": "When a part of the whole has a property that, by definition, causes the part to take on that property.\n\nMy 102-year-old neighbor is a card-carrying member of an organization of thugs that requires its members to kick babies.  Therefore, my neighbor is a thug... and she wears way too much perfume.",
+  "tips": "Review the fallacy of composition and see if you understand the difference well-enough to explain it to someone.",
+  "references": [
+    "Goodman, M. F. (1993). *First Logic*. University Press of America."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Fallacy_of_Division.jpg",
+  "slug": "Fallacy-of-Division",
+  "letter": "F",
+  "title_et": "Jaotuse eksitus",
+  "description_et": "Järeldus, et miski vastab tõele ühe või mitme osa kohta, on tõene kogu terviku kohta.  See on vastupidine *[koosseisu valele](https://www.logicallyfallacious.com/logicalfallacies/Fallacy-of-Composition)*",
+  "logical_form_et": "A on osa B-st.\n\nB-l on vara X.\n\nSeetõttu on A omadus X.",
+  "exceptions_et": "Kui osal tervikust on omadus, mis definitsiooni järgi paneb selle osa omandama selle omaduse.\n\nMinu 102-aastane naaber on pättide organisatsiooni kaardikandja, kes nõuab oma liikmetelt beebide jalaga löömist.  Seetõttu on mu naaber pätt... ja ta kannab liiga palju parfüümi.",
+  "tips_et": "Vaadake kompositsiooni ekslikkus üle ja vaadake, kas mõistate erinevust piisavalt hästi, et seda kellelegi selgitada.",
+  "also_known_as_et": [
+    "vale jaotus",
+    "vigane mahaarvamine",
+    "jagunemise eksitus"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Tema maja on umbes poole väiksem kui enamik naabruskonna majasid. Seetõttu peavad kõik tema uksed olema umbes 3 1/2 jala kõrgused.",
+      "explanation": "Maja suurus ei tähenda peaaegu kindlasti, et uksed oleksid väiksemad, eriti samade proportsioonide järgi.  Terviku (maja) suurus ei ole otseselt seotud iga majaosa suurusega.",
+      "original_example": "His house is about half the size of most houses in the neighborhood. Therefore, his doors must all be about 3 1/2 feet high.",
+      "original_explanation": "The size of one’s house almost certainly does not mean that the doors will be smaller, especially by the same proportions.  The size of the whole (the house) is not directly related to the size of every part of the house."
+    },
+    {
+      "number": 2,
+      "example": "Kuulsin, et katoliku kirik oli seotud seksiskandaali varjamisega.  Seetõttu on süüdi ka minu 102-aastane katoliiklasest naaber, kes käib sageli kirikus!",
+      "explanation": "Ehkki on võimalik, et 102-aastane vanaema on mõnes asjas süüdi, näiteks liiga liberaalne oma parfüümi suhtes, ei oleks ta seksiskandaalides süüdi ainuüksi kirikuga seotuse tõttu. Tõsi, võib väita, et vanaema rahaline toetus kirikule muudab ta moraalselt kaassüüdlaseks, kuid on selge, et tema „kuriteod” on erinevas kategoorias kui need, mis peituvad.",
+      "original_example": "I heard that the Catholic Church was involved in a sex scandal cover-up.  Therefore, my 102-year-old Catholic neighbor, who frequently attends Church, is guilty as well!",
+      "original_explanation": "While it is possible that the 102-year-old granny is guilty for some things, like being way too liberal with her perfume, she would not be guilty in any sex scandals just by her association with the Church alone. Granted, it can be argued that Granny’s financial support of the Church makes her morally complicit, but it is clear her “crimes” are in a different category than those behind the cover-ups."
+    }
+  ],
+  "translated_at": "2026-08-30T22:46:59.329Z"
+}

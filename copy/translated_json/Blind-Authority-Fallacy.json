@@ -1,0 +1,63 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Blind-Authority-Fallacy",
+  "title": "Blind Authority Fallacy",
+  "latin_name": "",
+  "also_known_as": [
+    "blind obedience",
+    "the \"team player\" appeal",
+    "Nuremberg defense",
+    "divine authority [form of]",
+    "appeal to/argument from blind authority"
+  ],
+  "description": "Asserting that a proposition is true solely on the authority making the claim. It is often the case that those who blindly follow an authority ignore any counter-evidence to the authority’s claim, no matter how strong. The authority could be anyone or anything, including parents, a coach, a boss, a military leader, a document, or a god.",
+  "logical_form": "Person 1 says Y is true.\n\nPerson 1 is seen as the ultimate authority.\n\nTherefore, Y is true.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "During the Nazi war crimes trials at Nuremberg after World War II,  Nazi war criminals were charged with genocide, mass murder, torture, and other atrocities.  Their defense: \"I was only following orders\".",
+      "explanation": "Most of us begin our lives seeing our parents as the ultimate authority, and we experience their wrath when we question that authority.  Unfortunately, this bad habit is carried over into adulthood where we replace our parents with a coach, a boss, a teacher, a commander, or a god.  Rather than question, we blindly follow.  This fallacy has probably resulted in more deaths, pain, suffering, and misery than all others combined."
+    },
+    {
+      "number": 2,
+      "example": "Your honor, the Bible clearly says that psychics, wizards, and mediums are to be stoned to death and that it is our responsibility to do so (Leviticus 20:27).  Therefore, I had every right to try to stone Dianne Warwick, and her psychic friends, to death.",
+      "explanation": "Most Americans do see the Bible as the ultimate authority, but that darn, pesky legal system gets in the way."
+    }
+  ],
+  "exceptions": "To quote Col. Jessep from *A Few Good Men*, “We follow orders, son. We follow orders or people die. It's that simple. Are we clear?”  I have never served in the military, so I cannot say how far I would go when just, “following orders”.  I wouldn’t want anyone to die because I questioned orders, yet I wouldn’t want anyone to die because I followed orders blindly.  I guess this is why I am not in the military.\n\n**Variation:** The divine authority fallacy is when the authority referenced is specifically said to be divine.",
+  "tips": "Moral reasoning is difficult, and the consequences of making poor moral decisions can be traumatic, but the more experience you have with moral reasoning, the better you will get at it. Don’t allow an authority to rob you of this growth opportunity.",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Blind_Authority_Fallacy.jpg",
+  "slug": "Blind-Authority-Fallacy",
+  "letter": "B",
+  "title_et": "Pime autoriteeti eksitus",
+  "description_et": "Väites, et väide vastab tõele ainult väite esitanud asutuse poolt. Tihti juhtub, et autoriteedi pimesi järgijad ignoreerivad autoriteedi väitele esitatud vastutõendeid, olgu need nii tugevad kui tahes. Volitus võib olla ükskõik kes või mis tahes, sealhulgas vanemad, treener, ülemus, sõjaväejuht, dokument või jumal.",
+  "logical_form_et": "Isik 1 ütleb, et Y on tõsi.\n\nIsik 1 on ülim autoriteet.\n\nSeetõttu on Y tõsi.",
+  "exceptions_et": "Tsiteerides kol. Jessepit artiklist *A Few Good Men*: \"Me järgime korraldusi, poeg. Me järgime käske või inimesed surevad. Nii lihtne see ongi. Kas me oleme selged?\"  Ma pole kunagi sõjaväes teeninud, nii et ma ei oska öelda, kui kaugele ma lihtsalt \"käsku järgides\" läheksin.  Ma ei tahaks, et keegi sureks sellepärast, et seadsin korraldusi kahtluse alla, kuid ma ei tahaks, et keegi sureks, sest täitsin käsku pimesi.  Ma arvan, et see on põhjus, miks ma sõjaväes ei ole.\n\n**Variatsioon:** jumaliku autoriteedi eksitus on see, kui viidatud autoriteet on konkreetselt jumalik.",
+  "tips_et": "Moraalne arutluskäik on raske ja halbade moraalsete otsuste tegemise tagajärjed võivad olla traumeerivad, kuid mida rohkem teil on moraalse arutlemise kogemust, seda paremini saate sellega hakkama. Ärge lubage autoriteedil teilt seda kasvuvõimalust röövida.",
+  "also_known_as_et": [
+    "pime kuulekus",
+    "\"meeskonnamängija\" üleskutse",
+    "Nürnbergi kaitse",
+    "jumalik autoriteet [vorm]",
+    "apellatsioon/argument pimedale autoriteedile"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Pärast Teist maailmasõda Nürnbergis toimunud natside sõjakuritegude kohtuprotsesside ajal esitati natside sõjakurjategijatele süüdistus genotsiidis, massimõrvas, piinamises ja muudes julmustes.  Nende kaitse: \"Ma täitsin ainult korraldusi\".",
+      "explanation": "Enamik meist alustab oma elu, nähes oma vanemaid ülima autoriteedina, ja me kogeme nende viha, kui seame selle autoriteedi kahtluse alla.  Kahjuks kandub see halb harjumus üle täiskasvanuikka, kus me asendame oma vanemad treeneri, ülemuse, õpetaja, komandöri või jumalaga.  Küsimise asemel järgime pimesi.  See eksitus on tõenäoliselt põhjustanud rohkem surmasid, valu, kannatusi ja viletsust kui kõik teised kokku.",
+      "original_example": "During the Nazi war crimes trials at Nuremberg after World War II,  Nazi war criminals were charged with genocide, mass murder, torture, and other atrocities.  Their defense: \"I was only following orders\".",
+      "original_explanation": "Most of us begin our lives seeing our parents as the ultimate authority, and we experience their wrath when we question that authority.  Unfortunately, this bad habit is carried over into adulthood where we replace our parents with a coach, a boss, a teacher, a commander, or a god.  Rather than question, we blindly follow.  This fallacy has probably resulted in more deaths, pain, suffering, and misery than all others combined."
+    },
+    {
+      "number": 2,
+      "example": "Teie au, Piibel ütleb selgelt, et selgeltnägijad, võlurid ja meediumid tuleb kividega surnuks loopida ja meie kohustus on seda teha (3. Moosese 20:27).  Seetõttu oli mul täielik õigus proovida Dianne Warwicki ja tema selgeltnägijatest sõpru kividega surnuks loopida.",
+      "explanation": "Enamik ameeriklasi näeb Piiblis ülima autoriteedina, kuid see kuradi tüütu õigussüsteem takistab seda.",
+      "original_example": "Your honor, the Bible clearly says that psychics, wizards, and mediums are to be stoned to death and that it is our responsibility to do so (Leviticus 20:27).  Therefore, I had every right to try to stone Dianne Warwick, and her psychic friends, to death.",
+      "original_explanation": "Most Americans do see the Bible as the ultimate authority, but that darn, pesky legal system gets in the way."
+    }
+  ],
+  "translated_at": "2026-08-30T22:42:37.117Z"
+}

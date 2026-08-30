@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Spiritual-Fallacy",
+  "title": "Spiritual Fallacy",
+  "latin_name": "",
+  "also_known_as": [
+    "spiritual excuse"
+  ],
+  "description": "Insisting that something meant to be literal is actually “spiritual” as an explanation or justification for something that otherwise would not fit in an explanation.",
+  "logical_form": "X makes no sense; therefore, X was meant in a “spiritual” sense.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Of course, the Koran is not a history or science book, but each and every story in it does contain a spiritual truth.",
+      "explanation": "Because we cannot define or prove a “spiritual truth”, anything can be a spiritual truth."
+    },
+    {
+      "number": 2,
+      "example": "Harold Camping, the preacher who predicted the rapture in 2011, said that the rapture actually did come, but it was a \"spiritual\" rapture.  Of course, there is no way to demonstrate this.",
+      "explanation": "We can’t use “spiritual” as a get-out-of-jail-free card to cover up an apparent contradiction."
+    }
+  ],
+  "exceptions": "It is not a fallacy when it is specifically referred to as “spiritual”.\n\n“and drank the same spiritual drink; for they drank from the spiritual rock that accompanied them, and that rock was Christ.” (1 Cor 10:4)",
+  "tips": "Next time you get pulled over for speeding, tell the cop you were only “spiritually” speeding. See if that works.",
+  "references": [
+    "This is an original logical fallacy named by the author."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Spiritual_Fallacy.jpg",
+  "slug": "Spiritual-Fallacy",
+  "letter": "S",
+  "title_et": "Vaimne eksitus",
+  "description_et": "Nõuda, et midagi, mis on mõeldud olema sõnasõnaline, on tegelikult \"vaimne\" kui selgitus või õigustus millelegi, mis muidu ei sobiks selgitusse.",
+  "logical_form_et": "X-l pole mõtet; seetõttu mõeldi X-i \"vaimses\" tähenduses.",
+  "exceptions_et": "See ei ole eksitus, kui seda nimetatakse konkreetselt \"vaimseks\".\n\n\"ja jõid sedasama vaimset jooki, sest nad jõid neid saatnud vaimsest kaljust ja see kalju oli Kristus.\" (1Kr 10:4)",
+  "tips_et": "Järgmine kord, kui teid kiiruseületamise eest kõrvale tõmmatakse, öelge politseinikule, et ületasite kiirust ainult \"vaimselt\". Vaadake, kas see töötab.",
+  "also_known_as_et": [
+    "vaimne vabandus"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Muidugi ei ole Koraan ajaloo- ega teadusraamat, kuid iga selle lugu sisaldab vaimset tõde.",
+      "explanation": "Kuna me ei saa määratleda ega tõestada \"vaimset tõde\", võib kõik olla vaimne tõde.",
+      "original_example": "Of course, the Koran is not a history or science book, but each and every story in it does contain a spiritual truth.",
+      "original_explanation": "Because we cannot define or prove a “spiritual truth”, anything can be a spiritual truth."
+    },
+    {
+      "number": 2,
+      "example": "2011. aastal ülestõusmist ennustanud jutlustaja Harold Camping ütles, et ülestõusmine tuli tegelikult, kuid see oli \"vaimne\" ülesvõtmine.  Loomulikult ei saa seda kuidagi demonstreerida.",
+      "explanation": "Me ei saa kasutada \"vaimset\" kui vanglast vabanemise kaarti, et varjata ilmset vastuolu.",
+      "original_example": "Harold Camping, the preacher who predicted the rapture in 2011, said that the rapture actually did come, but it was a \"spiritual\" rapture.  Of course, there is no way to demonstrate this.",
+      "original_explanation": "We can’t use “spiritual” as a get-out-of-jail-free card to cover up an apparent contradiction."
+    }
+  ],
+  "translated_at": "2026-08-30T23:11:42.142Z"
+}

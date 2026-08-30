@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Missing-Data-Fallacy",
+  "title": "Missing Data Fallacy",
+  "latin_name": "",
+  "also_known_as": [
+    "missing information fallacy"
+  ],
+  "description": "",
+  "logical_form": "*Hypothesis H is put forward.*\n\n*Fatal Flaw F is pointed out.*\n\n*Rather than change the hypothesis to match the data, it is simply assumed that there must be data missing that will eliminate flaw F.*",
+  "examples": [
+    {
+      "number": 1,
+      "example": "*Jeremy: Drinking Diet Cosie Cola will result in the reversal of male-pattern baldness.*\n\n*Rick: This has never been established scientifically.*\n\n*Jeremy: That is because it must be mixed with another ingredient.*\n\n*Rick: Which is...?*\n\n*Jeremy: They haven’t found it yet.*",
+      "explanation": "Jeremy is assuming the theory is correct based on some unknown missing data (the secret ingredient), rather than admitting that the whole theory is invalid."
+    },
+    {
+      "number": 2,
+      "example": "*Gil: Scientists have no idea what the appendix is for because they refuse to accept that its function is the source of psychic powers in humans that we have forgotten how to use.*\n\n*John: Scientists actually now know that the appendix serves an important role in the fetus and in young adults.  This is well documented and empirically tested.*\n\n*Gil: This does not mean that it still is not the source of psychic powers—this just has not been tested yet.*",
+      "explanation": "In order to protect the hypothesis from error, it is assumed, without evidence that the answer does exist, but is beyond current scientific understanding."
+    }
+  ],
+  "exceptions": "When the data does exist, especially when it is empirically verified, but you just don't know what it is, it is acceptable to stick with your hypothesis and admit you don’t know the missing data off hand, but you can get it.  For example:\n\n*John: The Shroud of Turin was found many years back.  This is physical proof that Jesus existed.*\n\n*Gil: You know, John, there is plenty of evidence against the authenticity of this.*\n\n*John: Yeah? What specifically?*\n\n*Gil: I honestly don’t know the details off the top of my head, but I can e-mail you when I get home.*",
+  "tips": "Think of the *missing data fallacy* like having four cards of a royal flush and a seven of another suit. You don’t have a royal flush; in fact, you have an essentially worthless hand. The difference is, with a full deck of cards, we know that the card to complete the royal flush exists.",
+  "references": [
+    "This is an original logical fallacy named by the author."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Missing_Data_Fallacy.jpg",
+  "slug": "Missing-Data-Fallacy",
+  "letter": "M",
+  "title_et": "Puuduvad andmevead",
+  "description_et": "",
+  "logical_form_et": "* Esitatakse hüpotees H.*\n\n* Juhitakse tähelepanu saatuslikule veale F.*\n\n*Selle asemel, et muuta hüpoteesi andmetega vastavusse viimiseks, eeldatakse lihtsalt, et puuduvad andmed, mis kõrvaldavad vea F.*",
+  "exceptions_et": "Kui andmed on olemas, eriti kui need on empiiriliselt kontrollitud, kuid te lihtsalt ei tea, mis need on, on aktsepteeritav jääda oma hüpoteesile ja tunnistada, et te ei tea puuduvaid andmeid otsekohe, kuid saate need kätte.  Näiteks:\n\n*John: Torino surilina leiti palju aastaid tagasi.  See on füüsiline tõend Jeesuse olemasolust.*\n\n*Gil: Tead, John, selle autentsuse vastu on palju tõendeid.*\n\n*John: Jah? Mida täpsemalt?*\n\n*Gil: Ma ausalt öeldes ei tea üksikasju peast, aga võin teile koju jõudes meili saata.*",
+  "tips_et": "Mõelge *puuduvate andmete valele*, nagu neljale kuninglikule mastile ja seitsmele teisele mastile. Sul ei ole kuninglikku masti; tegelikult on sul sisuliselt väärtusetu käsi. Erinevus seisneb selles, et täis kaardipakiga teame, et kaart kuningliku masti saavutamiseks on olemas.",
+  "also_known_as_et": [
+    "puuduv info vale"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "*Jeremy: Dieet Cosie Cola joomine põhjustab meeste kiilaspäisuse pöördumise.*\n\n*Rick: Seda pole kunagi teaduslikult kindlaks tehtud.*\n\n*Jeremy: Sellepärast, et seda tuleb segada mõne muu koostisosaga.*\n\n*Rick: Mis on...?*\n\n*Jeremy: Nad pole seda veel leidnud.*",
+      "explanation": "Jeremy eeldab, et teooria on õige, tuginedes teadmata puuduvatele andmetele (salajane koostisosa), selle asemel, et tunnistada, et kogu teooria on kehtetu.",
+      "original_example": "*Jeremy: Drinking Diet Cosie Cola will result in the reversal of male-pattern baldness.*\n\n*Rick: This has never been established scientifically.*\n\n*Jeremy: That is because it must be mixed with another ingredient.*\n\n*Rick: Which is...?*\n\n*Jeremy: They haven’t found it yet.*",
+      "original_explanation": "Jeremy is assuming the theory is correct based on some unknown missing data (the secret ingredient), rather than admitting that the whole theory is invalid."
+    },
+    {
+      "number": 2,
+      "example": "*Gil: Teadlastel pole aimugi, milleks pimesool on mõeldud, sest nad keelduvad aktsepteerimast, et selle funktsioon on inimeste psüühiliste jõudude allikas, mida oleme unustanud kasutada.*\n\n*John: Teadlased teavad nüüd, et pimesool mängib lootel ja noortel täiskasvanutel olulist rolli.  See on hästi dokumenteeritud ja empiiriliselt testitud.*\n\n*Gil: See ei tähenda, et see pole ikka veel psüühiliste jõudude allikas – seda lihtsalt pole veel testitud.*",
+      "explanation": "Hüpoteesi kaitsmiseks vigade eest eeldatakse ilma tõenditeta, et vastus on olemas, kuid on väljaspool praegust teaduslikku arusaama.",
+      "original_example": "*Gil: Scientists have no idea what the appendix is for because they refuse to accept that its function is the source of psychic powers in humans that we have forgotten how to use.*\n\n*John: Scientists actually now know that the appendix serves an important role in the fetus and in young adults.  This is well documented and empirically tested.*\n\n*Gil: This does not mean that it still is not the source of psychic powers—this just has not been tested yet.*",
+      "original_explanation": "In order to protect the hypothesis from error, it is assumed, without evidence that the answer does exist, but is beyond current scientific understanding."
+    }
+  ],
+  "translated_at": "2026-08-30T23:00:06.389Z"
+}

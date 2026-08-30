@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Quantum-Physics-Fallacy",
+  "title": "Quantum Physics Fallacy",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Using quantum physics in an attempt to support your claim, when in no way is your claim related to quantum physics.  One can also use the weirdness of the principles of quantum physics to cast doubt on the well-established laws of the macro world.\n\nPerhaps the greatest mind in quantum physics, Richard Feynman, once said, “I think I can safely say that nobody understands quantum mechanics,” and he is probably right.  People recognize that this is perhaps the most bizarre, paradoxical, and incomprehensible area of study, that is also a respectable science.  So, if you can manage to connect the truth of your argument to quantum physics, it would be unlikely that there would be many people who know enough about quantum physics to assert that your connection is invalid. Thus your argument gains credibility out of ignorance.\n\nThe mysterious nature of quantum physics is a breeding ground for superstition, religious claims, “proof” of God, universal consciousness, and many other *[unfalsifiable](https://www.logicallyfallacious.com/logicalfallacies/Unfalsifiability)* claims.",
+  "logical_form": "Quantum physics supports the idea that X is Y.\n\nTherefore, X is Y.\n\n(although quantum physics supports no such thing)",
+  "examples": [
+    {
+      "number": 1,
+      "example": "Depook: Quantum physics provides evidence that a cosmic consciousness exists.\n\nSam: ???",
+      "explanation": "Sam knows nothing about quantum physics, so really cannot respond, yet Depook did not establish an argument as to how it provides evidence, he just made the assertion."
+    },
+    {
+      "number": 2,
+      "example": "Depook: Quantum physics is the language of God.  It has been shown that quantum particles contain information that can instantly communicate information over any distance, anywhere in or outside the universe.\n\nSam: ???",
+      "explanation": "Sam knows nothing about quantum physics, so really cannot respond.  Depook did expand on his assertion here, relied on the *[argument by gibberish](https://www.logicallyfallacious.com/logicalfallacies/Argument-by-Gibberish)* in order to make what sounded like scientific claims which, in fact, were not.  According to everything we know about quantum physics, information cannot travel faster than light -- otherwise, it could create a *time travel paradox*."
+    }
+  ],
+  "exceptions": "Making a scientific claim about quantum physics, using the scientific method, is not fallacious.",
+  "tips": "Pick up an introductory book on quantum physics, it is not only a fascinating subject, but you will be well prepared to ask the right questions and expose this fallacy when used.",
+  "references": [
+    "This is an original logical fallacy named by the author."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Quantum_Physics_Fallacy.jpg",
+  "slug": "Quantum-Physics-Fallacy",
+  "letter": "Q",
+  "title_et": "Kvantfüüsika eksitus",
+  "description_et": "Kvantfüüsika kasutamine teie väite toetamiseks, kui teie väide ei ole kuidagi seotud kvantfüüsikaga.  Samuti võib kasutada kvantfüüsika põhimõtete veidrust, et panna kahtluse alla makromaailma väljakujunenud seaduspärasused.\n\nVõib-olla kvantfüüsika suurim mõistus Richard Feynman ütles kord: \"Ma arvan, et võin julgelt öelda, et keegi ei mõista kvantmehaanikat,\" ja tal on ilmselt õigus.  Inimesed mõistavad, et see on võib-olla kõige veidram, paradoksaalsem ja arusaamatum uurimisvaldkond, mis on ka austusväärne teadus.  Seega, kui suudate oma väite tõesuse kvantfüüsikaga siduda, on ebatõenäoline, et oleks palju inimesi, kes teavad kvantfüüsikast piisavalt, et väita, et teie ühendus on kehtetu. Seega omandab teie argument teadmatusest usaldusväärsuse.\n\nKvantfüüsika salapärane olemus on kasvulava ebausule, religioossetele väidetele, Jumala \"tõestustele\", universaalsele teadvusele ja paljudele muudele *[falsifitseerimatule](https://www.logicallyfallacious.com/logicalfallacies/Unfalsifiability)* väidetele.",
+  "logical_form_et": "Kvantfüüsika toetab ideed, et X on Y.\n\nSeetõttu on X Y.\n\n(kuigi kvantfüüsika sellist asja ei toeta)",
+  "exceptions_et": "Teadusliku väite esitamine kvantfüüsika kohta, kasutades teaduslikku meetodit, ei ole ekslik.",
+  "tips_et": "Võtke kätte sissejuhatav raamat kvantfüüsika kohta, see pole mitte ainult põnev teema, vaid olete ka hästi ette valmistatud õigete küsimuste esitamiseks ja selle eksliku paljastamiseks.",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Depook: Kvantfüüsika annab tõendeid, et kosmiline teadvus on olemas.\n\nSam: ???",
+      "explanation": "Sam ei tea kvantfüüsikast midagi, nii et tegelikult ei saa vastata, kuid Depook ei esitanud argumenti selle kohta, kuidas see tõendeid annab, vaid ta lihtsalt väitis.",
+      "original_example": "Depook: Quantum physics provides evidence that a cosmic consciousness exists.\n\nSam: ???",
+      "original_explanation": "Sam knows nothing about quantum physics, so really cannot respond, yet Depook did not establish an argument as to how it provides evidence, he just made the assertion."
+    },
+    {
+      "number": 2,
+      "example": "Depook: Kvantfüüsika on Jumala keel.  On näidatud, et kvantosakesed sisaldavad teavet, mis suudab koheselt edastada teavet mis tahes vahemaa tagant, ükskõik kus universumis või väljaspool seda.\n\nSam: ???",
+      "explanation": "Sam ei tea kvantfüüsikast midagi, seega ei oska vastata.  Depook laiendas siin oma väidet, tuginedes *[julmerdamise argumendile](https://www.logicallyfallacious.com/logicalfallacies/Argument-by-Gibberish)*, et esitada teaduslikke väiteid, mis tegelikult seda polnud.  Vastavalt kõigele, mida me kvantfüüsikast teame, ei saa teave liikuda valgusest kiiremini – vastasel juhul võib see luua *ajas rändamise paradoksi*.",
+      "original_example": "Depook: Quantum physics is the language of God.  It has been shown that quantum particles contain information that can instantly communicate information over any distance, anywhere in or outside the universe.\n\nSam: ???",
+      "original_explanation": "Sam knows nothing about quantum physics, so really cannot respond.  Depook did expand on his assertion here, relied on the *[argument by gibberish](https://www.logicallyfallacious.com/logicalfallacies/Argument-by-Gibberish)* in order to make what sounded like scientific claims which, in fact, were not.  According to everything we know about quantum physics, information cannot travel faster than light -- otherwise, it could create a *time travel paradox*."
+    }
+  ],
+  "translated_at": "2026-08-30T23:06:38.691Z"
+}

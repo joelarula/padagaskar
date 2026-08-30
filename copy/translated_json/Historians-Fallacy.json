@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Historians-Fallacy",
+  "title": "Historian’s Fallacy",
+  "latin_name": "",
+  "also_known_as": [
+    "retrospective determinism",
+    "hindsight"
+  ],
+  "description": "Judging a person's decision in the light of new information not available at the time.",
+  "logical_form": "Claim X was made in the past.\n\nThose who made the claim did not take into consideration Y, which was not available to them at the time.\n\nTherefore, this was a foolish claim.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "You should have never taken the back roads to the concert.  If you had taken the main roads, you would not have been stuck in all that traffic due to the accident.",
+      "explanation": "“Thanks for that!” is the usual sarcastic response to this fallacy.  Of course, had we known about the accident, the main road would have been the better choice—but nobody could have reasonably predicted that accident.  It is fallacious, and somewhat pointless, to suggest that we “should have” taken the other way."
+    },
+    {
+      "number": 2,
+      "example": "Judas was an idiot to turn Jesus over to the authorities.  After all, he ended up committing suicide out of guilt.",
+      "explanation": "It is easy for us to blame Judas as people who know the whole story and how it played out.  We have information Judas did not have at the time.  Besides, if Judas never turned in Jesus, and Jesus was never killed, but died while walking on water as an old man after tripping over a wave, would Christianity exist?"
+    }
+  ],
+  "exceptions": "Sometimes, it’s funny to commit this fallacy on purpose at the expense of your friends’ dignity.\n\nHey, nice going on that decision to buy stock in the company that was shut down a week later by the FBI for the prostitution ring.  Do you have any stock tips for me?",
+  "tips": "Practice forgiveness. We all make mistakes, and most of us learn from our mistakes and become better people. Don’t be so quick to crucify someone for something they did in the past, especially if you are doing so to virtue signal.",
+  "references": [
+    "Arp, R. (2013). *1001 Ideas That Changed the Way We Think*. Simon and Schuster."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Historian___s_Fallacy.jpg",
+  "slug": "Historians-Fallacy",
+  "letter": "H",
+  "title_et": "Ajaloolase eksitus",
+  "description_et": "Inimese otsuse hindamine uue info valguses, mis sel hetkel ei olnud kättesaadav.",
+  "logical_form_et": "Väide X esitati minevikus.\n\nVäite esitajad ei võtnud arvesse Y-d, mis neil tol ajal ei olnud kättesaadav.\n\nSeetõttu oli see rumal väide.",
+  "exceptions_et": "Mõnikord on naljakas teha see eksitus tahtlikult oma sõprade väärikuse arvelt.\n\nHei, tore on otsus osta aktsiaid ettevõttes, mille FBI nädal hiljem prostitutsiooniringi tõttu sulges.  Kas teil on mulle aktsianäpunäiteid?",
+  "tips_et": "Harjutage andestust. Me kõik teeme vigu ja enamik meist õpib oma vigadest ja muutub paremaks inimeseks. Ärge kiirustage kedagi risti lööma millegi eest, mida ta minevikus tegi, eriti kui teete seda vooruslikkuse signaalina.",
+  "also_known_as_et": [
+    "retrospektiivne determinism",
+    "tagantjärele tarkus"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Kontserdile poleks pidanud kunagi mööda teed minema.  Kui oleksite sõitnud mööda peateed, poleks te õnnetuse tõttu kogu sellesse liiklusesse kinni jäänud.",
+      "explanation": "\"Aitäh selle eest!\" on tavaline sarkastiline vastus sellele ekslikkusele.  Muidugi, kui oleksime õnnetusest teadnud, oleks peatee olnud parem valik, kuid keegi poleks osanud seda õnnetust mõistlikult ennustada.  On ekslik ja mõneti mõttetu väita, et me oleksime pidanud valima teist teed.",
+      "original_example": "You should have never taken the back roads to the concert.  If you had taken the main roads, you would not have been stuck in all that traffic due to the accident.",
+      "original_explanation": "“Thanks for that!” is the usual sarcastic response to this fallacy.  Of course, had we known about the accident, the main road would have been the better choice—but nobody could have reasonably predicted that accident.  It is fallacious, and somewhat pointless, to suggest that we “should have” taken the other way."
+    },
+    {
+      "number": 2,
+      "example": "Juudas oli idioot, kes andis Jeesuse võimudele üle.  Lõppude lõpuks tegi ta süütundest enesetapu.",
+      "explanation": "Meil on lihtne süüdistada Juudat kui inimesi, kes teavad kogu lugu ja selle kulgu.  Meil on teavet, mida Juudasel tol ajal polnud.  Pealegi, kui Juudas ei pöörduks kunagi Jeesusesse ja Jeesust ei tapetakski, vaid ta suri vana mehena vee peal kõndides pärast laine otsa komistamist, kas siis oleks kristlus olemas?",
+      "original_example": "Judas was an idiot to turn Jesus over to the authorities.  After all, he ended up committing suicide out of guilt.",
+      "original_explanation": "It is easy for us to blame Judas as people who know the whole story and how it played out.  We have information Judas did not have at the time.  Besides, if Judas never turned in Jesus, and Jesus was never killed, but died while walking on water as an old man after tripping over a wave, would Christianity exist?"
+    }
+  ],
+  "translated_at": "2026-08-30T22:52:30.381Z"
+}

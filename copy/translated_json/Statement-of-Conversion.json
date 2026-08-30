@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Statement-of-Conversion",
+  "title": "Statement of Conversion",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Accepting the truth of a claim based on a conversion story without considering any evidence for the truth of the claim.",
+  "logical_form": "I used to believe in X.\n\nTherefore, X is wrong.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "I used to be a Christian, now I know better.",
+      "explanation": "All this tells us is that the arguer changed his mind.  We don’t know why. Accepting this as evidence against Christianity would be fallacious reasoning."
+    },
+    {
+      "number": 2,
+      "example": "There used to be a time when I didn’t believe, now I see the light and have accepted Jesus as my savior!",
+      "explanation": "All this tells us is that the arguer changed his mind.  We don’t know why.  Accepting this as evidence for Christianity would be fallacious reasoning."
+    }
+  ],
+  "exceptions": "It might be the case where the person with the conversion story has some expertise or direct experience related to the claim, so their conversion story is reasonable evidence for the truth of the claim.**\n**\n\n*I used to think that the earth was flat, then Elon Musk took me to the space station in one of his ships. I am no longer a flat-earther, and I can’t believe what an idiot I was listening to YouTube videos of 40-year-old guys living in their parent’s basement over NASA.***\n**",
+  "tips": "Remember not to confuse people’s interpretations of their experiences as actual experiences. People who were unbelievers in aliens visiting earth and changed their mind based on “aliens visiting them in their dreams” are almost certainly misinterpreting their experiences.",
+  "references": [
+    "This a logical fallacy frequently used on the Internet. No academic sources could be found."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Statement_of_Conversion.jpg",
+  "slug": "Statement-of-Conversion",
+  "letter": "S",
+  "title_et": "Ümberarvestusavaldus",
+  "description_et": "Konversioonilool põhineva väite tõesuse aktsepteerimine, arvestamata ühegi tõendiga väite õigsuse kohta.",
+  "logical_form_et": "Ma uskusin X-i.\n\nSeetõttu on X vale.",
+  "exceptions_et": "See võib juhtuda, kui isikul, kellel on konversioonilugu, on väitega seotud teadmised või vahetu kogemus, seega on tema teisenduslugu mõistlik tõend nõude õigsuse kohta.**\n**\n\n*Varem arvasin, et Maa on lapik, siis viis Elon Musk mind ühe oma laevaga kosmosejaama. Ma ei ole enam lame maa ja ma ei suuda uskuda, milline idioot ma kuulasin YouTube'i videoid 40-aastastest meestest, kes elasid NASA kohal vanemate keldris.***\n**",
+  "tips_et": "Ärge unustage, et te ei tohi segi ajada inimeste tõlgendusi oma kogemustest kui tegelikest kogemustest. Inimesed, kes ei uskunud Maad külastavate tulnukate suhtes ja muutsid oma meelt selle põhjal, et \"tulnukad külastasid neid unenägudes\", tõlgendavad peaaegu kindlasti oma kogemusi valesti.",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Varem olin kristlane, nüüd tean paremini.",
+      "explanation": "Kõik see ütleb meile, et vaidleja muutis meelt.  Me ei tea, miks. Selle aktsepteerimine tõendina kristluse vastu oleks ekslik arutluskäik.",
+      "original_example": "I used to be a Christian, now I know better.",
+      "original_explanation": "All this tells us is that the arguer changed his mind.  We don’t know why. Accepting this as evidence against Christianity would be fallacious reasoning."
+    },
+    {
+      "number": 2,
+      "example": "Kunagi oli aeg, mil ma ei uskunud, nüüd näen valgust ja olen Jeesuse oma päästjaks vastu võtnud!",
+      "explanation": "Kõik see ütleb meile, et vaidleja muutis meelt.  Me ei tea, miks.  Selle aktsepteerimine kristluse tõendina oleks ekslik arutluskäik.",
+      "original_example": "There used to be a time when I didn’t believe, now I see the light and have accepted Jesus as my savior!",
+      "original_explanation": "All this tells us is that the arguer changed his mind.  We don’t know why.  Accepting this as evidence for Christianity would be fallacious reasoning."
+    }
+  ],
+  "translated_at": "2026-08-30T23:12:07.471Z"
+}

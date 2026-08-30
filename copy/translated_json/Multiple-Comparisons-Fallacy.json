@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Multiple-Comparisons-Fallacy",
+  "title": "Multiple Comparisons Fallacy",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Claiming that unexpected trends that occur through random chance alone in a data set with a large number of variables are meaningful.\n\nIn inductive arguments, there is always a chance that the conclusion might be false, despite the truth of the premises. This is often referred to as “confidence level.” In any given study or poll, there is a confidence level of less than 100%. If a confidence level is 95%, then one out of 20 similar studies will have a false conclusion. If you make multiple comparisons (either in the same study or compare multiple studies), say 20 or more where there is a 95% confidence level, you are likely to get a false conclusion. This becomes a fallacy when that false conclusion is seen as significant rather than a statistical probability.\n\nThis fallacy can be overcome by proper testing techniques and procedures that are outside the scope of this book.",
+  "logical_form": "",
+  "examples": [
+    {
+      "number": 1,
+      "example": "100 independent studies were conducted comparing brain tumor rates of those who use cell phones to those who don’t.\n\n90 of the tests showed no significant difference in the rates.\n\n5 of the tests showed that cell phone users were more than twice as likely to develop tumors than those who don’t use cell phones.\n\n5 of the tests showed that cell phone users were half as likely to develop tumors than those who don’t use cell phones.\n\nFunTel Mobile’s new ad, “Studies show: Cell phone users are half as likely to develop brain tumors!”",
+      "explanation": "Because we did multiple tests, i.e., compared multiple groups, statistically we are likely to get results that fall within the acceptable margin of error.  These must be disregarded as anomalies or tested further, but not taken to be meaningful while ignoring the other results."
+    },
+    {
+      "number": 2,
+      "example": "In our study, we looked at 100 individuals who sang right before going to bed, and 100 individuals who did not sing.  Here is what we found: Over 90% of the individuals who sang slept on their backs, and just 10% slept on their stomachs or sides.  This is compared to 50% of those who did not sing, sleeping on their backs and 50% sleeping on their stomachs or sides.  Therefore, singing has something to do with sleeping position.",
+      "explanation": "What this study did not report, is that over 500 comparisons were done between the two groups, on everything from quality of sleep to what they ate for breakfast the next day.  Out of all the comparisons, most were meaningless, thus were discarded—but as expected via the law statistics and probability, there were some anomalies, the sleeping position being the most dramatic."
+    }
+  ],
+  "exceptions": "Only proper testing and accurate representation of the results would lead to non-fallacious conclusions.\n\n*Fun Fact:* In a group of 23 random people, it is more likely than not that at least two of the people in the group have the same birthday. This is referred to a the *birthday paradox* and it is a classic example of the *multiple comparisons fallacy*.",
+  "tips": "",
+  "references": [
+    "Walsh, J. (1996). *True Odds: How Risk Affects Your Everyday Life*. Silver Lake Publishing."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Multiple_Comparisons_Fallacy.jpg",
+  "slug": "Multiple-Comparisons-Fallacy",
+  "letter": "M",
+  "title_et": "Mitme võrdluse eksitus",
+  "description_et": "Väide, et ootamatud suundumused, mis ilmnevad suure hulga muutujatega andmekogumis ainult juhusliku juhuse tõttu, on tähendusrikkad.\n\nInduktiivsete argumentide puhul on alati võimalus, et järeldus võib olla vale, hoolimata eelduste tõest. Seda nimetatakse sageli \"usaldustasemeks\". Igas uuringus või küsitluses on usaldustase alla 100%. Kui usaldusnivoo on 95%, siis ühel 20-st sarnasest uuringust on vale järeldus. Kui teete mitu võrdlust (kas samas uuringus või võrdlete mitut uuringut), näiteks 20 või rohkem, kui usaldustase on 95%, saate tõenäoliselt vale järelduse. See muutub ekslikuks, kui seda vale järeldust peetakse oluliseks, mitte statistiliseks tõenäosuseks.\n\nSellest eksitusest saab üle õigete testimistehnikate ja protseduuridega, mis ei kuulu selle raamatu käsitlusalasse.",
+  "logical_form_et": "",
+  "exceptions_et": "Ainult nõuetekohane testimine ja tulemuste täpne esitamine viiks eksitavate järeldusteni.\n\n*Lõbus tõsiasi:* 23 juhuslikust inimesest koosnevas rühmas on tõenäolisem, et vähemalt kahel grupi inimesel on sama sünnipäev. Seda nimetatakse *sünnipäeva paradoksiks* ja see on klassikaline näide *mitme võrdluse valest*.",
+  "tips_et": "",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Viidi läbi 100 sõltumatut uuringut, milles võrreldi ajukasvajate esinemissagedust neil, kes kasutavad mobiiltelefone, nendega, kes seda ei kasuta.\n\n90 katset ei näidanud olulist erinevust määrades.\n\n5 testi näitasid, et mobiiltelefonide kasutajatel oli kasvajate tekke tõenäosus üle kahe korra suurem kui neil, kes mobiiltelefone ei kasuta.\n\n5 testi näitasid, et mobiiltelefonide kasutajatel oli poole suurem tõenäosus kasvajate tekkeks kui neil, kes mobiiltelefone ei kasuta.\n\nFunTel Mobile'i uus reklaam: \"Uuringud näitavad: mobiiltelefonide kasutajatel on ajukasvajate tekke tõenäosus poole väiksem!\"",
+      "explanation": "Kuna tegime mitu testi, st võrdlesime mitut rühma, saame statistiliselt tõenäoliselt tulemusi, mis jäävad vastuvõetava vea piiridesse.  Neid tuleb kõrvalekalletena arvesse võtta või neid tuleb täiendavalt testida, kuid neid ei tohi pidada tähenduslikeks, jättes tähelepanuta muid tulemusi.",
+      "original_example": "100 independent studies were conducted comparing brain tumor rates of those who use cell phones to those who don’t.\n\n90 of the tests showed no significant difference in the rates.\n\n5 of the tests showed that cell phone users were more than twice as likely to develop tumors than those who don’t use cell phones.\n\n5 of the tests showed that cell phone users were half as likely to develop tumors than those who don’t use cell phones.\n\nFunTel Mobile’s new ad, “Studies show: Cell phone users are half as likely to develop brain tumors!”",
+      "original_explanation": "Because we did multiple tests, i.e., compared multiple groups, statistically we are likely to get results that fall within the acceptable margin of error.  These must be disregarded as anomalies or tested further, but not taken to be meaningful while ignoring the other results."
+    },
+    {
+      "number": 2,
+      "example": "Meie uuringus vaatlesime 100 inimest, kes laulsid vahetult enne magamaminekut, ja 100 inimest, kes ei laulnud.  Leidsime järgmise: üle 90% inimestest, kes laulsid, magasid selili ja vaid 10% magasid kõhuli või külili.  Seda võrreldakse 50% inimestest, kes ei laulnud, magasid selili ja 50% magasid kõhuli või külili.  Seetõttu on laulmine kuidagi seotud magamisasendiga.",
+      "explanation": "Selles uuringus ei teatatud, et kahe rühma vahel tehti üle 500 võrdluse, alates une kvaliteedist kuni selle, mida nad järgmisel päeval hommikusöögiks sõid.  Kõigist võrdlustest olid enamik mõttetud, seega jäeti kõrvale – kuid nagu seadusestatistika ja tõenäosuse põhjal eeldati, esines mõningaid kõrvalekaldeid, kõige dramaatilisem oli magamisasend.",
+      "original_example": "In our study, we looked at 100 individuals who sang right before going to bed, and 100 individuals who did not sing.  Here is what we found: Over 90% of the individuals who sang slept on their backs, and just 10% slept on their stomachs or sides.  This is compared to 50% of those who did not sing, sleeping on their backs and 50% sleeping on their stomachs or sides.  Therefore, singing has something to do with sleeping position.",
+      "original_explanation": "What this study did not report, is that over 500 comparisons were done between the two groups, on everything from quality of sleep to what they ate for breakfast the next day.  Out of all the comparisons, most were meaningless, thus were discarded—but as expected via the law statistics and probability, there were some anomalies, the sleeping position being the most dramatic."
+    }
+  ],
+  "translated_at": "2026-08-30T23:01:08.706Z"
+}

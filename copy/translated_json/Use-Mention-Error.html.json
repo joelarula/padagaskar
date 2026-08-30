@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Use-Mention-Error.html",
+  "title": "Use-Mention Error",
+  "latin_name": "",
+  "also_known_as": [
+    "UME"
+  ],
+  "description": "Confusing the word used to describe a thing, with the thing itself.  To avoid this error, it is customary to put the word used to describe the thing in quotes.\n\nThis fallacy is most common when used as an *[equivocation](https://www.logicallyfallacious.com/logicalfallacies/Equivocation)*.",
+  "logical_form": "“X” is the same as X.",
+  "examples": [
+    {
+      "number": 1,
+      "example": "My son is made up of five letters.\n\n**Example #2:**\n\nTyrone: I am a sophisticated word genius.\nSuzie: Prove it. Define some.\nTyrone: An unspecified amount or number of. Proven!\n\n**Example #3: **Many podcast hosts, journalists, and other public figures who discuss issues of race have got themselves in serious trouble by reporting on people who use the “N-word,” by actually using the word themselves (I won’t use it here because I don’t want to be one of those casualties). This is because a small, but vocal, group view the mention of the word as nefarious as the use of the word, when the two are substantially different.",
+      "explanation": "Suzie meant to “define some words” but Tyrone defined the word “some.” Tyrone thinks he won the exchange but he did not really define any sophisticated words."
+    }
+  ],
+  "exceptions": "When this “fallacy” is used in humor and riddles.\n\n**Fun Fact:** What part of London is in France? The letter “n.”\n\n**Explanation:** The words (mention), “my son”, are made up of five letters.  My son (use) is made up of molecules.",
+  "tips": "",
+  "references": [
+    "Azzouni, J. (2010). *Talking About Nothing: Numbers, Hallucinations and Fictions*. Oxford University Press."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Use_Mention_Error.jpg",
+  "slug": "Use-Mention-Error.html",
+  "letter": "U",
+  "title_et": "Kasutamise-mainimise viga",
+  "description_et": "Asja kirjeldamiseks kasutatava sõna segi ajamine asja endaga.  Selle vea vältimiseks on tavaks panna asja kirjeldamiseks kasutatud sõna jutumärkidesse.\n\nSee eksitus on kõige levinum, kui seda kasutatakse *[ebamärgina](https://www.logicallyfallacious.com/logicalfallacies/Equivocation)*.",
+  "logical_form_et": "\"X\" on sama mis X.",
+  "exceptions_et": "Kui seda \"eksimust\" kasutatakse huumoris ja mõistatustes.\n\n**Lõbus fakt:** Mis osa Londonist asub Prantsusmaal? Täht \"n\".\n\n**Selgitus:** sõnad (maini), „minu poeg”, koosnevad viiest tähest.  Minu poeg (kasutus) koosneb molekulidest.",
+  "tips_et": "",
+  "also_known_as_et": [
+    "UME"
+  ],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "Mu poeg koosneb viiest tähest.\n\n**Näide #2:**\n\nTyrone: Olen kogenud sõnageenius.\nSuzie: Tõesta seda. Määratlege mõned.\nTyrone: määramata kogus või arv. Tõestatud!\n\n**Näide nr 3: **Paljud taskuhäälingusaadete saatejuhid, ajakirjanikud ja teised avaliku elu tegelased, kes arutlevad rassiküsimuste üle, on sattunud tõsistesse probleemidesse, kirjutades inimestest, kes kasutavad N-sõna, kasutades seda sõna ka ise (ma ei kasuta seda siin, sest ma ei taha olla üks neist ohvritest). Selle põhjuseks on asjaolu, et väike, kuid häälekas rühm peab selle sõna mainimist sama alatuks kui selle sõna kasutamist, kui need kaks on oluliselt erinevad.",
+      "explanation": "Suzie tahtis \"määratleda mõned sõnad\", kuid Tyrone määratles sõna \"mõned\". Tyrone arvab, et ta võitis vahetuse, kuid ta ei defineerinud ühtegi keerukat sõna.",
+      "original_example": "My son is made up of five letters.\n\n**Example #2:**\n\nTyrone: I am a sophisticated word genius.\nSuzie: Prove it. Define some.\nTyrone: An unspecified amount or number of. Proven!\n\n**Example #3: **Many podcast hosts, journalists, and other public figures who discuss issues of race have got themselves in serious trouble by reporting on people who use the “N-word,” by actually using the word themselves (I won’t use it here because I don’t want to be one of those casualties). This is because a small, but vocal, group view the mention of the word as nefarious as the use of the word, when the two are substantially different.",
+      "original_explanation": "Suzie meant to “define some words” but Tyrone defined the word “some.” Tyrone thinks he won the exchange but he did not really define any sophisticated words."
+    }
+  ],
+  "translated_at": "2026-08-30T23:16:18.438Z"
+}

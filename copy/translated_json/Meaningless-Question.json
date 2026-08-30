@@ -1,0 +1,63 @@
+{
+  "source_url": "https://www.logicallyfallacious.com/logicalfallacies/Meaningless-Question",
+  "title": "Meaningless Question",
+  "latin_name": "",
+  "also_known_as": [],
+  "description": "Asking a question that cannot be answered with any sort of rational meaning. This is the textual equivalent of dividing by zero.",
+  "logical_form": "*Question asked.*\n*Question is meaningless.*",
+  "examples": [
+    {
+      "number": 1,
+      "example": "*What’s north of the North Pole?*",
+      "explanation": "The North Pole is the most northern point of the space in which we measure direction using the north, south, east, and west coordinates. “North” of the North Pole is meaningless."
+    },
+    {
+      "number": 2,
+      "example": "*What happened before time?*",
+      "explanation": "“Before” is a term related to a place in time. Without time, this concept is meaningless."
+    },
+    {
+      "number": 3,
+      "example": "*How many angels can you fit on a head of a pin?*",
+      "explanation": "Angels are said to be ghost-like in that they don’t take up space. “Fit” is a word that refers to space. The question is meaningless.\n\n**Fun Fact:** The answers to our three meaningless questions are 1) Northness, 2) space and energy had sex, and 3) the answer depends on if Heaven has Krispy Kreme doughnut shops or not."
+    }
+  ],
+  "exceptions": "",
+  "tips": "",
+  "references": [
+    "Yngve, V., & Wasik, Z. (2006). *Hard-Science Linguistics*. A&C Black."
+  ],
+  "image_url": "https://www.logicallyfallacious.com/static/fallacy-images/Meaningless_Question.jpg",
+  "slug": "Meaningless-Question",
+  "letter": "M",
+  "title_et": "Mõttetu küsimus",
+  "description_et": "Küsimuse esitamine, millele ei saa vastata mingisuguse ratsionaalse tähendusega. See on nulliga jagamise tekstiline ekvivalent.",
+  "logical_form_et": "*Küsimus.*\n*Küsimus on mõttetu.*",
+  "exceptions_et": "",
+  "tips_et": "",
+  "also_known_as_et": [],
+  "examples_et": [
+    {
+      "number": 1,
+      "example": "*Mis on põhjapoolusest põhja pool?*",
+      "explanation": "Põhjapoolus on ruumi kõige põhjapoolsem punkt, kus me mõõdame suunda põhja-, lõuna-, ida- ja läänekoordinaatide abil. \"Põhjapooluse põhjaosa\" on mõttetu.",
+      "original_example": "*What’s north of the North Pole?*",
+      "original_explanation": "The North Pole is the most northern point of the space in which we measure direction using the north, south, east, and west coordinates. “North” of the North Pole is meaningless."
+    },
+    {
+      "number": 2,
+      "example": "*Mis juhtus enne aega?*",
+      "explanation": "“Enne” on termin, mis on seotud ajakohaga. Ilma ajata on see mõiste mõttetu.",
+      "original_example": "*What happened before time?*",
+      "original_explanation": "“Before” is a term related to a place in time. Without time, this concept is meaningless."
+    },
+    {
+      "number": 3,
+      "example": "*Mitu inglit mahub ühele nõelapeale?*",
+      "explanation": "Inglid on väidetavalt kummituslikud, kuna nad ei võta ruumi. \"Sobiv\" on sõna, mis viitab ruumile. Küsimus on mõttetu.\n\n**Lõbus fakt:** Vastused meie kolmele mõttetule küsimusele on 1) põhjalikkus, 2) ruumi ja energia seksimine ning 3) vastus sõltub sellest, kas taevas on Krispy Kreme sõõrikupoed või mitte.",
+      "original_example": "*How many angels can you fit on a head of a pin?*",
+      "original_explanation": "Angels are said to be ghost-like in that they don’t take up space. “Fit” is a word that refers to space. The question is meaningless.\n\n**Fun Fact:** The answers to our three meaningless questions are 1) Northness, 2) space and energy had sex, and 3) the answer depends on if Heaven has Krispy Kreme doughnut shops or not."
+    }
+  ],
+  "translated_at": "2026-08-30T22:59:37.527Z"
+}
